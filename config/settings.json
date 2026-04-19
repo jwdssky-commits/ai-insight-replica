@@ -1,0 +1,34 @@
+{
+    "project_name": "AI手札",
+    "focus_topics": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型"],
+    "language": "zh-CN",
+    "schedule": "08:00",
+    "model": "MiniMax-M2.7",
+    "max_retries": 3,
+    "news_collection": {
+        "max_items_per_source": 10,
+        "lookback_hours": 28,
+        "timeout_seconds": 30,
+        "min_total_items": 5,
+        "max_total_items": 80
+    },
+    "quality_gate": {
+        "min_word_count": 200,
+        "required_fields": ["title", "date", "summary", "tags", "boards"],
+        "allowed_tags": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型", "模型发布", "产品发布", "融资", "开源", "安全", "评测", "Agent", "芯片", "机器人", "热点"],
+        "require_source_urls": true,
+        "valid_board_ids": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型"]
+    },
+    "deploy": {
+        "repo_dir": "./",
+        "public_dir": "public",
+        "branch": "main",
+        "auto_push": true
+    },
+    "paths": {
+        "data_dir": "data/daily-workflow",
+        "flags_dir": "data/flags",
+        "templates_dir": "templates",
+        "public_dir": "public"
+    }
+}

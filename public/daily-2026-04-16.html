@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · OpenClaw Mission Control v2.0 发布 / Hermes 微调指南更新</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; padding-left: 20px; }
+.postit-body li { margin-bottom: 4px; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-04-16 · AI手札第51天</div>
+        <h1 class="report-title">OpenClaw Mission Control v2.0 发布 / Hermes 微调指南更新</h1>
+    </div>
+
+    <div class="postit-box blue">
+        <div class="postit-title">🦞 OpenClaw 今日要点</div>
+        <ul class="postit-body">
+            <li>Mission Control v2.0 正式发布：全新拖拽式 Agent 编排界面</li>
+            <li>支持多 Agent 协作工作流可视化和实时日志监控</li>
+            <li>一键部署功能大幅降低技术门槛</li>
+        </ul>
+    </div>
+
+    <div class="postit-box green">
+        <div class="postit-title">🧠 Hermes 今日要点</div>
+        <ul class="postit-body">
+            <li>Nous Research 更新 Hermes 系列 LoRA 微调最佳实践指南</li>
+            <li>新增针对医疗、法律、金融三大领域的微调参数推荐</li>
+            <li>推荐使用 4-bit QLoRA 在消费级 GPU 上进行高效微调</li>
+        </ul>
+    </div>
+
+    <div class="report-section">
+        <div class="report-section-badge">📰 新闻</div>
+        <h3 class="report-section-title">Mission Control v2.0：重新定义 Agent 编排体验</h3>
+        <div class="report-section-body">
+            <p>OpenClaw 团队今日正式发布 Mission Control v2.0，这是其 Agent 编排仪表盘的一次重大升级。全新版本引入了拖拽式工作流编辑器，用户可以通过可视化方式将多个 Agent 串联成复杂的协作工作流。</p>
+            <p>v2.0 的核心亮点包括：实时日志监控面板（支持按 Agent 筛选和时间线回放）、一键部署功能（支持 Docker 和 Kubernetes 两种部署方式）、以及全新的权限管理系统（可以为不同 Agent 设置资源访问权限）。</p>
+            <p>Peter Steinberger 在发布博客中表示："Mission Control v2.0 的目标是让任何人都能编排复杂的 AI Agent 工作流，即使他们不会写代码。" 内测数据显示，v2.0 将用户从零开始部署一个多 Agent 工作流的时间从平均 4 小时缩短到了 20 分钟。</p>
+        </div>
+    </div>
+
+    <div class="report-section">
+        <div class="report-section-badge">🔬 分析</div>
+        <h3 class="report-section-title">Hermes LoRA 微调指南更新详解</h3>
+        <div class="report-section-body">
+            <p>Nous Research 同步更新了 Hermes 系列模型的 LoRA 微调最佳实践指南。此次更新最大的亮点是新增了三个垂直领域的参数推荐：医疗对话、法律文书和金融分析。</p>
+            <p>指南建议在消费级 GPU（如 RTX 4090 24GB）上使用 4-bit QLoRA 进行微调，对于 Hermes-4-14B 模型只需约 16GB 显存。关键超参数推荐：LoRA rank=64, alpha=128, learning rate=2e-4, batch size=4, gradient accumulation=8。</p>
+            <p>特别值得注意的是，指南首次公开了 Hermes 系列在训练时使用的特殊 chat template 格式，包括 <|im_start|>system/user/assistant 标记和工具调用的 JSON 格式规范。这意味着社区开发者在微调时可以更精确地对齐原始训练数据分布。</p>
+        </div>
+    </div>
+
+    <div class="report-section">
+        <div class="report-section-badge">⚔️ 对比</div>
+        <h3 class="report-section-title">Agent 编排工具横评：Mission Control vs AutoGen vs CrewAI</h3>
+        <div class="report-section-body">
+            <p>随着 Mission Control v2.0 的发布，我们对当前三大 Agent 编排框架进行了快速对比：</p>
+            <p>部署复杂度: Mission Control（低，一键 Docker）> CrewAI（中等）> AutoGen（较高，需要配置）</p>
+            <p>可视化能力: Mission Control（完整仪表盘）> CrewAI（基础日志）> AutoGen（命令行为主）</p>
+            <p>模型兼容性: AutoGen（最广泛）> Mission Control（OpenClaw 生态优先）> CrewAI（OpenAI 优先）</p>
+            <p>Mission Control 的差异化优势在于其与 OpenClaw 技能生态的深度整合——560+ 预置技能可以直接在编排界面中拖拽使用，这是其他框架无法匹敌的。</p>
+        </div>
+    </div>
+
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>

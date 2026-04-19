@@ -1,0 +1,43 @@
+name: daily-update
+on:
+  schedule:
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '目标日期 (YYYY-MM-DD)'
+        required: false
+        default: ''
+
+jobs:
+  generate-daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install openai
+
+      - name: Run orchestrator
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE="${{ github.event.inputs.date }}"
+          if [ -z "$DATE" ]; then
+            DATE=$(date +%Y-%m-%d)
+          fi
+          python scripts/orchestrator.py --date "$DATE"
+
+      - name: Commit and push
+        run: |
+          git config user.name "AI手札 Bot"
+          git config user.email "bot@ai-shouzha.github.io"
+          git add -A
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "daily: $(date +%Y-%m-%d) auto-update"
+          git push

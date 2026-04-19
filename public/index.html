@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 手札 — AI 全景追踪与洞察</title>
+<meta name="description" content="手绘风格的AI全景追踪平台，聚焦大模型、AI Coding、AI应用、行业动态与企业转型，每日真实新闻分析与深度洞察">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   AI 手札 Design System — Hand-Drawn Style v1.0
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+    --bg: #fdfbf7;
+    --fg: #2d2d2d;
+    --muted: #e5e0d8;
+    --accent: #ff4d4d;
+    --border: #2d2d2d;
+    --blue: #2d5da1;
+    --paper-white: #ffffff;
+    --postit-yellow: #fff9c4;
+    --postit-green: #e8f5e9;
+    --postit-blue: #e3f2fd;
+    --postit-pink: #fce4ec;
+    --shadow-sm: 3px 3px 0px 0px rgba(45,45,45,0.12);
+    --shadow-md: 4px 4px 0px 0px #2d2d2d;
+    --shadow-lg: 8px 8px 0px 0px #2d2d2d;
+    --shadow-hover: 6px 6px 0px 0px #2d2d2d;
+    --radius-wobbly: 255px 15px 225px 15px / 15px 225px 15px 255px;
+    --radius-wobbly-md: 15px 225px 15px 255px / 255px 15px 225px 15px;
+    --radius-wobbly-sm: 30px 4px 28px 4px / 4px 28px 4px 30px;
+    --radius-wobbly-card: 12px 185px 12px 185px / 185px 12px 185px 12px;
+    --radius-wobbly-btn: 255px 25px 225px 25px / 25px 225px 25px 255px;
+    --radius-wobbly-tag: 50px 10px 50px 10px / 10px 50px 10px 50px;
+    --font-heading: 'Kalam', 'Noto Sans SC', cursive;
+    --font-body: 'Patrick Hand', 'Noto Sans SC', cursive;
+    --font-zh: 'Noto Sans SC', -apple-system, sans-serif;
+    --space-xs: 4px; --space-sm: 8px; --space-md: 16px;
+    --space-lg: 24px; --space-xl: 40px; --space-2xl: 64px;
+    --max-width: 1000px;
+}
+
+body {
+    font-family: var(--font-body); color: var(--fg); background-color: var(--bg);
+    background-image: radial-gradient(var(--muted) 1px, transparent 1px);
+    background-size: 24px 24px; line-height: 1.6;
+    -webkit-font-smoothing: antialiased; overflow-x: hidden;
+}
+
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 var(--space-lg); }
+
+/* === HERO === */
+.hero { text-align: center; padding: var(--space-2xl) 0 var(--space-xl); position: relative; }
+.hero-title { font-family: var(--font-heading); font-size: clamp(2.5rem, 6vw, 3.8rem); font-weight: 700; line-height: 1.2; margin-bottom: var(--space-md); }
+.hero-title .accent-word { color: var(--accent); display: inline-block; transform: rotate(-2deg); position: relative; }
+.hero-title .accent-word::after { content: ''; position: absolute; bottom: 2px; left: -4px; right: -4px; height: 8px; background: var(--postit-yellow); z-index: -1; transform: rotate(1deg); }
+.hero-subtitle { font-family: var(--font-zh); font-size: clamp(1rem, 2.5vw, 1.25rem); opacity: 0.7; max-width: 600px; margin: 0 auto var(--space-lg); }
+.hero-deco-circle { display: none; }
+@media (min-width: 768px) {
+    .hero-deco-circle { display: block; position: absolute; left: 5%; top: 20%; width: 60px; height: 60px; border: 3px dashed var(--accent); border-radius: 50%; animation: gentle-bounce 3s ease-in-out infinite; opacity: 0.25; }
+    .hero-arrow { display: block; }
+}
+.hero-arrow { display: none; position: absolute; right: 8%; top: 30%; transform: rotate(15deg); opacity: 0.3; }
+@keyframes gentle-bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+
+/* === STATS === */
+.stats-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--space-md); margin-bottom: var(--space-xl); }
+@media (min-width: 768px) { .stats-grid { grid-template-columns: repeat(4, 1fr); } }
+.stat-card { background: var(--paper-white); border: 3px solid var(--border); border-radius: var(--radius-wobbly-sm); padding: var(--space-lg) var(--space-md); text-align: center; box-shadow: var(--shadow-sm); transition: transform 100ms; }
+.stat-card:nth-child(odd) { transform: rotate(-1deg); }
+.stat-card:nth-child(even) { transform: rotate(0.8deg); }
+.stat-card:hover { transform: rotate(0deg) scale(1.03); }
+.stat-number { font-family: var(--font-heading); font-size: 2.2rem; font-weight: 700; line-height: 1; margin-bottom: var(--space-xs); }
+.stat-number.green { color: #059669; } .stat-number.blue { color: var(--blue); }
+.stat-number.red { color: var(--accent); } .stat-number.orange { color: #d97706; }
+.stat-label { font-family: var(--font-zh); font-size: 0.85rem; opacity: 0.65; }
+
+/* === TABS === */
+.tab-nav { display: flex; gap: var(--space-sm); position: sticky; top: 12px; z-index: 100; background: rgba(253,251,247,0.85); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: var(--space-sm); border: 2px solid var(--border); border-radius: var(--radius-wobbly-btn); box-shadow: var(--shadow-sm); margin-bottom: var(--space-xl); overflow-x: auto; scrollbar-width: none; }
+.tab-nav::-webkit-scrollbar { display: none; }
+.tab-btn { flex: 1; min-width: 0; background: transparent; border: 2px solid transparent; border-radius: var(--radius-wobbly-tag); padding: var(--space-sm) var(--space-md); cursor: pointer; font-family: var(--font-zh); font-size: 0.9rem; font-weight: 500; color: var(--fg); white-space: nowrap; transition: all 120ms; display: flex; align-items: center; justify-content: center; gap: 6px; }
+.tab-btn:hover { background: var(--muted); transform: rotate(-1deg); }
+.tab-btn.active { background: var(--fg); color: var(--bg); border-color: var(--fg); box-shadow: 2px 2px 0px 0px var(--accent); }
+.tab-btn-icon { font-size: 1.1rem; }
+.tab-btn-text { display: none; }
+@media (min-width: 600px) { .tab-btn-text { display: inline; } }
+.tab-panel { display: none; } .tab-panel.active { display: block; }
+
+/* === SECTIONS === */
+.section { margin-bottom: var(--space-2xl); }
+.section-header { display: flex; align-items: center; gap: var(--space-md); margin-bottom: var(--space-lg); }
+.section-icon { font-size: 2rem; width: 56px; height: 56px; display: flex; align-items: center; justify-content: center; border: 3px solid var(--border); border-radius: 50% 45% 55% 48%; background: var(--postit-yellow); box-shadow: var(--shadow-sm); flex-shrink: 0; }
+.section-title { font-family: var(--font-heading); font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 700; }
+.section-desc { font-family: var(--font-zh); font-size: 0.9rem; opacity: 0.6; margin-top: 2px; }
+
+/* === DAILY CARDS === */
+.daily-list { display: flex; flex-direction: column; gap: var(--space-md); }
+.daily-card { background: var(--paper-white); border: 2px solid var(--border); border-radius: var(--radius-wobbly-card); padding: var(--space-lg); box-shadow: var(--shadow-sm); transition: transform 100ms, box-shadow 100ms; position: relative; cursor: pointer; text-decoration: none; display: block; color: inherit; }
+.daily-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px) rotate(-0.3deg); }
+.daily-card .tape { position: absolute; top: -8px; left: 50%; transform: translateX(-50%) rotate(-2deg); width: 80px; height: 20px; background: rgba(200,200,180,0.45); border-radius: 2px; z-index: 2; }
+.daily-card-date { font-family: var(--font-heading); font-size: 0.85rem; color: var(--accent); margin-bottom: var(--space-sm); }
+.daily-card-title { font-family: var(--font-heading); font-size: 1.25rem; font-weight: 700; margin-bottom: var(--space-sm); line-height: 1.3; }
+.daily-card-summary { font-family: var(--font-zh); font-size: 0.92rem; line-height: 1.7; opacity: 0.8; }
+.daily-card-tags { display: flex; flex-wrap: wrap; gap: var(--space-sm); margin-top: var(--space-md); }
+.tag { font-family: var(--font-body); font-size: 0.78rem; padding: 2px 12px; border: 2px solid var(--border); border-radius: var(--radius-wobbly-tag); background: var(--bg); }
+.tag.hermes { background: var(--postit-green); } .tag.openclaw { background: var(--postit-blue); }
+.tag.industry { background: var(--postit-yellow); } .tag.hot { background: var(--postit-pink); border-color: var(--accent); color: var(--accent); }
+
+/* === CALENDAR === */
+.calendar-wrap { background: var(--paper-white); border: 3px solid var(--border); border-radius: var(--radius-wobbly-md); padding: var(--space-lg); box-shadow: var(--shadow-sm); margin-top: var(--space-lg); }
+.calendar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: var(--space-md); }
+.calendar-title { font-family: var(--font-heading); font-size: 1.2rem; font-weight: 700; }
+.cal-nav-btn { background: var(--bg); border: 2px solid var(--border); border-radius: var(--radius-wobbly-tag); padding: 4px 14px; cursor: pointer; font-family: var(--font-body); font-size: 1rem; box-shadow: 2px 2px 0 0 rgba(45,45,45,0.15); transition: all 100ms; }
+.cal-nav-btn:hover { background: var(--muted); transform: translateY(1px); box-shadow: 1px 1px 0 0 rgba(45,45,45,0.15); }
+.calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
+.cal-day-label { font-family: var(--font-heading); font-size: 0.75rem; text-align: center; padding: 4px 0; opacity: 0.5; }
+.cal-day { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; font-family: var(--font-heading); font-size: 0.85rem; border-radius: 50% 45% 55% 48%; cursor: default; transition: all 100ms; }
+.cal-day.empty { visibility: hidden; }
+.cal-day.has-report { background: var(--postit-green); border: 2px solid #059669; cursor: pointer; font-weight: 700; }
+.cal-day.has-report:hover { transform: scale(1.15) rotate(3deg); box-shadow: 2px 2px 0 0 #059669; }
+.cal-day.today { background: var(--accent); color: white; border: 2px solid var(--accent); font-weight: 700; }
+.cal-day.weekly { background: var(--postit-blue); border: 2px solid var(--blue); }
+.cal-legend { display: flex; gap: var(--space-md); margin-top: var(--space-md); flex-wrap: wrap; }
+.cal-legend-item { display: flex; align-items: center; gap: 6px; font-family: var(--font-zh); font-size: 0.78rem; opacity: 0.65; }
+.cal-legend-dot { width: 12px; height: 12px; border-radius: 50% 45% 55% 48%; border: 2px solid; }
+.cal-legend-dot.daily { background: var(--postit-green); border-color: #059669; }
+.cal-legend-dot.weekly { background: var(--postit-blue); border-color: var(--blue); }
+.cal-legend-dot.today-dot { background: var(--accent); border-color: var(--accent); }
+
+/* === TIMELINE === */
+.timeline { position: relative; padding-left: 32px; }
+.timeline::before { content: ''; position: absolute; left: 11px; top: 0; bottom: 0; width: 3px; border-left: 3px dashed var(--muted); }
+.timeline-item { position: relative; margin-bottom: var(--space-lg); }
+.timeline-dot { position: absolute; left: -32px; top: 6px; width: 20px; height: 20px; background: var(--paper-white); border: 3px solid var(--accent); border-radius: 50% 40% 55% 45%; z-index: 2; }
+.timeline-dot.hermes-dot { border-color: #059669; background: var(--postit-green); }
+.timeline-dot.openclaw-dot { border-color: var(--blue); background: var(--postit-blue); }
+.timeline-card { display: block; background: var(--paper-white); border: 2px solid var(--border); border-radius: var(--radius-wobbly-card); padding: var(--space-lg); box-shadow: var(--shadow-sm); transition: transform 100ms, box-shadow 100ms; text-decoration: none; color: inherit; }
+.timeline-card:hover { box-shadow: var(--shadow-hover); transform: rotate(-0.5deg); }
+a.timeline-card:visited { color: inherit; }
+.coming-soon { opacity: 0.5; pointer-events: none; }
+.coming-soon .timeline-card::after { content: '即将推出'; font-family: var(--font-heading); font-size: 0.75rem; position: absolute; top: 8px; right: 12px; background: var(--muted); padding: 2px 8px; border-radius: var(--radius-wobbly-tag); border: 1.5px solid var(--border); }
+.coming-soon .timeline-card { position: relative; }
+.timeline-date { font-family: var(--font-heading); font-size: 0.8rem; color: var(--accent); margin-bottom: var(--space-xs); }
+.timeline-title { font-family: var(--font-heading); font-size: 1.15rem; font-weight: 700; margin-bottom: var(--space-sm); }
+.timeline-body { font-family: var(--font-zh); font-size: 0.9rem; line-height: 1.7; opacity: 0.8; }
+.filter-legend { display: flex; flex-wrap: wrap; gap: var(--space-sm); margin-bottom: var(--space-lg); }
+.filter-btn { font-family: var(--font-body); font-size: 0.85rem; padding: 4px 16px; border: 2px solid var(--border); border-radius: var(--radius-wobbly-tag); background: var(--paper-white); cursor: pointer; box-shadow: 2px 2px 0 0 rgba(45,45,45,0.1); transition: all 100ms; }
+.filter-btn:hover { transform: rotate(-1deg); background: var(--muted); }
+.filter-btn.active { background: var(--fg); color: var(--bg); box-shadow: var(--shadow-sm); }
+
+/* === TRACKING ACCORDION === */
+.category-section { margin-bottom: var(--space-md); }
+.collapsible-header { display: flex; align-items: center; justify-content: space-between; background: var(--paper-white); border: 3px solid var(--border); border-radius: var(--radius-wobbly-sm); padding: var(--space-md) var(--space-lg); cursor: pointer; box-shadow: var(--shadow-sm); transition: all 120ms; user-select: none; }
+.collapsible-header:hover { transform: rotate(-0.3deg); box-shadow: var(--shadow-md); }
+.collapsible-header.active { background: var(--fg); color: var(--bg); box-shadow: var(--shadow-md); border-bottom-left-radius: 4px; border-bottom-right-radius: 4px; }
+.collapsible-left { display: flex; align-items: center; gap: var(--space-sm); }
+.collapsible-emoji { font-size: 1.3rem; }
+.collapsible-title { font-family: var(--font-heading); font-size: 1.1rem; font-weight: 700; }
+.collapsible-count { font-family: var(--font-body); font-size: 0.8rem; padding: 1px 10px; border: 2px solid currentColor; border-radius: var(--radius-wobbly-tag); opacity: 0.7; }
+.collapsible-icon { font-size: 0.9rem; transition: transform 200ms; }
+.collapsible-header.active .collapsible-icon { transform: rotate(180deg); }
+.collapsible-content { max-height: 0; overflow: hidden; transition: max-height 300ms ease; border: 2px solid var(--border); border-top: none; border-radius: 0 0 12px 12px; background: var(--paper-white); }
+.collapsible-content.active { max-height: 5000px; }
+.collapsible-inner { padding: var(--space-lg); }
+.track-sub-heading { font-family: var(--font-heading); font-size: 0.95rem; font-weight: 700; margin: var(--space-lg) 0 var(--space-md); padding-bottom: var(--space-xs); border-bottom: 2px dashed var(--muted); }
+.track-sub-heading:first-child { margin-top: 0; }
+
+/* === TABLES === */
+.table-wrap { overflow-x: auto; margin-bottom: var(--space-md); border: 2px solid var(--border); border-radius: var(--radius-wobbly-sm); box-shadow: var(--shadow-sm); }
+.tracking-table { width: 100%; border-collapse: collapse; font-family: var(--font-zh); font-size: 0.85rem; }
+.tracking-table thead { background: var(--fg); color: var(--bg); }
+.tracking-table th { padding: var(--space-sm) var(--space-md); text-align: left; font-family: var(--font-heading); font-size: 0.8rem; font-weight: 700; white-space: nowrap; }
+.tracking-table td { padding: var(--space-sm) var(--space-md); border-bottom: 1px dashed var(--muted); vertical-align: top; line-height: 1.5; }
+.tracking-table tbody tr:last-child td { border-bottom: none; }
+.tracking-table tbody tr:hover td { background: rgba(255,249,196,0.3); }
+.tracking-table td strong { font-weight: 700; }
+.new-badge { display: inline-block; font-size: 0.7rem; padding: 1px 6px; border: 2px solid var(--accent); border-radius: var(--radius-wobbly-tag); color: var(--accent); font-family: var(--font-body); margin-left: 4px; }
+
+/* === KNOWLEDGE BASE === */
+.kb-grid { display: grid; grid-template-columns: 1fr; gap: var(--space-md); }
+@media (min-width: 768px) { .kb-grid { grid-template-columns: repeat(2, 1fr); } }
+.kb-card { background: var(--paper-white); border: 2px solid var(--border); border-radius: var(--radius-wobbly-card); padding: var(--space-lg); box-shadow: var(--shadow-sm); transition: transform 100ms; cursor: pointer; position: relative; }
+.kb-card:nth-child(1) { transform: rotate(-0.5deg); } .kb-card:nth-child(2) { transform: rotate(0.8deg); }
+.kb-card:nth-child(3) { transform: rotate(0.3deg); } .kb-card:nth-child(4) { transform: rotate(-0.7deg); }
+.kb-card:hover { box-shadow: var(--shadow-hover); transform: rotate(0deg) translateY(-2px); }
+.kb-card .tack { position: absolute; top: -8px; left: 24px; width: 18px; height: 18px; background: var(--accent); border: 2px solid #c0392b; border-radius: 50%; box-shadow: 1px 1px 0 0 rgba(0,0,0,0.2); z-index: 2; }
+.kb-card-icon { font-size: 1.5rem; margin-bottom: var(--space-sm); }
+.kb-card-title { font-family: var(--font-heading); font-size: 1.1rem; font-weight: 700; margin-bottom: var(--space-sm); }
+.kb-card-body { font-family: var(--font-zh); font-size: 0.88rem; line-height: 1.6; opacity: 0.75; }
+.kb-card-detail { display: none; margin-top: var(--space-md); padding-top: var(--space-md); border-top: 2px dashed var(--muted); }
+.kb-card[data-expanded="true"] .kb-card-detail { display: block; }
+.kb-detail-list { list-style: none; padding: 0; }
+.kb-detail-list li { font-family: var(--font-zh); font-size: 0.85rem; padding: var(--space-xs) 0; border-bottom: 1px dashed var(--muted); display: flex; align-items: flex-start; gap: var(--space-sm); }
+.kb-detail-list li::before { content: '✎'; flex-shrink: 0; opacity: 0.4; }
+
+/* === COMPARE CARDS === */
+.compare-grid { display: grid; grid-template-columns: 1fr; gap: var(--space-md); margin-top: var(--space-lg); }
+@media (min-width: 768px) { .compare-grid { grid-template-columns: repeat(2, 1fr); } }
+.compare-card { background: var(--paper-white); border: 3px solid var(--border); border-radius: var(--radius-wobbly-card); padding: var(--space-lg); box-shadow: var(--shadow-md); position: relative; }
+.compare-card.hermes-card { transform: rotate(-0.8deg); } .compare-card.openclaw-card { transform: rotate(0.6deg); }
+.compare-card-header { display: flex; align-items: center; gap: var(--space-sm); margin-bottom: var(--space-md); padding-bottom: var(--space-sm); border-bottom: 2px dashed var(--muted); }
+.compare-card-icon { font-size: 1.8rem; }
+.compare-card-name { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; }
+.compare-card-tagline { font-family: var(--font-body); font-size: 0.85rem; opacity: 0.6; }
+.compare-fact { display: flex; justify-content: space-between; align-items: flex-start; padding: var(--space-sm) 0; border-bottom: 1px dashed var(--muted); font-family: var(--font-zh); font-size: 0.88rem; }
+.compare-fact:last-child { border-bottom: none; }
+.compare-fact-label { font-weight: 700; opacity: 0.7; flex-shrink: 0; min-width: 70px; }
+.compare-fact-value { text-align: right; line-height: 1.5; }
+
+/* === POST-IT BOXES === */
+.postit-box { padding: var(--space-md) var(--space-lg); border: 2px solid var(--border); border-radius: var(--radius-wobbly-sm); box-shadow: var(--shadow-sm); margin: var(--space-lg) 0; transform: rotate(0.5deg); }
+.postit-box.yellow { background: var(--postit-yellow); } .postit-box.green { background: var(--postit-green); }
+.postit-box.blue { background: var(--postit-blue); } .postit-box.pink { background: var(--postit-pink); }
+.postit-title { font-family: var(--font-heading); font-size: 1rem; font-weight: 700; margin-bottom: var(--space-sm); }
+.postit-body { font-family: var(--font-zh); font-size: 0.88rem; line-height: 1.7; opacity: 0.8; }
+
+/* === ABOUT === */
+.about-card { background: var(--postit-yellow); border: 3px solid var(--border); border-radius: var(--radius-wobbly-md); padding: var(--space-lg); box-shadow: var(--shadow-md); margin-bottom: var(--space-xl); position: relative; transform: rotate(-0.5deg); }
+.about-card .tape { position: absolute; top: -10px; right: 30px; width: 60px; height: 22px; background: rgba(200,200,180,0.5); border-radius: 2px; transform: rotate(8deg); }
+.about-toggle-btn { background: none; border: none; font-family: var(--font-heading); font-size: 1.1rem; font-weight: 700; cursor: pointer; color: var(--fg); display: flex; align-items: center; gap: var(--space-sm); width: 100%; }
+.about-toggle-icon { transition: transform 200ms; font-size: 0.9rem; }
+.about-body { max-height: 0; overflow: hidden; transition: max-height 300ms ease; }
+.about-card.expanded .about-body { max-height: 600px; }
+.about-card.expanded .about-toggle-icon { transform: rotate(90deg); }
+.about-content { padding-top: var(--space-md); font-family: var(--font-zh); font-size: 0.9rem; line-height: 1.8; opacity: 0.8; }
+
+/* === FOOTER === */
+.footer { text-align: center; padding: var(--space-xl) 0 var(--space-2xl); margin-top: var(--space-xl); border-top: 3px dashed var(--muted); }
+.footer-text { font-family: var(--font-heading); font-size: 0.95rem; opacity: 0.5; }
+.footer-text a { color: var(--blue); text-decoration: none; border-bottom: 2px dashed var(--blue); }
+.footer-text a:hover { text-decoration: line-through; opacity: 0.8; }
+
+/* === RESPONSIVE === */
+@media (max-width: 600px) {
+    .container { padding: 0 var(--space-md); }
+    .hero { padding: var(--space-xl) 0 var(--space-lg); }
+    .collapsible-header { padding: var(--space-sm) var(--space-md); }
+    .collapsible-title { font-size: 0.95rem; }
+    .tracking-table { font-size: 0.78rem; }
+    .tracking-table th, .tracking-table td { padding: 6px 8px; }
+    .tab-btn { padding: 6px 10px; font-size: 0.82rem; }
+    .daily-card { padding: var(--space-md); }
+    .compare-card { transform: rotate(0deg) !important; }
+}
+/* Calendar clickable days */
+.cal-day.has-report a, .cal-day.today a { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; text-decoration: none; color: inherit; font-weight: bold; border-radius: 50%; }
+.cal-day.has-report a:hover { background: rgba(5,150,105,0.2); }
+</style>
+</head>
+<body>
+<div class="container">
+
+    <!-- HERO -->
+    <header class="hero">
+        <div class="hero-deco-circle"></div>
+        <svg class="hero-arrow" width="80" height="80" viewBox="0 0 80 80" fill="none">
+            <path d="M10 10 C 30 5, 50 15, 60 50" stroke="#2d2d2d" stroke-width="2" stroke-dasharray="6 4" fill="none"/>
+            <path d="M55 42 L60 52 L50 48" stroke="#2d2d2d" stroke-width="2" fill="none"/>
+        </svg>
+        <h1 class="hero-title">AI <span class="accent-word">手札</span> ✏️</h1>
+        <p class="hero-subtitle">聚焦大模型、AI Coding、AI应用、行业动态与企业转型 — 像手写笔记一样真实</p>
+    </header>
+
+    <!-- STATS -->
+    <div class="stats-grid">
+        <div class="stat-card"><div class="stat-number green" id="stat-reports">1</div><div class="stat-label">日报总数</div></div>
+        <div class="stat-card"><div class="stat-number blue" id="stat-research">5</div><div class="stat-label">追踪板块</div></div>
+        <div class="stat-card"><div class="stat-number orange" id="stat-tracking">200+</div><div class="stat-label">追踪条目</div></div>
+        <div class="stat-card"><div class="stat-number red" id="stat-days">4</div><div class="stat-label">持续天数</div></div>
+    </div>
+
+    <!-- ABOUT -->
+    <div class="about-card" id="aboutCard">
+        <div class="tape"></div>
+        <button class="about-toggle-btn" onclick="toggleAbout()">
+            <span class="about-toggle-icon">▶</span>
+            <span>📌 关于 AI手札 — 这是什么？</span>
+        </button>
+        <div class="about-body">
+            <div class="about-content">
+                <strong>AI手札</strong>是一个全景式 AI 领域追踪平台，覆盖五大核心板块：<br><br>
+                <strong>🧠 大模型</strong> — GPT、Claude、Gemini、DeepSeek、Llama 等前沿模型的发布、评测与技术突破<br>
+                <strong>💻 AI Coding</strong> — Cursor、Claude Code、Windsurf、Copilot 等编程工具的产品迭代与开发者实践<br>
+                <strong>🚀 AI应用</strong> — ChatGPT、Perplexity、NotebookLM 等消费级应用的创新与市场变化<br>
+                <strong>📊 AI行业</strong> — 融资、政策、人事变动、竞争格局等行业动态<br>
+                <strong>🏢 企业AI转型</strong> — 企业级AI平台、Agent框架、RAG方案的落地实践<br><br>
+                追踪体系覆盖 200+ 核心人物与信息源，从 RSS、Hacker News、GitHub 等渠道采集真实新闻数据，由 AI 分析生成结构化日报，每条新闻均可追溯原始来源。<br><br>
+                <em>✎ 基于真实数据，AI 辅助分析。每日 08:00 自动更新。</em>
+            </div>
+        </div>
+    </div>
+
+    <!-- TAB NAV -->
+    <nav class="tab-nav" role="navigation">
+        <button class="tab-btn active" data-tab="daily"><span class="tab-btn-icon">📰</span><span class="tab-btn-text">AI日报</span></button>
+        <button class="tab-btn" data-tab="research"><span class="tab-btn-icon">🔬</span><span class="tab-btn-text">深度研究</span></button>
+        <button class="tab-btn" data-tab="tracking"><span class="tab-btn-icon">🎯</span><span class="tab-btn-text">追踪体系</span></button>
+        <button class="tab-btn" data-tab="knowledge"><span class="tab-btn-icon">📚</span><span class="tab-btn-text">知识库</span></button>
+    </nav>
+
+    <!-- TAB 1: AI 日报 -->
+    <article id="daily" class="tab-panel active">
+        <section class="section">
+            <div class="section-header"><div class="section-icon">📰</div><div><h2 class="section-title">AI 日报</h2><p class="section-desc">AI 领域每日动态速递</p></div></div>
+
+            <div class="daily-list" id="dailyList">
+
+                <a class="daily-card" href="daily-2026-04-18.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-18 · 第4天</div>
+                    <h3 class="daily-card-title">OpenAI Codex 全平台升级 / GPT-Rosalind 进军生命科学</h3>
+                    <div class="daily-card-summary">OpenAI 发布 Codex 全平台更新，新增计算机操控、浏览器内操作、图像生成等功能，大幅扩展开发者工作流能力边界。同日推出 GPT-Rosalind 生命科学专用推理模型，加速药物研发与基因组分析研究。Agents SDK 迎来重大升级，引入更强的权限控制与审计机制，使企业能够更安全地部署 AI Agent。今日新闻集中在 OpenAI 生态系统，大模型从通用化转向垂直专业化的趋势愈发明显，AI Coding 工具竞争进一步白热化。</div>
+                    <div class="daily-card-tags">
+                        <span class="tag green">大模型</span>
+<span class="tag blue">AI Coding</span>
+<span class="tag pink">AI应用</span>
+<span class="tag green">模型发布</span>
+<span class="tag blue">Agent</span>
+                    </div>
+                </a>
+                <a class="daily-card" href="daily-2026-04-17.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-17 · 第3天</div>
+                    <h3 class="daily-card-title">Hermes Agent vs OpenClaw 深度对比 / Agent 沙箱安全机制</h3>
+                    <div class="daily-card-summary">两大开源 Agent 框架正面对比：Hermes Agent 的自动技能生成 vs OpenClaw 的 SKILL.md 社区生态，5种沙箱后端 vs 自托管模式。深度聚焦 AI Agent 安全边界——权限控制、数据隔离与沙箱逃逸风险分析。</div>
+                    <div class="daily-card-tags"><span class="tag hermes">Hermes Agent</span><span class="tag openclaw">OpenClaw</span><span class="tag hot">🔥 热点</span></div>
+                </a>
+
+                <a class="daily-card" href="daily-2026-04-16.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-16 · 第2天</div>
+                    <h3 class="daily-card-title">OpenClaw SKILL.md 协议解析 / Hermes Agent 多平台通讯能力</h3>
+                    <div class="daily-card-summary">深入解析 OpenClaw 的核心创新 SKILL.md 技能协议——如何用 Markdown 文件定义 Agent 技能。同时探索 Hermes Agent 的多平台通讯能力：在 Telegram、Discord、Slack、WhatsApp 间无缝切换。两种技能范式的根本差异：手动定义 vs 自动学习。</div>
+                    <div class="daily-card-tags"><span class="tag openclaw">OpenClaw</span><span class="tag hermes">Hermes Agent</span><span class="tag industry">Agent 技能</span></div>
+                </a>
+
+                <a class="daily-card" href="daily-2026-04-15.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-15 · 第1天</div>
+                    <h3 class="daily-card-title">Hermes Agent 初探：一个"会成长的"开源 AI Agent</h3>
+                    <div class="daily-card-summary">Nous Research 推出的 Hermes Agent 是什么？它不是聊天机器人，也不是 IDE 编程助手——而是一个部署在你服务器上、拥有持久记忆和自动技能生成能力的自主 Agent。本文从产品定位到安装配置，带你全面了解这个"越用越强"的开源 Agent 框架。</div>
+                    <div class="daily-card-tags"><span class="tag hermes">Hermes Agent</span><span class="tag hot">🔥 热点</span><span class="tag industry">Agent 框架</span></div>
+                </a>
+            </div>
+
+            <!-- Calendar -->
+            <div class="calendar-wrap">
+                <div class="calendar-header">
+                    <button class="cal-nav-btn" onclick="changeMonth(-1)">◀ 上月</button>
+                    <span class="calendar-title" id="calTitle">2026年4月</span>
+                    <button class="cal-nav-btn" onclick="changeMonth(1)">下月 ▶</button>
+                </div>
+                <div class="calendar-grid" id="calGrid"></div>
+                <div class="cal-legend">
+                    <div class="cal-legend-item"><div class="cal-legend-dot daily"></div><span>有日报</span></div>
+                    <div class="cal-legend-item"><div class="cal-legend-dot weekly"></div><span>周报</span></div>
+                    <div class="cal-legend-item"><div class="cal-legend-dot today-dot"></div><span>今天</span></div>
+                </div>
+            </div>
+        </section>
+    </article>
+
+    <!-- TAB 2: 深度研究 -->
+    <article id="research" class="tab-panel" style="content-visibility: auto;">
+        <section class="section">
+            <div class="section-header"><div class="section-icon">🔬</div><div><h2 class="section-title">深度研究</h2><p class="section-desc">AI 五大板块的架构分析、趋势洞察与竞争解读</p></div></div>
+
+            <div class="compare-grid">
+                <div class="compare-card" style="border-left: 4px solid #4caf50;">
+                    <div class="compare-card-header"><span class="compare-card-icon">🧠</span><div><div class="compare-card-name">大模型</div><div class="compare-card-tagline">前沿模型与技术突破</div></div></div>
+                    <div class="compare-fact"><span class="compare-fact-label">海外实验室</span><span class="compare-fact-value">OpenAI / Anthropic / Google DeepMind / Meta AI / xAI</span></div>
+                    <div class="compare-fact"><span class="compare-fact-label">中国实验室</span><span class="compare-fact-value">DeepSeek / 智谱AI / 月之暗面 / 百川智能 / MiniMax / 阶跃星辰</span></div>
+                    <div class="compare-fact"><span class="compare-fact-label">开源模型</span><span class="compare-fact-value">Llama / Qwen / DeepSeek / Mistral / Gemma</span></div>
+                    <div class="compare-fact"><span class="compare-fact-label">研究方向</span><span class="compare-fact-value">推理能力、多模态、长上下文、模型安全</span></div>
+                </div>
+                <div class="compare-card" style="border-left: 4px solid #2196f3;">
+                    <div class="compare-card-header"><span class="compare-card-icon">💻</span><div><div class="compare-card-name">AI Coding</div><div class="compare-card-tagline">编程工具与开发者体验</div></div></div>
+                    <div class="compare-fact"><span class="compare-fact-label">IDE 工具</span><span class="compare-fact-value">Cursor / Windsurf / GitHub Copilot / Trae</span></div>
+                    <div class="compare-fact"><span class="compare-fact-label">终端 Agent</span><span class="compare-fact-value">Claude Code / Aider / OpenHands / Codex CLI</span></div>
+                    <div class="compare-fact"><span class="compare-fact-label">自主编程</span><span class="compare-fact-value">Devin / Factory / Cosine / Augment Code</span></div>
+                    <div class="compare-fact"><span class="compare-fact-label">研究方向</span><span class="compare-fact-value">Agent 协作、代码生成质量、安全审计</span></div>
+                </div>
+            </div>
+
+            <div class="filter-legend" id="catLegend" style="margin-top: var(--space-xl);">
+                <button class="filter-btn active" data-filter="all">全部</button>
+                <button class="filter-btn" data-filter="model">🧠 大模型</button>
+                <button class="filter-btn" data-filter="coding">💻 Coding</button>
+                <button class="filter-btn" data-filter="industry">📊 行业</button>
+            </div>
+
+            <div class="timeline" id="researchTimeline">
+                <div class="timeline-item" data-cat="model"><div class="timeline-dot hermes-dot"></div><a class="timeline-card" href="#"><div class="timeline-date">研究维度</div><h3 class="timeline-title">大模型能力评测与竞争格局分析</h3><div class="timeline-body">跟踪 GPT、Claude、Gemini、DeepSeek 等主流模型的能力演进，对比推理、编码、多模态等核心维度，分析开源与闭源模型的竞争态势。</div></a></div>
+                <div class="timeline-item" data-cat="coding"><div class="timeline-dot openclaw-dot"></div><a class="timeline-card" href="#"><div class="timeline-date">研究维度</div><h3 class="timeline-title">AI Coding 工具深度对比：IDE 集成 vs 终端 Agent</h3><div class="timeline-body">Cursor 的 IDE 集成路线 vs Claude Code 的终端原生路线 vs Devin 的全自主路线——三种 AI 编程范式的设计哲学、适用场景与未来走向。</div></a></div>
+                <div class="timeline-item" data-cat="industry"><div class="timeline-dot"></div><a class="timeline-card" href="#"><div class="timeline-date">研究维度</div><h3 class="timeline-title">AI Agent 框架全景：从开发框架到企业平台</h3><div class="timeline-body">LangChain、CrewAI、AutoGen 等开发框架与 Salesforce Agentforce、ServiceNow 等企业平台的分层图谱，分析各层的竞合关系与发展趋势。</div></a></div>
+                <div class="timeline-item" data-cat="model"><div class="timeline-dot hermes-dot"></div><a class="timeline-card" href="#"><div class="timeline-date">研究维度</div><h3 class="timeline-title">中国大模型生态：DeepSeek 现象与开源力量</h3><div class="timeline-body">从 DeepSeek-V3 的技术突破到智谱、月之暗面的商业化探索，分析中国大模型生态的独特发展路径、开源策略与国际竞争力。</div></a></div>
+                <div class="timeline-item coming-soon" data-cat="industry"><div class="timeline-dot"></div><div class="timeline-card"><div class="timeline-date">即将推出</div><h3 class="timeline-title">AI 安全与对齐：从技术研究到政策落地</h3><div class="timeline-body">追踪 Anthropic、OpenAI、DeepMind 等机构的安全研究进展，分析 AI 安全政策的全球演进，以及安全要求对模型能力发展的影响。</div></div></div>
+                <div class="timeline-item coming-soon" data-cat="coding"><div class="timeline-dot openclaw-dot"></div><div class="timeline-card"><div class="timeline-date">即将推出</div><h3 class="timeline-title">AI 编程 Agent 的安全边界：代码生成的风险与治理</h3><div class="timeline-body">分析 AI 编程工具在代码安全、供应链攻击、权限管理等方面的风险面，提出企业级 AI Coding 的安全部署最佳实践。</div></div></div>
+            </div>
+        </section>
+    </article>
+
+    <!-- TAB 3: 追踪体系 -->
+    <article id="tracking" class="tab-panel" style="content-visibility: auto;">
+        <section class="section">
+            <div class="section-header"><div class="section-icon">🎯</div><div><h2 class="section-title">追踪体系</h2><p class="section-desc">覆盖 200+ 核心人物、信息源与技术实体的系统化追踪</p></div></div>
+
+            <!-- 信息源 -->
+            <div class="category-section">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)"><div class="collapsible-left"><span class="collapsible-emoji">📡</span><span class="collapsible-title">信息源 — 自动采集</span><span class="collapsible-count">30+</span></div><span class="collapsible-icon">▼</span></div>
+                <div class="collapsible-content"><div class="collapsible-inner">
+                    <div class="track-sub-heading">📰 RSS 订阅源</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>来源</th><th>类型</th><th>覆盖板块</th></tr></thead><tbody>
+                        <tr><td><strong>OpenAI Blog</strong></td><td>官方博客</td><td>大模型</td></tr>
+                        <tr><td><strong>Anthropic Blog</strong></td><td>官方博客</td><td>大模型、AI安全</td></tr>
+                        <tr><td><strong>Google AI Blog</strong></td><td>官方博客</td><td>大模型</td></tr>
+                        <tr><td><strong>Hugging Face Blog</strong></td><td>社区/开源</td><td>大模型、AI应用</td></tr>
+                        <tr><td><strong>Simon Willison's Blog</strong></td><td>独立博客</td><td>AI Coding、AI应用</td></tr>
+                        <tr><td><strong>TechCrunch AI</strong></td><td>科技媒体</td><td>AI行业</td></tr>
+                        <tr><td><strong>The Verge AI</strong></td><td>科技媒体</td><td>AI行业、AI应用</td></tr>
+                        <tr><td><strong>机器之心</strong></td><td>中文媒体</td><td>全板块</td></tr>
+                        <tr><td><strong>量子位</strong></td><td>中文媒体</td><td>全板块</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">🔥 Hacker News</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>关键词</th><th>筛选条件</th></tr></thead><tbody>
+                        <tr><td>AI, LLM, GPT, Claude, Cursor, Agent, DeepSeek</td><td>热度 ≥ 50 分</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">📦 GitHub 仓库监控</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>仓库</th><th>监控内容</th><th>板块</th></tr></thead><tbody>
+                        <tr><td><strong>deepseek-ai/DeepSeek-V3</strong></td><td>Releases</td><td>大模型</td></tr>
+                        <tr><td><strong>langchain-ai/langchain</strong></td><td>Releases</td><td>企业AI转型</td></tr>
+                        <tr><td><strong>huggingface/transformers</strong></td><td>Releases</td><td>大模型</td></tr>
+                        <tr><td><strong>getcursor/cursor</strong></td><td>Releases</td><td>AI Coding</td></tr>
+                        <tr><td><strong>anthropics/claude-code</strong></td><td>Releases</td><td>AI Coding</td></tr>
+                        <tr><td><strong>paul-gauthier/aider</strong></td><td>Releases</td><td>AI Coding</td></tr>
+                        <tr><td><strong>vllm-project/vllm</strong></td><td>Releases</td><td>大模型</td></tr>
+                    </tbody></table></div>
+                </div></div>
+            </div>
+
+            <!-- 核心人物 -->
+            <div class="category-section">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)"><div class="collapsible-left"><span class="collapsible-emoji">👤</span><span class="collapsible-title">核心人物追踪</span><span class="collapsible-count">80+</span></div><span class="collapsible-icon">▼</span></div>
+                <div class="collapsible-content"><div class="collapsible-inner">
+                    <div class="track-sub-heading">🏢 AI 实验室核心人物</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>人物</th><th>角色</th><th>追踪重点</th></tr></thead><tbody>
+                        <tr><td><strong>Sam Altman</strong></td><td>OpenAI CEO</td><td>产品路线、行业战略</td></tr>
+                        <tr><td><strong>Dario Amodei</strong></td><td>Anthropic CEO</td><td>安全理念、模型发布</td></tr>
+                        <tr><td><strong>Demis Hassabis</strong></td><td>DeepMind CEO</td><td>AGI路线、科学突破</td></tr>
+                        <tr><td><strong>梁文锋</strong></td><td>DeepSeek 创始人</td><td>开源策略、技术突破</td></tr>
+                        <tr><td><strong>Mark Zuckerberg</strong></td><td>Meta CEO</td><td>开源模型、AI基础设施</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">💻 AI Coding 核心人物</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>人物</th><th>角色</th><th>追踪重点</th></tr></thead><tbody>
+                        <tr><td><strong>Michael Truell</strong></td><td>Cursor CEO</td><td>AI IDE 产品方向</td></tr>
+                        <tr><td><strong>Scott Wu</strong></td><td>Devin/Cognition CEO</td><td>自主编程 Agent</td></tr>
+                        <tr><td><strong>Paul Gauthier</strong></td><td>Aider 创始人</td><td>终端编程工具</td></tr>
+                        <tr><td><strong>宝玉 @dotey</strong></td><td>AI Coding 布道者</td><td>工具评测、实践分享</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">🧪 LLM 研究者</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>人物</th><th>角色</th><th>追踪重点</th></tr></thead><tbody>
+                        <tr><td><strong>Andrej Karpathy</strong></td><td>前 OpenAI/Tesla</td><td>教育内容、技术洞察</td></tr>
+                        <tr><td><strong>Yann LeCun</strong></td><td>Meta 首席 AI 科学家</td><td>AI路线之争、开源倡导</td></tr>
+                        <tr><td><strong>Jim Fan</strong></td><td>NVIDIA 高级研究科学家</td><td>具身智能、Foundation Agent</td></tr>
+                        <tr><td><strong>Sebastian Raschka</strong></td><td>LLM 研究者/作者</td><td>模型训练、开源实践</td></tr>
+                    </tbody></table></div>
+                </div></div>
+            </div>
+
+            <!-- 模型实验室 & 工具 -->
+            <div class="category-section">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)"><div class="collapsible-left"><span class="collapsible-emoji">🏭</span><span class="collapsible-title">模型实验室 & AI工具</span><span class="collapsible-count">50+</span></div><span class="collapsible-icon">▼</span></div>
+                <div class="collapsible-content"><div class="collapsible-inner">
+                    <div class="track-sub-heading">🧠 海外模型实验室</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>实验室</th><th>核心模型</th><th>特点</th></tr></thead><tbody>
+                        <tr><td><strong>OpenAI</strong></td><td>GPT-4o, o1, o3</td><td>最大商业影响力</td></tr>
+                        <tr><td><strong>Anthropic</strong></td><td>Claude 4 系列</td><td>安全优先、编码能力强</td></tr>
+                        <tr><td><strong>Google DeepMind</strong></td><td>Gemini 2.5</td><td>多模态、搜索集成</td></tr>
+                        <tr><td><strong>Meta AI</strong></td><td>Llama 4 系列</td><td>最大开源模型</td></tr>
+                        <tr><td><strong>xAI</strong></td><td>Grok 3</td><td>实时信息、推理能力</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">🇨🇳 中国模型实验室</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>实验室</th><th>核心模型</th><th>特点</th></tr></thead><tbody>
+                        <tr><td><strong>DeepSeek</strong></td><td>DeepSeek-V3, R1</td><td>开源标杆、MoE架构</td></tr>
+                        <tr><td><strong>智谱AI (Zhipu)</strong></td><td>GLM-4</td><td>中文能力、企业服务</td></tr>
+                        <tr><td><strong>月之暗面 (Moonshot)</strong></td><td>Kimi</td><td>长上下文、消费级应用</td></tr>
+                        <tr><td><strong>阿里云</strong></td><td>Qwen 系列</td><td>开源生态、多模态</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">💻 AI Coding 工具</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>工具</th><th>类型</th><th>核心特点</th></tr></thead><tbody>
+                        <tr><td><strong>Cursor</strong></td><td>AI IDE</td><td>VS Code fork, Agent模式, $20/月</td></tr>
+                        <tr><td><strong>Claude Code</strong></td><td>终端 Agent</td><td>Anthropic 官方, 终端原生</td></tr>
+                        <tr><td><strong>GitHub Copilot</strong></td><td>代码补全 + Agent</td><td>最大用户基数, IDE 集成</td></tr>
+                        <tr><td><strong>Windsurf</strong></td><td>AI IDE</td><td>Codeium 出品, Flow 模式</td></tr>
+                        <tr><td><strong>Devin</strong></td><td>自主编程 Agent</td><td>全自主, $500/月</td></tr>
+                        <tr><td><strong>Aider</strong></td><td>终端工具</td><td>开源, 多模型支持</td></tr>
+                        <tr><td><strong>Trae</strong></td><td>AI IDE</td><td>字节跳动出品, 免费</td></tr>
+                    </tbody></table></div>
+                </div></div>
+            </div>
+
+            <!-- 参考信息源 -->
+            <div class="category-section">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)"><div class="collapsible-left"><span class="collapsible-emoji">📚</span><span class="collapsible-title">参考信息源（人工跟踪）</span><span class="collapsible-count">100+</span></div><span class="collapsible-icon">▼</span></div>
+                <div class="collapsible-content"><div class="collapsible-inner">
+                    <div class="track-sub-heading">🐦 X/Twitter 核心账号</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>账号</th><th>身份</th><th>价值</th></tr></thead><tbody>
+                        <tr><td><strong>@dotey (宝玉)</strong></td><td>AI Coding 布道者</td><td>中文圈最佳 AI 实践分享</td></tr>
+                        <tr><td><strong>@karpathy</strong></td><td>Andrej Karpathy</td><td>LLM 深度教育内容</td></tr>
+                        <tr><td><strong>@DrJimFan</strong></td><td>Jim Fan</td><td>具身智能、Agent 研究</td></tr>
+                        <tr><td><strong>@ylecun</strong></td><td>Yann LeCun</td><td>AI 路线争论、开源倡导</td></tr>
+                        <tr><td><strong>@swyx</strong></td><td>AI Engineer 创始人</td><td>AI 工程最佳实践</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">📧 Newsletter & 博客</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>名称</th><th>作者</th><th>频率</th></tr></thead><tbody>
+                        <tr><td><strong>The Batch</strong></td><td>Andrew Ng</td><td>每周</td></tr>
+                        <tr><td><strong>Ahead of AI</strong></td><td>Sebastian Raschka</td><td>每月</td></tr>
+                        <tr><td><strong>AI Supremacy</strong></td><td>Michael Spencer</td><td>每周</td></tr>
+                        <tr><td><strong>Simon Willison's Blog</strong></td><td>Simon Willison</td><td>每日</td></tr>
+                    </tbody></table></div>
+
+                    <div class="track-sub-heading">📱 微信公众号（精选）</div>
+                    <div class="table-wrap"><table class="tracking-table"><thead><tr><th>公众号</th><th>定位</th></tr></thead><tbody>
+                        <tr><td><strong>机器之心</strong></td><td>AI 专业媒体</td></tr>
+                        <tr><td><strong>量子位</strong></td><td>AI 科技媒体</td></tr>
+                        <tr><td><strong>新智元</strong></td><td>AI 行业资讯</td></tr>
+                        <tr><td><strong>AI前线</strong></td><td>AI 技术实践</td></tr>
+                        <tr><td><strong>APPSO</strong></td><td>AI 应用评测</td></tr>
+                    </tbody></table></div>
+                </div></div>
+            </div>
+        </section>
+    </article>
+
+    <!-- TAB 4: 知识库 -->
+    <article id="knowledge" class="tab-panel" style="content-visibility: auto;">
+        <section class="section">
+            <div class="section-header"><div class="section-icon">📚</div><div><h2 class="section-title">知识库</h2><p class="section-desc">AI 五大板块核心知识维度</p></div></div>
+
+            <div style="margin-bottom: var(--space-md); display: flex; gap: var(--space-sm);">
+                <button class="filter-btn" onclick="expandAllKB()">展开全部</button>
+                <button class="filter-btn" onclick="collapseAllKB()">收起全部</button>
+            </div>
+
+            <div class="kb-grid">
+                <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
+                    <div class="tack"></div>
+                    <div class="kb-card-icon">🧠</div>
+                    <h3 class="kb-card-title">大模型前沿</h3>
+                    <p class="kb-card-body">模型架构、训练方法、评测基准、多模态、推理能力、开源与闭源博弈</p>
+                    <div class="kb-card-detail"><ul class="kb-detail-list">
+                        <li>Transformer 架构演进：MoE、SSM、线性注意力等新范式</li>
+                        <li>推理模型（o1/o3/R1）：思维链、蒸馏与自我验证</li>
+                        <li>多模态融合：视觉-语言、音频、视频理解的统一架构</li>
+                        <li>模型评测体系：MMLU、HumanEval、LMSYS Chatbot Arena</li>
+                        <li>开源生态：Llama、Qwen、DeepSeek 的开源策略与影响</li>
+                    </ul></div>
+                </div>
+                <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
+                    <div class="tack"></div>
+                    <div class="kb-card-icon">💻</div>
+                    <h3 class="kb-card-title">AI Coding 实践</h3>
+                    <p class="kb-card-body">编程工具对比、Agent 编程范式、代码生成质量、开发者工作流变革</p>
+                    <div class="kb-card-detail"><ul class="kb-detail-list">
+                        <li>IDE 集成 vs 终端 Agent vs 全自主编程的三种范式</li>
+                        <li>Cursor、Claude Code、Copilot、Windsurf 深度对比</li>
+                        <li>AI 编程最佳实践：提示工程、上下文管理、代码审查</li>
+                        <li>MCP (Model Context Protocol) 与工具生态</li>
+                        <li>AI 编程对软件工程流程的影响与重塑</li>
+                    </ul></div>
+                </div>
+                <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
+                    <div class="tack"></div>
+                    <div class="kb-card-icon">🚀</div>
+                    <h3 class="kb-card-title">AI 应用创新</h3>
+                    <p class="kb-card-body">消费级 AI 产品、搜索革命、内容创作、教育与医疗等垂直应用</p>
+                    <div class="kb-card-detail"><ul class="kb-detail-list">
+                        <li>ChatGPT / Claude / Gemini 等对话 AI 的产品差异化</li>
+                        <li>AI 搜索：Perplexity、ChatGPT Search 对传统搜索的冲击</li>
+                        <li>AI 创作工具：文本、图像、音乐、视频生成的商业化</li>
+                        <li>垂直应用：教育（Khanmigo）、医疗、法律等领域落地</li>
+                        <li>AI 硬件：AI Pin、Rabbit R1 等新形态设备</li>
+                    </ul></div>
+                </div>
+                <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
+                    <div class="tack"></div>
+                    <div class="kb-card-icon">📊</div>
+                    <h3 class="kb-card-title">AI 行业动态</h3>
+                    <p class="kb-card-body">融资、并购、政策监管、人才流动、行业竞争格局</p>
+                    <div class="kb-card-detail"><ul class="kb-detail-list">
+                        <li>AI 融资与估值：头部公司融资轮次、独角兽涌现</li>
+                        <li>人才地图：AI 实验室间的人才流动与创业潮</li>
+                        <li>政策监管：欧盟 AI Act、美国行政令、中国 AI 政策</li>
+                        <li>算力竞争：NVIDIA GPU 供需、自研芯片、云服务商</li>
+                        <li>开源治理：许可证选择、社区运营、商业化路径</li>
+                    </ul></div>
+                </div>
+                <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
+                    <div class="tack"></div>
+                    <div class="kb-card-icon">🏢</div>
+                    <h3 class="kb-card-title">企业 AI 转型</h3>
+                    <p class="kb-card-body">企业级 AI 平台、Agent 框架、RAG 方案、AI 安全与合规</p>
+                    <div class="kb-card-detail"><ul class="kb-detail-list">
+                        <li>企业 AI 平台：Salesforce Agentforce、ServiceNow、Microsoft 365 Copilot</li>
+                        <li>Agent 框架选型：LangChain、CrewAI、AutoGen 的企业适用性</li>
+                        <li>RAG 架构：向量数据库、检索策略、幻觉控制</li>
+                        <li>AI 安全合规：数据隐私、模型审计、偏见检测</li>
+                        <li>ROI 评估：AI 项目的成本效益分析与落地方法论</li>
+                    </ul></div>
+                </div>
+                <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
+                    <div class="tack"></div>
+                    <div class="kb-card-icon">🔒</div>
+                    <h3 class="kb-card-title">AI 安全与对齐</h3>
+                    <p class="kb-card-body">模型安全、对齐研究、红队测试、AI 治理与伦理</p>
+                    <div class="kb-card-detail"><ul class="kb-detail-list">
+                        <li>对齐研究：RLHF、Constitutional AI、Scalable Oversight</li>
+                        <li>安全评估：模型红队测试、能力评估、风险分级</li>
+                        <li>Anthropic / OpenAI / DeepMind 的安全研究路线</li>
+                        <li>AI 治理：国际合作、标准制定、自律框架</li>
+                        <li>开放问题：超级对齐、意识、长期风险</li>
+                    </ul></div>
+                </div>
+            </div>
+
+            <div class="postit-box yellow" style="margin-top: var(--space-xl);">
+                <div class="postit-title">📖 推荐阅读</div>
+                <div class="postit-body">
+                    <strong>大模型基础：</strong>"Attention Is All You Need" → "The Bitter Lesson" (Rich Sutton) → Llama/DeepSeek 技术报告<br><br>
+                    <strong>AI Coding：</strong>Cursor Blog → Simon Willison's Blog → Anthropic Claude Code Docs → @dotey 实践分享<br><br>
+                    <strong>行业全局：</strong>State of AI Report → AI Index Report (Stanford) → The Batch (Andrew Ng) → Ahead of AI (Sebastian Raschka)
+                </div>
+            </div>
+        </section>
+    </article>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p class="footer-text">✏️ AI手札 — 手绘风格AI追踪平台 · 每日08:00自动更新<br>Powered by Claude API · <a href="#">GitHub</a> · <a href="#">反馈</a></p>
+    </footer>
+</div>
+
+<script>
+/* Tab Switching */
+(() => {
+    const tabNav = document.querySelector('.tab-nav');
+    const allBtns = document.querySelectorAll('.tab-btn');
+    const allPanels = document.querySelectorAll('.tab-panel');
+    if (tabNav) {
+        tabNav.addEventListener('click', (e) => {
+            const btn = e.target.closest('.tab-btn');
+            if (!btn) return;
+            allBtns.forEach(b => b.classList.remove('active'));
+            allPanels.forEach(p => p.classList.remove('active'));
+            btn.classList.add('active');
+            const panel = document.getElementById(btn.dataset.tab);
+            if (panel) panel.classList.add('active');
+        });
+    }
+})();
+
+/* About Toggle */
+function toggleAbout() { document.getElementById('aboutCard').classList.toggle('expanded'); }
+
+/* Accordion */
+function toggleCollapsible(header) { header.classList.toggle('active'); const c = header.nextElementSibling; if (c) c.classList.toggle('active'); }
+
+/* Calendar */
+const reportsData = {
+    '2026-04': [15,16,17,18]
+};
+const weeklyReportsData = {};
+let calYear = 2026, calMonth = 3;
+
+function renderCalendar() {
+    const grid = document.getElementById('calGrid');
+    const titleEl = document.getElementById('calTitle');
+    if (!grid || !titleEl) return;
+    const monthNames = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+    titleEl.textContent = calYear + '年' + monthNames[calMonth];
+    const key = calYear + '-' + String(calMonth + 1).padStart(2, '0');
+    const reports = reportsData[key] || [];
+    const weekly = weeklyReportsData[key] || {};
+    const today = new Date();
+    const todayDay = (today.getFullYear() === calYear && today.getMonth() === calMonth) ? today.getDate() : -1;
+    const firstDay = new Date(calYear, calMonth, 1).getDay();
+    const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+    const dayLabels = ['日','一','二','三','四','五','六'];
+    let html = dayLabels.map(d => '<div class="cal-day-label">' + d + '</div>').join('');
+    for (let i = 0; i < firstDay; i++) html += '<div class="cal-day empty"></div>';
+    for (let d = 1; d <= daysInMonth; d++) {
+        let cls = 'cal-day';
+        if (d === todayDay) cls += ' today';
+        else if (weekly[d]) cls += ' weekly';
+        else if (reports.includes(d)) cls += ' has-report';
+        if (reports.includes(d)) {
+            const dd = String(d).padStart(2,'0');
+            const mm = String(calMonth+1).padStart(2,'0');
+            html += '<div class="' + cls + '"><a href="daily-' + calYear + '-' + mm + '-' + dd + '.html">' + d + '</a></div>';
+        } else {
+            html += '<div class="' + cls + '">' + d + '</div>';
+        }
+    }
+    grid.innerHTML = html;
+}
+function changeMonth(delta) { calMonth += delta; if (calMonth > 11) { calMonth = 0; calYear++; } if (calMonth < 0) { calMonth = 11; calYear--; } renderCalendar(); }
+renderCalendar();
+
+/* Knowledge Base */
+function toggleKBDimension(node) { node.setAttribute('data-expanded', node.getAttribute('data-expanded') === 'true' ? 'false' : 'true'); }
+function expandAllKB() { document.querySelectorAll('.kb-card').forEach(c => c.setAttribute('data-expanded', 'true')); }
+function collapseAllKB() { document.querySelectorAll('.kb-card').forEach(c => c.setAttribute('data-expanded', 'false')); }
+
+/* Timeline Filter */
+(function() {
+    const legend = document.getElementById('catLegend');
+    const timeline = document.getElementById('researchTimeline');
+    if (!legend || !timeline) return;
+    legend.addEventListener('click', (e) => {
+        const btn = e.target.closest('.filter-btn');
+        if (!btn) return;
+        legend.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const filter = btn.dataset.filter;
+        timeline.querySelectorAll('.timeline-item').forEach(item => {
+            item.style.display = (filter === 'all' || item.dataset.cat === filter) ? '' : 'none';
+        });
+    });
+})();
+</script>
+</body>
+</html>

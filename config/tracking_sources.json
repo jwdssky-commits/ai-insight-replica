@@ -1,0 +1,252 @@
+{
+  "boards": {
+    "大模型": { "emoji": "🧠", "color": "green" },
+    "AI Coding": { "emoji": "💻", "color": "blue" },
+    "AI应用": { "emoji": "🚀", "color": "pink" },
+    "AI行业": { "emoji": "📊", "color": "yellow" },
+    "企业AI转型": { "emoji": "🏢", "color": "orange" }
+  },
+
+  "rss_feeds": [
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "boards": ["大模型"], "lang": "en" },
+    { "name": "Anthropic Blog", "url": "https://www.anthropic.com/rss.xml", "boards": ["大模型"], "lang": "en" },
+    { "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "boards": ["大模型"], "lang": "en" },
+    { "name": "DeepMind Blog", "url": "https://deepmind.google/blog/rss.xml", "boards": ["大模型"], "lang": "en" },
+    { "name": "Meta AI Blog", "url": "https://ai.meta.com/blog/rss/", "boards": ["大模型", "AI应用"], "lang": "en" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "boards": ["大模型", "AI Coding"], "lang": "en" },
+    { "name": "Cursor Blog", "url": "https://cursor.com/blog/rss.xml", "boards": ["AI Coding"], "lang": "en" },
+    { "name": "LangChain Blog", "url": "https://blog.langchain.dev/rss/", "boards": ["AI Coding"], "lang": "en" },
+    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "boards": ["AI Coding", "大模型"], "lang": "en" },
+    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "boards": ["AI行业", "AI应用"], "lang": "en" },
+    { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "boards": ["AI行业", "AI应用"], "lang": "en" },
+    { "name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "boards": ["大模型", "AI行业"], "lang": "zh" },
+    { "name": "量子位", "url": "https://www.qbitai.com/feed", "boards": ["大模型", "AI行业"], "lang": "zh" },
+    { "name": "36氪 AI", "url": "https://36kr.com/feed", "boards": ["AI行业", "企业AI转型"], "lang": "zh" },
+    { "name": "ArXiv CS.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "boards": ["大模型"], "lang": "en" },
+    { "name": "ArXiv CS.CL", "url": "https://rss.arxiv.org/rss/cs.CL", "boards": ["大模型"], "lang": "en" }
+  ],
+
+  "hackernews": {
+    "keywords": ["AI", "LLM", "GPT", "Claude", "Anthropic", "OpenAI", "DeepSeek", "Cursor", "Copilot", "Gemini", "Llama", "transformer", "machine learning", "AGI"],
+    "min_points": 50,
+    "boards": ["大模型", "AI Coding", "AI行业"]
+  },
+
+  "github_repos": [
+    { "repo": "deepseek-ai/DeepSeek-V3", "boards": ["大模型"] },
+    { "repo": "deepseek-ai/DeepSeek-R1", "boards": ["大模型"] },
+    { "repo": "langchain-ai/langchain", "boards": ["AI Coding"] },
+    { "repo": "huggingface/transformers", "boards": ["大模型"] },
+    { "repo": "vllm-project/vllm", "boards": ["大模型"] },
+    { "repo": "ollama/ollama", "boards": ["大模型", "AI Coding"] },
+    { "repo": "meta-llama/llama", "boards": ["大模型"] },
+    { "repo": "openai/openai-python", "boards": ["AI Coding"] },
+    { "repo": "anthropics/anthropic-sdk-python", "boards": ["AI Coding"] },
+    { "repo": "All-Hands-AI/OpenHands", "boards": ["AI Coding"] },
+    { "repo": "browser-use/browser-use", "boards": ["AI应用"] },
+    { "repo": "Significant-Gravitas/AutoGPT", "boards": ["AI应用"] }
+  ],
+
+  "knowledge_base": {
+    "l1_practitioners": {
+      "ai_lab_leaders": [
+        "Jason Wei (OpenAI Research Lead) — Chain-of-thought, 模型能力研究",
+        "Mark Chen (OpenAI VP of Research) — GPT/o-系列路线图",
+        "Noam Brown (OpenAI 推理研究) — o1/o3 推理模型方法论",
+        "Barry Zhang (Anthropic Head of Applied AI, @barry_zyj) — Agent设计原则, Skills范式",
+        "Amanda Askell (Anthropic Alignment, @amandaaskell) — Claude System Prompt设计者",
+        "Alex Albert (Anthropic Claude Relations, @alexalbert__) — Claude使用技巧, 功能更新",
+        "Jan Leike (Anthropic Alignment Lead) — 超级对齐, 安全研究",
+        "Ilya Sutskever (SSI 联合创始人) — 超级智能安全",
+        "Jeff Dean (Google Chief Scientist) — AI系统架构方向",
+        "Yann LeCun (Meta AI 首席科学家, @ylecun) — 技术路线争鸣, 开源策略",
+        "Igor Babuschkin (xAI 联合创始人) — Grok技术架构"
+      ],
+      "ai_coding": [
+        "Michael Truell (Cursor CEO) — Cursor产品愿景",
+        "Aman Sanger (Cursor CTO) — 技术架构, Agent模式",
+        "Amjad Masad (Replit CEO) — AI Agent编程",
+        "Scott Wu (Cognition/Devin CEO) — 自主编程Agent",
+        "Addy Osmani (Google Chrome 工程总监) — LLM Coding Workflow",
+        "Kent Beck (极限编程之父) — TDD + AI Agent方法论",
+        "Steve Yegge (Sourcegraph) — AI对开发者影响",
+        "Unclecode (Crawl4AI创始人) — LLM友好网页爬取"
+      ],
+      "llm_researchers": [
+        "Andrej Karpathy (独立, 前OpenAI/Tesla) — 最通俗的技术深度解读",
+        "Jim Fan (NVIDIA 机器人总监, @DrJimFan) — Physical AI, 具身智能",
+        "Tri Dao (Together AI) — FlashAttention, 推理效率",
+        "François Chollet (ARC-AGI 创始人, @fchollet) — AGI评测, 批判性思考",
+        "姚顺雨 (OpenAI 研究员) — Agent理论, 语言世界",
+        "Harrison Chase (LangChain CEO) — Agent工程, Deep Agents",
+        "Chris Lattner (Modular/Mojo 创始人) — AI编程语言, 编译器",
+        "Pieter Abbeel (Covariant/UC Berkeley) — 机器人学习, 强化学习",
+        "Chelsea Finn (Stanford) — 元学习, 机器人AI",
+        "Fei-Fei Li (Stanford HAI, World Labs) — 计算机视觉, 空间智能",
+        "Saining Xie (NYU) — 视觉Transformer, 架构设计",
+        "王兴兴 (宇树科技创始人) — 四足/人形机器人"
+      ],
+      "enterprise_ai": [
+        "Bret Taylor (Sierra CEO, 前Salesforce) — 企业AI Agent, 客服AI",
+        "Arvind Jain (Glean CEO) — 企业知识搜索",
+        "Winston Weinberg (Harvey CEO) — 法律AI",
+        "Percy Liang (Stanford HAI, HELM) — 模型评测, 基准测试",
+        "Sasha Rush (Cornell/HuggingFace) — Transformer架构",
+        "Andrew Ng (DeepLearning.AI) — AI教育, 产业应用"
+      ],
+      "china_ai": [
+        "梁文锋 (DeepSeek 创始人) — 开源大模型, MoE架构",
+        "杨植麟 (Moonshot AI/Kimi 创始人) — 长上下文, 消费级AI",
+        "唐杰 (智谱AI 首席科学家) — GLM系列, Agent",
+        "王小川 (百川智能 CEO) — 搜索增强, 企业AI",
+        "李彦宏 (百度 CEO) — 国内AI战略",
+        "朱松纯 (北大, 通用AI研究院) — 通用人工智能, 认知科学",
+        "刘知远 (清华大学, OpenBMB) — 大模型高效微调, 开源",
+        "贾扬清 (阿里云AI, Caffe作者) — AI基础设施, 云原生AI"
+      ],
+      "china_ai_coding": [
+        "陈鑫 (阿里云 通义灵码负责人) — 国内AI Coding标杆产品",
+        "郗杰 (字节跳动 Trae团队) — 国内AI IDE先驱",
+        "张俊林 (字节跳动 MarsCode) — 云端AI编程",
+        "张建锋 (蚂蚁集团 CodeFuse) — 开源AI编程框架",
+        "李大海 (面壁智能 CEO) — 端侧高效模型, MiniCPM",
+        "方汉 (昆仑万维 CEO) — AI搜索, 天工大模型",
+        "王晓云 (蚂蚁集团 CTO) — 蚂蚁百灵, 金融AI"
+      ],
+      "ai_safety": [
+        "Stuart Russell (UC Berkeley) — AI安全理论",
+        "Nick Bostrom (牛津FHI) — 超级智能风险",
+        "Paul Christiano (ARC, 前OpenAI) — 对齐研究, RLHF",
+        "Dan Hendrycks (CAIS) — AI安全评测"
+      ]
+    },
+    "l2_observers": {
+      "newsletters": [
+        "Simon Willison (simonwillison.net) — 最及时的AI工具评测",
+        "Gergely Orosz (Pragmatic Engineer) — 最深入的工程视角",
+        "Swyx (Latent Space) — AI工程前沿, 深度访谈",
+        "Ethan Mollick (oneusefulthing.org) — AI对工作方式的影响",
+        "Jack Clark (Import AI) — AI政策与产业宏观",
+        "Eugene Yan (eugeneyan.com) — AI工程最佳实践",
+        "Chip Huyen (huyenchip.com) — MLOps, LLM系统设计",
+        "Jason Liu (@jxnlco) — 结构化输出, LLM工程",
+        "Thomas Wolf (Hugging Face CTO) — 开源LLM生态",
+        "Nathan Benaich (stateof.ai) — State of AI年度报告"
+      ],
+      "chinese_sources": [
+        "宝玉 (@dotey, 微信公众号) — 最快的海外AI信息翻译",
+        "李沐 (YouTube/B站) — 中文世界最好的论文解读",
+        "潘乱 (乱翻书) — 中国互联网深度分析",
+        "海外独角兽 (微信公众号) — 硅谷创投深度报道"
+      ],
+      "youtube_podcast": [
+        "Yannic Kilcher (YouTube) — 最深入的论文解读",
+        "Two Minute Papers (YouTube) — 最快的论文摘要",
+        "Lex Fridman (YouTube) — 长对话, 深度思想交流",
+        "泓君 (硅谷101 播客) — 最好的硅谷科技播客",
+        "张小珺 (小宇宙) — 科技创业深度访谈"
+      ]
+    },
+    "l3_decision_makers": [
+      "Sam Altman (OpenAI CEO) — GPT路线图",
+      "Dario Amodei (Anthropic CEO) — Claude战略方向",
+      "Jensen Huang (NVIDIA CEO) — AI基础设施方向",
+      "Sundar Pichai (Google CEO) — Google AI战略",
+      "Satya Nadella (Microsoft CEO) — Copilot战略",
+      "Mark Zuckerberg (Meta CEO) — 开源AI策略",
+      "Marc Benioff (Salesforce CEO) — 企业AI Agent",
+      "Arvind Krishna (IBM CEO) — 企业AI转型",
+      "Andy Jassy (Amazon CEO) — AWS AI战略",
+      "Guillermo Rauch (Vercel CEO) — AI前端 / v0.dev"
+    ],
+    "model_labs": {
+      "overseas": [
+        "OpenAI — GPT-4/o系列, ChatGPT, Codex",
+        "Anthropic — Claude系列, Claude Code",
+        "Google DeepMind — Gemini系列, AlphaFold",
+        "Meta AI (FAIR) — Llama系列",
+        "SSI — Ilya领衔, 超级智能安全",
+        "Mistral AI — Mistral系列",
+        "xAI — Grok系列",
+        "Cohere — Command系列"
+      ],
+      "china": [
+        "DeepSeek — DeepSeek V3/R1",
+        "智谱AI — GLM系列",
+        "Moonshot AI — Kimi",
+        "百川智能 — Baichuan系列",
+        "百度 — 文心一言, ERNIE",
+        "阿里 — 通义千问, Qwen",
+        "字节跳动 — 豆包",
+        "腾讯 — 混元",
+        "蚂蚁集团 — 蚂蚁百灵, 阿福APP",
+        "面壁智能 — MiniCPM系列",
+        "昆仑万维 — 天工大模型4.0",
+        "MiniMax — 海螺AI",
+        "阶跃星辰 — 跃问",
+        "零一万物 — 万知",
+        "科大讯飞 — 星火"
+      ]
+    },
+    "ai_coding_tools": {
+      "overseas": [
+        "Cursor (Anysphere) — AI IDE标杆, Agent模式",
+        "Devin/Windsurf (Cognition) — 自主编程Agent",
+        "GitHub Copilot — 企业级AI编程",
+        "Replit Ghostwriter — 云端AI编程",
+        "Lovable — 欧洲独角兽, Vibe Coding",
+        "Bolt.new — 浏览器端AI开发",
+        "Sourcegraph Cody — 代码搜索 + AI"
+      ],
+      "china": [
+        "Trae (字节跳动) — 国内首个AI IDE",
+        "Trae-Agent (字节跳动, 开源) — Agent框架",
+        "通义灵码 (阿里云) — IDE插件",
+        "CodeGeeX (智谱AI) — 开源代码模型",
+        "文心快码 Comate (百度) — 企业级AI编程",
+        "豆包MarsCode (字节跳动) — 云IDE",
+        "CodeFuse (蚂蚁集团, 开源) — 多模型支持"
+      ]
+    },
+    "enterprise_ai_companies": [
+      "Glean — 企业知识搜索, 估值$46亿",
+      "Harvey — 法律AI, Sequoia明星项目",
+      "Sierra — 客服AI, Bret Taylor创立",
+      "Salesforce Agentforce — CRM + AI Agent标杆",
+      "ServiceNow Now AI — IT服务 + AI Agent",
+      "Hebbia Matrix — 金融AI, RAG先驱",
+      "Writer — 企业写作AI, 自有模型",
+      "Decagon — 客服AI, YC系"
+    ],
+    "ai_apps": [
+      "Perplexity — AI搜索标杆",
+      "Midjourney — AI图像生成标杆",
+      "Runway Gen-3 — AI视频生成标杆",
+      "ElevenLabs — AI语音合成标杆",
+      "Suno — AI音乐生成",
+      "Vercel v0.dev — AI前端生成",
+      "Canva AI — 大众市场设计AI",
+      "Stability AI Stable Diffusion — 开源图像生成"
+    ],
+    "robotics": [
+      "Figure — 人形机器人, OpenAI合作",
+      "Physical Intelligence (PI0) — 具身智能基础模型",
+      "1X Neo — 人形机器人",
+      "Covariant RFM-1 — 机器人基础模型",
+      "宇树科技 Unitree — 四足/人形机器人",
+      "智元机器人 — 中国人形机器人",
+      "银河通用 GalaxyBot — 中国具身智能"
+    ],
+    "infrastructure": [
+      "NVIDIA — H100/B200, CUDA, AI芯片霸主",
+      "Hugging Face — Transformers, Hub, 开源生态",
+      "LangChain — Agent框架, RAG工具链",
+      "Together AI — 开源模型推理",
+      "Groq — LPU推理加速",
+      "Scale AI — 数据标注, RLHF, 评测",
+      "Databricks Mosaic — 数据平台 + LLM训练",
+      "AMD MI300 — 挑战NVIDIA",
+      "华为昇腾 — 自主AI芯片"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "{{title}}",
+    "date": "{{date}}",
+    "day_number": "{{day_number}}",
+    "summary": "{{summary}}",
+    "tags": ["{{tag1}}", "{{tag2}}"],
+    "highlight": {
+        "title": "{{highlight_title}}",
+        "body": "{{highlight_body}}",
+        "source_url": "{{highlight_url}}"
+    },
+    "boards": [
+        {
+            "id": "大模型|AI Coding|AI应用|AI行业|企业AI转型",
+            "has_news": true,
+            "items": [
+                {
+                    "headline": "{{headline}}",
+                    "body": "{{body_200_400_chars}}",
+                    "source_url": "{{original_news_url}}",
+                    "source_name": "{{source_name}}",
+                    "importance": "high|medium|low",
+                    "related_entities": ["{{entity1}}", "{{entity2}}"]
+                }
+            ]
+        }
+    ]
+}
