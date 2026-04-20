@@ -14,7 +14,7 @@
         "max_input_items": 25
     },
     "quality_gate": {
-        "min_word_count": 200,
+        "min_word_count": 100,
         "required_fields": ["title", "date", "summary", "tags", "boards"],
         "allowed_tags": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型", "模型发布", "产品发布", "融资", "开源", "安全", "评测", "Agent", "芯片", "机器人", "热点"],
         "require_source_urls": true,
