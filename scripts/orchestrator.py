@@ -163,7 +163,7 @@ def main():
     state["status"] = "running"
     save_state(target_date, state)
 
-    start_step = max(args.step, 1)
+    start_step = args.step
 
     for step in STEPS:
         if step["id"] < start_step:

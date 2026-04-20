@@ -196,6 +196,8 @@ a.timeline-card:visited { color: inherit; }
 .kb-detail-list { list-style: none; padding: 0; }
 .kb-detail-list li { font-family: var(--font-zh); font-size: 0.85rem; padding: var(--space-xs) 0; border-bottom: 1px dashed var(--muted); display: flex; align-items: flex-start; gap: var(--space-sm); }
 .kb-detail-list li::before { content: '✎'; flex-shrink: 0; opacity: 0.4; }
+.kb-detail-list a { color: var(--accent); text-decoration: underline; }
+.kb-detail-list a:hover { opacity: 0.7; }
 
 /* === COMPARE CARDS === */
 .compare-grid { display: grid; grid-template-columns: 1fr; gap: var(--space-md); margin-top: var(--space-lg); }
@@ -544,9 +546,9 @@ a.timeline-card:visited { color: inherit; }
     </article>
 
     <!-- TAB 4: 知识库 -->
-    <article id="knowledge" class="tab-panel" style="content-visibility: auto;">
+    <article id="knowledge" class="tab-panel">
         <section class="section">
-            <div class="section-header"><div class="section-icon">📚</div><div><h2 class="section-title">知识库</h2><p class="section-desc">AI 五大板块核心知识维度</p></div></div>
+            <div class="section-header"><div class="section-icon">📚</div><div><h2 class="section-title">知识库</h2><p class="section-desc">完整 AI 学习体系 · 国内外精选资源</p></div></div>
 
             <div style="margin-bottom: var(--space-md); display: flex; gap: var(--space-sm);">
                 <button class="filter-btn" onclick="expandAllKB()">展开全部</button>
@@ -556,90 +558,97 @@ a.timeline-card:visited { color: inherit; }
             <div class="kb-grid">
                 <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
                     <div class="tack"></div>
-                    <div class="kb-card-icon">🧠</div>
-                    <h3 class="kb-card-title">大模型前沿</h3>
-                    <p class="kb-card-body">模型架构、训练方法、评测基准、多模态、推理能力、开源与闭源博弈</p>
+                    <div class="kb-card-icon">🎯</div>
+                    <h3 class="kb-card-title">AI 学习路线图</h3>
+                    <p class="kb-card-body">从零开始的 AI 学习路径：基础数学 → 机器学习 → 深度学习 → NLP/LLM → AI 工程 → AI 安全</p>
                     <div class="kb-card-detail"><ul class="kb-detail-list">
-                        <li>Transformer 架构演进：MoE、SSM、线性注意力等新范式</li>
-                        <li>推理模型（o1/o3/R1）：思维链、蒸馏与自我验证</li>
-                        <li>多模态融合：视觉-语言、音频、视频理解的统一架构</li>
-                        <li>模型评测体系：MMLU、HumanEval、LMSYS Chatbot Arena</li>
-                        <li>开源生态：Llama、Qwen、DeepSeek 的开源策略与影响</li>
+                        <li><strong>阶段 1 — 基础</strong>：Python 编程、线性代数、概率统计、微积分</li>
+                        <li><strong>阶段 2 — 机器学习</strong>：监督/无监督学习、特征工程、模型评估</li>
+                        <li><strong>阶段 3 — 深度学习</strong>：CNN、RNN、Transformer 架构、训练技巧</li>
+                        <li><strong>阶段 4 — NLP/LLM</strong>：预训练、微调、RLHF、Prompt Engineering</li>
+                        <li><strong>阶段 5 — AI 工程</strong>：RAG、Agent 框架、模型部署、MLOps</li>
+                        <li><strong>阶段 6 — AI 安全</strong>：对齐研究、红队测试、AI 治理与伦理</li>
                     </ul></div>
                 </div>
                 <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
                     <div class="tack"></div>
-                    <div class="kb-card-icon">💻</div>
-                    <h3 class="kb-card-title">AI Coding 实践</h3>
-                    <p class="kb-card-body">编程工具对比、Agent 编程范式、代码生成质量、开发者工作流变革</p>
+                    <div class="kb-card-icon">📖</div>
+                    <h3 class="kb-card-title">系统课程（国际）</h3>
+                    <p class="kb-card-body">顶尖高校与机构的 AI/ML/DL 系统课程，从入门到前沿</p>
                     <div class="kb-card-detail"><ul class="kb-detail-list">
-                        <li>IDE 集成 vs 终端 Agent vs 全自主编程的三种范式</li>
-                        <li>Cursor、Claude Code、Copilot、Windsurf 深度对比</li>
-                        <li>AI 编程最佳实践：提示工程、上下文管理、代码审查</li>
-                        <li>MCP (Model Context Protocol) 与工具生态</li>
-                        <li>AI 编程对软件工程流程的影响与重塑</li>
+                        <li><a href="https://www.deeplearning.ai" target="_blank" rel="noopener">Andrew Ng / DeepLearning.AI</a> — ML/DL/GenAI 完整课程体系</li>
+                        <li><a href="https://www.fast.ai" target="_blank" rel="noopener">fast.ai</a> — 实战优先的免费深度学习课程</li>
+                        <li><a href="https://www.youtube.com/@andrejkarpathy" target="_blank" rel="noopener">Andrej Karpathy: Zero to Hero</a> — 从零手写神经网络</li>
+                        <li><a href="https://cs229.stanford.edu" target="_blank" rel="noopener">Stanford CS229</a> — 机器学习经典课程</li>
+                        <li><a href="https://web.stanford.edu/class/cs224n/" target="_blank" rel="noopener">Stanford CS224N</a> — NLP 与深度学习</li>
+                        <li><a href="https://introtodeeplearning.com" target="_blank" rel="noopener">MIT 6.S191</a> — 深度学习入门</li>
+                        <li><a href="https://huggingface.co/learn/nlp-course" target="_blank" rel="noopener">Hugging Face NLP Course</a> — Transformer 实战教程</li>
+                        <li><a href="https://developers.google.com/machine-learning/crash-course" target="_blank" rel="noopener">Google ML Crash Course</a> — ML 快速入门</li>
+                        <li><a href="https://fullstackdeeplearning.com" target="_blank" rel="noopener">Full Stack LLM Bootcamp</a> — LLM 应用全栈开发</li>
                     </ul></div>
                 </div>
                 <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
                     <div class="tack"></div>
-                    <div class="kb-card-icon">🚀</div>
-                    <h3 class="kb-card-title">AI 应用创新</h3>
-                    <p class="kb-card-body">消费级 AI 产品、搜索革命、内容创作、教育与医疗等垂直应用</p>
+                    <div class="kb-card-icon">📖</div>
+                    <h3 class="kb-card-title">系统课程与教材（中文）</h3>
+                    <p class="kb-card-body">优质中文 AI 学习资源，降低语言门槛</p>
                     <div class="kb-card-detail"><ul class="kb-detail-list">
-                        <li>ChatGPT / Claude / Gemini 等对话 AI 的产品差异化</li>
-                        <li>AI 搜索：Perplexity、ChatGPT Search 对传统搜索的冲击</li>
-                        <li>AI 创作工具：文本、图像、音乐、视频生成的商业化</li>
-                        <li>垂直应用：教育（Khanmigo）、医疗、法律等领域落地</li>
-                        <li>AI 硬件：AI Pin、Rabbit R1 等新形态设备</li>
+                        <li><a href="https://waytoagi.com" target="_blank" rel="noopener">Way to AGI（通往AGI之路）</a> — 最全面的中文 AI 学习导航站</li>
+                        <li><a href="https://zh.d2l.ai" target="_blank" rel="noopener">动手学深度学习（D2L）</a> — 权威中文深度学习教材，含可运行代码</li>
+                        <li><a href="https://www.learnprompt.pro" target="_blank" rel="noopener">LearnPrompt</a> — 免费中文提示词工程教程</li>
+                        <li><a href="https://aibydoing.com" target="_blank" rel="noopener">AI by Doing</a> — 以项目驱动的中文 AI/ML 实战教程</li>
                     </ul></div>
                 </div>
                 <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
                     <div class="tack"></div>
-                    <div class="kb-card-icon">📊</div>
-                    <h3 class="kb-card-title">AI 行业动态</h3>
-                    <p class="kb-card-body">融资、并购、政策监管、人才流动、行业竞争格局</p>
+                    <div class="kb-card-icon">📰</div>
+                    <h3 class="kb-card-title">AI 媒体与资讯</h3>
+                    <p class="kb-card-body">国内外 AI 新闻源，保持每日信息更新</p>
                     <div class="kb-card-detail"><ul class="kb-detail-list">
-                        <li>AI 融资与估值：头部公司融资轮次、独角兽涌现</li>
-                        <li>人才地图：AI 实验室间的人才流动与创业潮</li>
-                        <li>政策监管：欧盟 AI Act、美国行政令、中国 AI 政策</li>
-                        <li>算力竞争：NVIDIA GPU 供需、自研芯片、云服务商</li>
-                        <li>开源治理：许可证选择、社区运营、商业化路径</li>
+                        <li><a href="https://www.deeplearning.ai/the-batch/" target="_blank" rel="noopener">The Batch (Andrew Ng)</a> — 每周 AI 新闻精选</li>
+                        <li><a href="https://magazine.sebastianraschka.com" target="_blank" rel="noopener">Ahead of AI (Sebastian Raschka)</a> — LLM 研究深度解读</li>
+                        <li><a href="https://importai.substack.com" target="_blank" rel="noopener">Import AI (Jack Clark)</a> — AI 研究与政策分析</li>
+                        <li><a href="https://tldr.tech/ai" target="_blank" rel="noopener">TLDR AI</a> — 每日 AI 新闻速递</li>
+                        <li><a href="https://www.interconnects.ai" target="_blank" rel="noopener">Interconnects (Nathan Lambert)</a> — RLHF 与 AI 政策</li>
+                        <li><a href="https://www.jiqizhixin.com" target="_blank" rel="noopener">机器之心</a> — 深度技术文章与论文解读</li>
+                        <li><a href="https://www.qbitai.com" target="_blank" rel="noopener">量子位</a> — AI 行业新闻与产品报道</li>
+                        <li><a href="https://www.paperweekly.site" target="_blank" rel="noopener">PaperWeekly</a> — AI 论文精读社区</li>
                     </ul></div>
                 </div>
                 <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
                     <div class="tack"></div>
-                    <div class="kb-card-icon">🏢</div>
-                    <h3 class="kb-card-title">企业 AI 转型</h3>
-                    <p class="kb-card-body">企业级 AI 平台、Agent 框架、RAG 方案、AI 安全与合规</p>
+                    <div class="kb-card-icon">📝</div>
+                    <h3 class="kb-card-title">技术博客与深度参考</h3>
+                    <p class="kb-card-body">顶级研究者的个人博客，深入理解 AI 核心概念</p>
                     <div class="kb-card-detail"><ul class="kb-detail-list">
-                        <li>企业 AI 平台：Salesforce Agentforce、ServiceNow、Microsoft 365 Copilot</li>
-                        <li>Agent 框架选型：LangChain、CrewAI、AutoGen 的企业适用性</li>
-                        <li>RAG 架构：向量数据库、检索策略、幻觉控制</li>
-                        <li>AI 安全合规：数据隐私、模型审计、偏见检测</li>
-                        <li>ROI 评估：AI 项目的成本效益分析与落地方法论</li>
+                        <li><a href="https://lilianweng.github.io" target="_blank" rel="noopener">Lilian Weng (Lil'Log)</a> — OpenAI 研究员的深度技术综述</li>
+                        <li><a href="https://simonwillison.net" target="_blank" rel="noopener">Simon Willison</a> — AI 工具实测与 LLM 探索</li>
+                        <li><a href="https://karpathy.github.io" target="_blank" rel="noopener">Andrej Karpathy Blog</a> — 神经网络第一性原理</li>
+                        <li><a href="https://huyenchip.com/blog/" target="_blank" rel="noopener">Chip Huyen's Blog</a> — MLOps 与 AI 系统设计</li>
+                        <li><a href="https://jalammar.github.io" target="_blank" rel="noopener">Jay Alammar</a> — Transformer 可视化讲解</li>
                     </ul></div>
                 </div>
                 <div class="kb-card" data-expanded="false" onclick="toggleKBDimension(this)">
                     <div class="tack"></div>
-                    <div class="kb-card-icon">🔒</div>
-                    <h3 class="kb-card-title">AI 安全与对齐</h3>
-                    <p class="kb-card-body">模型安全、对齐研究、红队测试、AI 治理与伦理</p>
+                    <div class="kb-card-icon">🛠️</div>
+                    <h3 class="kb-card-title">AI 工程实战资源</h3>
+                    <p class="kb-card-body">开发框架、模型平台、推理引擎，动手构建 AI 应用</p>
                     <div class="kb-card-detail"><ul class="kb-detail-list">
-                        <li>对齐研究：RLHF、Constitutional AI、Scalable Oversight</li>
-                        <li>安全评估：模型红队测试、能力评估、风险分级</li>
-                        <li>Anthropic / OpenAI / DeepMind 的安全研究路线</li>
-                        <li>AI 治理：国际合作、标准制定、自律框架</li>
-                        <li>开放问题：超级对齐、意识、长期风险</li>
+                        <li><a href="https://docs.langchain.com" target="_blank" rel="noopener">LangChain Docs</a> — LLM 应用开发框架</li>
+                        <li><a href="https://huggingface.co" target="_blank" rel="noopener">Hugging Face</a> — 模型、数据集、开源生态</li>
+                        <li><a href="https://docs.vllm.ai" target="_blank" rel="noopener">vLLM</a> — 高性能 LLM 推理引擎</li>
+                        <li><a href="https://docs.anthropic.com" target="_blank" rel="noopener">Anthropic Claude Docs</a> — Claude API 文档</li>
+                        <li><a href="https://cookbook.openai.com" target="_blank" rel="noopener">OpenAI Cookbook</a> — GPT 应用最佳实践</li>
                     </ul></div>
                 </div>
             </div>
 
             <div class="postit-box yellow" style="margin-top: var(--space-xl);">
-                <div class="postit-title">📖 推荐阅读</div>
+                <div class="postit-title">🗺️ 推荐学习路径</div>
                 <div class="postit-body">
-                    <strong>大模型基础：</strong>"Attention Is All You Need" → "The Bitter Lesson" (Rich Sutton) → Llama/DeepSeek 技术报告<br><br>
-                    <strong>AI Coding：</strong>Cursor Blog → Simon Willison's Blog → Anthropic Claude Code Docs → @dotey 实践分享<br><br>
-                    <strong>行业全局：</strong>State of AI Report → AI Index Report (Stanford) → The Batch (Andrew Ng) → Ahead of AI (Sebastian Raschka)
+                    <strong>零基础入门：</strong><a href="https://www.deeplearning.ai" target="_blank" rel="noopener">Andrew Ng ML 课程</a> → <a href="https://www.fast.ai" target="_blank" rel="noopener">fast.ai</a> → <a href="https://zh.d2l.ai" target="_blank" rel="noopener">D2L 中文版</a><br><br>
+                    <strong>LLM 专精：</strong><a href="https://www.youtube.com/@andrejkarpathy" target="_blank" rel="noopener">Karpathy Zero to Hero</a> → <a href="https://huggingface.co/learn/nlp-course" target="_blank" rel="noopener">HF NLP 课程</a> → <a href="https://docs.langchain.com" target="_blank" rel="noopener">LangChain</a><br><br>
+                    <strong>每日跟进：</strong><a href="https://tldr.tech/ai" target="_blank" rel="noopener">TLDR AI</a> + <a href="https://www.jiqizhixin.com" target="_blank" rel="noopener">机器之心</a> + <a href="https://waytoagi.com" target="_blank" rel="noopener">Way to AGI</a>
                 </div>
             </div>
         </section>
@@ -718,7 +727,7 @@ function changeMonth(delta) { calMonth += delta; if (calMonth > 11) { calMonth =
 renderCalendar();
 
 /* Knowledge Base */
-function toggleKBDimension(node) { node.setAttribute('data-expanded', node.getAttribute('data-expanded') === 'true' ? 'false' : 'true'); }
+function toggleKBDimension(node) { if (event && event.target.closest('a')) return; node.setAttribute('data-expanded', node.getAttribute('data-expanded') === 'true' ? 'false' : 'true'); }
 function expandAllKB() { document.querySelectorAll('.kb-card').forEach(c => c.setAttribute('data-expanded', 'true')); }
 function collapseAllKB() { document.querySelectorAll('.kb-card').forEach(c => c.setAttribute('data-expanded', 'false')); }
 
