@@ -272,7 +272,7 @@ a.timeline-card:visited { color: inherit; }
         <div class="stat-card"><div class="stat-number green" id="stat-reports">1</div><div class="stat-label">日报总数</div></div>
         <div class="stat-card"><div class="stat-number blue" id="stat-research">5</div><div class="stat-label">追踪板块</div></div>
         <div class="stat-card"><div class="stat-number orange" id="stat-tracking">200+</div><div class="stat-label">追踪条目</div></div>
-        <div class="stat-card"><div class="stat-number red" id="stat-days">4</div><div class="stat-label">持续天数</div></div>
+        <div class="stat-card"><div class="stat-number red" id="stat-days">1</div><div class="stat-label">持续天数</div></div>
     </div>
 
     <!-- ABOUT -->
@@ -310,6 +310,19 @@ a.timeline-card:visited { color: inherit; }
             <div class="section-header"><div class="section-icon">📰</div><div><h2 class="section-title">AI 日报</h2><p class="section-desc">AI 领域每日动态速递</p></div></div>
 
             <div class="daily-list" id="dailyList">
+
+                <a class="daily-card" href="daily-2026-04-20.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-20 · 第1天</div>
+                    <h3 class="daily-card-title">GPT-Rosalind重塑生命科学研究范式，具身智能国产力量崛起</h3>
+                    <div class="daily-card-summary">OpenAI本周密集发布多项关键产品：GPT-Rosalind专为大分子药物与基因组研究打造，标志着AI for Science进入专业化深水区；GPT-5.4-Cyber联合安全生态强化网络防御。具身智能领域传来突破：苏度科技Sudo R1以0真机数据实现98%零样本抓取成功率，高德发布覆盖15项SOTA的ABot全栈具身技术体系，展现国产力量在Physical AI赛道的快速追赶。</div>
+                    <div class="daily-card-tags">
+                        <span class="tag green">大模型</span>
+<span class="tag yellow">AI行业</span>
+<span class="tag orange">机器人</span>
+<span class="tag hot">🔥 热点</span>
+                    </div>
+                </a>
 
                 <a class="daily-card" href="daily-2026-04-18.html">
                     <div class="tape"></div>
@@ -687,7 +700,7 @@ function toggleCollapsible(header) { header.classList.toggle('active'); const c 
 
 /* Calendar */
 const reportsData = {
-    '2026-04': [15,16,17,18]
+    '2026-04': [15,16,17,18,20]
 };
 const weeklyReportsData = {};
 let calYear = 2026, calMonth = 3;
