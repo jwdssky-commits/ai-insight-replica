@@ -43,4 +43,5 @@ jobs:
           git add -A
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "daily: $(date +%Y-%m-%d) auto-update"
+          git pull --rebase origin main
           git push
