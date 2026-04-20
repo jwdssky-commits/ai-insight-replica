@@ -203,7 +203,7 @@ def generate_content(target_date: str, config: dict) -> dict:
 
     news_items = raw_news.get("items", [])
 
-    max_input_items = config.get("max_input_items", 40)
+    max_input_items = config.get("news_collection", {}).get("max_input_items", 40)
     if len(news_items) > max_input_items:
         print(f"  新闻条目 {len(news_items)} 超过上限 {max_input_items}，截取前 {max_input_items} 条")
         news_items = news_items[:max_input_items]
