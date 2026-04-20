@@ -269,10 +269,10 @@ a.timeline-card:visited { color: inherit; }
 
     <!-- STATS -->
     <div class="stats-grid">
-        <div class="stat-card"><div class="stat-number green" id="stat-reports">0</div><div class="stat-label">日报总数</div></div>
+        <div class="stat-card"><div class="stat-number green" id="stat-reports">1</div><div class="stat-label">日报总数</div></div>
         <div class="stat-card"><div class="stat-number blue" id="stat-research">5</div><div class="stat-label">追踪板块</div></div>
         <div class="stat-card"><div class="stat-number orange" id="stat-tracking">200+</div><div class="stat-label">追踪条目</div></div>
-        <div class="stat-card"><div class="stat-number red" id="stat-days">0</div><div class="stat-label">持续天数</div></div>
+        <div class="stat-card"><div class="stat-number red" id="stat-days">1</div><div class="stat-label">持续天数</div></div>
     </div>
 
     <!-- ABOUT -->
@@ -310,6 +310,19 @@ a.timeline-card:visited { color: inherit; }
             <div class="section-header"><div class="section-icon">📰</div><div><h2 class="section-title">AI 日报</h2><p class="section-desc">AI 领域每日动态速递</p></div></div>
 
             <div class="daily-list" id="dailyList">
+
+                <a class="daily-card" href="daily-2026-04-20.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-20</div>
+                    <h3 class="daily-card-title">具身智能大爆发：苏度科技发布Sudo R1、自变量机器人融资近20亿</h3>
+                    <div class="daily-card-summary">今日具身智能领域密集爆发：苏度科技发布Sudo R1模型，实现0真机数据zero-shot下98%首次抓取成功率；高德发布面向AGI的全栈具身技术体系ABot，横扫15项SOTA；自变量机器人完成近20亿元B轮融资，小米战投与红杉中国领投，成为国内唯一被阿里、美团、字节、小米四家大厂共同投资的具身智能企业。模型架构侧，22岁开发者逆推开源了Claude Mythos架构；阿里发布Wan2.7-Image，国内人类偏好盲测评分第一。</div>
+                    <div class="daily-card-tags">
+                        <span class="tag green">大模型</span>
+<span class="tag yellow">AI行业</span>
+<span class="tag orange">机器人</span>
+<span class="tag yellow">融资</span>
+                    </div>
+                </a>
             </div>
 
             <!-- Calendar -->
@@ -650,6 +663,7 @@ function toggleCollapsible(header) { header.classList.toggle('active'); const c 
 
 /* Calendar */
 const reportsData = {
+    '2026-04': [20],
 };
 const weeklyReportsData = {};
 let calYear = 2026, calMonth = 3;
