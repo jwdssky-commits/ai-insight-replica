@@ -26,13 +26,6 @@ def load_tracking():
     with open(ROOT / "config" / "tracking_sources.json", encoding="utf-8") as f:
         return json.load(f)
 
-def count_existing_reports() -> int:
-    data_dir = ROOT / "data" / "daily-workflow"
-    if not data_dir.exists():
-        return 0
-    return sum(1 for d in data_dir.iterdir()
-               if d.is_dir() and (d / "report.json").exists())
-
 def build_people_knowledge(tracking: dict) -> str:
     kb = tracking.get("knowledge_base", {})
     lines = []
@@ -332,7 +325,6 @@ def generate_content(target_date: str, config: dict) -> dict:
     system_prompt = system_prompt.replace("{PEOPLE_KNOWLEDGE}", people_knowledge)
 
     client = OpenAI(api_key=api_key, base_url="https://api.minimax.chat/v1")
-    day_number = count_existing_reports() + 1
 
     news_items = raw_news.get("items", [])
 
@@ -344,7 +336,7 @@ def generate_content(target_date: str, config: dict) -> dict:
 
     news_json = json.dumps(news_items, ensure_ascii=False, indent=2)
 
-    user_message = f"""今天是 {target_date}，这是 AI手札 第 {day_number} 天。
+    user_message = f"""今天是 {target_date}。
 
 以下是今天采集到的 {len(news_items)} 条真实新闻数据：
 
@@ -377,7 +369,7 @@ def generate_content(target_date: str, config: dict) -> dict:
         print(f"  警告: 模型输出被截断 (finish_reason=length)，尝试减少输入重新生成...")
         reduced_items = news_items[:len(news_items) // 2]
         reduced_json = json.dumps(reduced_items, ensure_ascii=False, indent=2)
-        reduced_msg = f"""今天是 {target_date}，这是 AI手札 第 {day_number} 天。
+        reduced_msg = f"""今天是 {target_date}。
 
 以下是今天采集到的 {len(reduced_items)} 条真实新闻数据：
 
@@ -445,7 +437,6 @@ def generate_content(target_date: str, config: dict) -> dict:
         print("  JSON 修复成功")
 
     report["date"] = target_date
-    report["day_number"] = day_number
     return report
 
 def main():

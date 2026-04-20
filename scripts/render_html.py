@@ -30,7 +30,6 @@ IMPORTANCE_BADGE = {
 
 def render_daily_card(report: dict) -> str:
     date_str = html.escape(report["date"])
-    day_number = report.get("day_number", "?")
     title = html.escape(report["title"])
     summary = html.escape(report["summary"])
     tags = report.get("tags", [])
@@ -52,7 +51,7 @@ def render_daily_card(report: dict) -> str:
     return f"""
                 <a class="daily-card" href="daily-{date_str}.html">
                     <div class="tape"></div>
-                    <div class="daily-card-date">✎ {date_str} · 第{day_number}天</div>
+                    <div class="daily-card-date">✎ {date_str}</div>
                     <h3 class="daily-card-title">{title}</h3>
                     <div class="daily-card-summary">{summary}</div>
                     <div class="daily-card-tags">
@@ -63,7 +62,6 @@ def render_daily_card(report: dict) -> str:
 
 def render_full_report_page(report: dict) -> str:
     date_str = html.escape(report["date"])
-    day_number = report.get("day_number", "?")
     title = html.escape(report["title"])
     boards = report.get("boards", [])
     highlight = report.get("highlight", {})
@@ -184,7 +182,7 @@ body {{ font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; ba
 </head>
 <body>
     <div class="report-header">
-        <div class="report-date">✎ {date_str} · AI手札第{day_number}天</div>
+        <div class="report-date">✎ {date_str}</div>
         <h1 class="report-title">{title}</h1>
     </div>
     {highlight_html}

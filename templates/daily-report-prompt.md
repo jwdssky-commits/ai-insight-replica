@@ -19,7 +19,6 @@
 {
     "title": "简洁日报标题（概括当日1-2个最重要主题）",
     "date": "YYYY-MM-DD",
-    "day_number": 数字,
     "summary": "100-200字摘要，覆盖当日最重要的2-3条信息",
     "tags": ["大模型", "AI Coding", ...],
     "highlight": {

@@ -4,7 +4,6 @@ AI手札 — 主页更新器 (Step 4)
 更新 index.html: 注入新日报卡片、更新日历数据、更新统计数字
 """
 
-import json
 import re
 import sys
 import argparse
@@ -16,7 +15,6 @@ ROOT = Path(__file__).resolve().parent.parent
 def update_homepage(target_date: str):
     index_path = ROOT / "public" / "index.html"
     card_path = ROOT / "data" / "daily-workflow" / target_date / "card.html"
-    report_path = ROOT / "data" / "daily-workflow" / target_date / "report.json"
 
     if not index_path.exists():
         print(f"index.html 不存在: {index_path}")
@@ -73,11 +71,7 @@ def update_homepage(target_date: str):
     html = re.sub(stat_pattern, rf'\g<1>{total_reports}\2', html)
 
     days_pattern = r'(<div class="stat-number red" id="stat-days">)\d+(</div>)'
-    if report_path.exists():
-        with open(report_path, encoding="utf-8") as f:
-            report = json.load(f)
-        day_num = report.get("day_number", total_reports)
-        html = re.sub(days_pattern, rf'\g<1>{day_num}\2', html)
+    html = re.sub(days_pattern, rf'\g<1>{total_reports}\2', html)
 
     changes.append(f"统计更新: {total_reports} 篇日报")
 
