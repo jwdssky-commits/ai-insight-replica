@@ -363,7 +363,7 @@ def generate_content(target_date: str, config: dict) -> dict:
 
     message = client.chat.completions.create(
         model=config["model"],
-        max_tokens=32768,
+        max_tokens=128000,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_message}
@@ -393,7 +393,7 @@ def generate_content(target_date: str, config: dict) -> dict:
         print(f"  减少到 {len(reduced_items)} 条重试...")
         message = client.chat.completions.create(
             model=config["model"],
-            max_tokens=32768,
+            max_tokens=128000,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": reduced_msg}
