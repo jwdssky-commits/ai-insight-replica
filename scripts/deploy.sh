@@ -16,7 +16,6 @@ if git diff --quiet && git diff --cached --quiet; then
 fi
 
 git add public/
-git add data/daily-workflow/"$TARGET_DATE"/
 
 git commit -m "daily: ${TARGET_DATE} 日报更新
 
