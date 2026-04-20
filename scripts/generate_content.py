@@ -6,6 +6,7 @@ AI手札 — 内容生成器 (Step 1)
 
 import json
 import os
+import re
 import sys
 import argparse
 from datetime import date
@@ -56,9 +57,141 @@ def build_people_knowledge(tracking: dict) -> str:
 
     return "\n".join(lines)
 
+def score_news_item(item: dict) -> float:
+    """
+    为新闻计算优先级分数，确保重要新闻不会因截断而丢失。
+    分数越高越优先。
+    """
+    score = 0.0
+    source = item.get("source", "")
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+
+    # ---- 1. 来源权重 (0-30分) ----
+    # L1: AI 实验室官方博客 — 最高优先级
+    ai_lab_sources = ["OpenAI", "Anthropic", "Google AI", "DeepMind", "Meta AI"]
+    for lab in ai_lab_sources:
+        if lab.lower() in source.lower():
+            score += 30
+            break
+    else:
+        # L2: 开发者工具官方博客
+        dev_sources = ["Cursor", "LangChain", "Hugging Face"]
+        for dev in dev_sources:
+            if dev.lower() in source.lower():
+                score += 22
+                break
+        else:
+            # L3: 主流科技媒体
+            media_sources = ["TechCrunch", "The Verge", "IEEE", "Simon Willison"]
+            for media in media_sources:
+                if media.lower() in source.lower():
+                    score += 18
+                    break
+            else:
+                # L4: 中文科技媒体
+                cn_sources = ["jiqizhixin", "机器之心", "qbitai", "量子位", "36kr", "36氪"]
+                for cn in cn_sources:
+                    if cn.lower() in source.lower():
+                        score += 15
+                        break
+                else:
+                    # L5: Hacker News / GitHub / ArXiv
+                    if "Hacker News" in source:
+                        score += 12
+                    elif "GitHub" in source:
+                        score += 10
+                    elif "ArXiv" in source or "arxiv" in source:
+                        score += 8
+                    else:
+                        score += 5
+
+    # ---- 2. HN 热度分数 (0-25分) ----
+    # 从标题中提取 (251pts) 或 summary 中提取 "HN热度: 251分"
+    pts_match = re.search(r'\((\d+)pts?\)', title)
+    if not pts_match:
+        pts_match = re.search(r'HN热度:\s*(\d+)分', summary)
+    if pts_match:
+        hn_points = int(pts_match.group(1))
+        # 50分起步(min_points)，500+ 封顶
+        score += min(25, hn_points / 20)
+
+    # ---- 3. 关键词加权 (0-15分) ----
+    high_impact_keywords = [
+        # 重大产品发布
+        "launch", "released", "发布", "推出", "上线",
+        # 融资/IPO
+        "IPO", "融资", "估值", "acquisition", "收购",
+        # 重大模型
+        "GPT", "Claude", "Gemini", "Llama",
+        # 行业事件
+        "breakthrough", "突破", "首次", "首个", "first",
+    ]
+    title_lower = (title + " " + summary).lower()
+    keyword_hits = sum(1 for kw in high_impact_keywords if kw.lower() in title_lower)
+    score += min(15, keyword_hits * 5)
+
+    # ---- 4. 板块覆盖 hint (0-5分) ----
+    # 有明确板块标注的新闻更有用
+    board_hints = item.get("board_hints", [])
+    if board_hints:
+        score += min(5, len(board_hints) * 2.5)
+
+    return score
+
+
+def prioritize_news(news_items: list, max_items: int) -> list:
+    """
+    智能排序并截取新闻列表：
+    1. 按优先级分数排序
+    2. 确保来源多样性（同一来源最多占 40%）
+    3. 确保板块覆盖（每个板块至少保留一定比例）
+    """
+    if len(news_items) <= max_items:
+        return news_items
+
+    # 计算每条新闻的分数
+    scored = [(score_news_item(item), i, item) for i, item in enumerate(news_items)]
+    scored.sort(key=lambda x: (-x[0], x[1]))  # 分数降序，同分保持原顺序
+
+    # 第一轮：按分数取 top items，但限制单一来源占比
+    selected = []
+    source_counts = {}
+    max_per_source = max(3, int(max_items * 0.4))  # 单一来源最多占 40%
+
+    # 按板块统计需求
+    board_selected = {}
+
+    for score_val, idx, item in scored:
+        if len(selected) >= max_items:
+            break
+
+        source_key = item.get("source", "unknown").split("(")[0].strip()
+        current_count = source_counts.get(source_key, 0)
+
+        if current_count >= max_per_source:
+            continue  # 该来源已满，跳过
+
+        selected.append(item)
+        source_counts[source_key] = current_count + 1
+
+        for hint in item.get("board_hints", []):
+            board_selected[hint] = board_selected.get(hint, 0) + 1
+
+    # 如果还没选满（因为来源限制跳过了一些），从剩余中补充
+    if len(selected) < max_items:
+        selected_set = set(id(item) for item in selected)
+        for score_val, idx, item in scored:
+            if len(selected) >= max_items:
+                break
+            if id(item) not in selected_set:
+                selected.append(item)
+
+    return selected
+
+
 def attempt_json_repair(text: str):
     """尝试修复被截断的 JSON 响应"""
-    import re
 
     # 确保以 { 开头
     start = text.find('{')
@@ -205,8 +338,9 @@ def generate_content(target_date: str, config: dict) -> dict:
 
     max_input_items = config.get("news_collection", {}).get("max_input_items", 40)
     if len(news_items) > max_input_items:
-        print(f"  新闻条目 {len(news_items)} 超过上限 {max_input_items}，截取前 {max_input_items} 条")
-        news_items = news_items[:max_input_items]
+        print(f"  新闻条目 {len(news_items)} 超过上限 {max_input_items}，按优先级筛选")
+        news_items = prioritize_news(news_items, max_input_items)
+        print(f"  筛选后保留 {len(news_items)} 条（已按重要性排序）")
 
     news_json = json.dumps(news_items, ensure_ascii=False, indent=2)
 
