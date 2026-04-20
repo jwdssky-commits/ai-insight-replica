@@ -353,14 +353,32 @@ def generate_content(target_date: str, config: dict) -> dict:
     print(f"正在调用 MiniMax API ({config['model']})...")
     print(f"  输入新闻: {len(news_items)} 条")
 
-    message = client.chat.completions.create(
-        model=config["model"],
-        max_tokens=128000,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_message}
-        ]
-    )
+    max_api_retries = 12  # 最多重试12次，每次等10分钟，共2小时
+    for api_attempt in range(1, max_api_retries + 1):
+        try:
+            message = client.chat.completions.create(
+                model=config["model"],
+                max_tokens=128000,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_message}
+                ]
+            )
+            break
+        except Exception as e:
+            err_msg = str(e)
+            is_overloaded = "529" in err_msg or "overloaded" in err_msg.lower()
+            if is_overloaded and api_attempt < max_api_retries:
+                wait_min = 10
+                print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_min} 分钟...")
+                import time
+                time.sleep(wait_min * 60)
+                continue
+            else:
+                print(f"  API 调用失败: {e}")
+                if api_attempt >= max_api_retries:
+                    print("  已达最大重试次数，放弃")
+                sys.exit(1)
 
     response_text = message.choices[0].message.content
     finish_reason = getattr(message.choices[0], 'finish_reason', None)
@@ -383,14 +401,29 @@ def generate_content(target_date: str, config: dict) -> dict:
 输出纯 JSON，不要 markdown code block，不要 <think> 标签。"""
 
         print(f"  减少到 {len(reduced_items)} 条重试...")
-        message = client.chat.completions.create(
-            model=config["model"],
-            max_tokens=128000,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": reduced_msg}
-            ]
-        )
+        for api_attempt in range(1, max_api_retries + 1):
+            try:
+                message = client.chat.completions.create(
+                    model=config["model"],
+                    max_tokens=128000,
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": reduced_msg}
+                    ]
+                )
+                break
+            except Exception as e:
+                err_msg = str(e)
+                is_overloaded = "529" in err_msg or "overloaded" in err_msg.lower()
+                if is_overloaded and api_attempt < max_api_retries:
+                    wait_min = 10
+                    print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_min} 分钟...")
+                    import time
+                    time.sleep(wait_min * 60)
+                    continue
+                else:
+                    print(f"  API 调用失败: {e}")
+                    sys.exit(1)
         response_text = message.choices[0].message.content
     if response_text is None:
         print("API 返回空内容")
