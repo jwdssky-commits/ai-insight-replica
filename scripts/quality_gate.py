@@ -165,6 +165,25 @@ def main():
             if url:
                 raw_news_urls.add(url)
 
+    # Auto-fix: remove items with fabricated URLs before validation
+    if raw_news_urls:
+        removed = 0
+        for board in report.get("boards", []):
+            if not board.get("has_news"):
+                continue
+            original_items = board.get("items", [])
+            cleaned = [it for it in original_items if it.get("source_url", "") in raw_news_urls]
+            diff = len(original_items) - len(cleaned)
+            if diff > 0:
+                board["items"] = cleaned
+                removed += diff
+                if not cleaned:
+                    board["has_news"] = False
+        if removed > 0:
+            print(f"[AUTO-FIX] 移除了 {removed} 条编造URL的条目")
+            with open(report_path, "w", encoding="utf-8") as f:
+                json.dump(report, f, indent=2, ensure_ascii=False)
+
     gate = QualityGate(config)
     passed = gate.validate(report, raw_news_urls if raw_news_urls else None)
 
