@@ -56,9 +56,25 @@ def parse_rss_date(date_str):
             continue
     return None
 
-def collect_rss(feeds, lookback_hours, max_per_source):
+def make_cutoff(target_date: str, lookback_hours: int) -> datetime:
+    """基于目标日期计算 cutoff，确保采集的是前一天的新闻"""
+    target_dt = datetime.strptime(target_date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    # 日报日期当天的 00:00 UTC 往前推 lookback_hours
+    return target_dt - timedelta(hours=lookback_hours)
+
+def is_too_old(pub_date_str: str, cutoff: datetime) -> bool:
+    """判断新闻是否太旧，应被过滤。无时区的日期也做过滤"""
+    parsed = parse_rss_date(pub_date_str)
+    if not parsed:
+        return False  # 无日期信息，保留
+    if parsed.tzinfo is None:
+        # 无时区信息，假定为 UTC
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed < cutoff
+
+def collect_rss(feeds, lookback_hours, max_per_source=10, target_date=None):
     items = []
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+    cutoff = make_cutoff(target_date, lookback_hours) if target_date else datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
 
     for feed in feeds:
         name = feed["name"]
@@ -85,8 +101,7 @@ def collect_rss(feeds, lookback_hours, max_per_source):
             if not title or not link:
                 continue
 
-            parsed_date = parse_rss_date(pub_date)
-            if parsed_date and parsed_date.tzinfo and parsed_date < cutoff:
+            if is_too_old(pub_date, cutoff):
                 continue
 
             feed_items.append({
@@ -111,8 +126,7 @@ def collect_rss(feeds, lookback_hours, max_per_source):
             if not title or not link:
                 continue
 
-            parsed_date = parse_rss_date(published)
-            if parsed_date and parsed_date.tzinfo and parsed_date < cutoff:
+            if is_too_old(published, cutoff):
                 continue
 
             feed_items.append({
@@ -168,13 +182,16 @@ def collect_rss(feeds, lookback_hours, max_per_source):
 
 # ---- Hacker News Collector ----
 
-def collect_hackernews(config, lookback_hours, max_items):
+def collect_hackernews(config, lookback_hours, max_items, target_date=None):
     items = []
     keywords = config.get("keywords", ["AI", "LLM"])
     min_points = config.get("min_points", 50)
     boards = config.get("boards", [])
 
-    cutoff_ts = int((datetime.now(timezone.utc) - timedelta(hours=lookback_hours)).timestamp())
+    if target_date:
+        cutoff_ts = int(make_cutoff(target_date, lookback_hours).timestamp())
+    else:
+        cutoff_ts = int((datetime.now(timezone.utc) - timedelta(hours=lookback_hours)).timestamp())
 
     for keyword in keywords[:5]:
         try:
@@ -220,14 +237,17 @@ def collect_hackernews(config, lookback_hours, max_items):
 
 # ---- GitHub Collector ----
 
-def collect_github(repos, lookback_hours, max_items):
+def collect_github(repos, lookback_hours, max_items, target_date=None):
     items = []
     token = os.environ.get("GITHUB_TOKEN", "")
     headers = {"User-Agent": "AI-Insight-Bot/1.0", "Accept": "application/vnd.github+json"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+    if target_date:
+        cutoff = make_cutoff(target_date, lookback_hours)
+    else:
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
 
     for repo_info in repos[:15]:
         repo = repo_info["repo"]
@@ -241,9 +261,7 @@ def collect_github(repos, lookback_hours, max_items):
 
             for rel in releases:
                 pub = rel.get("published_at", "")
-                if pub:
-                    parsed = parse_rss_date(pub)
-                    if parsed and parsed.tzinfo and parsed < cutoff:
+                if is_too_old(pub, cutoff):
                         continue
 
                 name = rel.get("name") or rel.get("tag_name", "")
@@ -307,17 +325,17 @@ def main():
 
     # 1. RSS feeds
     print("\n[RSS 采集]")
-    rss_items = collect_rss(tracking.get("rss_feeds", []), lookback, max_per)
+    rss_items = collect_rss(tracking.get("rss_feeds", []), lookback, max_per, target_date=args.date)
     all_items.extend(rss_items)
 
     # 2. Hacker News
     print("\n[Hacker News 采集]")
-    hn_items = collect_hackernews(tracking.get("hackernews", {}), lookback, max_per)
+    hn_items = collect_hackernews(tracking.get("hackernews", {}), lookback, max_per, target_date=args.date)
     all_items.extend(hn_items)
 
     # 3. GitHub releases
     print("\n[GitHub 采集]")
-    gh_items = collect_github(tracking.get("github_repos", []), lookback, max_per)
+    gh_items = collect_github(tracking.get("github_repos", []), lookback, max_per, target_date=args.date)
     all_items.extend(gh_items)
 
     # Dedup
