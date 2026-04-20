@@ -19,7 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "settings.json"
 
-with open(CONFIG_PATH) as f:
+with open(CONFIG_PATH, encoding="utf-8") as f:
     CONFIG = json.load(f)
 
 DATA_DIR = ROOT / CONFIG["paths"]["data_dir"]
