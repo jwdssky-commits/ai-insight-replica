@@ -111,10 +111,12 @@ def run_step(step: dict, target_date: str, state: dict) -> bool:
     else:
         cmd = [str(script_path), target_date]
 
+    step_timeout = 600 if step["name"] == "generate" else 300
+
     try:
         result = subprocess.run(
             cmd, capture_output=True, text=True,
-            timeout=300, cwd=str(ROOT)
+            timeout=step_timeout, cwd=str(ROOT)
         )
 
         if result.stdout:

@@ -1,6 +1,8 @@
 #!/bin/bash
 # AI手札 — 部署脚本 (Step 5)
 # Git commit + push 到 GitHub Pages
+# 在 CI 环境中，workflow 的 "Commit and push" 步骤会处理提交
+# 此脚本仅做基本验证
 
 set -e
 
@@ -9,6 +11,24 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
 echo "部署开始 - $TARGET_DATE"
 cd "$ROOT"
+
+# 检查 public/ 目录下是否有生成的文件
+if [ -f "public/daily-${TARGET_DATE}.html" ]; then
+    echo "日报页面已生成: public/daily-${TARGET_DATE}.html"
+else
+    echo "警告: 未找到日报页面 public/daily-${TARGET_DATE}.html"
+fi
+
+# 在 CI 环境中，跳过 git 操作（由 workflow 统一处理）
+if [ -n "$CI" ] || [ -n "$GITHUB_ACTIONS" ]; then
+    echo "CI 环境检测到，跳过 git commit/push（由 workflow 统一处理）"
+    echo "部署完成!"
+    exit 0
+fi
+
+# 本地环境：执行 git 操作
+git config user.name "AI手札 Bot" 2>/dev/null || true
+git config user.email "bot@ai-shouzha.github.io" 2>/dev/null || true
 
 if git diff --quiet && git diff --cached --quiet; then
     echo "没有检测到变更，跳过部署"
