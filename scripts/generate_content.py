@@ -353,7 +353,8 @@ def generate_content(target_date: str, config: dict) -> dict:
 请基于以上数据生成今日日报 JSON。严格按照 schema 输出。
 只分析提供的数据，不要编造任何不在上述列表中的新闻或 URL。
 如果某个板块没有相关新闻，设 has_news: false。
-每个板块最多选取3条最重要的新闻，确保输出JSON完整不截断。
+每个板块最多选取2条最重要的新闻，body 控制在100字以内。
+务必确保输出的 JSON 完整，不要被截断。宁可内容简短也不要 JSON 不完整。
 
 输出纯 JSON，不要 markdown code block，不要 <think> 标签。"""
 
@@ -362,7 +363,7 @@ def generate_content(target_date: str, config: dict) -> dict:
 
     message = client.chat.completions.create(
         model=config["model"],
-        max_tokens=16384,
+        max_tokens=32768,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_message}
@@ -370,6 +371,35 @@ def generate_content(target_date: str, config: dict) -> dict:
     )
 
     response_text = message.choices[0].message.content
+    finish_reason = getattr(message.choices[0], 'finish_reason', None)
+
+    if finish_reason == 'length':
+        print(f"  警告: 模型输出被截断 (finish_reason=length)，尝试减少输入重新生成...")
+        reduced_items = news_items[:len(news_items) // 2]
+        reduced_json = json.dumps(reduced_items, ensure_ascii=False, indent=2)
+        reduced_msg = f"""今天是 {target_date}，这是 AI手札 第 {day_number} 天。
+
+以下是今天采集到的 {len(reduced_items)} 条真实新闻数据：
+
+{reduced_json}
+
+请基于以上数据生成今日日报 JSON。严格按照 schema 输出。
+只分析提供的数据，不要编造任何不在上述列表中的新闻或 URL。
+如果某个板块没有相关新闻，设 has_news: false。
+每个板块最多选取2条最重要的新闻，确保输出JSON完整不截断。
+
+输出纯 JSON，不要 markdown code block，不要 <think> 标签。"""
+
+        print(f"  减少到 {len(reduced_items)} 条重试...")
+        message = client.chat.completions.create(
+            model=config["model"],
+            max_tokens=32768,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": reduced_msg}
+            ]
+        )
+        response_text = message.choices[0].message.content
     if response_text is None:
         print("API 返回空内容")
         if hasattr(message.choices[0], 'finish_reason'):

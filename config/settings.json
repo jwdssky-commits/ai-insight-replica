@@ -10,7 +10,8 @@
         "lookback_hours": 28,
         "timeout_seconds": 30,
         "min_total_items": 5,
-        "max_total_items": 80
+        "max_total_items": 80,
+        "max_input_items": 25
     },
     "quality_gate": {
         "min_word_count": 200,
