@@ -46,11 +46,7 @@ jobs:
           git add -A
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "daily: $(date +%Y-%m-%d) auto-update"
-          # 推送前同步远程最新，最多重试3次
-          for i in 1 2 3; do
-            git pull --rebase origin main && git push origin main && exit 0
-            echo "Push attempt $i failed, retrying..."
-            sleep 2
-          done
-          echo "Push failed after 3 attempts"
-          exit 1
+          echo "同步远程并推送..."
+          git fetch origin main
+          git rebase origin/main
+          git push origin main
