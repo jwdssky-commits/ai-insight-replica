@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   generate-daily:
@@ -54,3 +55,11 @@ jobs:
             echo "Push failed, retrying ($i/3)..."
             sleep 5
           done
+          echo "HAS_CHANGES=true" >> $GITHUB_ENV
+
+      - name: Trigger deploy
+        if: env.HAS_CHANGES == 'true'
+        run: |
+          gh workflow run deploy-pages.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
