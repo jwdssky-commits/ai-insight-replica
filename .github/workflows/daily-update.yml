@@ -1,4 +1,5 @@
 name: daily-update
+
 on:
   schedule:
     - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
@@ -8,6 +9,8 @@ on:
         description: '目标日期 (YYYY-MM-DD)'
         required: false
         default: ''
+  repository_dispatch:
+    types: [trigger-daily-update]
 
 permissions:
   contents: write
@@ -46,7 +49,8 @@ jobs:
           git add -A
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "daily: $(date +%Y-%m-%d) auto-update"
-          echo "同步远程并推送..."
-          git fetch origin main
-          git rebase origin/main
-          git push origin main
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Push failed, retrying ($i/3)..."
+            sleep 5
+          done
