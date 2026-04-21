@@ -23,7 +23,14 @@ def update_homepage(target_date: str):
     html = index_path.read_text(encoding="utf-8")
     changes = []
 
-    # 1. Inject new daily card at top of daily list
+    # 1. Remove existing card for same date (prevent duplicates)
+    existing_card_pattern = rf'<a class="daily-card" href="daily-{re.escape(target_date)}\.html">.*?</a>'
+    old_count = len(re.findall(existing_card_pattern, html, re.DOTALL))
+    if old_count > 0:
+        html = re.sub(existing_card_pattern, '', html, flags=re.DOTALL)
+        changes.append(f"移除 {old_count} 条旧卡片")
+
+    # 2. Inject new daily card at top of daily list
     if card_path.exists():
         card_html = card_path.read_text(encoding="utf-8")
         marker = '<div class="daily-list" id="dailyList">'
