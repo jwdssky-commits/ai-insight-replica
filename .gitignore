@@ -1,5 +1,3 @@
-data/daily-workflow/
-data/flags/
 data/cron.log
 __pycache__/
 *.pyc

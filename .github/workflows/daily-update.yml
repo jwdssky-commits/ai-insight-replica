@@ -2,7 +2,7 @@ name: daily-update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+    - cron: '26 22 * * *'  # UTC 22:26 = 北京时间 06:26
   workflow_dispatch:
     inputs:
       date:
@@ -39,7 +39,8 @@ jobs:
         run: |
           DATE="${{ github.event.inputs.date }}"
           if [ -z "$DATE" ]; then
-            DATE=$(date +%Y-%m-%d)
+            # 北京时间 06:30 = UTC 22:30(前一天), 日报标注前一天日期
+            DATE=$(TZ=Asia/Shanghai date -d 'yesterday' +%Y-%m-%d)
           fi
           python scripts/orchestrator.py --date "$DATE"
 
@@ -57,9 +58,24 @@ jobs:
           done
           echo "HAS_CHANGES=true" >> $GITHUB_ENV
 
+      - name: Upload state for debugging
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: state-${{ github.run_id }}
+          path: |
+            data/daily-workflow/
+            data/flags/
+          retention-days: 14
+
       - name: Trigger deploy
         if: env.HAS_CHANGES == 'true'
         run: |
           gh workflow run deploy-pages.yml
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "Daily update failed! Check: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"

@@ -2,7 +2,7 @@
     "project_name": "AI手札",
     "focus_topics": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型"],
     "language": "zh-CN",
-    "schedule": "08:00",
+    "schedule": "06:26",
     "model": "MiniMax-M2.7",
     "max_retries": 3,
     "news_collection": {

@@ -353,7 +353,8 @@ def generate_content(target_date: str, config: dict) -> dict:
     print(f"正在调用 MiniMax API ({config['model']})...")
     print(f"  输入新闻: {len(news_items)} 条")
 
-    max_api_retries = 12  # 最多重试12次，每次等10分钟，共2小时
+    max_api_retries = 4  # 4次指数退避: 30s, 90s, 240s, 600s (总计~16分钟)
+    backoff_seconds = [30, 90, 240, 600]
     for api_attempt in range(1, max_api_retries + 1):
         try:
             message = client.chat.completions.create(
@@ -369,10 +370,10 @@ def generate_content(target_date: str, config: dict) -> dict:
             err_msg = str(e)
             is_overloaded = "529" in err_msg or "overloaded" in err_msg.lower()
             if is_overloaded and api_attempt < max_api_retries:
-                wait_min = 10
-                print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_min} 分钟...")
+                wait_s = backoff_seconds[api_attempt - 1]
+                print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_s}s...")
                 import time
-                time.sleep(wait_min * 60)
+                time.sleep(wait_s)
                 continue
             else:
                 print(f"  API 调用失败: {e}")
@@ -416,10 +417,10 @@ def generate_content(target_date: str, config: dict) -> dict:
                 err_msg = str(e)
                 is_overloaded = "529" in err_msg or "overloaded" in err_msg.lower()
                 if is_overloaded and api_attempt < max_api_retries:
-                    wait_min = 10
-                    print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_min} 分钟...")
+                    wait_s = backoff_seconds[api_attempt - 1]
+                    print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_s}s...")
                     import time
-                    time.sleep(wait_min * 60)
+                    time.sleep(wait_s)
                     continue
                 else:
                     print(f"  API 调用失败: {e}")

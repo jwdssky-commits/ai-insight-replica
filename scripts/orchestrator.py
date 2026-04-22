@@ -136,7 +136,7 @@ def run_step(step: dict, target_date: str, state: dict) -> bool:
         return True
 
     except subprocess.TimeoutExpired:
-        log.error("  超时 (300s)")
+        log.error(f"  超时 ({step_timeout}s)")
         state["errors"].append(f"Step {step_id}: timeout")
         return False
     except Exception as e:
