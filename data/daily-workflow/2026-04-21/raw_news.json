@@ -1,0 +1,950 @@
+{
+  "date": "2026-04-21",
+  "collected_at": "2026-04-22T03:27:42.830265+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Tue, 21 Apr 2026 14:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp\">Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 21 Apr 2026 10:09:58 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 21 Apr 2026 00:40:10 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+      "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-22T02:07:34+00:00",
+      "summary": "<p>Anthropic today quietly (as in <em>silently</em>, no announcement anywhere at all) updated their <a href=\"https://claude.com/pricing\">claude.com/pricing</a> page (but not their <a href=\"https://support.claude.com/en/articles/11049762-choosing-a-claude-plan\">Choosing a Claude plan page</a>, which ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+      "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-21T20:32:24+00:00",
+      "summary": "<p>OpenAI <a href=\"https://openai.com/index/introducing-chatgpt-images-2-0/\">released ChatGPT Images 2.0 today</a>, their latest image generation model. On <a href=\"https://www.youtube.com/watch?v=sWkGomJ3TLI\">the livestream</a> Sam Altman said that the leap from gpt-image-1 to gpt-image-2 was equiv",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Andreas Påhlsson-Notini",
+      "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-21T16:39:33+00:00",
+      "summary": "<blockquote cite=\"https://nial.se/blog/less-human-ai-agents-please/\"><p>AI agents are already too human. Not in the romantic sense, not because they love or fear or dream, but in the more banal and frustrating one. The current implementations keep showing their human origin again and again: lack of ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "scosman/pelicans_riding_bicycles",
+      "url": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-21T15:54:43+00:00",
+      "summary": "<p><strong><a href=\"https://github.com/scosman/pelicans_riding_bicycles\">scosman/pelicans_riding_bicycles</a></strong></p>\nI firmly approve of Steve Cosman's efforts to pollute the training set of pelicans riding bicycles.</p>\n<p><img alt=\"The heading says &quot;Pelican Riding a Bicycle #1 - the ima",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm-openrouter 0.6",
+      "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-20T18:00:26+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.6\">llm-openrouter 0.6</a></p>\n    <blockquote>\n<ul>\n<li><code>llm openrouter refresh</code> command for refreshing the list of available models without waiting for the cache to expire.</li>\n</ul>\n</blockquo",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SQL functions in Google Sheets to fetch data from Datasette",
+      "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-20T02:33:58+00:00",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/google-sheets/datasette-sql\">SQL functions in Google Sheets to fetch data from Datasette</a></p>\n    <p>I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the <code>impo",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-20T00:50:45+00:00",
+      "summary": "<p><strong><a href=\"https://tools.simonwillison.net/claude-token-counter\">Claude Token Counter, now with model comparisons</a></strong></p>\nI <a href=\"https://github.com/simonw/tools/pull/269\">upgraded</a> my Claude Token Counter tool to add the ability to run the same count against different models",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Headless everything for personal AI",
+      "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-19T21:46:38+00:00",
+      "summary": "<p><strong><a href=\"https://interconnected.org/home/2026/04/18/headless\">Headless everything for personal AI</a></strong></p>\nMatt Webb thinks <strong>headless</strong> services are about to become much more common:</p>\n<blockquote>\n<p>Why? Because using personal AIs is a better experience for users",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 23:45:21 +0000",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 23:26:45 +0000",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 22:58:22 +0000",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 20:23:24 +0000",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 19:11:29 +0000",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 19:00:00 +0000",
+      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 18:51:52 +0000",
+      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 17:11:01 +0000",
+      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 16:00:00 +0000",
+      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 21 Apr 2026 15:24:29 +0000",
+      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T18:45:37-04:00",
+      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools com",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI backlash is coming for elections",
+      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T15:00:05-04:00",
+      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI’s updated image generator can now pull information from the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T15:00:00-04:00",
+      "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with imp",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T14:07:24-04:00",
+      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instea",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T13:30:24-04:00",
+      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T12:19:40-04:00",
+      "summary": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "John Ternus’ first big problem is AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T09:37:55-04:00",
+      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, curren",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Yelp is making its AI chatbot way more useful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-21T07:00:00-04:00",
+      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more re",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Silicon Valley has forgotten what normal people want",
+      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-20T16:30:00-04:00",
+      "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Kno",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
+      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-20T12:58:39-04:00",
+      "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialo",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "6分钟满电续航1500公里！宁王一夜终结加油时代",
+      "url": "https://www.qbitai.com/2026/04/404167.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 22 Apr 2026 02:13:30 +0000",
+      "summary": "钠电池也来了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "单Agent时代结束，AI们开始组团上班",
+      "url": "https://www.qbitai.com/2026/04/404130.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 22 Apr 2026 01:36:29 +0000",
+      "summary": "Kimi K2.6来了！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
+      "url": "https://www.qbitai.com/2026/04/404124.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 14:21:13 +0000",
+      "summary": "通过将自动驾驶领域成熟的“工业化AI”打法、高效的数据飞轮与极强的工程部署能力引入具身赛道，众擎加速打造原生多模态驱动、大小脑与神经末梢协同的全集成架构。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
+      "url": "https://www.qbitai.com/2026/04/404096.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 12:02:52 +0000",
+      "summary": "欢迎报名，北京线下见！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
+      "url": "https://www.qbitai.com/2026/04/404086.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 08:45:58 +0000",
+      "summary": "高精渲染引擎，解决\"数据稀缺\"",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+      "url": "https://www.qbitai.com/2026/04/404082.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 08:31:55 +0000",
+      "summary": "深挖人工智能与数字安全领域创新成果",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+      "url": "https://www.qbitai.com/2026/04/403871.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 06:26:50 +0000",
+      "summary": "上线一周破万星",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "把人类驾驶员赶出机场，复旦大牛校友要港股IPO了",
+      "url": "https://www.qbitai.com/2026/04/403872.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 06:19:22 +0000",
+      "summary": "不做Robotaxi，专攻机场的L4公司要IPO了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测",
+      "url": "https://www.qbitai.com/2026/04/403867.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 04:57:31 +0000",
+      "summary": "于3月6日上线并开启小范围封测。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+      "url": "https://www.qbitai.com/2026/04/403859.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 21 Apr 2026 04:54:43 +0000",
+      "summary": "当代码可以被生成，程序员还能做些什么？",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
+      "url": "https://36kr.com/p/3774632804057607?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-22 08:30:00  +0800",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>近期，万亿市值“药王”礼来斥资24亿美元（超160亿人民币）完成的一笔收购，将医药行业的目光重新吸引回细胞与基因治疗（CGT）领域。</p>\n  <p>被收购企业Orna Therapeutics主要从事环状RNA研究，核心药物是一款靶向CD19的体内CAR-T，即将步入临床试验阶段。相较动辄百万元一针的传统CAR-T，体内CAR-T是一种有潜力实现“物美价廉”的细胞疗法。有从业者认为，如果体内CAR-T未来能成药，且实现大规模生产，价格可以做到和普通抗体产品类似，有望解决困扰传统CAR-T已久的商业化难题。</p>\n  <p",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
+      "url": "https://36kr.com/p/3777227930224900?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-22 07:59:50  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>航旅纵横致歉：部分功能出现使用异常，正全力抢修</li>\n   <li>星巴克中国回应开放加盟传闻：不实信息</li>\n   <li>微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付</li>\n   <li>截至3月底，全国5G基站总数已达495.8万个</li>\n   <li>猪价开启“回暖”模式，5家公司去年净利润超1亿元</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>MCN机构回应女孩挪用上千万打赏主播：相关问题可对接平台处理</strong></p>\n  <p>4月",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+      "url": "https://36kr.com/p/3776741071571200?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 23:40:02  +0800",
+      "summary": "<p>智界，这个华为与奇瑞联合打造的汽车品牌，将翻身的希望押注在了智界V9。</p>\n  <p>36氪获悉，智界V9给供应商下达了年均约12万辆的生产量纲，这一销量指引接近去年MPV市场“常青树”别克GL8全年的销量。</p>\n  <p>据36氪了解，目前宁德时代与中创新航两家电池供应商，共计为智界V9准备了过万套月产能，也有供应商按1.5万辆/月的峰值产能去备件。从供应链的备件情况来看，供应商初步认可了智界V9的销量指引。</p>\n  <p>另有接近智界的行业人士告诉36氪，智界正规划一款轿跑车型，计划达到一个较为极限的性能目标。这款车或将被送往纽北赛道，挑战一众国外豪华超跑车型。显然，智界",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+      "url": "https://36kr.com/p/3776458805904129?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 19:20:06  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>猛士汽车携手华为乾崑发布智能越野黑科技</strong></p>\n  <p>36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术逐步落地到4款以上的全新车型上。</p>\n  <p><strong>长安汽车朱华荣：2030年力争实现营收6000亿元</strong></p>\n  <p>36氪获悉，在中国长安汽车战略发布会上，中国长安汽车党委书记、董事长朱华荣表示，公司将按照“十年两步走”，到2030年，力争实现营业收入6000亿元",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+      "url": "https://36kr.com/p/3769659305427459?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 16:19:29  +0800",
+      "summary": "<p>36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。</p>\n  <p>在通用人工智能（AGI）横扫人类语言世界的今天，一个被忽视的语言场景被一家初创企业投入了密切关注——那就是人类与动物之间的沟通。</p>\n  <p>长期以来，人类与宠物的互动多停留在感性猜测层面。虽然宠物市场规模巨大——据统计，2025年全球宠物市场规模预计将达到2700亿美元，且复合增长率达6.45%——但在“理解宠物真实需求”这一核心痛点上，市场仍缺乏",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
+      "url": "https://36kr.com/p/3776220864103171?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 14:52:49  +0800",
+      "summary": "<p>4月20日晚间，地产经纪公司我爱我家发布2025年年度报告。年报数据显示，我爱我家去年实现营业总收入104.8亿元，同比下滑16.4%；实现住房总交易金额（GTV）约2520亿元，同比下滑12.4%。</p>\n  <p>在利润方面，报告期内，我爱我家归属母公司所有者净利润为-9663.1万元，同比大幅减少231.63%。继2022年、2023年连续亏损，2024年扭亏为盈之后，我爱我家在去年再度由盈转亏。</p>\n  <p>我爱我家是地产中介领域规模第二大的企业，仅次于贝壳。从业绩表现来看，我爱我家业绩下滑的核心原因在于房地产经纪业务受市场环境拖累显著。</p>\n  <p class=\"",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+      "url": "https://36kr.com/p/3774891479712514?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 12:45:02  +0800",
+      "summary": "<p>专注于AI+母婴智能生态的奇世智能CheeChips正式宣布完成天使轮融资。</p>\n  <p>本轮资金近半数将被投入技术研发，用于AI模型迭代、新产品原型打磨与专利布局；30%用于引进顶尖人才、扩充研发与运营团队；剩余25%投入市场调研、品牌建设与用户需求挖掘。</p>\n  <p>奇世智能推出了家用AI模拟全彩胎儿记录仪，这款硬件能够记录全孕期胎儿成长，改变准妈妈们的孕期体验，让孕期不再是母亲一个人的感受，而成为一个能与家人分享的，有意义的、连续的内容。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1358,906\" s",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
+      "url": "https://36kr.com/p/3774707915440897?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 09:31:55  +0800",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，劳尼克斯科技（南京）有限公司（以下简称“劳尼克斯”）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本。资金将重点投向核心产品研发迭代、人才团队扩容升级，同时全力支撑海外市场的布局拓展与本地化落地。</p>\n  <p>劳尼克斯核心团队成员来自智能硬件、消费机器人与园林工具等相关领域的头部企业。其产品矩阵涵盖割草机、打草机、修枝机、链锯等多种动力工具，并配套电池包、充电器等电动配件方案，采取20V、40V、60V全电压平台策略，覆盖从中小庭院到高端大宅的全场景需求。</p>\n  <p>自今年",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "url": "https://36kr.com/p/3775892441301511?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 09:17:02  +0800",
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在海外风行几年，估值破15亿美元后，AI睡眠系统独角兽Eight Sleep终于决定进入中国。</p>\n  <p>4月，他们在深圳南山INNO100全球创新旗舰店正式发布了售价19999元起的Pod 5智能深眠系统，通过微信小程序、京东、天猫等渠道销售。前所未有地，Eight Sleep为中国普通版用户免除了199美元的软件订阅费——起码在这一点上，Eight Sleep还是很懂得中国市场。</p>\n  <p>Eight Sleep不是头一天和中国市场打交道。</p>\n  <p>2015年，Eight Sleep还在开发第一款",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
+      "url": "https://36kr.com/p/3775833331286530?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-21 08:19:48  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>美关税退款系统上线</li>\n   <li>字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%</li>\n   <li>“五一”临近航班遭取消？航空公司：优先签转，保障旅客顺利成行</li>\n   <li>贵州茅台盘中股价反超源杰科技，重新成为A股“一哥”</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>苹果公司宣布特纳斯将接替库克担任CEO</strong></p>\n  <p>当地时间4月20日，美国苹果公司宣布任命内部高管、长期负责硬件业务的约翰·特纳斯为该公司下一任首席",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Governing the Agentic Enterprise: A Governance Maturity Model for Managing AI Agent Sprawl in Business Operations",
+      "url": "https://arxiv.org/abs/2604.16338",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16338v1 Announce Type: new \nAbstract: The rapid adoption of agentic AI in enterprise business operations--autonomous systems capable of planning, reasoning, and executing multi-step workflows--has created an urgent governance crisis. Organizations face uncontrolled agent sprawl: the proli",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2604.16339",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16339v1 Announce Type: new \nAbstract: Multi-agent large language model (LLM) systems are rapidly emerging as the dominant architecture for enterprise AI automation, yet production deployments exhibit failure rates between 41% and 86.7%, with nearly 79% of failures originating from specifi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Computational Hermeneutics: Evaluating generative AI as a cultural technology",
+      "url": "https://arxiv.org/abs/2604.16403",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16403v1 Announce Type: new \nAbstract: Generative AI systems are increasingly recognized as cultural technologies, yet current evaluation frameworks often treat culture as a variable to be measured rather than fundamental to the system's operation. Drawing on hermeneutic theory from the hu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Heterogeneous Self-Play for Realistic Highway Traffic Simulation",
+      "url": "https://arxiv.org/abs/2604.16406",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16406v1 Announce Type: new \nAbstract: Realistic highway simulation is critical for scalable safety evaluation of autonomous vehicles, particularly for interactions that are too rare to study from logged data alone. Yet highway traffic generation remains challenging because it requires bro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Support Sufficiency as Consequence-Sensitive Compression in Belief Arbitration",
+      "url": "https://arxiv.org/abs/2604.16434",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16434v1 Announce Type: new \nAbstract: When a system commits to a hypothesis, much of the evidential structure behind that commitment is lost to compression. Standard accounts assume that selected content and scalar confidence suffice for downstream control. This paper argues that they do ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework",
+      "url": "https://arxiv.org/abs/2604.16465",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16465v1 Announce Type: new \nAbstract: Healthcare productivity is shaped not only by clinical complexity but by the costs of coordinating work under uncertainty. Transaction-cost economics offers a theory of these coordination frictions, yet has rarely been operationalised at task level ac",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic Frameworks for Reasoning Tasks: An Empirical Study",
+      "url": "https://arxiv.org/abs/2604.16646",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16646v1 Announce Type: new \nAbstract: Recent advances in agentic frameworks have enabled AI agents to perform complex reasoning and decision-making. However, evidence comparing their reasoning performance, efficiency, and practical suitability remains limited. To address this gap, we empi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Subsumption to Satisfiability: LLM-Assisted Active Learning for OWL Ontologies",
+      "url": "https://arxiv.org/abs/2604.16672",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16672v1 Announce Type: new \nAbstract: In active learning, membership queries (MQs) allow a learner to pose questions to a teacher, such as ''Is every apple a fruit?'', to which the teacher responds correctly with yes or no. These MQs can be viewed as subsumption tests with respect to the ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic Risk-Aware Set-Based Engineering Design",
+      "url": "https://arxiv.org/abs/2604.16687",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16687v1 Announce Type: new \nAbstract: This paper introduces a multi-agent framework guided by Large Language Models (LLMs) to assist in the early stages of engineering design, a phase often characterized by vast parameter spaces and inherent uncertainty. Operating under a human-in-the-loo",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Query Channel: Information-Theoretic Limits of Masking-Based Explanations",
+      "url": "https://arxiv.org/abs/2604.16689",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16689v1 Announce Type: new \nAbstract: Masking-based post-hoc explanation methods, such as KernelSHAP and LIME, estimate local feature importance by querying a black-box model under randomized perturbations. This paper formulates this procedure as communication over a query channel, where ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Multimodal Claim Extraction for Fact-Checking",
+      "url": "https://arxiv.org/abs/2604.16311",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16311v1 Announce Type: new \nAbstract: Automated Fact-Checking (AFC) relies on claim extraction as a first step, yet existing methods largely overlook the multimodal nature of today's misinformation. Social media posts often combine short, informal text with images such as memes, screensho",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cross-Family Speculative Decoding for Polish Language Models on Apple~Silicon: An Empirical Evaluation of Bielik~11B with UAG-Extended MLX-LM",
+      "url": "https://arxiv.org/abs/2604.16368",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16368v2 Announce Type: new \nAbstract: Speculative decoding accelerates LLM inference by using a small draft model to propose k candidate tokens for a target model to verify. While effective for same-tokenizer pairs on high-bandwidth GPUs, its applicability to cross-family pairs with misma",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Brain-CLIPLM: Decoding Compressed Semantic Representations in EEG for Language Reconstruction",
+      "url": "https://arxiv.org/abs/2604.16370",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16370v1 Announce Type: new \nAbstract: Decoding natural language from non-invasive electroencephalography (EEG) remains fundamentally limited by low signal-to-noise ratio and restricted information bandwidth. This raises a fundamental question regarding whether sentence-level linguistic st",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CFMS: Towards Explainable and Fine-Grained Chinese Multimodal Sarcasm Detection Benchmark",
+      "url": "https://arxiv.org/abs/2604.16372",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16372v1 Announce Type: new \nAbstract: Multimodal sarcasm detection has recently garnered significant attention. However, existing benchmarks suffer from coarse-grained annotations and limited cultural coverage, which hinder research into fine-grained semantic understanding. To address thi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Foundational Study on Authorship Attribution of Japanese Web Reviews for Actor Analysis",
+      "url": "https://arxiv.org/abs/2604.16376",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16376v1 Announce Type: new \nAbstract: This study investigates the applicability of authorship attribution based on stylistic features to support actor analysis in threat intelligence. As a foundational step toward future application to dark web forums, we conducted experiments using Japan",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GoCoMA: Hyperbolic Multimodal Representation Fusion for Large Language Model-Generated Code Attribution",
+      "url": "https://arxiv.org/abs/2604.16377",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16377v1 Announce Type: new \nAbstract: Large Language Models (LLMs) trained on massive code corpora are now increasingly capable of generating code that is hard to distinguish from human-written code. This raises practical concerns, including security vulnerabilities and licensing ambiguit",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Reciprocal Co-Training (RCT): Coupling Gradient-Based and Non-Differentiable Models via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.16378",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16378v1 Announce Type: new \nAbstract: Large language models (LLMs) and classical machine learning methods offer complementary strengths for predictive modeling, yet their fundamentally different representations and training paradigms hinder effective integration: LLMs rely on gradient-bas",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Data Mixing for Large Language Models Pretraining: A Survey and Outlook",
+      "url": "https://arxiv.org/abs/2604.16380",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16380v1 Announce Type: new \nAbstract: Large language models (LLMs) rely on pretraining on massive and heterogeneous corpora, where training data composition has a decisive impact on training efficiency and downstream generalization under realistic compute and data budget constraints. Unli",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "LiFT: Does Instruction Fine-Tuning Improve In-Context Learning for Longitudinal Modelling by Large Language Models?",
+      "url": "https://arxiv.org/abs/2604.16382",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16382v1 Announce Type: new \nAbstract: Longitudinal NLP tasks require reasoning over temporally ordered text to detect persistence and change in human behavior and opinions. However, in-context learning with large language models struggles on tasks where models must integrate historical co",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "QU-NLP at QIAS 2026: Multi-Stage QLoRA Fine-Tuning for Arabic Islamic Inheritance Reasoning",
+      "url": "https://arxiv.org/abs/2604.16396",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 21 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.16396v1 Announce Type: new \nAbstract: Islamic inheritance law (ilm al-mawar{\\i}th) presents a challenging domain for evaluating large language models' structured reasoning capabilities, requiring multi-step legal analysis, rule-based blocking decisions, and precise fractional calculations",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I'm Sick of AI Everything (146pts)",
+      "url": "https://news.ycombinator.com/item?id=47857461",
+      "source": "Hacker News (API)",
+      "published": "2026-04-22T01:19:30Z",
+      "summary": "HN热度: 146分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training (371pts)",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-21T17:40:39Z",
+      "summary": "HN热度: 371分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables (278pts)",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "source": "Hacker News (API)",
+      "published": "2026-04-21T17:14:35Z",
+      "summary": "HN热度: 278分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data (58pts)",
+      "url": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html",
+      "source": "Hacker News (API)",
+      "published": "2026-04-21T16:32:26Z",
+      "summary": "HN热度: 58分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them (55pts)",
+      "url": "https://charlielabs.ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-21T16:16:41Z",
+      "summary": "HN热度: 55分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production (92pts)",
+      "url": "https://www.brex.com/crabtrap",
+      "source": "Hacker News (API)",
+      "published": "2026-04-21T15:29:16Z",
+      "summary": "HN热度: 92分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}

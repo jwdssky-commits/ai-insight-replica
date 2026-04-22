@@ -1,0 +1,164 @@
+{
+  "title": "OpenAI企业级AI密集落地，苹果换帅开启后库克时代",
+  "date": "2026-04-21",
+  "summary": "今日AI领域重磅频发：OpenAI宣布Codex企业用户达400万并与埃森哲、普华永道等达成合作，ChatGPT Images 2.0发布并支持网页搜索；SpaceX宣布600亿美元收购AI编程工具Cursor，或为xAI工具链整合做准备；苹果宣布John Ternus将接替库克担任CEO，AI战略成首要挑战。国内方面，赛博女娲开源一周破万星，小米PC版龙虾开启封测。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型"
+  ],
+  "highlight": {
+    "title": "SpaceX或以600亿美元收购Cursor",
+    "body": "SpaceX宣布可能以600亿美元收购AI编程独角兽Cursor，或为xAI工具链整合做准备。该交易若完成将成为AI Coding领域最大并购，标志AI编程工具从开发者工具向企业基础设施演进。",
+    "source_url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "ChatGPT Images 2.0发布，图像生成能力再飞跃",
+          "body": "OpenAI发布ChatGPT Images 2.0图像生成模型，支持网页搜索获取实时信息生成图像。Sam Altman表示这是从gpt-image-1到gpt-image-2的最大飞跃，文本渲染能力显著提升，可生成复杂文字嵌入图像。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "OpenAI Codex企业用户达400万",
+          "body": "OpenAI宣布Codex周活跃用户达400万，并推出Codex Labs与埃森哲、普华永道、Infosys等合作，帮助企业在软件开发生命周期中部署AI编程能力。",
+          "source_url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Accenture",
+            "PwC",
+            "Infosys"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "SpaceX或以600亿美元收购Cursor",
+          "body": "SpaceX宣布可能以600亿美元收购AI编程独角兽Cursor，或若交易不成支付10亿美元违约金。此举或为xAI工具链整合做准备，Cursor作为估值180亿美元的AI编程独角兽可能成为xAI生态核心组件。",
+          "source_url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "SpaceX",
+            "Cursor",
+            "xAI",
+            "Elon Musk"
+          ]
+        },
+        {
+          "headline": "Claude Code定价策略引发混乱",
+          "body": "Anthropic悄然更新claude.com/pricing页面但未发布公告，引发Claude Code是否将涨至100美元/月的猜测。相关页面与帮助中心定价信息不一致，用户困惑不已。",
+          "source_url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Anthropic",
+            "Claude Code"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "ChatGPT Images 2.0文本渲染能力获好评",
+          "body": "TechCrunch实测ChatGPT Images 2.0，发现其在生成嵌入文字的图像方面表现突出，远超DALL-E 3等竞品。OpenAI称这是图像生成能力的重要飞跃。",
+          "source_url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT Images"
+          ]
+        },
+        {
+          "headline": "Eight Sleep入华推AI床垫19999元起",
+          "body": "估值超15亿美元的AI睡眠系统独角兽Eight Sleep正式进入中国，在深圳发布售价19999元起的Pod 5智能深眠系统，并为中国用户免除199美元/月订阅费。",
+          "source_url": "https://36kr.com/p/3775892441301511?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "Eight Sleep",
+            "AI睡眠"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "赛博女娲开源一周破万星",
+          "body": "国产赛博女娲项目上线GitHub一周获得超过10000星标，该项目实现对各类模型的蒸馏处理，展示了在模型压缩和知识迁移方面的技术创新。",
+          "source_url": "https://www.qbitai.com/2026/04/403871.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "赛博女娲"
+          ]
+        },
+        {
+          "headline": "John Ternus接任苹果CEO，AI为首要挑战",
+          "body": "苹果宣布硬件高管John Ternus将接替库克担任CEO，这是库克任期内最大管理层交接。分析认为AI战略缺失是 Ternus面临的首要挑战，苹果在生成式AI时代面临紧迫局面。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Apple",
+            "John Ternus",
+            "Tim Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Hyatt全球部署ChatGPT Enterprise",
+          "body": "Hyatt在其全球员工中部署ChatGPT Enterprise，使用GPT-5.4和Codex提升生产力、工作流程和客户体验。这是酒店业最大规模的企业级AI部署之一。",
+          "source_url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Hyatt",
+            "OpenAI",
+            "ChatGPT Enterprise"
+          ]
+        },
+        {
+          "headline": "小米PC版龙虾开启多终端封测",
+          "body": "小米宣布上线PC版龙虾（Xiaomi miclaw），正式开启PC、Mac和有屏音箱多终端封测。该产品于3月6日上线小范围测试，本月扩展至更多平台。",
+          "source_url": "https://www.qbitai.com/2026/04/403867.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "小米",
+            "龙虾"
+          ]
+        }
+      ]
+    }
+  ]
+}
