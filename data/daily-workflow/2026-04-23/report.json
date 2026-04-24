@@ -1,0 +1,138 @@
+{
+  "title": "GPT-5.5重磅发布：代码能力大幅提升，Claude Code质量问题确认",
+  "date": "2026-04-23",
+  "summary": "OpenAI今日正式发布GPT-5.5，号称“最智能、最直观”的模型，在代码、知识工作、科学研究三个领域全面超越GPT-5.4。Anthropic随后发布Claude Code质量回溯报告，确认过去两个月用户投诉属实。同时Google发布第八代TPU，专为Agent时代设计的新芯片。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI行业",
+    "热点"
+  ],
+  "highlight": {
+    "title": "OpenAI发布GPT-5.5：代码能力显著提升，内测工程师称\"失去它像被截肢\"",
+    "body": "GPT-5.5较上一代在代码、科学研究和知识工作三个核心领域全面拉开差距。一位英伟达工程师评价该模型'失去它像被截肢'。新模型已通过Codex和ChatGPT向付费用户推送。",
+    "source_url": "https://www.qbitai.com/2026/04/406221.html"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI正式发布GPT-5.5：代码、科学研究、知识工作全面超越GPT-5.4",
+          "body": "OpenAI于4月23日发布GPT-5.5，称其为\"最智能、最直观的模型\"。新模型在代码、科学研究和知识工作三个领域全面超越GPT-5.4。英伟达工程师内测后评价\"失去它像被截肢\"。GPT-5.5通过Codex和ChatGPT向付费用户推送，同时发布Bio Bug Bounty计划，最高奖励$25,000。",
+          "source_url": "https://www.qbitai.com/2026/04/406221.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Anthropic"
+          ]
+        },
+        {
+          "headline": "Google发布第八代TPU：专为Agent时代设计的两款专用芯片",
+          "body": "Google发布第八代TPU，包含两款专用芯片TPU-8T和TPU-8I，专为Agent时代的工作负载设计。Google同时宣布在奥地利建立首个数据中心，创造100个直接就业岗位。此外，DeepMind发布Decoupled DiLoCo分布式训练技术，提升AI训练韧性。",
+          "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "source_name": "Google AI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "DeepMind",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic发布Claude Code质量报告：确认两个月前真实存在问题",
+          "body": "Anthropic工程团队发布Claude Code质量回溯报告，证实过去两个月用户投诉\"质量下降\"属实。问题已被识别并修复，团队对造成的影响表示歉意。这是Anthropic罕见的公开技术复盘。",
+          "source_url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/",
+          "source_name": "Simon Willison",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude Code"
+          ]
+        },
+        {
+          "headline": "DeepSeek V4预览版发布：以极低价格接近前沿水平",
+          "body": "DeepSeek发布V4系列首个预览模型DeepSeek-V4-Research-Preview，在HuggingFace可下载。该模型以极低成本接近前沿性能水平。这是DeepSeek自去年12月V3.2以来的首次重大更新。",
+          "source_url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "DeepSeek",
+            "HuggingFace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI Codex详细教程发布：涵盖自动化、插件、工作流三大核心功能",
+          "body": "OpenAI发布系列Codex教程，详细介绍自动化任务（Schedules和Triggers）、插件与Skills系统、项目和线程管理。Codex定位为超越聊天的AI Agent平台，可连接外部工具并产出实际交付物。",
+          "source_url": "https://openai.com/academy/what-is-codex",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Codex"
+          ]
+        },
+        {
+          "headline": "Simon Willison实验：GPT-5.5可通过Codex非官方API调用",
+          "body": "AI开发者Simon Willison发布工具llm-openai-via-codex，可劫持Codex CLI凭证通过LLM项目调用GPT-5.5。这是首个利用Codex后门API的开源工具。",
+          "source_url": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/",
+          "source_name": "Simon Willison",
+          "importance": "low",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "千里科技智能驾驶装车量突破46万辆，预计2026年进入百万量级",
+          "body": "千里科技发布AI战略，数据显示其智驾装车量已达46万辆，覆盖极氪、领克17款车型。公司预计2026年跨入\"百万量级俱乐部\"，智驾市场竞争格局面临重新洗牌。",
+          "source_url": "https://36kr.com/p/3779369343144965",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "千里科技",
+            "极氪",
+            "领克"
+          ]
+        },
+        {
+          "headline": "ThinkPad发布AI主机：支持一键部署大模型，三年总成本较云主机节省48%",
+          "body": "ThinkPad发布AI主机产品，支持一键部署AI模型。官方数据显示，三年总成本较云主机可节省48%。此外，量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能。",
+          "source_url": "https://36kr.com/p/3774776226923272",
+          "source_name": "36氪",
+          "importance": "low",
+          "related_entities": [
+            "ThinkPad",
+            "马丁·卢克"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}

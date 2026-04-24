@@ -1,0 +1,17 @@
+{
+  "date": "2026-04-23",
+  "current_step": 5,
+  "steps_completed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "started_at": "2026-04-24T06:21:30.084842",
+  "finished_at": "2026-04-24T06:22:36.474539",
+  "status": "completed",
+  "errors": [],
+  "retries": 0
+}
