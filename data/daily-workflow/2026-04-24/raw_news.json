@@ -1,0 +1,939 @@
+{
+  "date": "2026-04-24",
+  "collected_at": "2026-04-25T00:09:09.175239+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 00:00:00 GMT",
+      "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Fri, 24 Apr 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 09:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp\">Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facil",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Thu, 23 Apr 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm 0.31",
+      "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T23:35:07+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.31\">llm 0.31</a></p>\n    <blockquote>\n<ul>\n<li>New GPT-5.5 OpenAI model: <code>llm -m gpt-5.5</code>. <a href=\"https://github.com/simonw/llm/issues/1418\">#1418</a></li>\n<li>New option to set the <a href=\"https://devel",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The people do not yearn for automation",
+      "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T22:38:49+00:00",
+      "summary": "<p><strong><a href=\"https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\">The people do not yearn for automation</a></strong></p>\nThis written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT cont",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T06:01:04+00:00",
+      "summary": "<p>Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) <a href=\"https://simonwillison.net/2025/Dec/1/deepseek-v32/\">last December</a>. They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, <a href=\"https://huggingface.co/deepseek-a",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Millisecond Converter",
+      "url": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T04:23:11+00:00",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/milliseconds\">Millisecond Converter</a></p>\n    <p><a href=\"https://llm.datasette.io/\">LLM</a> reports prompt durations in milliseconds and I got fed up of having to think about how to convert those to seconds and minutes.</p>\n    \n ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "It's a big one",
+      "url": "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T04:09:54+00:00",
+      "summary": "<p><a href=\"https://simonw.substack.com/p/gpt-55-chatgpt-images-20-qwen36-27b\">This week's edition</a> of my email newsletter (aka <a href=\"https://simonwillison.net/2023/Apr/4/substack-observable/\">content from this blog</a> delivered to your inbox) features 4 pelicans riding bicycles, 1 possum on ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "russellromney/honker",
+      "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T01:50:07+00:00",
+      "summary": "<p><strong><a href=\"https://github.com/russellromney/honker\">russellromney/honker</a></strong></p>\n\"Postgres NOTIFY/LISTEN semantics\" for SQLite, implemented as a Rust SQLite extension and various language bindings to help make use of it.</p>\n<p>The design of this looks very solid. It lets you write",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T01:31:25+00:00",
+      "summary": "<p><strong><a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">An update on recent Claude Code quality reports</a></strong></p>\nIt turns out the high volume of complaints that Claude Code was providing worse quality results over the past two months was grounded in real problems.</p>\n",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Serving the For You feed",
+      "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T01:08:17+00:00",
+      "summary": "<p><strong><a href=\"https://atproto.com/blog/serving-the-for-you-feed\">Serving the For You feed</a></strong></p>\nOne of Bluesky's most interesting features is that anyone can run their own <a href=\"bluesky custom feed\">custom \"feed\" implementation</a> and make it available to other users - effective",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-23T21:54:24+00:00",
+      "summary": "<p>LlamaIndex have a most excellent open source project called <a href=\"https://github.com/run-llama/liteparse\">LiteParse</a>, which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LitePars",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-23T19:59:47+00:00",
+      "summary": "<p><a href=\"https://openai.com/index/introducing-gpt-5-5/\">GPT-5.5 is out</a>. It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it to be a fast, effective and highly capable model. As is usually the case these days, it's hard to pu",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 20:52:07 +0000",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 19:49:35 +0000",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 18:00:03 +0000",
+      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 17:45:57 +0000",
+      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;eco",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 16:42:19 +0000",
+      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 14:00:00 +0000",
+      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss op",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tim Cook is stepping down. What happens to Apple now?",
+      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 14:00:00 +0000",
+      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystemthan the one Cook spent decades shaping. The A",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 13:41:42 +0000",
+      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 13:30:59 +0000",
+      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 12:00:00 +0000",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Project Maven taught the military to love AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-24T13:00:00-04:00",
+      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+      "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-24T10:43:07-04:00",
+      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-24T08:00:00-04:00",
+      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-24T05:45:30-04:00",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prio",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-24T05:40:07-04:00",
+      "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-23T18:27:11-04:00",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta is laying off 10 percent of its staff",
+      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-23T15:41:07-04:00",
+      "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. Th",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-23T14:24:56-04:00",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-23T14:00:00-04:00",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and de",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-23T10:00:00-04:00",
+      "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calling it software brain, and it&#8217;s a particular way of seeing the world that fits everything into ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+      "url": "https://www.qbitai.com/2026/04/406806.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 11:49:30 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "url": "https://www.qbitai.com/2026/04/406802.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 10:23:30 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek-V4发布，华为云首发适配",
+      "url": "https://www.qbitai.com/2026/04/406791.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 10:10:16 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
+      "url": "https://www.qbitai.com/2026/04/406775.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 09:45:43 +0000",
+      "summary": "表现超出此前市场预期。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
+      "url": "https://www.qbitai.com/2026/04/406767.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 09:40:54 +0000",
+      "summary": "从被动响应到主动服务",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "url": "https://www.qbitai.com/2026/04/406760.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 09:10:46 +0000",
+      "summary": "开源SOTA大模型能力一键直达",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+      "url": "https://www.qbitai.com/2026/04/406560.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 09:09:55 +0000",
+      "summary": "做PPT、写报告、做攻略，全包圆了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式",
+      "url": "https://www.qbitai.com/2026/04/406393.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 07:01:47 +0000",
+      "summary": "业界首个面向多Agent协作的标准化能力包规范",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
+      "url": "https://www.qbitai.com/2026/04/406359.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 04:17:45 +0000",
+      "summary": "在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "荣耀WIN游戏本等多款新品正式发布，荣耀PC家族全面爆发",
+      "url": "https://www.qbitai.com/2026/04/406402.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Apr 2026 02:21:15 +0000",
+      "summary": "半马冠军荣耀机器人“闪电”惊喜亮相",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+      "url": "https://arxiv.org/abs/2604.19749",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phen",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+      "url": "https://arxiv.org/abs/2604.19751",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifa",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+      "url": "https://arxiv.org/abs/2604.19753",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pret",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+      "url": "https://arxiv.org/abs/2604.19754",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19754v1 Announce Type: new \nAbstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augment",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+      "url": "https://arxiv.org/abs/2604.19755",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19755v1 Announce Type: new \nAbstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language models (LLMs) can summarize heterogeneous evidence a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2604.19758",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19758v1 Announce Type: new \nAbstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q), component analysis (101 Q), and full cycle analysis (82 Q). Ground truth is computed programmatically from CoolProp 7.2.0,",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
+      "url": "https://arxiv.org/abs/2604.19759",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19759v1 Announce Type: new \nAbstract: Clinical trials require strict adherence to medication protocols, yet dosing errors remain a persistent challenge affecting patient safety and trial integrity. We present an automated system for detecting dosing errors in unstructured clinical trial n",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
+      "url": "https://arxiv.org/abs/2604.19760",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19760v1 Announce Type: new \nAbstract: We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characterizing inference stability in constrained decision systems. IHR formalizes the relationship between a system's effective in",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+      "url": "https://arxiv.org/abs/2604.19761",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19761v1 Announce Type: new \nAbstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many structured prediction problems, where the main bo",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
+      "url": "https://arxiv.org/abs/2604.19775",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.19775v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within interactive environments. Despite their growing capability to perform multi-step reasoning and decision-making tasks, interna",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2604.20878",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.20878v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have achieved remarkable progress in Traffic Accident Detection (TAD) and Traffic Accident Understanding (TAU). However, existing studies mainly focus on describing and interpreting accident videos, leaving roo",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AFRILANGTUTOR: Advancing Language Tutoring and Culture Education in Low-Resource Languages with Large Language Models",
+      "url": "https://arxiv.org/abs/2604.20996",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.20996v1 Announce Type: new \nAbstract: How can language learning systems be developed for languages that lack sufficient training resources? This challenge is increasingly faced by developers across the African continent who aim to build AI systems capable of understanding and responding i",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech",
+      "url": "https://arxiv.org/abs/2604.21045",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21045v1 Announce Type: new \nAbstract: Simultaneous speech translation (SST) generates translations while receiving partial speech input. Recent advances show that large language models (LLMs) can substantially improve SST quality, but at the cost of high computational overhead. To reduce ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TRACES: Tagging Reasoning Steps for Adaptive Cost-Efficient Early-Stopping",
+      "url": "https://arxiv.org/abs/2604.21057",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21057v1 Announce Type: new \nAbstract: The field of Language Reasoning Models (LRMs) has been very active over the past few years with advances in training and inference techniques enabling LRMs to reason longer, and more accurately. However, a growing body of studies show that LRMs are st",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DWTSumm: Discrete Wavelet Transform for Document Summarization",
+      "url": "https://arxiv.org/abs/2604.21070",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21070v1 Announce Type: new \nAbstract: Summarizing long, domain-specific documents with large language models (LLMs) remains challenging due to context limitations, information loss, and hallucinations, particularly in clinical and legal settings. We propose a Discrete Wavelet Transform (D",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation",
+      "url": "https://arxiv.org/abs/2604.21076",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21076v1 Announce Type: new \nAbstract: Medication reconciliation at clinical handoffs is a high-stakes, error-prone process. Large language models are increasingly proposed to assist with this task using FHIR-structured patient records, but a fundamental and largely unstudied variable is h",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Weighting What Matters: Boosting Sample Efficiency in Medical Report Generation via Token Reweighting",
+      "url": "https://arxiv.org/abs/2604.21082",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21082v1 Announce Type: new \nAbstract: Training vision-language models (VLMs) for medical report generation is often hindered by the scarcity of high-quality annotated data. This work evaluates the use of a weighted loss function to improve data efficiency. Compared to standard cross-entro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Machine learning and digital pragmatics: Which word category influences emoji use most?",
+      "url": "https://arxiv.org/abs/2604.21108",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21108v1 Announce Type: new \nAbstract: This study investigates Machine Learning (ML) in the prediction of emojis in Arabic tweets employing the (state-of-the-art) MARBERT model. A corpus of 11379 CA tweets representing multiple Arabic colloquial dialects was collected from X.com via Python",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons",
+      "url": "https://arxiv.org/abs/2604.21133",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21133v1 Announce Type: new \nAbstract: We present GRISP (Guided Recurrent IRI Selection over SPARQL Skeletons), a novel SPARQL-based question-answering method over knowledge graphs based on fine-tuning a small language model (SLM). Given a natural-language question, the method first uses t",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond Pixels: Introspective and Interactive Grounding for Visualization Agents",
+      "url": "https://arxiv.org/abs/2604.21134",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.21134v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) frequently misread values, hallucinate details, and confuse overlapping elements in charts. Current approaches rely solely on pixel interpretation, creating a Pixel-Only Bottleneck: agents treat interactive charts as stat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SFO Quiet Airport (2025) (123pts)",
+      "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-24T18:29:53Z",
+      "summary": "HN热度: 123分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tesla discloses $2B AI hardware company acquisition in filing (68pts)",
+      "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-24T16:51:46Z",
+      "summary": "HN热度: 68分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base (56pts)",
+      "url": "https://atomicapp.ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-24T12:07:30Z",
+      "summary": "HN热度: 56分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf (218pts)",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "source": "Hacker News (API)",
+      "published": "2026-04-24T09:17:57Z",
+      "summary": "HN热度: 218分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence (157pts)",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "source": "Hacker News (API)",
+      "published": "2026-04-24T03:07:54Z",
+      "summary": "HN热度: 157分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}

@@ -269,10 +269,10 @@ a.timeline-card:visited { color: inherit; }
 
     <!-- STATS -->
     <div class="stats-grid">
-        <div class="stat-card"><div class="stat-number green" id="stat-reports">3</div><div class="stat-label">日报总数</div></div>
+        <div class="stat-card"><div class="stat-number green" id="stat-reports">4</div><div class="stat-label">日报总数</div></div>
         <div class="stat-card"><div class="stat-number blue" id="stat-research">5</div><div class="stat-label">追踪板块</div></div>
         <div class="stat-card"><div class="stat-number orange" id="stat-tracking">200+</div><div class="stat-label">追踪条目</div></div>
-        <div class="stat-card"><div class="stat-number red" id="stat-days">3</div><div class="stat-label">持续天数</div></div>
+        <div class="stat-card"><div class="stat-number red" id="stat-days">4</div><div class="stat-label">持续天数</div></div>
     </div>
 
     <!-- ABOUT -->
@@ -310,6 +310,19 @@ a.timeline-card:visited { color: inherit; }
             <div class="section-header"><div class="section-icon">📰</div><div><h2 class="section-title">AI 日报</h2><p class="section-desc">AI 领域每日动态速递</p></div></div>
 
             <div class="daily-list" id="dailyList">
+
+                <a class="daily-card" href="daily-2026-04-24.html">
+                    <div class="tape"></div>
+                    <div class="daily-card-date">✎ 2026-04-24</div>
+                    <h3 class="daily-card-title">GPT-5.5发布与DeepSeek V4预览同周引爆大模型军备竞赛</h3>
+                    <div class="daily-card-summary">本周AI领域迎来重磅发布周。OpenAI推出GPT-5.5，被视为其“最智能、最直观”的模型，强调在编码、研究和数据分心上表现突出。同日，中国DeepSeek发布V4预览版开源模型，声称可与Anthropic、Google和OpenAI的顶级闭源系统竞争。此外，Anthropic披露Claude Code近两月质量下降的真实原因，并推出个人应用连接器。</div>
+                    <div class="daily-card-tags">
+                        <span class="tag green">大模型</span>
+<span class="tag yellow">AI行业</span>
+<span class="tag blue">AI Coding</span>
+<span class="tag pink">AI应用</span>
+                    </div>
+                </a>
 
                 <a class="daily-card" href="daily-2026-04-23.html">
                     <div class="tape"></div>
@@ -710,7 +723,7 @@ function toggleCollapsible(header) { header.classList.toggle('active'); const c 
 
 /* Calendar */
 const reportsData = {
-    '2026-04': [20,21,22,23],
+    '2026-04': [20,21,22,23,24],
 };
 const weeklyReportsData = {};
 let calYear = 2026, calMonth = 3;
