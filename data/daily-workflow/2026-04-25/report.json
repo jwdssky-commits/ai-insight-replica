@@ -1,0 +1,115 @@
+{
+  "title": "DeepSeek V4预览发布逼近前沿，GPT-5.5统一Codex与主模型",
+  "date": "2026-04-25",
+  "summary": "DeepSeek发布V4预览版本，展示百万token上下文能力，开源模型逼近前沿水平；OpenAI确认GPT-5.5统一Codex与主模型，强化Agent编码和计算机操作能力；Anthropic发布Claude Code质量报告后处理进展，开源memory layer项目获得社区关注。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI行业"
+  ],
+  "highlight": {
+    "title": "DeepSeek发布V4预览版本，开源模型逼近前沿",
+    "body": "DeepSeek V4预览版本发布，支持百万token上下文，性能接近Anthropic、OpenAI、谷歌等顶尖闭源模型，同时保持极低定价策略，延续V3系列高性价比路线。",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "DeepSeek发布V4预览版：开源模型逼近前沿，百万token上下文",
+          "body": "DeepSeek于4月24日发布V4预览版本，展示其在长上下文处理方面的突破，支持百万token上下文能力。该模型性能可与Anthropic、OpenAI、谷歌等美国竞争对手的闭源系统相媲美，同时保持极低的成本定价。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+          "source_name": "The Verge AI",
+          "importance": "high",
+          "related_entities": [
+            "DeepSeek"
+          ]
+        },
+        {
+          "headline": "GPT-5.5统一Codex与主模型，强化Agent编码能力",
+          "body": "OpenAI确认GPT-5.5不再有独立的Codex产品线，已与主模型完全统一。Romain Huet透露GPT-5.5在Agentic编码、Computer Use及复杂任务上取得显著提升。",
+          "source_url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+          "source_name": "Simon Willison Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Romain Huet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "开源Memory Layer项目获社区关注，支持任意AI Agent持久记忆",
+          "body": "名为Stash的开源项目旨在为任意AI Agent提供类似Claude.ai和ChatGPT的记忆功能，支持跨会话持久化上下文。该项目在Hacker News获得158分关注。",
+          "source_url": "https://alash3al.github.io/stash?_v01",
+          "source_name": "Hacker News",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Claude扩展个人应用连接：Spotify、Uber Eats、TurboTax",
+          "body": "Anthropic宣布Claude可连接更多个人应用，包括Audible、Spotify、Uber等消费级服务。此前已支持微软工作类应用，此次扩展至日常生活场景。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+          "source_name": "The Verge AI",
+          "importance": "medium",
+          "related_entities": [
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "华为发布ADS 5：强化世界模型路线，今年投入180亿",
+          "body": "华为发布ADS 5自动驾驶系统，延续世界模型技术路线，计划今年投入180亿研发资金，为自动驾驶领域提供新的AI解决方案。",
+          "source_url": "https://www.qbitai.com/2026/04/407363.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "华为"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Project Maven揭示美军AI转型：24小时内打击千余目标",
+          "body": "Project Maven智能系统帮助美军在伊朗行动中实现日均千余目标打击，相比二十年前\"震慑行动\"翻倍。AI大幅加速目标锁定流程。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+          "source_name": "The Verge AI",
+          "importance": "medium",
+          "related_entities": [
+            "Project Maven",
+            "美军"
+          ]
+        },
+        {
+          "headline": "AI行业面临公众反感：研究表明用户对自动化持抵触态度",
+          "body": "The New Republic深度报道AI行业正在意识到公众对AI的普遍反感。ChatGPT使用量增长与用户口碑形成反差，引发行业反思。",
+          "source_url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+          "source_name": "The New Republic",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}
