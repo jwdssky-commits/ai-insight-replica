@@ -1,0 +1,114 @@
+{
+  "title": "OpenAI发布AGI使命原则，Claude承认降智问题",
+  "date": "2026-04-26",
+  "summary": "OpenAI今日发布Sam Altman亲笔撰写的AGI使命五项原则，强调AGI必须造福全人类。Anthropic Claude被用户曝光\"降智\"问题后官方终于承认，所有使用额度已重置。国内方面，华为发布ADS 5强化世界模型路线今年投入180亿，智用开物获近亿元融资加码工业智能体。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "AI Coding"
+  ],
+  "highlight": {
+    "title": "Claude降智问题终于坐实，Anthropic承认并重置所有额度",
+    "body": "Claude被用户多次曝光在长对话中出现\"降智\"现象，今日官方终于承认问题属实并宣布所有使用额度已全部重置。这是Anthropic首次公开确认Claude存在性能退化问题，涉及模型推理质量下降、任务完成率降低等多个维度，引发社区对大模型长期稳定性的广泛讨论。",
+    "source_url": "https://www.qbitai.com/2026/04/407502.html"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布AGI使命五项原则，Altman亲笔阐述核心价值观",
+          "body": "OpenAI今日正式发布\"Our Principles\"博文，由Sam Altman亲自撰写五项核心原则，系统阐述了OpenAI的使命——确保AGI造福全人类。原则涵盖AI安全、透明协作、长期利益平衡等技术哲学方向，被视为对近期AI公共信任危机的直接回应。",
+          "source_url": "https://openai.com/index/our-principles",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "华为发布ADS 5强化世界模型路线，今年投入180亿",
+          "body": "华为在智能驾驶领域发布ADS 5，路线图明确向世界模型方向演进，今年研发投入达180亿人民币。华为在端到端自动驾驶架构、多模态感知融合方面的进展，使其成为特斯拉FSD在中国市场的重要竞争对手。",
+          "source_url": "https://www.qbitai.com/2026/04/407363.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "华为",
+            "ADS 5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "开发者AI Agent误删生产数据库，社区热议Agent安全边界",
+          "body": "一位开发者在Hacker News上发帖称其AI Agent意外删除了生产数据库，该Agent随后\"坦白\"了自己的行为，引发社区对AI Agent在生产环境中安全权限控制的激烈讨论。帖子获得398分，社区关注焦点集中在：Agent是否应拥有写入权限、如何建立操作审计机制等关键问题。",
+          "source_url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+          "source_name": "Hacker News",
+          "importance": "high",
+          "related_entities": [
+            "AI Agent",
+            "DevOps"
+          ]
+        },
+        {
+          "headline": "GPT-5.5统一Codex和主模型，Simon Willison发布最新prompting指南",
+          "body": "OpenAI技术播客Romain Huet透露GPT-5.4开始已将Codex和主模型统一为单一系统，GPT-5.5进一步强化了Agentic coding和computer use能力。知名AI开发者Simon Willison同步发布GPT-5.5 prompting实战指南，提供结构化prompt技巧和最新API使用建议。",
+          "source_url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "GPT-5.5",
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "涂鸦Hey Tuya推出AI宠物健康自主监测，瞄准全屋智能\"超级入口\"",
+          "body": "涂鸦Hey Tuya在AI应用生态发布会上首次公开三大AI应用方向，其中AI宠物健康监测系统可自主识别宠物异常状态并即时预警。该方案通过多传感器融合和视觉AI实现无人工干预的健康监测，被视为全屋智能场景下一个高频使用的\"超级入口\"级应用。",
+          "source_url": "https://www.qbitai.com/2026/04/406973.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "涂鸦",
+            "Hey Tuya",
+            "IoT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic Claude官方承认降智问题，所有额度已全部重置",
+          "body": "Anthropic Claude被用户持续曝光\"降智\"问题后，官方终于公开承认并宣布所有使用额度已全部重置。此次降智涉及推理质量下降、长对话性能衰减等多个维度，是Anthropic首次公开确认Claude存在长期使用中的性能退化问题，引发用户对大模型稳定性与一致性的深层担忧。",
+          "source_url": "https://www.qbitai.com/2026/04/407502.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "date": "2026-04-26",
+  "collected_at": "2026-04-27T00:09:19.194523+00:00",
+  "item_count": 44,
+  "items": [
+    {
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Sun, 26 Apr 2026 16:00:00 GMT",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "WHY ARE YOU LIKE THIS",
+      "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-25T16:44:01+00:00",
+      "summary": "<p>@scottjla <a href=\"https://twitter.com/scottjla/status/2047535371664457863\">on Twitter</a> in reply to my <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\">pelican riding a bicycle</a> benchmark:</p>\n<blockquote>\n<p>I feel like we need to stack these tests now</p>\n<p><img alt=\"AI",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Romain Huet",
+      "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-25T12:06:55+00:00",
+      "summary": "<blockquote cite=\"https://twitter.com/romainhuet/status/2047955381578838357\"><p>Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore.</p>\n<p>GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task o",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.5 prompting guide",
+      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-25T04:13:36+00:00",
+      "summary": "<p><strong><a href=\"https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5\">GPT-5.5 prompting guide</a></strong></p>\nNow that GPT-5.5 is <a href=\"https://developers.openai.com/api/docs/models/gpt-5.5\">available in the API</a>, OpenAI have released a wealth of useful tips on how ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm 0.31",
+      "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T23:35:07+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.31\">llm 0.31</a></p>\n    <blockquote>\n<ul>\n<li>New GPT-5.5 OpenAI model: <code>llm -m gpt-5.5</code>. <a href=\"https://github.com/simonw/llm/issues/1418\">#1418</a></li>\n<li>New option to set the <a href=\"https://devel",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The people do not yearn for automation",
+      "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-24T22:38:49+00:00",
+      "summary": "<p><strong><a href=\"https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\">The people do not yearn for automation</a></strong></p>\nThis written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT cont",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 26 Apr 2026 15:30:00 +0000",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Maine’s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 25 Apr 2026 15:03:00 +0000",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 25 Apr 2026 15:00:00 +0000",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Apr 2026 20:52:07 +0000",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票",
+      "url": "https://www.qbitai.com/2026/04/407485.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 26 Apr 2026 13:48:55 +0000",
+      "summary": "“做好自动驾驶， 海量数据的作用只占10%”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
+      "url": "https://www.qbitai.com/2026/04/407502.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 26 Apr 2026 09:56:44 +0000",
+      "summary": "模型降智属实，所有使用额度均已重置。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
+      "url": "https://www.qbitai.com/2026/04/407486.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 26 Apr 2026 05:24:56 +0000",
+      "summary": "开源，是最好的探针",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+      "url": "https://www.qbitai.com/2026/04/407465.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 26 Apr 2026 04:16:23 +0000",
+      "summary": "V4作者之一",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+      "url": "https://www.qbitai.com/2026/04/407363.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 25 Apr 2026 15:38:18 +0000",
+      "summary": "“为自动驾驶而来”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+      "url": "https://www.qbitai.com/2026/04/407026.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 25 Apr 2026 07:22:22 +0000",
+      "summary": "500TOPS上车世界模型",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+      "url": "https://www.qbitai.com/2026/04/406994.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 25 Apr 2026 06:58:48 +0000",
+      "summary": "一家低调的视觉大模型公司，浮出水面",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+      "url": "https://www.qbitai.com/2026/04/406973.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 25 Apr 2026 05:41:18 +0000",
+      "summary": "首次公开三大AI应用生态",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+      "url": "https://www.qbitai.com/2026/04/406960.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 25 Apr 2026 05:31:57 +0000",
+      "summary": "六年磨一剑",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+      "url": "https://www.qbitai.com/2026/04/406892.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 25 Apr 2026 03:35:53 +0000",
+      "summary": "三作者如今齐聚Mira初创",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
+      "url": "https://36kr.com/p/3784311487945735?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-27 08:03:45  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>美国白宫记者晚宴大厅发生枪击事件</p>\n  <p>王传福夫妇坐地铁参加北京车展被偶遇</p>\n  <p>DeepSeekV4成OpenClaw默认模型</p>\n  <p>2025年全国大型演唱会票房295.58亿</p>\n  <p>OpenAI首席执行官就未通报枪击案嫌疑人道歉</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>豆包提前查到2026山东事业编成绩？最新回应</strong></p>\n  <p>4月23日晚间，有网友发帖称，“豆包查到2026山东事业编成绩了”，并附上一张成绩单，但成绩部分涂掉了。“不过好像只有济南",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "url": "https://36kr.com/p/3783249100397570?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-26 14:00:34  +0800",
+      "summary": "<p>欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。</p>\n  <p>BRANDSTORM大赛已举办34年，覆盖全球40多个国家和地区，累计参与人数超37万。中国赛区自2003年启动以来，累计参与人数已超过7万。</p>\n  <p>今年赛事与欧莱雅高档化妆品部合作，赛程持续六个多月，参赛者可获取欧莱雅业务专家提供的市场数据和品牌案例。<str",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-26 09:06:18  +0800",
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在传统工厂里，流水线像是被固定在铁轨上的火车——高效但僵硬。这种“效率与柔性不可兼得”的痛点，正被一家中国公司用“磁悬浮”技术破解。</p>\n  <p>佛山市增广智能科技有限公司（下称“增广智能”）成立于2018年，总部位于佛山，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业。</p>\n  <p>“这个技术涉及面很广——通信、控制、操作系统、磁场仿真，每个点想做到完美很难。”公司创始人黄安杰回忆。经过5年研发，增广智能在2023年正式对外发布磁悬浮产品，并在随后的2年内成功实现大规模量产销售。</p>\n  <",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-26 08:08:39  +0800",
+      "summary": "<p>4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。</p>\n  <p>&nbsp;当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元",
+      "url": "https://36kr.com/p/3782437007039488?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-26 00:13:59  +0800",
+      "summary": "<p>4月24日，2026北京国际汽车展览会在京正式开幕。京东汽车与深蓝汽车联合推出的国民好车2.0——深蓝L06增程版登陆深蓝汽车展台，以行业首创会员购车折扣、车展专属权益及越级产品实力，吸引更多汽车用户关注。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1135,757\" src=\"https://img.36krcdn.com/hsossms/20260426/v2_0e54c7c94ef44e418bfc934976759e9c@517825446_oswg1565166oswg1135oswg757_img_png?x",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+      "url": "https://36kr.com/p/3782434723355655?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-26 00:11:41  +0800",
+      "summary": "<p>4月25日，在2026北京国际汽车展览会现场，京东汽车与212越野车宣布达成战略合作。京东汽车将作为线上独家渠道，销售212越野车首个越野生态系列METTA旗下全新车型——T01 METTA和T01 METTA巴丹吉林，新车上市指导价分别为18.99万元和21.99万元，京东PLUS会员购车更可享至高3000元购车补贴。同时，京东汽车还将联合越野e族发起“全民越野合伙人”招募计划，邀请合作伙伴共赢越野市场新机遇。即日起，在京东APP搜索“全民越野”，即可预订T01 METTA的全新车型。</p>\n  <p class=\"image-wrapper\"><img data-img-size-",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-25 19:15:26  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。</p>\n  <p>2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。</p>\n  <p><strong>2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-25 09:10:38  +0800",
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。</p>\n  <p>这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。</p>\n  <p>智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为A",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-25 09:01:05  +0800",
+      "summary": "<p><strong>整理</strong>｜孟孟&nbsp;</p>\n  <h2><strong>今日热点导览</strong></h2>\n  <p>铁路部门将实行老年旅客购票优惠</p>\n  <p>哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元</p>\n  <p>网友称用豆包提前查到事业编成绩，官方回应&nbsp;</p>\n  <p>耐克将裁减1400个公司职位，主要集中在技术部门</p>\n  <p>中国再发现两种月球新矿物，嫦娥五号样品研究获新突破</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>马斯克花4000多亿买下",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "低头是日常，抬头是阅读",
+      "url": "https://36kr.com/p/3780986341153798?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-24 23:38:53  +0800",
+      "summary": "<p>建筑设计师陈敏的手机里有一份极其多元的“阅读清单”。清晨通勤的地铁上，她习惯戴上降噪耳机，在播客节目中了解行业前沿信息；午休时的餐厅里，她会利用等餐的碎片时间，快速翻阅手机上关注的几篇建筑美学推文。而在工作间隙，她喜欢走出办公室，在上海的街道上散步，观察那些历史建筑的肌理与城市空间的流动。对她而言，这同样是一种深度阅读。到了深夜临睡前，她又会回归那种更传统的体验，在平板电脑上追更一章连载网文。</p>\n  <p><strong>事实上，如今的阅读早已不是一种需要正襟危坐的特定仪式，而是像空气一样，自然地渗入了生活的每一处缝隙。</strong>这种“随时随地”的阅读状态，在研究数据中得到",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI should elevate your thinking, not replace it (227pts)",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-26T20:03:12Z",
+      "summary": "HN热度: 227分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Have you tried Clean Architecture as foundation for your AI project? (92pts)",
+      "url": "https://news.ycombinator.com/item?id=47913561",
+      "source": "Hacker News (API)",
+      "published": "2026-04-26T19:55:25Z",
+      "summary": "HN热度: 92分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "An AI agent deleted our production database. The agent's confession is below (398pts)",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "source": "Hacker News (API)",
+      "published": "2026-04-26T16:27:29Z",
+      "summary": "HN热度: 398分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Eden AI – European Alternative to OpenRouter (124pts)",
+      "url": "https://www.edenai.co",
+      "source": "Hacker News (API)",
+      "published": "2026-04-26T08:18:09Z",
+      "summary": "HN热度: 124分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The AI industry is discovering that the public hates it (266pts)",
+      "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+      "source": "Hacker News (API)",
+      "published": "2026-04-25T21:11:11Z",
+      "summary": "HN热度: 266分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles (76pts)",
+      "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-25T23:44:05Z",
+      "summary": "HN热度: 76分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Lambda Calculus Benchmark for AI (142pts)",
+      "url": "https://victortaelin.github.io/lambench/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-25T11:16:23Z",
+      "summary": "HN热度: 142分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git) (251pts)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "source": "Hacker News (API)",
+      "published": "2026-04-25T08:53:53Z",
+      "summary": "HN热度: 251分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub unwanted UX change: issue links now open in a popup (223pts)",
+      "url": "https://github.com/orgs/community/discussions/192666",
+      "source": "Hacker News (API)",
+      "published": "2026-04-26T14:18:38Z",
+      "summary": "HN热度: 223分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice (92pts)",
+      "url": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-26T05:06:58Z",
+      "summary": "HN热度: 92分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
