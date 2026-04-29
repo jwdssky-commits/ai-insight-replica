@@ -1,0 +1,159 @@
+{
+  "title": "Musk诉Altman案开庭、Claude服务故障登顶HN热度——2026年4月28日AI日报",
+  "date": "2026-04-28",
+  "summary": "今日AI领域重磅事件集中：Elon Musk起诉Sam Altman案在法院开打，Musk出庭作证引发关注；Claude.ai服务故障导致282分HN热度；OpenAI与AWS深化合作、Claude实现与Adobe创意工具深度集成、NVIDIA发布Nemotron 3 Nano Omni多模态模型，百度GenFlow 4.0强化Office办公套件能力。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "AI Coding",
+    "AI应用",
+    "企业AI转型"
+  ],
+  "highlight": {
+    "title": "Elon Musk出庭作证：Musk v. Altman案首日审判",
+    "body": "Musk起诉OpenAI案正式开庭，Musk本人出庭作证。这是继2024年诉讼以来的首次现场审理，可能重塑OpenAI的公司结构和未来走向。The Verge报道其表现\"flat\"，缺乏往日锋芒。",
+    "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "NVIDIA发布Nemotron 3 Nano Omni：长上下文多模态智能模型",
+          "body": "NVIDIA在Hugging Face发布Nemotron 3 Nano Omni，专为文档、音频和视频Agent设计的长上下文多模态模型，支持实时处理和跨模态理解，适用于企业级AI应用开发。",
+          "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "NVIDIA",
+            "Hugging Face"
+          ]
+        },
+        {
+          "headline": "OpenAI与Microsoft公布合作新阶段",
+          "body": "OpenAI与Microsoft宣布修订合作协议，简化合作关系架构，为长期发展提供清晰路径，同时支持大规模AI创新持续推进。",
+          "source_url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Microsoft发布VibeVoice：开源语音识别模型",
+          "body": "Microsoft发布VibeVoice，这是类似Whisper的语音转文本模型，采用MIT许可，内置说话人分离功能，支持开发者构建语音交互应用。",
+          "source_url": "https://simonwillison.net/2026/Apr/27/vibevoice/",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Microsoft"
+          ]
+        },
+        {
+          "headline": "Google与Kaggle推出Vibe Coding课程",
+          "body": "Google联合Kaggle推出5天AI Agents强化课程，聚焦Vibe Coding方向，现已开放注册，将于2026年6月开课。",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "source_name": "Google AI Blog",
+          "importance": "low",
+          "related_entities": [
+            "Google",
+            "Kaggle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Claude实现与Adobe创意工具深度集成",
+          "body": "Anthropic推出Claude创意连接器，可直接控制Photoshop、Blender、Ableton等主流创意软件，标志其进入创意产业的重要布局。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Adobe",
+            "Blender",
+            "Ableton"
+          ]
+        },
+        {
+          "headline": "Amazon推出产品页AI语音问答",
+          "body": "Amazon在产品页面推出\"Join the chat\"功能，用户可提问并获得AI生成的音频回答，提升购物体验的交互性。",
+          "source_url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Amazon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Claude.ai服务故障登顶HN热度282分",
+          "body": "Claude平台今日发生服务中断，引发用户广泛关注和HN社区热议，282分的热度评分反映Claude在开发者生态中的核心地位。",
+          "source_url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+          "source_name": "Hacker News",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "Musk v. Altman案开审：OpenAI未来走向成焦点",
+          "body": "Musk起诉OpenAI案正式开庭，Musk出庭作证指控OpenAI背离造福人类使命、转向营利模式。案件可能影响OpenAI公司结构和AI行业竞争格局。",
+          "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Elon Musk",
+            "Sam Altman",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI模型全面登陆AWS企业环境",
+          "body": "OpenAI GPT模型、Codex和Managed Agents现已在AWS上线，企业可在AWS环境内构建安全AI应用，加速企业级AI部署。",
+          "source_url": "https://openai.com/index/openai-on-aws",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "AWS"
+          ]
+        },
+        {
+          "headline": "百度GenFlow 4.0：Office三件套全面AI化",
+          "body": "百度发布GenFlow 4.0，深度集成Office办公套件，支持文档、表格、演示的AI辅助操作，宣称可\"十分钟干完一周活\"。",
+          "source_url": "https://www.qbitai.com/2026/04/410738.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "百度"
+          ]
+        }
+      ]
+    }
+  ]
+}

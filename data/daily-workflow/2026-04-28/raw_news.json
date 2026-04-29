@@ -1,0 +1,940 @@
+{
+  "date": "2026-04-28",
+  "collected_at": "2026-04-29T07:36:04.906599+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 14:00:00 GMT",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 06:00:00 GMT",
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Tue, 28 Apr 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 07:00:06 +0000",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 28 Apr 2026 15:58:57 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting OpenAI Codex base_instructions",
+      "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-28T22:02:53+00:00",
+      "summary": "<blockquote cite=\"https://github.com/openai/codex/blob/66b0781502be5de3b1909525c987643b9e5e407d/codex-rs/models-manager/models.json#L55\"><p><code>Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Matthew Yglesias",
+      "url": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-28T13:25:29+00:00",
+      "summary": "<blockquote cite=\"https://twitter.com/mattyglesias/status/2049105745132585161\"><p>Five months in, I think I've decided that I don't want to vibecode — I want professionally managed software companies to use AI coding assistance to make more/better/cheaper software products that they sell to me for m",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+      "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-28T05:23:05+00:00",
+      "summary": "<p><strong><a href=\"https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/\">What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns!</a></strong></p>\nRichard Si describes an excellent set of upgrades to Python's default <code>pip</code> tool for installing dependencies.</p>\n<p>This ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing talkie: a 13B vintage language model from 1930",
+      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-28T02:47:42+00:00",
+      "summary": "<p><strong><a href=\"https://talkie-lm.com/introducing-talkie\">Introducing talkie: a 13B vintage language model from 1930</a></strong></p>\nNew project from <a href=\"https://nlevine.org\">Nick Levine</a>, <a href=\"http://www.cs.toronto.edu/~duvenaud/\">David Duvenaud</a>, and <a href=\"https://en.wikiped",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "microsoft/VibeVoice",
+      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-27T23:46:56+00:00",
+      "summary": "<p><strong><a href=\"https://github.com/microsoft/VibeVoice\">microsoft/VibeVoice</a></strong></p>\nVibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model.</p>\n<p>Microsoft released it on January 21st, 2026 but I hadn't trie",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-27T18:38:17+00:00",
+      "summary": "<p>For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on <a href=\"h",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+      "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-27T17:37:47+00:00",
+      "summary": "<p><strong><a href=\"https://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html\">Speech translation in Google Meet is now rolling out to mobile devices</a></strong></p>\nI just encountered this feature via a \"try this out now\" prompt in ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:40:16 +0000",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 19:48:02 +0000",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 18:49:54 +0000",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 18:15:00 +0000",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 16:09:30 +0000",
+      "summary": "The app allows developers to vibe code web apps and websites on the go.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 13:54:06 +0000",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 13:19:34 +0000",
+      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 28 Apr 2026 12:00:00 +0000",
+      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 27 Apr 2026 17:40:38 +0000",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elon Musk appeared more petty than prepared",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T19:17:12-04:00",
+      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T16:46:54-04:00",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T16:30:00-04:00",
+      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a lon",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T15:27:50-04:00",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T15:00:13-04:00",
+      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T12:49:08-04:00",
+      "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its laun",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Musk and Altman go to court",
+      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T10:47:21-04:00",
+      "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T07:09:32-04:00",
+      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid conce",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Attack of the killer script kiddies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-28T07:00:00-04:00",
+      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-27T23:39:33-04:00",
+      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+      "url": "https://www.qbitai.com/2026/04/410937.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 04:27:03 +0000",
+      "summary": "全网开源，即刻可用",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+      "url": "https://www.qbitai.com/2026/04/410791.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 04:20:49 +0000",
+      "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+      "url": "https://www.qbitai.com/2026/04/410738.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 04:12:02 +0000",
+      "summary": "十分钟干完一周活",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+      "url": "https://www.qbitai.com/2026/04/410772.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 04:10:59 +0000",
+      "summary": "GPT-5.5马上也能用了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”",
+      "url": "https://www.qbitai.com/2026/04/410732.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 03:06:21 +0000",
+      "summary": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+      "url": "https://www.qbitai.com/2026/04/410653.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 02:23:06 +0000",
+      "summary": "开启具身规模化时代",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "小米双模型正式开源！MiMo-V2.5-Pro无中断肝出“macOS”：54个应用全开、浏览器真能冲浪",
+      "url": "https://www.qbitai.com/2026/04/410519.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Apr 2026 00:52:13 +0000",
+      "summary": "百万亿token免费发放，新兴Agent框架免费接入",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
+      "url": "https://www.qbitai.com/2026/04/410506.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 28 Apr 2026 14:50:10 +0000",
+      "summary": "下载量突破25万",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+      "url": "https://www.qbitai.com/2026/04/410463.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 28 Apr 2026 11:15:02 +0000",
+      "summary": "《近似算法》作者都来了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
+      "url": "https://www.qbitai.com/2026/04/410450.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 28 Apr 2026 10:29:28 +0000",
+      "summary": "助力更多企业与个人低门槛迈入AI时代",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+      "url": "https://36kr.com/p/3787376553876737?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 12:00:21  +0800",
+      "summary": "<p>作者｜乔钰杰</p>\n  <p>编辑｜袁斯来</p>\n  <p>4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。</p>\n  <p>此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服务工程化落地的基础平台，可服务于星座组网、在轨加注及深空探测等场景。</p>\n  <p class=\"image-wrapper\"><img data-i",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+      "url": "https://36kr.com/p/3769086884528640?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 11:17:59  +0800",
+      "summary": "<p>靠着燃油豪华市场稳住基本盘之后，一汽奥迪的电动化节奏开始提速，核心动作就是补齐专属纯电PPE平台的主力车型矩阵。</p>\n  <p>4月，奥迪正式推出A6L r-tron和Q6L e-tron家族两款新车，分别瞄准中大型豪华纯电轿车和SUV主流市场。主打产品力与用车场景，奥迪这次没有“玩虚的”。</p>\n  <p>两款新车的定价走的是务实路线。其中，奥迪A6L r-tron纯电轿车推出四款配置，售价区间30.98万至43.98万元，主要承接老款燃油A6L车主换机不换品牌的电动置换需求。</p>\n  <p>奥迪Q6L e-tron家族则提供常规版和Sportback溜背版两种车身形态，共计",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "老铺黄金还不是爱马仕",
+      "url": "https://36kr.com/p/3787296465427464?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 10:57:01  +0800",
+      "summary": "<p><strong>作者 |</strong>&nbsp;谢芸子</p>\n  <p><strong>编辑 |&nbsp;</strong> 张帆</p>\n  <p>老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。</p>\n  <p>2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。</p>\n  <p>公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与优化。这两大原因使公司线上、线下的整体营收大幅增大。",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "比博斯特完成超10亿元B轮融资，智能底盘三轴产品全覆盖｜36氪独家",
+      "url": "https://36kr.com/p/3740907027054600?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 09:00:33  +0800",
+      "summary": "<p>36氪独家获悉，智能底盘企业比博斯特近日完成B+轮融资，由浙江省新能源汽车产业基金领投，顺创产投、杭资直投基金等联合投资。企业B+轮融资超7亿元，B轮系列融资总额已超10亿元。本轮融资将用于已有产品的规模化增长及前沿产品的开发。</p>\n  <p>比博斯特成立于2021年，其股东不仅包括主机厂蔚来，还涵盖恒隆、保隆等汽车底盘供应链头部企业。2025年，曾在底盘巨头采埃孚担任高管的巫子平、郁炜陆续加入比博斯特，出任高级副总裁。</p>\n  <p>目前，比博斯特产品矩阵已覆盖制动、悬架、转向及域控制器等智能底盘全领域。创始人兼总裁刘晓辉向36氪表示，公司当前大批量交付的产品主要包括三类：ES",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
+      "url": "https://36kr.com/p/3786123369094405?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 09:00:00  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"2560,1440\" src=\"https://img.36krcdn.com/hsossms/20260428/v2_0d36eda714704fb8b30f027b15cb071a@5023078_oswg961892oswg2560oswg1440_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p>2026 年 4 月 29&nbsp;日，上海讯 ——<strong>AI 原生增长 Agent",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "独家对谈｜兴辉时代创始人高兴辉，90后小镇女孩离开教培大厂，三年创造2亿GMV的倔强人生",
+      "url": "https://36kr.com/p/3786265971334150?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 08:57:36  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,310\" src=\"https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p>兴辉，山西人，三次面试新东方才被录用。</p>\n  <p>",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
+      "url": "https://36kr.com/p/3787150633065728?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-29 08:11:35  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>阿联酋宣布将退出欧佩克及“欧佩克+”</p>\n  <p>比亚迪宣布5月1日起涨价</p>\n  <p>五粮液：延期披露年报、一季报</p>\n  <p>普通本科高校上新38种专业</p>\n  <p>全马“破2”跑鞋被炒至近2万元</p>\n  <p>韩股市值超越英国，成为全球第八大股市</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>百度职级体系大调整：字母标签改为5级至12级数字职级体系</strong></p>\n  <p>4月28日，据《科创板日报》，百度发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
+      "url": "https://36kr.com/p/3786324189027332?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-28 18:09:31  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3786276284587265\"><strong>拒买新闻就交税，澳洲拟向科技巨头征约2%营收税</strong></a></p>\n  <p>澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
+      "url": "https://36kr.com/p/3786252394945795?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-28 17:12:04  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,310\" src=\"https://img.36krcdn.com/hsossms/20260428/v2_d51688d254db4669862ba4e40789471f@5509299_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p>今年三月，《职场Bonus》报道了<strong>前百川智",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
+      "url": "https://36kr.com/p/3785955616152839?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-28 11:53:31  +0800",
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。</p>\n  <p>昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。</p>\n  <p>昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "url": "https://arxiv.org/abs/2604.22777",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "url": "https://arxiv.org/abs/2604.22934",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the ori",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+      "url": "https://arxiv.org/abs/2604.22951",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn the",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+      "url": "https://arxiv.org/abs/2604.22958",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+      "url": "https://arxiv.org/abs/2604.22979",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models ach",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+      "url": "https://arxiv.org/abs/2604.23002",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes add",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Systematic Approach for Large Language Models Debugging",
+      "url": "https://arxiv.org/abs/2604.23027",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and pro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+      "url": "https://arxiv.org/abs/2604.23049",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controlled autonomy. Prior work has established the importance of human oversight for ensuring transparency, ac",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+      "url": "https://arxiv.org/abs/2604.23057",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+      "url": "https://arxiv.org/abs/2604.23072",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR",
+      "url": "https://arxiv.org/abs/2604.24770",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24770v1 Announce Type: new \nAbstract: Despite recent progress in automatic speech recognition (ASR), elderly ASR (EASR) remains challenging due to limited training data and the distinct acoustic and linguistic characteristics of elderly speech. In this work, we address data scarcity in EA",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Large Language Models Explore by Latent Distilling",
+      "url": "https://arxiv.org/abs/2604.24927",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24927v1 Announce Type: new \nAbstract: Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic exploration. In this paper, we propose Exploratory Samplin",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation",
+      "url": "https://arxiv.org/abs/2604.24929",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24929v1 Announce Type: new \nAbstract: Agent benchmarks remain largely English-centric, while their multilingual versions are often built with machine translation (MT) and limited post-editing. We argue that, for agentic tasks, this minimal workflow can easily break benchmark validity thro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ADE: Adaptive Dictionary Embeddings -- Scaling Multi-Anchor Representations to Large Language Models",
+      "url": "https://arxiv.org/abs/2604.24940",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24940v1 Announce Type: new \nAbstract: Word embeddings are fundamental to natural language processing, yet traditional approaches represent each word with a single vector, creating representational bottlenecks for polysemous words and limiting semantic expressiveness. While multi-anchor re",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Independent-Component-Based Encoding Models of Brain Activity During Story Comprehension",
+      "url": "https://arxiv.org/abs/2604.24942",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24942v1 Announce Type: new \nAbstract: Encoding models provide a powerful framework for linking continuous stimulus features to neural activity; however, traditional voxelwise approaches are limited by measurement noise, inter-subject variability, and redundancy arising from spatially corr",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BenchGuard: Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks",
+      "url": "https://arxiv.org/abs/2604.24955",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24955v1 Announce Type: new \nAbstract: As benchmarks grow in complexity, many apparent agent failures are not failures of the agent at all - they are failures of the benchmark itself: broken specifications, implicit assumptions, and rigid evaluation scripts that penalize valid alternative ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases",
+      "url": "https://arxiv.org/abs/2604.24972",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24972v1 Announce Type: new \nAbstract: Clinical abnormality grounding for rare diseases is often hindered by data scarcity, making supervised fine-tuning impractical and single-pass inference highly unstable. We propose Dynamic Decision Learning (DDL), a framework that enables frozen large",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Survey on LLM-based Conversational User Simulation",
+      "url": "https://arxiv.org/abs/2604.24977",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24977v1 Announce Type: new \nAbstract: User simulation has long played a vital role in computer science due to its potential to support a wide range of applications. Language, as the primary medium of human communication, forms the foundation of social interaction and behavior. Consequentl",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Don\\'t Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination",
+      "url": "https://arxiv.org/abs/2604.24978",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.24978v1 Announce Type: new \nAbstract: Enterprise deep research often fails to produce decision-ready reports due to uneven information coverage, context explosion, and premature stopping. We propose a scalable Enterprise Deep Research (EDR) architecture to address these failures. Our syst",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models",
+      "url": "https://arxiv.org/abs/2604.25011",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Apr 2026 00:00:00 -0400",
+      "summary": "arXiv:2604.25011v1 Announce Type: new \nAbstract: Reinforcement learning (RL)-based post-training often improves the reasoning performance of large language models (LLMs) beyond the training domain, while supervised fine-tuning (SFT) frequently leads to general capabilities forgetting. However, the m",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude.ai unavailable and elevated errors on the API (282pts)",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "source": "Hacker News (API)",
+      "published": "2026-04-28T18:01:21Z",
+      "summary": "HN热度: 282分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI's economics don't make sense (212pts)",
+      "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-28T16:39:53Z",
+      "summary": "HN热度: 212分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
