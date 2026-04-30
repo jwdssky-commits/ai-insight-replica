@@ -1,0 +1,189 @@
+{
+  "title": "Anthropic或融资500亿美元估值9000亿；Google搜索创历史新高",
+  "date": "2026-04-29",
+  "summary": "Anthropic正洽谈新一轮500亿美元融资，估值达9000亿美元，反映大模型赛道持续火热。Google搜索Q1创历史新高，CEO皮查伊称AI投资点亮全业务线。OpenAI在AWS上线GPT模型与Managed Agents，推进企业AI部署；IBM发布Granite 4.1系列大模型，聚焦企业级推理能力。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "AI应用"
+  ],
+  "highlight": {
+    "title": "Anthropic洽谈新一轮500亿美元融资，估值或达9000亿美元",
+    "body": "据TechCrunch报道，Anthropic已收到多轮8500-9000亿美元区间的pre-emptive投资要约，正洽谈新一轮约500亿美元融资。此轮融资将使Anthropic估值接近OpenAI最新估值水平，反映资本市场对Claude制造商持续高度看好，也预示大模型头部竞争进入新阶段。",
+    "source_url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "IBM发布Granite 4.1系列LLM：企业级推理新标杆",
+          "body": "IBM在HuggingFace发布Granite 4.1系列大模型技术博客，详细披露其训练架构与数据处理流程。Granite系列定位企业级应用，强调推理效率与合规性，为企业本地部署提供新选择。",
+          "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+          "source_name": "HuggingFace Blog",
+          "importance": "medium",
+          "related_entities": [
+            "IBM",
+            "HuggingFace"
+          ]
+        },
+        {
+          "headline": "HuggingFace研究：AI评测正成为新的计算瓶颈",
+          "body": "HuggingFace博客指出AI评测成本急剧攀升，eval阶段正成为继训练和推理之后的新瓶颈。研究呼吁社区重视评测效率优化，否则将制约模型迭代速度。",
+          "source_url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+          "source_name": "HuggingFace Blog",
+          "importance": "medium",
+          "related_entities": [
+            "HuggingFace",
+            "AI评测"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simon Willison发布LLM 0.32a0：重大向后兼容重构",
+          "body": "开源工具LLM发布0.32a0版本，带来重大架构重构。作为Python库和CLI工具，LLM为访问大模型提供统一接口，新版本改善扩展性与维护性，受到AI开发者社区关注。",
+          "source_url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "LLM"
+          ]
+        },
+        {
+          "headline": "微软发布VibeVoice：Whisper风格语音识别模型",
+          "body": "微软发布VibeVoice，一款类Whisper的语音转文本模型，采用MIT许可，内置说话人分离功能。该模型于2026年1月发布，SIMON WILLISON评测后认为其性能表现值得关注。",
+          "source_url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "微软",
+            "VibeVoice",
+            "Whisper"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google搜索Q1查询量创历史新高",
+          "body": "Alphabet Q1财报显示Google搜索查询量创历史最高纪录。CEO皮查伊表示AI投资与全栈策略正在点亮各业务线，AI功能增强用户搜索体验，推动流量持续增长。",
+          "source_url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Alphabet",
+            "Sundar Pichai"
+          ]
+        },
+        {
+          "headline": "Google Photos推出AI试衣功能",
+          "body": "Google Photos上线AI驱动的虚拟试衣功能，用户可将相册中已有的服装进行搭配组合，保存造型并分享。该功能利用AI图像生成技术，扩展消费级AI应用场景。",
+          "source_url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "Google Photos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic或融资500亿美元，估值达9000亿",
+          "body": "据TechCrunch引述知情人士，Anthropic已收到多轮8500-9000亿美元区间的pre-emptive投资要约，正洽谈约500亿美元新融资。此轮完成后，Anthropic估值将比肩OpenAI，Claude制造商获资本持续追捧。",
+          "source_url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "headline": "SoftBank创立机器人公司建数据中心，目标1000亿美元IPO",
+          "body": "SoftBank正在创建一家聚焦数据中心建设的机器人公司，已着眼1000亿美元IPO。该公司计划用AI与机器人构建基础设施，形成AI驱动的基础设施闭环，引发行业关注。",
+          "source_url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "SoftBank",
+            "Masayoshi Son",
+            "机器人"
+          ]
+        },
+        {
+          "headline": "ChatGPT下载量增长放缓，卸载率同比增132%",
+          "body": "市场情报公司Sensor Tower数据显示，ChatGPT 4月卸载量同比增长132%，用户留存面临挑战。分析认为竞争对手崛起与产品体验瓶颈正侵蚀OpenAI的增长动能，引发对IPO影响的担忧。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT",
+            "Sensor Tower"
+          ]
+        },
+        {
+          "headline": "OpenAI与Musk诉讼进入庭审",
+          "body": "Sam Altman与Elon Musk就OpenAI转型营利性公司对簿公堂。Musk 2024年起诉OpenAI背离造福人类使命，庭审将决定OpenAI未来架构与治理走向，引发AI行业治理讨论。",
+          "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Elon Musk",
+            "Sam Altman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI GPT模型与Managed Agents正式登陆AWS",
+          "body": "OpenAI宣布GPT模型、Codex和Managed Agents在AWS上线，企业可在AWS环境中安全构建AI应用。此举扩大OpenAI企业分发渠道，AWS客户可直接调用企业级AI能力。",
+          "source_url": "https://openai.com/index/openai-on-aws",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "AWS",
+            "Amazon",
+            "企业AI"
+          ]
+        },
+        {
+          "headline": "Google Cloud营收突破200亿美元，但受制于算力瓶颈",
+          "body": "Google Cloud季度营收首次突破200亿美元，AI需求是核心驱动力。但谷歌表示增长受制于算力容量，若无容量约束增速本可更高，云厂商算力争夺持续。",
+          "source_url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Google Cloud",
+            "Alphabet",
+            "云计算",
+            "算力"
+          ]
+        }
+      ]
+    }
+  ]
+}
