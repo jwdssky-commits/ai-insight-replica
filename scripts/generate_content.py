@@ -297,10 +297,10 @@ def attempt_json_repair(text: str):
 
 
 def generate_content(target_date: str, config: dict) -> dict:
-    api_key = os.environ.get("MINIMAX_API_KEY")
+    api_key = os.environ.get("LLM_API_KEY")
     if not api_key:
-        print("MINIMAX_API_KEY 环境变量未设置")
-        print("请运行: export MINIMAX_API_KEY=your-key-here")
+        print("LLM_API_KEY 环境变量未设置")
+        print("请运行: export LLM_API_KEY=your-key-here")
         sys.exit(1)
 
     try:
@@ -324,7 +324,8 @@ def generate_content(target_date: str, config: dict) -> dict:
     system_prompt = load_prompt_template()
     system_prompt = system_prompt.replace("{PEOPLE_KNOWLEDGE}", people_knowledge)
 
-    client = OpenAI(api_key=api_key, base_url="https://api.minimax.chat/v1")
+    api_base = config.get("api_base_url", "https://api.360.cn/v1")
+    client = OpenAI(api_key=api_key, base_url=api_base)
 
     news_items = raw_news.get("items", [])
 
@@ -368,10 +369,10 @@ def generate_content(target_date: str, config: dict) -> dict:
             break
         except Exception as e:
             err_msg = str(e)
-            is_overloaded = "529" in err_msg or "overloaded" in err_msg.lower()
-            if is_overloaded and api_attempt < max_api_retries:
+            is_retryable = any(kw in err_msg for kw in ["529", "429", "500", "502", "503", "overloaded", "rate_limit", "capacity"])
+            if is_retryable and api_attempt < max_api_retries:
                 wait_s = backoff_seconds[api_attempt - 1]
-                print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_s}s...")
+                print(f"  API 临时错误，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_s}s... ({e})")
                 import time
                 time.sleep(wait_s)
                 continue
@@ -415,10 +416,10 @@ def generate_content(target_date: str, config: dict) -> dict:
                 break
             except Exception as e:
                 err_msg = str(e)
-                is_overloaded = "529" in err_msg or "overloaded" in err_msg.lower()
-                if is_overloaded and api_attempt < max_api_retries:
+                is_retryable = any(kw in err_msg for kw in ["529", "429", "500", "502", "503", "overloaded", "rate_limit", "capacity"])
+                if is_retryable and api_attempt < max_api_retries:
                     wait_s = backoff_seconds[api_attempt - 1]
-                    print(f"  API 过载 (529)，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_s}s...")
+                    print(f"  API 临时错误，第 {api_attempt}/{max_api_retries} 次重试，等待 {wait_s}s... ({e})")
                     import time
                     time.sleep(wait_s)
                     continue
