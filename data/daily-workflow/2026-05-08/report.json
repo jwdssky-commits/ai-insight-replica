@@ -1,0 +1,152 @@
+{
+  "title": "OpenAI多箭齐发：GPT-5.5安全模型、广告测试、语音API；Anthropic获xAI全量GPU算力",
+  "date": "2026-05-08",
+  "summary": "OpenAI今日发布一系列重要更新：面向网络安全的GPT-5.5-Cyber专用模型、ChatGPT紧急联系人功能、广告测试启动以及实时语音API新模型。Anthropic与xAI达成数据中心合作，获得全部Colossus 22万GPU算力，Claude用户限额翻倍。同时，Musk与Altman庭审披露2023年OpenAI内部动荡细节。在机器人领域，波士顿动力IPO前夕高管集体出走，量产能力堪忧。",
+  "tags": [
+    "大模型",
+    "AI应用",
+    "AI行业",
+    "模型发布",
+    "安全",
+    "热点"
+  ],
+  "highlight": {
+    "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
+    "body": "Anthropic与xAI达成协议，xAI将Colossus数据中心全部22万张GPU算力提供给Claude训练与推理，用户限额翻倍、速度提升。双方还探索太空算力合作，是AI与航天领域最具影响力的基础设施合作。",
+    "source_url": "https://www.qbitai.com/2026/05/413569.html"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布GPT-5.5-Cyber专用安全模型，赋能网络安全防御",
+          "body": "OpenAI推出GPT-5.5及增强版GPT-5.5-Cyber，针对已验证的防御者开放，用于加速漏洞研究、攻击面分析和关键基础设施保护。该模型在安全基准测试中表现优异，是首个专门为网络安全领域微调的旗舰模型，标志着AI在防御性安全应用上的重要里程碑。",
+          "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "Anthropic与xAI达成数据中心合作，Claude获得22万GPU算力提升",
+          "body": "Anthropic在Code w/ Claude活动中宣布与xAI/SpaceX达成协议，使用Colossus数据中心全部22万张GPU。Claude付费用户限额翻倍，推理速度显著提升。双方还规划太空算力合作，这是AI公司获取算力的最大规模交易之一，影响深远。",
+          "source_url": "https://simonwillison.net/2026/May/7/xai-anthropic",
+          "source_name": "Simon Willison",
+          "importance": "high",
+          "related_entities": [
+            "Dario Amodei",
+            "Elon Musk",
+            "Igor Babuschkin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simplex通过Codex重塑软件开发流程，效率显著提升",
+          "body": "客户案例显示，Simplex使用ChatGPT Enterprise和OpenAI Codex改造设计、构建和测试流程，大幅缩短开发周期并实现AI驱动工作流规模化。这展示了AI编程工具在真实企业软件项目中的落地效果，验证了Codex作为全栈开发助手的潜力。",
+          "source_url": "https://openai.com/index/simplex",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Mark Chen"
+          ]
+        },
+        {
+          "headline": "Mozilla借助Claude Mythos预览版修复数百个Firefox安全漏洞",
+          "body": "Mozilla分享了利用Claude Mythos预览版对Firefox进行安全加固的细节，定位并修复了数百个内存安全漏洞。这是大模型辅助大型开源项目安全审计的典型案例，展示了AI在软件安全维护中的实际价值。",
+          "source_url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Barry Zhang"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Parloa基于OpenAI模型打造可语音交互的客服Agent",
+          "body": "企业客服平台Parloa利用OpenAI的实时语音模型，构建了可自然对话的语音客服Agent，支持设计、模拟和可靠部署。该方案已在多个行业落地，标志着AI语音在客户服务领域从实验走向规模化生产。",
+          "source_url": "https://openai.com/index/parloa",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Bret Taylor"
+          ]
+        },
+        {
+          "headline": "Google发布Fitbit Air健康手环，集成AI健康教练",
+          "body": "Google推出99美元的Fitbit Air无屏手环，内置AI健康教练，提供个性化运动与作息建议。该设备对标Whoop，以低价和AI能力切入健康可穿戴市场，是AI赋能消费硬件的又一尝试。",
+          "source_url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Sundar Pichai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Musk与Altman庭审对峙，Mira Murati证词曝光2023年内部斗争",
+          "body": "在Musk诉OpenAI案庭审中，前CTO Mira Murati的证词揭示了Sam Altman被罢免CEO事件背后的董事会矛盾。法庭辩论围绕OpenAI是否背离非营利使命展开，此次庭审结果可能深刻影响OpenAI的公司治理与未来方向。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman",
+            "Elon Musk",
+            "Mira Murati"
+          ]
+        },
+        {
+          "headline": "波士顿动力IPO前夕高管集体出走，机器人量产能力仅4台",
+          "body": "据量子位报道，波士顿动力在冲刺IPO时遭遇高管离职潮，人形机器人Atlas的年量产能力仅4台，商业化前景堪忧。这一事件折射出机器人行业从实验室原型到大规模量产面临的巨大挑战。",
+          "source_url": "https://www.qbitai.com/2026/05/413613.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "王兴兴"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "云知声发布山海知医慧保大模型，深耕医疗保险数智化",
+          "body": "云知声推出山海知医慧保大模型，专注于医疗保险场景，涵盖智能理赔、健康管理、风险控制等功能。该模型基于高密智能策略，针对金融保险行业的合规与效率需求进行了定制优化，推动医疗保障体系数智化升级。",
+          "source_url": "https://www.qbitai.com/2026/05/413782.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": []
+        },
+        {
+          "headline": "OpenAI开始测试ChatGPT广告，探索免费模式商业化",
+          "body": "OpenAI宣布在ChatGPT中测试广告，以支持免费用户访问。广告将明确标注、不影响回答独立性，用户可控制数据使用。这是AI对话产品从纯订阅向混合商业模式转变的关键试探，可能改变整个消费级AI的收入格局。",
+          "source_url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman"
+          ]
+        }
+      ]
+    }
+  ]
+}

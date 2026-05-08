@@ -1,0 +1,159 @@
+{
+  "title": "Anthropic与SpaceX达成算力交易，OpenAI推出GPT-5.5-Cyber及语音智能模型",
+  "date": "2026-05-06",
+  "summary": "Anthropic宣布获得SpaceX/xAI Colossus数据中心全部算力，大幅提升Claude使用限制；OpenAI发布GPT-5.5-Cyber网络安全模型、Trusted Contact安全功能及新的语音智能API；DeepSeek 4 Flash推出本地推理引擎；Plaud估值涨至20亿美元。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "模型发布",
+    "融资",
+    "开源",
+    "安全",
+    "芯片"
+  ],
+  "highlight": {
+    "title": "Anthropic与SpaceX/xAI达成算力交易：Claude获得Colossus数据中心全部容量",
+    "body": "Anthropic宣布将使用SpaceX/xAI的Colossus数据中心全部算力来训练和运行Claude模型，这是AI领域罕见的超大规模算力合作，将大幅提升Claude的推理能力和使用限制。",
+    "source_url": "https://www.anthropic.com/news/higher-limits-spacex"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布GPT-5.5-Cyber：专为网络安全守护者设计的可信访问模型",
+          "body": "OpenAI推出GPT-5.5及GPT-5.5-Cyber，通过可信访问（Trusted Access）机制帮助已验证的防御者加速漏洞研究和关键基础设施保护，是AI在安全领域的垂直落地。",
+          "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "DeepSeek 4 Flash：为Apple Metal打造的本地推理引擎",
+          "body": "项目ds4实现了DeepSeek 4模型在Apple Metal上的高效本地推理，为开发者提供快速的边缘端部署方案，降低了云端依赖。",
+          "source_url": "https://github.com/antirez/ds4",
+          "source_name": "GitHub",
+          "importance": "medium",
+          "related_entities": [
+            "梁文锋",
+            "DeepSeek"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic Code w/ Claude 2026活动实录：Agent编程新进展",
+          "body": "Simon Willison直播报道了Anthropic Code w/ Claude年度大会，重点展示了Claude在代码生成和Agent编程上的突破，包括更深的IDE集成和自动化能力。",
+          "source_url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
+          "source_name": "Simon Willison",
+          "importance": "high",
+          "related_entities": [
+            "Barry Zhang",
+            "Anthropic"
+          ]
+        },
+        {
+          "headline": "Mozilla使用Claude Mythos预览版加固Firefox浏览器",
+          "body": "Mozilla借助Anthropic Claude Mythos预览版发现了数百个漏洞并修复，展示了AI在安全编码和代码审计中的巨大潜力。",
+          "source_url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Mozilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI推出新语音智能API模型：实时推理、翻译与转录",
+          "body": "OpenAI发布了新一代实时语音模型，能够进行语音推理、多语言翻译和转写，为客服、教育等场景带来更自然的语音交互体验。",
+          "source_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Parloa基于OpenAI构建企业级语音AI客服代理",
+          "body": "Parloa利用OpenAI模型构建可扩展的语音驱动客服代理，允许企业设计、模拟和部署可靠的实时交互，提升客户满意度。",
+          "source_url": "https://openai.com/index/parloa",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Bret Taylor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic与SpaceX/xAI达成超大规模算力交易",
+          "body": "Anthropic获得SpaceX/xAI旗下Colossus数据中心全部算力用于Claude的训练和推理，这是AI模型走向更大规模的关键基础设施合作。",
+          "source_url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "source_name": "Anthropic Blog",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "SpaceX",
+            "xAI",
+            "Igor Babuschkin"
+          ]
+        },
+        {
+          "headline": "AI录音笔公司Plaud估值达20亿美元，获头部大厂投资",
+          "body": "据36氪独家，Plaud在2024年营收约5600万美元，2025年营收增长约3倍，目前估值约20亿美元，并与腾讯会议推进硬件合作。",
+          "source_url": "https://36kr.com/p/3799129165863937?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "Plaud"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布B2B Signals报告：前沿企业如何深化AI采用",
+          "body": "报告显示，前沿企业通过Codex驱动的Agent工作流构建持久竞争优势，AI采用正在从实验进入大规模生产阶段。",
+          "source_url": "https://openai.com/index/introducing-b2b-signals",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Singular Bank使用ChatGPT和Codex为银行家节省60-90分钟/日",
+          "body": "Singular Bank构建内部助手Singularity，基于ChatGPT和Codex帮助银行家加速会议准备、投资组合分析和跟进，显著提升效率。",
+          "source_url": "https://openai.com/index/singular-bank",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Singular Bank"
+          ]
+        }
+      ]
+    }
+  ]
+}

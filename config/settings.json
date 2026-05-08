@@ -2,8 +2,8 @@
     "project_name": "AI手札",
     "focus_topics": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型"],
     "language": "zh-CN",
-    "schedule": "06:26",
-    "model": "z-ai/glm-5v-turbo",
+    "schedule": "01:26",
+    "model": "deepseek/deepseek-v4-flash",
     "api_base_url": "https://api.360.cn/v1",
     "max_retries": 3,
     "news_collection": {

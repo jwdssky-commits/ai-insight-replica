@@ -1,0 +1,171 @@
+{
+  "title": "OpenAI启动ChatGPT广告测试，发布GPT-5.5网络安全模型；Anthropic升级Claude并达成SpaceX计算合作",
+  "date": "2026-05-03",
+  "summary": "OpenAI宣布开始测试ChatGPT广告以支持免费访问，同时推出GPT-5.5系列用于网络安全防御，并上线语音智能新API。Anthropic提高Claude使用限制并与SpaceX达成计算交易。AI行业层面，AI芯片需求导致主板销量暴跌25%以上，社区对AI生成内容泛滥的担忧持续升温。",
+  "tags": [
+    "大模型",
+    "AI应用",
+    "AI行业",
+    "模型发布",
+    "产品发布",
+    "芯片"
+  ],
+  "highlight": {
+    "title": "Testing ads in ChatGPT",
+    "body": "OpenAI开始测试ChatGPT广告，标志着其商业化模式重大转变——在免费用户看广告、保持答案独立性及保护隐私三者间寻求平衡。直接影响数百万用户，并可能重塑AI产品盈利路径。",
+    "source_url": "https://openai.com/index/testing-ads-in-chatgpt"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GPT-5.5 与 GPT-5.5-Cyber：可信访问的网络安全模型",
+          "body": "OpenAI发布专为网络安全防护设计的GPT-5.5和GPT-5.5-Cyber，通过可信访问机制让已验证防御者加速漏洞研究和关键基础设施保护。标志着AI安全防御能力的重大升级。",
+          "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "GPT-5.5"
+          ]
+        },
+        {
+          "headline": "全新语音智能模型API发布：实时推理、翻译、转录",
+          "body": "OpenAI推出支持实时推理、翻译和转录的新语音模型API，使开发者能构建更自然、更智能的语音体验。该API可处理复杂对话，并支持多语言场景。",
+          "source_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "语音AI",
+            "Realtime API"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simplex 利用 Codex 重塑软件开发流程",
+          "body": "Simplex公司借助ChatGPT Enterprise和Codex，将设计、构建和测试时间缩短，实现AI驱动工作流的规模化。典型的企业级AI编程落地案例。",
+          "source_url": "https://openai.com/index/simplex",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Simplex"
+          ]
+        },
+        {
+          "headline": "DeepSeek 4 Flash：针对 Metal 的本地推理引擎",
+          "body": "开源项目DS4（DeepSeek 4 Flash）发布，专为Apple Metal GPU优化的本地推理引擎，可在Mac设备上高效运行大模型。获得307点HN热度。",
+          "source_url": "https://github.com/antirez/ds4",
+          "source_name": "GitHub",
+          "importance": "medium",
+          "related_entities": [
+            "DeepSeek",
+            "Metal",
+            "本地推理"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Uber 借助 OpenAI 打造语音助手与司机智能工具",
+          "body": "Uber利用OpenAI模型构建AI助手和语音功能，帮助司机更智能地接单、乘客更快完成预订。在实时市场场景中验证了AI对效率的提升。",
+          "source_url": "https://openai.com/index/uber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Uber",
+            "OpenAI",
+            "语音助手"
+          ]
+        },
+        {
+          "headline": "Parloa：企业级AI客服语音代理，客户愿意与之交谈",
+          "body": "Parloa基于OpenAI模型构建可扩展的语音AI客服代理，支持企业设计、模拟和部署可靠实时交互。展示了AI在客户服务领域的商业化潜力。",
+          "source_url": "https://openai.com/index/parloa",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Parloa",
+            "客服AI",
+            "语音代理"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI开始测试ChatGPT广告",
+          "body": "OpenAI在ChatGPT中测试广告以支持免费访问，承诺广告将清晰标注、不影响答案独立性，并采取强隐私保护。此举可能改变AI产品的商业化格局。",
+          "source_url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT",
+            "广告"
+          ]
+        },
+        {
+          "headline": "AI芯片需求挤压主板市场：销量暴跌25%以上",
+          "body": "由于芯片厂商将产能转向AI芯片，主板市场遭遇前所未有的短缺与销量崩溃。华硕、技嘉、微星和映泰预计出货量大幅下滑，折射出AI对传统PC产业的冲击。",
+          "source_url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+          "source_name": "Tom's Hardware",
+          "importance": "high",
+          "related_entities": [
+            "NVIDIA",
+            "AMD",
+            "Intel",
+            "华硕",
+            "技嘉"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Singular Bank: 银行家借助ChatGPT和Codex每日节省60-90分钟",
+          "body": "Singular Bank打造内部助手Singularity，基于ChatGPT和Codex帮助银行家进行会议准备、组合分析和跟进，效率显著提升。典型的企业AI实际效益案例。",
+          "source_url": "https://openai.com/index/singular-bank",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Singular Bank",
+            "银行AI",
+            "企业效率"
+          ]
+        },
+        {
+          "headline": "前沿企业如何用AI构建持久竞争优势",
+          "body": "OpenAI发布B2B Signals研究报告，揭示前沿企业如何深化AI采用、扩展Codex驱动的Agent工作流，并建立持久竞争优势。为其他企业提供转型路线图。",
+          "source_url": "https://openai.com/index/introducing-b2b-signals",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "企业AI",
+            "竞争优势",
+            "Agent工作流"
+          ]
+        }
+      ]
+    }
+  ]
+}

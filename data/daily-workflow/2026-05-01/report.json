@@ -1,0 +1,157 @@
+{
+  "title": "OpenAI发布GPT-5.5 Cyber模型并测试广告，Anthropic与SpaceX达成计算合作",
+  "date": "2026-05-01",
+  "summary": "OpenAI推出GPT-5.5及网络安全专用版本GPT-5.5-Cyber，扩大可信访问计划；同时开始测试ChatGPT广告以支撑免费服务。Anthropic宣布提高Claude使用限制并与SpaceX/xAI达成Colossus数据中心全部容量交易。DeepSeek 4 Flash发布本地推理引擎（Metal），Plaud估值涨至20亿美元，主板销量因AI芯片短缺暴跌超25%。",
+  "tags": [
+    "大模型",
+    "模型发布",
+    "AI行业",
+    "融资",
+    "开源",
+    "安全",
+    "Agent",
+    "芯片",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "body": "Anthropic与SpaceX/xAI达成协议使用Colossus数据中心全部算力，并提高Claude使用限制，标志着AI基础设施商业化进入新阶段，直接推动模型训练与推理能力跃升。",
+    "source_url": "https://www.anthropic.com/news/higher-limits-spacex"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布GPT-5.5及GPT-5.5-Cyber安全模型",
+          "body": "OpenAI推出GPT-5.5系列，其中GPT-5.5-Cyber专为网络安全设计，帮助验证防御者加速漏洞研究和关键基础设施保护。扩展了可信访问计划，提升模型安全性。",
+          "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "GPT-5.5"
+          ]
+        },
+        {
+          "headline": "DeepSeek 4 Flash发布本地推理引擎（Metal）",
+          "body": "antirez发布ds4项目，在GitHub上开源DeepSeek 4 Flash本地推理引擎，支持Apple Metal，实现高效本地运行大模型，降低推理门槛。",
+          "source_url": "https://github.com/antirez/ds4",
+          "source_name": "GitHub",
+          "importance": "high",
+          "related_entities": [
+            "DeepSeek",
+            "antirez"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simplex借助Codex重构软件开发流程",
+          "body": "Simplex使用ChatGPT Enterprise和Codex大幅缩短设计、构建和测试时间，扩展AI驱动工作流，展示企业级AI编程的典型落地案例。",
+          "source_url": "https://openai.com/index/simplex",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Simplex"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI开始在ChatGPT中测试广告",
+          "body": "为支持免费访问，OpenAI开始测试ChatGPT内广告，保持清晰标识、答案独立性和隐私保护，探索可持续商业模式。",
+          "source_url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT"
+          ]
+        },
+        {
+          "headline": "ChatGPT推出“可信联系人”安全功能",
+          "body": "OpenAI为ChatGPT引入可选安全功能：若检测到严重自残风险，将通知用户指定的可信联系人。该功能已获媒体广泛报道。",
+          "source_url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AI录音笔公司Plaud估值达20亿美元",
+          "body": "硬氪独家获悉，AI卡片录音笔公司Plaud于2025年中获腾讯投资后估值达10亿美元，现已涨至约20亿美元，并与腾讯会议推进硬件合作。2024年营收约5600万美元。",
+          "source_url": "https://36kr.com/p/3799129165863937?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Plaud",
+            "腾讯"
+          ]
+        },
+        {
+          "headline": "主板销量因AI芯片短缺暴跌超25%",
+          "body": "Tom's Hardware报道称芯片厂商为生产AI芯片而削减消费级芯片供应，导致主板市场销量预计减少超25%，华硕等厂商受影响严重。",
+          "source_url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+          "source_name": "Tom's Hardware",
+          "importance": "high",
+          "related_entities": [
+            "NVIDIA",
+            "AMD",
+            "Intel",
+            "华硕",
+            "技嘉",
+            "微星"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Uber借助OpenAI提升司机与乘客体验",
+          "body": "Uber使用OpenAI模型驱动AI助手和语音功能，帮助司机更高效赚取收入，乘客更快预约行程，展现AI在实时市场中的规模化应用。",
+          "source_url": "https://openai.com/index/uber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Uber",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Parloa构建用户喜爱的AI客服代理",
+          "body": "Parloa利用OpenAI模型构建可扩展的语音驱动客服代理，支持企业设计、模拟和部署可靠实时交互，提升客户体验。",
+          "source_url": "https://openai.com/index/parloa",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Parloa",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}

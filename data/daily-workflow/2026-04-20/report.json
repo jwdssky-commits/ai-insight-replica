@@ -1,0 +1,117 @@
+{
+  "title": "具身智能大爆发：苏度科技发布Sudo R1、自变量机器人融资近20亿",
+  "date": "2026-04-20",
+  "summary": "今日具身智能领域密集爆发：苏度科技发布Sudo R1模型，实现0真机数据zero-shot下98%首次抓取成功率；高德发布面向AGI的全栈具身技术体系ABot，横扫15项SOTA；自变量机器人完成近20亿元B轮融资，小米战投与红杉中国领投，成为国内唯一被阿里、美团、字节、小米四家大厂共同投资的具身智能企业。模型架构侧，22岁开发者逆推开源了Claude Mythos架构；阿里发布Wan2.7-Image，国内人类偏好盲测评分第一。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "机器人",
+    "融资"
+  ],
+  "highlight": {
+    "title": "自变量机器人完成近20亿元B轮融资",
+    "body": "自变量机器人获小米战投与红杉中国领投近20亿元B轮融资，此前美团、阿里、字节已分别领投其A轮、A+轮、A++轮。使其成为国内唯一同时被四家互联网大厂投资的具身智能企业，标志着具身智能已成为国内大厂核心战略赛道。",
+    "source_url": "https://36kr.com/p/3774502008963841?f=rss"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "苏度科技发布Sudo R1具身模型：0真机数据zero-shot，98%首次抓取成功率",
+          "body": "苏度科技发布具身模型Sudo R1，核心突破在于完全不需要真实机器人数据，仅通过仿真和合成数据实现zero-shot泛化，在首次抓取任务中达到98%成功率。这一成果对具身智能的数据瓶颈问题具有重要意义，意味着机器人训练不再高度依赖昂贵的真实数据采集，降低了具身智能的落地门槛。",
+          "source_url": "https://www.qbitai.com/2026/04/403543.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "苏度科技",
+            "Sudo R1"
+          ]
+        },
+        {
+          "headline": "高德发布ABot全栈具身技术体系：横扫15项SOTA",
+          "body": "高德发布全球首个面向AGI的全栈具身技术体系ABot，在多个具身智能核心任务上实现15项SOTA。ABot构建了从感知到决策再到执行的完整技术闭环，覆盖视觉、语言、触觉等多模态融合，标志着国内在高通用性具身智能基础架构上取得系统性突破。",
+          "source_url": "https://www.qbitai.com/2026/04/403505.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "高德",
+            "ABot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Claude Token Counter升级：支持多模型token计数对比",
+          "body": "Simon Willison升级了其Claude Token Counter工具，新增对不同模型进行同一输入的token计数对比功能。这一工具对于开发者在模型选型、成本估算和Prompt优化方面具有实用价值，可直观比较GPT、Claude等不同模型在相同输入下的token消耗差异。",
+          "source_url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "Simon Willison"
+          ]
+        },
+        {
+          "headline": "TRELLIS.2实现Apple Silicon原生运行，Image-to-3D生成本地化",
+          "body": "开发者Shivam Kumar推出TRELLIS.2的macOS原生版本，可在Apple Silicon设备上本地运行Image-to-3D生成任务，无需云端GPU支持。这一进展降低了3D AI生成的使用门槛，使个人开发者能在消费级硬件上完成高质量3D资产生成。",
+          "source_url": "https://github.com/shivampkumar/trellis-mac",
+          "source_name": "Hacker News",
+          "importance": "medium",
+          "related_entities": [
+            "TRELLIS",
+            "Apple Silicon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": false,
+      "items": []
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "自变量机器人完成近20亿元B轮融资：小米战投与红杉中国领投",
+          "body": "自变量机器人于2026年3-4月完成近20亿元B轮融资，领投方为小米战投和红杉中国。此前美团、阿里、字节已分别在A轮、A+轮、A++轮参与投资，使其成为国内唯一一家同时被四家互联网大厂投资的具身智能企业。小米战投近年在机器人领域持续落子，已投资纬钛机器人、曦诺未来、萝博派对等多个相关项目。",
+          "source_url": "https://36kr.com/p/3774502008963841?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "自变量机器人",
+            "小米",
+            "红杉中国",
+            "美团",
+            "阿里",
+            "字节"
+          ]
+        },
+        {
+          "headline": "特斯拉Robotaxi服务扩展至达拉斯和休斯顿",
+          "body": "特斯拉将robotaxi服务扩展至美国得克萨斯州第三和第四座城市——达拉斯和休斯顿，此前已于奥斯汀启动服务并从2026年1月起提供无安全员自动驾驶出行。特斯拉robotaxi现覆盖三座城市，均位于得州，标志着其自动驾驶出行服务进入规模化推广阶段。",
+          "source_url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Tesla",
+            "Robotaxi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}

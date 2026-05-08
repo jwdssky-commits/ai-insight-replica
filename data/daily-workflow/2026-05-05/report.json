@@ -1,0 +1,146 @@
+{
+  "title": "OpenAI密集发布GPT-5.5 Cyber、Trusted Contact与广告测试；Anthropic与SpaceX达成数据中心交易",
+  "date": "2026-05-05",
+  "summary": "OpenAI今日发布多项更新：面向网络安全防御的GPT-5.5和GPT-5.5-Cyber、ChatGPT Trusted Contact安全通知功能、以及广告测试计划；同时推出新的实时语音模型API。Anthropic宣布与SpaceX/xAI合作，利用其Colossus数据中心全部算力。此外，DeepSeek 4 Flash本地推理引擎在Mac上运行获关注，显卡短缺导致主板销量暴跌超25%。",
+  "tags": [
+    "大模型",
+    "AI应用",
+    "AI行业",
+    "模型发布",
+    "产品发布",
+    "安全",
+    "芯片"
+  ],
+  "highlight": {
+    "title": "OpenAI发布GPT-5.5和GPT-5.5-Cyber，助力网络安全防御",
+    "body": "OpenAI推出专为已验证网络安全专家设计的GPT-5.5模型，可加速漏洞研究和关键基础设施保护，是AI在安全领域的重要应用。",
+    "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布GPT-5.5和GPT-5.5-Cyber，面向网络安全",
+          "body": "OpenAI推出GPT-5.5及专门的安全版本GPT-5.5-Cyber，通过Trusted Access机制赋予已验证防御者加速漏洞研究和保护关键基础设施的能力，标志着AI在网络安全领域的深度专用化。",
+          "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "Anthropic与SpaceX/xAI达成数据中心交易，获得Colossus全部算力",
+          "body": "Anthropic宣布与SpaceX/xAI达成协议，使用其Colossus数据中心全部容量，大幅提升Claude训练和推理能力。同时Anthropic还提高了Claude使用限制，显示算力军备竞赛白热化。",
+          "source_url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "source_name": "Anthropic Blog",
+          "importance": "high",
+          "related_entities": [
+            "Dario Amodei",
+            "Igor Babuschkin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic SDK v0.100.0发布，支持Managed Agents多智能体和webhooks",
+          "body": "Anthropic Python SDK达到0.100版本，新增Managed Agents多智能体协作、outcomes追踪、webhooks和vault验证，为构建复杂Agent应用提供原生API支持。",
+          "source_url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.100.0",
+          "source_name": "GitHub",
+          "importance": "medium",
+          "related_entities": [
+            "Barry Zhang"
+          ]
+        },
+        {
+          "headline": "Mozilla使用Claude Mythos预览版加固Firefox浏览器安全",
+          "body": "Mozilla分享了使用Claude Mythos预览版定位并修复数百个漏洞的详细经验，展示了前沿AI模型在安全代码审计中的实际价值。",
+          "source_url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Alex Albert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Parloa利用OpenAI打造企业级语音AI客服代理",
+          "body": "Parloa基于OpenAI模型构建可扩展的语音驱动AI客服代理，帮助企业设计、模拟并部署可靠实时交互，代表AI在客户服务领域的深度落地。",
+          "source_url": "https://openai.com/index/parloa",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Bret Taylor"
+          ]
+        },
+        {
+          "headline": "Uber使用OpenAI技术赋能司机和乘客，提升出行效率",
+          "body": "Uber利用OpenAI模型构建AI助手和语音功能，帮助司机更智能地赚取收入，乘客更快地完成预订，体现大规模实时市场中的AI应用。",
+          "source_url": "https://openai.com/index/uber",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AI芯片需求挤压主板市场，销量暴跌超25%",
+          "body": "Tom's Hardware报道称，芯片厂商为了建造更多AI芯片而削减消费级市场供应，导致主板销量暴跌超25%，华硕预计少卖500万片，反映出AI基础设施对硬件生态的冲击。",
+          "source_url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+          "source_name": "Tom's Hardware",
+          "importance": "high",
+          "related_entities": [
+            "Jensen Huang"
+          ]
+        },
+        {
+          "headline": "AI卡片录音笔公司Plaud估值达20亿美元，获腾讯投资",
+          "body": "据36氪独家，AI录音笔Plaud估值已涨至约20亿美元，2024年营收约5600万美元，2025年增长约3倍，正在推进与腾讯会议硬件合作，显示AI硬件细分赛道的爆发。",
+          "source_url": "https://36kr.com/p/3799129165863937?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simplex借助ChatGPT Enterprise和Codex重塑软件开发",
+          "body": "Simplex使用ChatGPT Enterprise和Codex大幅缩短设计、构建和测试时间，推动AI驱动的工作流规模化，展示企业级AI Coding转型的典型路径。",
+          "source_url": "https://openai.com/index/simplex",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "Singular Bank利用ChatGPT和Codex为银行家节省每日60-90分钟",
+          "body": "Singular Bank通过构建基于ChatGPT和Codex的内部助手Singularity，帮助银行家在会议准备、投资组合分析和跟进中节省大量时间，体现金融AI代理的落地价值。",
+          "source_url": "https://openai.com/index/singular-bank",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    }
+  ]
+}

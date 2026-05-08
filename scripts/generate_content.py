@@ -346,7 +346,7 @@ def generate_content(target_date: str, config: dict) -> dict:
 请基于以上数据生成今日日报 JSON。严格按照 schema 输出。
 只分析提供的数据，不要编造任何不在上述列表中的新闻或 URL。
 如果某个板块没有相关新闻，设 has_news: false。
-每个板块最多选取2条最重要的新闻，body 控制在100字以内。
+每个板块最多选取2条最重要的新闻，body 控制在60-100字之间（必须不少于60字，详细描述事件背景、影响和关键细节）。
 务必确保输出的 JSON 完整，不要被截断。宁可内容简短也不要 JSON 不完整。
 
 输出纯 JSON，不要 markdown code block，不要 <think> 标签。"""

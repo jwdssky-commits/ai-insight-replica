@@ -1,0 +1,166 @@
+{
+  "title": "GPT-5.5 安全模型发布，Claude 使用限额提升与 SpaceX 计算合作",
+  "date": "2026-05-02",
+  "summary": "今日重点：OpenAI 发布 GPT-5.5 及 GPT-5.5-Cyber 安全模型，为网络防御者提供可信访问；Anthropic 提升 Claude 使用限额并与 SpaceX 达成计算交易，HN 热度 498 分；AI 内容泛滥引发在线社区生态担忧（HN 472 分）。此外，Singular Bank 和 Uber 的 AI 转型案例展示了企业级应用的深化。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "安全",
+    "Agent",
+    "融资"
+  ],
+  "highlight": {
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "body": "Anthropic 同时提升 Claude 使用限额和与 SpaceX 的计算交易，标志着 AI 算力基础设施的关键布局。该新闻 HN 热度高达 498 分，反映出社区对可及性和计算资源分配的高度关注。",
+    "source_url": "https://www.anthropic.com/news/higher-limits-spacex"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GPT-5.5-Cyber 模型发布，面向网络安全防御者",
+          "body": "OpenAI 推出 GPT-5.5 及安全专属版本 GPT-5.5-Cyber，为经过验证的防御者提供可信访问，加速漏洞研究与关键基础设施保护，标志着 AI 在国家安全领域的深度应用。",
+          "source_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "GPT-5.5"
+          ]
+        },
+        {
+          "headline": "OpenAI 发布新一代语音模型，提升实时推理与翻译能力",
+          "body": "OpenAI 在 API 中推出新的实时语音模型，支持推理、翻译和转录，使语音交互更自然智能，将推动客服、会议助手等语音应用的体验升级。",
+          "source_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "DeepMind 的 AlphaEvolve：Gemini 驱动的编程 Agent 跨领域扩展",
+          "body": "DeepMind 发布 AlphaEvolve，基于 Gemini 的编程 Agent，在商业、基础设施和科学领域驱动自动化，展示 AI Coding 从代码补全到自主开发的演进。",
+          "source_url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "source_name": "DeepMind Blog",
+          "importance": "high",
+          "related_entities": [
+            "DeepMind",
+            "AlphaEvolve",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "Anthropic Python SDK v0.100.0 发布，支持 Managed Agents 多智能体",
+          "body": "Anthropic SDK 重大更新新增多智能体管理、Webhooks、Vault 验证等功能，开发者可更灵活地编排 Claude Agent 协作，标志着 Agent 框架的成熟化。",
+          "source_url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.100.0",
+          "source_name": "GitHub (anthropics/anthropic-sdk-python)",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI 开始测试 ChatGPT 广告，探索免费访问变现",
+          "body": "OpenAI 宣布在 ChatGPT 中测试广告以支持免费用户，广告将明确标注、不影响答案独立性并强调隐私保护，可能重塑消费级 AI 产品的商业模式。",
+          "source_url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT"
+          ]
+        },
+        {
+          "headline": "ChatGPT 推出 'Trusted Contact' 安全功能，可通知紧急联系人",
+          "body": "OpenAI 为 ChatGPT 引入可选安全功能，当检测到用户涉及严重自伤话题时可通知预先指定的紧急联系人，是 AI 安全和社会责任的实践。",
+          "source_url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic 提升 Claude 使用限额，并与 SpaceX 达成计算交易",
+          "body": "Anthropic 宣布 Claude 免费和付费用户使用限额显著提升，同时与 SpaceX 达成计算基础设施合作，利用太空级算力资源，反映 AI 公司对算力的全球布局。",
+          "source_url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "source_name": "Anthropic Blog",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "SpaceX"
+          ]
+        },
+        {
+          "headline": "AI 录音笔公司 Plaud 估值达 20 亿美元，获腾讯投资",
+          "body": "AI 卡片录音笔公司 Plaud 估值从 10 亿涨至 20 亿美元，获腾讯投资。2024 年营收约 5600 万美元，2025 年增长约 3 倍，AI 硬件赛道持续升温。",
+          "source_url": "https://36kr.com/p/3799129165863937?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Plaud",
+            "腾讯"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Singular Bank 使用 ChatGPT 和 Codex 赋能银行家，每日节省 60-90 分钟",
+          "body": "西班牙 Singular Bank 构建内部助手 Singularity，利用 ChatGPT 和 Codex 帮助银行家进行会议准备、投资组合分析和后续跟进，显著提升效率。",
+          "source_url": "https://openai.com/index/singular-bank",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Singular Bank",
+            "OpenAI",
+            "Codex"
+          ]
+        },
+        {
+          "headline": "Uber 利用 OpenAI 驱动 AI 助手和语音功能，优化司机和乘客体验",
+          "body": "Uber 集成 OpenAI 模型为司机提供 AI 助手以提升收入，为乘客提供语音预订功能，加速全球实时市场中的交互效率。",
+          "source_url": "https://openai.com/index/uber",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Uber",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}

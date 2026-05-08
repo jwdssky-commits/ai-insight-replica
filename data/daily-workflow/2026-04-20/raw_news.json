@@ -1,0 +1,509 @@
+{
+  "date": "2026-04-20",
+  "collected_at": "2026-04-20T09:32:53.804675+00:00",
+  "item_count": 41,
+  "items": [
+    {
+      "title": "SQL functions in Google Sheets to fetch data from Datasette",
+      "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-20T02:33:58+00:00",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/google-sheets/datasette-sql\">SQL functions in Google Sheets to fetch data from Datasette</a></p>\n    <p>I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the <code>impo",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-20T00:50:45+00:00",
+      "summary": "<p><strong><a href=\"https://tools.simonwillison.net/claude-token-counter\">Claude Token Counter, now with model comparisons</a></strong></p>\nI <a href=\"https://github.com/simonw/tools/pull/269\">upgraded</a> my Claude Token Counter tool to add the ability to run the same count against different models",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Headless everything for personal AI",
+      "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-19T21:46:38+00:00",
+      "summary": "<p><strong><a href=\"https://interconnected.org/home/2026/04/18/headless\">Headless everything for personal AI</a></strong></p>\nMatt Webb thinks <strong>headless</strong> services are about to become much more common:</p>\n<blockquote>\n<p>Why? Because using personal AIs is a better experience for users",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-04-18T23:59:40+00:00",
+      "summary": "<p>Anthropic are the only major AI lab to <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts\">publish the system prompts</a> for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 in July 2024 and it's always interesting to see h",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Apr 2026 21:24:06 +0000",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Apr 2026 19:30:00 +0000",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Apr 2026 16:30:00 +0000",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Apr 2026 16:01:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 18 Apr 2026 21:37:15 +0000",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cloud development platform Vercel was hacked",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-19T15:54:52-04:00",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email ad",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-04-18T17:08:45-04:00",
+      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all work",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "阿里发布Wan2.7-Image，人类偏好盲测评分国内第一",
+      "url": "https://www.qbitai.com/2026/04/403733.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 20 Apr 2026 08:59:05 +0000",
+      "summary": "实现 \" 千人千面 \"",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "国内三大头部AI 工具平台上架支付宝支付集成Skill，助“好想法”轻松“收到钱”",
+      "url": "https://www.qbitai.com/2026/04/403729.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 20 Apr 2026 08:40:22 +0000",
+      "summary": "“小白”开发者也能快速接入支付",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek",
+      "url": "https://www.qbitai.com/2026/04/403708.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 20 Apr 2026 07:59:51 +0000",
+      "summary": "整合了公开研究和目前对Claude Mythos架构的主流推测",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？",
+      "url": "https://www.qbitai.com/2026/04/403701.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 20 Apr 2026 07:55:03 +0000",
+      "summary": "联合发布全球最大规模含触觉全模态物理世界数据集 Daimon Infinit。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率",
+      "url": "https://www.qbitai.com/2026/04/403543.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 20 Apr 2026 05:34:32 +0000",
+      "summary": "苏度发布具身模型#Sudo R1",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Kimi新论文：把KVCache玩成新商业模式了",
+      "url": "https://www.qbitai.com/2026/04/403528.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Apr 2026 10:19:45 +0000",
+      "summary": "超长上下文福音",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+      "url": "https://www.qbitai.com/2026/04/403226.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Apr 2026 10:13:54 +0000",
+      "summary": "当行业在底层基础设施上开始成型，局面就会迅速收敛",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "大模型架构的下半场",
+      "url": "https://www.qbitai.com/2026/04/403515.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Apr 2026 10:12:10 +0000",
+      "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+      "url": "https://www.qbitai.com/2026/04/403505.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Apr 2026 07:50:32 +0000",
+      "summary": "打造出全球首个面向AGI的全栈具身技术体系。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "马斯克来抖音卖老干妈了？？",
+      "url": "https://www.qbitai.com/2026/04/403308.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Apr 2026 04:47:09 +0000",
+      "summary": "这将是一个虚拟与现实，彻底融合的世界",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "灵光把手搓应用做成「朋友圈」，一人应用时代来了",
+      "url": "https://36kr.com/p/3774865386144519?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 15:56:00  +0800",
+      "summary": "<p>最近，你的朋友圈被SBTI测试刷屏了吗？</p>\n  <p>某天深夜，微信突然被一串串神秘代码占据。“装死者”、“送钱者”、“伪人”、“吗喽”，大家纷纷晒起自己开出的奇葩人格，朋友圈更是被晒“SEXY尤物”的截图刷了屏。</p>\n  <p>而真相是，这个突然爆火的小测试不是什么大厂有预谋的营销，只是一位03年女孩用四五天时间手搓出来的小应用——创作者@Q肉儿串儿（B站ID）学的是金融，和编程完全不沾边，<strong>她搓这个小应用的初衷,只是为了通过一套整活的人格测试，劝她那嗜酒如命的朋友戒酒。</strong></p>\n  <p class=\"image-wrapper\"><img ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "启明头条 | 连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中",
+      "url": "https://36kr.com/p/3774783568937478?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 15:01:15  +0800",
+      "summary": "<p><strong>由全球顶尖的风险投资机构RA Capital Management与启明创投联合主办的首届S2S（Science2Startup）中国研讨会将于2026年10月15日在浙江杭州隆重举行。</strong>作为生物科技领域的顶级创业赛事，<strong>日前，首届S2S中国研讨会面向中国顶尖高校及研究机构的创业提案的第二次征集（https://www.s2schina.com/）已进入倒计时（截止日期：2026年4月30日）。ATLATL飞镖加速器作为首选合作伙伴，动脉网、医学界·药创新、医药魔方为媒体战略合作伙伴，将全程助力和支持本次S2S研讨会在中国成功举办。</str",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "艾梵达Aveda押注“微酵护发”，雅诗兰黛集团加码高端护发赛道｜最前线",
+      "url": "https://36kr.com/p/3774625128481539?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 13:53:44  +0800",
+      "summary": "<p>在护发市场逐步从“修饰效果”转向“长期修护”的背景下，近日，雅诗兰黛集团（Estée Lauder Companies）旗下护发品牌艾梵达（Aveda）在上海研发中心发布以“微酵科技”为核心的新一轮产品与技术方向，并借此强化其在高端沙龙护发赛道的差异化定位。</p>\n  <p>此次对外展示围绕一款名为“奇迹水光油”（Miraculous Oil High-Shine Hair Concentrate）的护发精油展开。与传统以硅油或表层包裹为主的产品逻辑不同，该产品强调通过发酵技术改变油脂分子结构，以提升渗透效率和修护深度。从技术路径来看，其核心在于将植物来源的脂质通过微生物发酵转化为更小",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
+      "url": "https://36kr.com/p/3774692365206280?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 12:56:41  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，北京灵机天赐科技有限责任公司（下称“灵机天赐”）于过去一年内完成两轮数千万元人民币融资，天使轮由德联资本领投，小恐龙基金和瑞昇基金跟投，Pre-A轮由Implic Capital领投，两轮融资均由探奇资本担任公司独家财务顾问。</p>\n  <p>灵机天赐CEO杨冰长期从事儿童内容与智能硬件产品的定义及运营。接受硬氪采访时，杨冰表示，“AI时代，让孩子直接和一个虚拟人物聊天，这个产品定义其实很难成立。孩子无法快速和一个纯虚拟角色建立真实的物理连接。只有把世界观、人设和场",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "地产一哥业绩“大洗澡”，舍利润保现金流",
+      "url": "https://36kr.com/p/3774684111634953?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 12:47:30  +0800",
+      "summary": "<p>地产行业持续下行，即使第一梯队阵营也承受了巨大压力。从销售巅峰期连续下降五年之后，连龙头上市房企，也必须在“保利润”和“保现金流”之间二选一。</p>\n  <p>4月17日晚间，连续三年销售额稳居行业第一的保利发展公布了2025年成绩单：</p>\n  <ul>\n   <li>全年销售额2530亿元，连续三年稳居行业第一；</li>\n   <li>营业收入3081.44亿元，同比微降1.13%；</li>\n   <li>归母净利润大幅下滑79.31%，仅剩10.35亿元；</li>\n   <li>经营现金流净额151.91亿元，同比暴增142.74%；</li>\n   <li>在手现金12",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
+      "url": "https://36kr.com/p/3774566936216064?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 11:05:06  +0800",
+      "summary": "<p><strong>文｜李小霞</strong></p>\n  <p><strong>编辑｜乔芊 杨轩</strong></p>\n  <p>36氪独家从知情人士处获悉，字节跳动2025年海外营收增长近50%，远超约20%的国内营收增幅，海外业务营收占比也从2024年的25%提升至超三成，创下新高。</p>\n  <p>TikTok电商业务是字节跳动海外营收增长的主要动力。据悉，TikTok Shop 2025年GMV同比增速接近70%，不仅大幅提升了字节跳动的海外收入占比，同时也推动TikTok于2025年实现了大幅盈利。</p>\n  <p>不过，在海外业务帮助字节跳动的营收继续攀升的同时，该公",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+      "url": "https://36kr.com/p/3773892499096068?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 10:00:10  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>智能派的联合创始人兼副总经理陈波变了一个人。</p>\n  <p>三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。</p>\n  <p>三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。</p>\n  <p>在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。</p>\n  <p><strong>硬氪独家获悉，智能派已完成数亿元B+轮融资。由美团",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+      "url": "https://36kr.com/p/3774502008963841?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 09:42:44  +0800",
+      "summary": "<p><strong>文｜邱晓芬</strong></p>\n  <p><strong>编辑｜苏建勋</strong></p>\n  <p>《智能涌现》独家获悉，自变量机器人已经于三月底至四月初完成近20亿元B轮融资，领投方为小米战投和红杉中国。</p>\n  <p>不久前，美团、阿里和字节分别在A轮、A+轮、A++轮领投或独投自变量机器人。截至目前，自变量已成为国内唯一一家同时被四家互联网大厂投资的具身智能企业。</p>\n  <p>对此，自变量方面暂无回应。</p>\n  <p>小米战投在具身智能机器人领域已落子，近两年公开的投资项目包括纬钛机器人（触觉传感）、曦诺未来（灵巧手）、萝博派对（本体）、",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发｜「东犁退休俱乐部」完���亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
+      "url": "https://36kr.com/p/3719736708200068?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 09:00:00  +0800",
+      "summary": "<p>36氪独家获悉，「上海东犁退休俱乐部」近日完成亿元级B轮融资，由恒旭资本领投，德同资本跟投。本轮资金将用于拓展多元化银发服务场景、加强上游供应链合作，以及推动AI技术与数据中台升级。</p>\n  <p>上海东犁退休俱乐部（以下简称“东犁”）是一家面向退休人群的社交娱乐服务平台，专注为50-80岁活力银发群体提供旅游、聚会、商品、兴趣爱好等综合性服务。</p>\n  <p>截至目前，东犁已累计服务超300万用户，覆盖江浙沪地区，复购率超过60%。2025年全年，其旅游业务营收超8亿元，银发电商业务预计今年突破3-4亿元。</p>\n  <h3>从电视制片人到银发创业者</h3>\n  <p>东犁",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+      "url": "https://36kr.com/p/3774401650656001?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-04-20 08:02:52  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>张雪坦言流量已成为甜蜜负担</p>\n  <p>泰坦尼克号救生衣拍出90.6万美元</p>\n  <p>涉案金额2.6亿元，中国摧毁山西特大假酒网络</p>\n  <p>小米集团人事调整，首次任命汽车部CTO</p>\n  <p>国产光纤全球爆单，光纤价格暴涨650%&nbsp;</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>12306五一已拒绝抢票软件105.6万张票&nbsp;</strong></p>\n  <p>据中国铁路消息，五一假期火车票开售以来，铁路12306精准识别频繁大量为非本人购票的铁路12306注册账号和频繁大量为",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GitHub's Fake Star Economy (50pts)",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-20T08:26:52Z",
+      "summary": "HN热度: 50分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS (60pts)",
+      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-20T07:49:48Z",
+      "summary": "HN热度: 60分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Swiss AI Initiative (2023) (68pts)",
+      "url": "https://www.swiss-ai.org",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T22:58:35Z",
+      "summary": "HN热度: 68分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ex-CEO, ex-CFO of iLearningEngines charged with fraud (153pts)",
+      "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T22:30:19Z",
+      "summary": "HN热度: 153分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CEOs admit AI had no impact on employment or productivity (80pts)",
+      "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T21:56:22Z",
+      "summary": "HN热度: 80分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Zip drives dominated the 90s, then vanished almost overnight (70pts)",
+      "url": "https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T10:55:38Z",
+      "summary": "HN热度: 70分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon (158pts)",
+      "url": "https://github.com/shivampkumar/trellis-mac",
+      "source": "Hacker News (API)",
+      "published": "2026-04-20T00:07:16Z",
+      "summary": "HN热度: 158分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sudo for Windows (2024) (69pts)",
+      "url": "https://github.com/microsoft/sudo",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T23:59:51Z",
+      "summary": "HN热度: 69分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Got an Old Kindle? It Might Not Work Anymore (71pts)",
+      "url": "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T22:56:32Z",
+      "summary": "HN热度: 71分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I wrote a CHIP-8 emulator in my own programming language (73pts)",
+      "url": "https://github.com/navid-m/chip8emu",
+      "source": "Hacker News (API)",
+      "published": "2026-04-19T19:21:22Z",
+      "summary": "HN热度: 73分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}

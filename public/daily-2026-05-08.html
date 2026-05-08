@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · OpenAI多箭齐发：GPT-5.5安全模型、广告测试、语音API；Anthropic获xAI全量GPU算力</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-05-08</div>
+        <h1 class="report-title">OpenAI多箭齐发：GPT-5.5安全模型、广告测试、语音API；Anthropic获xAI全量GPU算力</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力</strong></p>
+            <p>Anthropic与xAI达成协议，xAI将Colossus数据中心全部22万张GPU算力提供给Claude训练与推理，用户限额翻倍、速度提升。双方还探索太空算力合作，是AI与航天领域最具影响力的基础设施合作。</p>
+            <a href="https://www.qbitai.com/2026/05/413569.html" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber" target="_blank" class="news-title-link">OpenAI发布GPT-5.5-Cyber专用安全模型，赋能网络安全防御</a></h3>
+            <div class="report-section-body"><p>OpenAI推出GPT-5.5及增强版GPT-5.5-Cyber，针对已验证的防御者开放，用于加速漏洞研究、攻击面分析和关键基础设施保护。该模型在安全基准测试中表现优异，是首个专门为网络安全领域微调的旗舰模型，标志着AI在防御性安全应用上的重要里程碑。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Sam Altman</span></div>
+            <a href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/May/7/xai-anthropic" target="_blank" class="news-title-link">Anthropic与xAI达成数据中心合作，Claude获得22万GPU算力提升</a></h3>
+            <div class="report-section-body"><p>Anthropic在Code w/ Claude活动中宣布与xAI/SpaceX达成协议，使用Colossus数据中心全部22万张GPU。Claude付费用户限额翻倍，推理速度显著提升。双方还规划太空算力合作，这是AI公司获取算力的最大规模交易之一，影响深远。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Dario Amodei</span> <span class="entity-tag">Elon Musk</span> <span class="entity-tag">Igor Babuschkin</span></div>
+            <a href="https://simonwillison.net/2026/May/7/xai-anthropic" target="_blank" class="source-link">📎 Simon Willison</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/simplex" target="_blank" class="news-title-link">Simplex通过Codex重塑软件开发流程，效率显著提升</a></h3>
+            <div class="report-section-body"><p>客户案例显示，Simplex使用ChatGPT Enterprise和OpenAI Codex改造设计、构建和测试流程，大幅缩短开发周期并实现AI驱动工作流规模化。这展示了AI编程工具在真实企业软件项目中的落地效果，验证了Codex作为全栈开发助手的潜力。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Mark Chen</span></div>
+            <a href="https://openai.com/index/simplex" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/May/7/firefox-claude-mythos" target="_blank" class="news-title-link">Mozilla借助Claude Mythos预览版修复数百个Firefox安全漏洞</a></h3>
+            <div class="report-section-body"><p>Mozilla分享了利用Claude Mythos预览版对Firefox进行安全加固的细节，定位并修复了数百个内存安全漏洞。这是大模型辅助大型开源项目安全审计的典型案例，展示了AI在软件安全维护中的实际价值。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Barry Zhang</span></div>
+            <a href="https://simonwillison.net/2026/May/7/firefox-claude-mythos" target="_blank" class="source-link">📎 Simon Willison</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/parloa" target="_blank" class="news-title-link">Parloa基于OpenAI模型打造可语音交互的客服Agent</a></h3>
+            <div class="report-section-body"><p>企业客服平台Parloa利用OpenAI的实时语音模型，构建了可自然对话的语音客服Agent，支持设计、模拟和可靠部署。该方案已在多个行业落地，标志着AI语音在客户服务领域从实验走向规模化生产。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Bret Taylor</span></div>
+            <a href="https://openai.com/index/parloa" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers" target="_blank" class="news-title-link">Google发布Fitbit Air健康手环，集成AI健康教练</a></h3>
+            <div class="report-section-body"><p>Google推出99美元的Fitbit Air无屏手环，内置AI健康教练，提供个性化运动与作息建议。该设备对标Whoop，以低价和AI能力切入健康可穿戴市场，是AI赋能消费硬件的又一尝试。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Sundar Pichai</span></div>
+            <a href="https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers" target="_blank" class="source-link">📎 The Verge</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster" target="_blank" class="news-title-link">Musk与Altman庭审对峙，Mira Murati证词曝光2023年内部斗争</a></h3>
+            <div class="report-section-body"><p>在Musk诉OpenAI案庭审中，前CTO Mira Murati的证词揭示了Sam Altman被罢免CEO事件背后的董事会矛盾。法庭辩论围绕OpenAI是否背离非营利使命展开，此次庭审结果可能深刻影响OpenAI的公司治理与未来方向。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Sam Altman</span> <span class="entity-tag">Elon Musk</span> <span class="entity-tag">Mira Murati</span></div>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster" target="_blank" class="source-link">📎 The Verge</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/05/413613.html" target="_blank" class="news-title-link">波士顿动力IPO前夕高管集体出走，机器人量产能力仅4台</a></h3>
+            <div class="report-section-body"><p>据量子位报道，波士顿动力在冲刺IPO时遭遇高管离职潮，人形机器人Atlas的年量产能力仅4台，商业化前景堪忧。这一事件折射出机器人行业从实验室原型到大规模量产面临的巨大挑战。</p></div>
+            <div class="entity-tags"><span class="entity-tag">王兴兴</span></div>
+            <a href="https://www.qbitai.com/2026/05/413613.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+    <div class="postit-box orange" style="background: #fff3e0;">
+        <div class="postit-title">🏢 企业AI转型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/05/413782.html" target="_blank" class="news-title-link">云知声发布山海知医慧保大模型，深耕医疗保险数智化</a></h3>
+            <div class="report-section-body"><p>云知声推出山海知医慧保大模型，专注于医疗保险场景，涵盖智能理赔、健康管理、风险控制等功能。该模型基于高密智能策略，针对金融保险行业的合规与效率需求进行了定制优化，推动医疗保障体系数智化升级。</p></div>
+            
+            <a href="https://www.qbitai.com/2026/05/413782.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" class="news-title-link">OpenAI开始测试ChatGPT广告，探索免费模式商业化</a></h3>
+            <div class="report-section-body"><p>OpenAI宣布在ChatGPT中测试广告，以支持免费用户访问。广告将明确标注、不影响回答独立性，用户可控制数据使用。这是AI对话产品从纯订阅向混合商业模式转变的关键试探，可能改变整个消费级AI的收入格局。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Sam Altman</span></div>
+            <a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>
