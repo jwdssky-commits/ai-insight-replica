@@ -3,8 +3,9 @@
     "focus_topics": ["大模型", "AI Coding", "AI应用", "AI行业", "企业AI转型"],
     "language": "zh-CN",
     "schedule": "01:26",
-    "model": "deepseek/deepseek-v4-flash",
+    "model": "moonshotai/kimi-k2.6",
     "api_base_url": "https://api.360.cn/v1",
+    "max_tokens": 16384,
     "max_retries": 3,
     "news_collection": {
         "max_items_per_source": 10,

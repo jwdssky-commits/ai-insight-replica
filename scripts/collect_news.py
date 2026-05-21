@@ -7,6 +7,8 @@ AI手札 — 新闻采集器 (Step 0)
 
 import json
 import os
+import re
+import ssl
 import sys
 import time
 import argparse
@@ -32,7 +34,10 @@ def fetch_url(url, timeout=30):
         "User-Agent": "AI-Insight-Bot/1.0 (news aggregator)",
         "Accept": "application/xml, application/rss+xml, application/atom+xml, application/json, text/xml, */*",
     })
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
 

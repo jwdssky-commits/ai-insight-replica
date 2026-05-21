@@ -9,25 +9,28 @@
 
   "rss_feeds": [
     { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "boards": ["大模型"], "lang": "en" },
-    { "name": "Anthropic Blog", "url": "https://www.anthropic.com/rss.xml", "boards": ["大模型"], "lang": "en" },
     { "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "boards": ["大模型"], "lang": "en" },
     { "name": "DeepMind Blog", "url": "https://deepmind.google/blog/rss.xml", "boards": ["大模型"], "lang": "en" },
-    { "name": "Meta AI Blog", "url": "https://ai.meta.com/blog/rss/", "boards": ["大模型", "AI应用"], "lang": "en" },
-    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "boards": ["大模型", "AI Coding"], "lang": "en" },
-    { "name": "Cursor Blog", "url": "https://cursor.com/blog/rss.xml", "boards": ["AI Coding"], "lang": "en" },
-    { "name": "LangChain Blog", "url": "https://blog.langchain.dev/rss/", "boards": ["AI Coding"], "lang": "en" },
     { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "boards": ["AI Coding", "大模型"], "lang": "en" },
     { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "boards": ["AI行业", "AI应用"], "lang": "en" },
     { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "boards": ["AI行业", "AI应用"], "lang": "en" },
-    { "name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "boards": ["大模型", "AI行业"], "lang": "zh" },
+    { "name": "GitHub Blog", "url": "https://github.blog/feed/", "boards": ["AI Coding"], "lang": "en" },
+    { "name": "Sourcegraph Blog", "url": "https://sourcegraph.com/blog/rss.xml", "boards": ["AI Coding"], "lang": "en" },
+    { "name": "Replit Blog", "url": "https://blog.replit.com/feed.xml", "boards": ["AI Coding", "AI应用"], "lang": "en" },
+    { "name": "Together AI", "url": "https://www.together.ai/blog/rss.xml", "boards": ["大模型"], "lang": "en" },
+    { "name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/feed/", "boards": ["AI行业"], "lang": "en" },
+    { "name": "Vercel Blog", "url": "https://vercel.com/atom", "boards": ["AI Coding", "AI应用"], "lang": "en" },
+    { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "boards": ["AI行业"], "lang": "en" },
+    { "name": "Stratechery", "url": "https://stratechery.com/feed/", "boards": ["AI行业", "企业AI转型"], "lang": "en" },
     { "name": "量子位", "url": "https://www.qbitai.com/feed", "boards": ["大模型", "AI行业"], "lang": "zh" },
     { "name": "36氪 AI", "url": "https://36kr.com/feed", "boards": ["AI行业", "企业AI转型"], "lang": "zh" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "boards": ["大模型", "AI Coding"], "lang": "en" },
     { "name": "ArXiv CS.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "boards": ["大模型"], "lang": "en" },
     { "name": "ArXiv CS.CL", "url": "https://rss.arxiv.org/rss/cs.CL", "boards": ["大模型"], "lang": "en" }
   ],
 
   "hackernews": {
-    "keywords": ["AI", "LLM", "GPT", "Claude", "Anthropic", "OpenAI", "DeepSeek", "Cursor", "Copilot", "Gemini", "Llama", "transformer", "machine learning", "AGI"],
+    "keywords": ["AI", "LLM", "GPT", "Claude", "Anthropic", "OpenAI", "DeepSeek", "Cursor", "Copilot", "Gemini", "Llama", "transformer", "machine learning", "AGI", "MCP", "agent", "Codex", "Qwen", "Mistral", "vibe coding"],
     "min_points": 50,
     "boards": ["大模型", "AI Coding", "AI行业"]
   },
@@ -44,7 +47,15 @@
     { "repo": "anthropics/anthropic-sdk-python", "boards": ["AI Coding"] },
     { "repo": "All-Hands-AI/OpenHands", "boards": ["AI Coding"] },
     { "repo": "browser-use/browser-use", "boards": ["AI应用"] },
-    { "repo": "Significant-Gravitas/AutoGPT", "boards": ["AI应用"] }
+    { "repo": "Significant-Gravitas/AutoGPT", "boards": ["AI应用"] },
+    { "repo": "QwenLM/Qwen3", "boards": ["大模型"] },
+    { "repo": "googleapis/python-genai", "boards": ["AI Coding", "大模型"] },
+    { "repo": "pytorch/pytorch", "boards": ["大模型"] },
+    { "repo": "openai/codex", "boards": ["AI Coding"] },
+    { "repo": "anthropics/claude-code", "boards": ["AI Coding"] },
+    { "repo": "mem0ai/mem0", "boards": ["AI应用"] },
+    { "repo": "microsoft/autogen", "boards": ["AI Coding"] },
+    { "repo": "crewAIInc/crewAI", "boards": ["AI Coding", "AI应用"] }
   ],
 
   "knowledge_base": {

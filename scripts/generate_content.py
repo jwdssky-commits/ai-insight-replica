@@ -351,7 +351,7 @@ def generate_content(target_date: str, config: dict) -> dict:
 
 输出纯 JSON，不要 markdown code block，不要 <think> 标签。"""
 
-    print(f"正在调用 MiniMax API ({config['model']})...")
+    print(f"正在调用 LLM API ({config['model']})...")
     print(f"  输入新闻: {len(news_items)} 条")
 
     max_api_retries = 4  # 4次指数退避: 30s, 90s, 240s, 600s (总计~16分钟)
@@ -360,7 +360,7 @@ def generate_content(target_date: str, config: dict) -> dict:
         try:
             message = client.chat.completions.create(
                 model=config["model"],
-                max_tokens=128000,
+                max_tokens=config.get("max_tokens", 16384),
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_message}
@@ -407,7 +407,7 @@ def generate_content(target_date: str, config: dict) -> dict:
             try:
                 message = client.chat.completions.create(
                     model=config["model"],
-                    max_tokens=128000,
+                    max_tokens=config.get("max_tokens", 16384),
                     messages=[
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": reduced_msg}

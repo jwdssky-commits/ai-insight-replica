@@ -2,7 +2,7 @@ name: daily-update
 
 on:
   schedule:
-    - cron: '26 17 * * *'  # UTC 17:26 = 北京时间 01:26
+    - cron: '26 22 * * *'  # UTC 22:26 = 北京时间 06:26
   workflow_dispatch:
     inputs:
       date:
@@ -39,7 +39,7 @@ jobs:
         run: |
           DATE="${{ github.event.inputs.date }}"
           if [ -z "$DATE" ]; then
-            # 北京时间 01:26 = UTC 17:26(同一天), 日报标注当天日期
+            # 北京时间 06:26 = UTC 22:26(前一天), 日报标注当天日期
             DATE=$(TZ=Asia/Shanghai date +%Y-%m-%d)
           fi
           python scripts/orchestrator.py --date "$DATE"
