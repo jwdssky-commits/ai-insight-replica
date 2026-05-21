@@ -52,7 +52,7 @@ jobs:
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "daily: $(date +%Y-%m-%d) auto-update"
           for i in 1 2 3; do
-            git pull --rebase origin main && git push origin main && break
+            git pull --rebase origin main && git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git main && break
             echo "Push failed, retrying ($i/3)..."
             sleep 5
           done
