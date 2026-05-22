@@ -1,0 +1,160 @@
+{
+  "title": "OpenAI证否80年数学猜想，Google发布Gemini 3.5系列",
+  "date": "2026-05-20",
+  "summary": "今日AI领域迎来多项重磅进展：OpenAI模型首次自主证否离散几何领域长达80年的单位距离猜想，展现AI在纯数学研究的突破潜力；Google I/O 2026正式发布Gemini 3.5系列模型，标志Agentic AI时代加速到来；Anthropic宣布即将实现首个盈利季度，Q2收入预计达109亿美元，验证AI商业化的可持续性。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "热点"
+  ],
+  "highlight": {
+    "title": "OpenAI模型证否80年离散几何单位距离猜想",
+    "body": "OpenAI模型自主证否离散几何中长达80年的单位距离猜想，这是非专用数学模型首次在核心数学领域实现重大突破。该成果标志着AI在抽象推理上的能力跃升，为AI辅助科学研究开辟新范式。",
+    "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI模型自主证否80年离散几何单位距离猜想",
+          "body": "OpenAI模型成功证否离散几何中长达80年的单位距离猜想。这一突破由非专用数学模型完成，通过125页复杂推演实现。菲尔兹奖得主评价其过程令人震撼，标志着大语言模型在抽象数学推理上达到新高度，为AI驱动科学研究开辟新范式。",
+          "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Google I/O 2026发布Gemini 3.5系列，迈入Agentic时代",
+          "body": "Google在I/O大会正式发布Gemini 3.5系列，包括Flash版本，宣布进入Agentic Gemini时代。新模型强调前沿智能与行动能力结合，Flash跳过预览直接商用。Google计划将其广泛用于各类产品，标志其在Agent化大模型竞争中全面发力。",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "source_name": "Google AI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sundar Pichai",
+            "Google",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Ramp工程师借助Codex与GPT-5.5将代码审查耗时从小时缩短至分钟",
+          "body": "企业支出管理平台Ramp工程师使用OpenAI Codex配合GPT-5.5进行代码审查，实现效率质变。原本数小时的人工审查现可在几分钟内获得实质性反馈，显著加速交付。该案例展示了AI Coding工具在真实企业研发流程中的深度落地价值。",
+          "source_url": "https://openai.com/index/ramp",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Ramp"
+          ]
+        },
+        {
+          "headline": "开发者工具迅速跟进Gemini 3.5 Flash支持",
+          "body": "开发者Simon Willison发布llm-gemini 0.32，第一时间支持Gemini 3.5 Flash模型。Willison分析指出，尽管Flash定价更高，Google仍计划将其用于几乎所有场景。这反映了开源社区对新模型的高度响应及模型即基础设施的行业趋势。",
+          "source_url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "Gemini",
+            "Google"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google AI Mode一周年：美国用户搜索行为从关键词转向自然语言",
+          "body": "Google发布AI Mode一周年数据，显示美国用户正从关键词搜索转向自然语言查询。这一行为变迁印证AI搜索对用户体验的深层改造，预示搜索引擎从信息检索向对话式助手演进，对搜索广告和生态布局具有长期战略影响。",
+          "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+          "source_name": "Google AI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google"
+          ]
+        },
+        {
+          "headline": "Spotify携手ElevenLabs推出AI有声书创作工具",
+          "body": "Spotify宣布推出由ElevenLabs语音技术驱动的有声书创作工具，计划发布新订阅方案。该工具将大幅降低有声书制作门槛，使创作者快速生成高质量音频内容，标志生成式AI在音频消费领域进一步渗透，可能重塑出版产业格局。",
+          "source_url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Spotify",
+            "ElevenLabs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic宣布即将实现首个盈利季度，Q2收入预计达109亿美元",
+          "body": "Anthropic向投资者透露，公司第二季度收入将翻倍至约109亿美元，迎来首个盈利季度。这一财务转折对AI行业具有标志性意义，证明大模型提供商可通过ToB和ToC业务实现可持续商业闭环，可能改变资本市场对AI labs的估值预期。",
+          "source_url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "headline": "OpenAI宣布与新加坡建立多年期AI战略合作",
+          "body": "OpenAI推出OpenAI for Singapore计划，建立多年期合作，扩展AI本地部署并培养人才，支持企业与公共服务智能化。这是OpenAI亚太布局的重要一步，反映主要AI实验室正通过政府级合作抢占区域市场与监管话语权。",
+          "source_url": "https://openai.com/index/introducing-openai-for-singapore",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AdventHealth采用ChatGPT for Healthcare优化医疗工作流程",
+          "body": "美国医疗系统AdventHealth部署ChatGPT for Healthcare，利用AI简化临床与行政流程，减轻医护人员行政负担，使其将更多时间投入患者照护。这是生成式AI在传统医疗行业深度落地的典型案例，展现AI提升医疗运营效率的直接价值。",
+          "source_url": "https://openai.com/index/adventhealth",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "AdventHealth"
+          ]
+        },
+        {
+          "headline": "OpenAI推进Education for Countries计划扩展全球教育AI应用",
+          "body": "OpenAI推进Education for Countries下一阶段，通过与各国教育部门合作、开展教师培训，促进AI在全球学校普及。该计划旨在利用生成式AI改善学习成果，代表AI技术向公共教育领域系统性渗透的战略方向。",
+          "source_url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}

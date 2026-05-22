@@ -1,0 +1,167 @@
+{
+  "title": "Google发布Gemini 3.5与Agentic AI生态，OpenAI模型突破80年数学难题",
+  "date": "2026-05-17",
+  "summary": "今日AI领域焦点集中在Google I/O 2026与OpenAI两大主线。Google正式发布Gemini 3.5系列模型，全面迈向Agentic AI时代，并升级搜索、Workspace等核心产品线。OpenAI则在纯数学领域取得里程碑突破，其模型独立解决了离散几何领域长达80年的unit distance问题。同时，OpenAI加速全球布局，与新加坡达成多年战略合作；企业级AI应用方面，Codex深入Ramp与Dell的开发及部署流程，AdventHealth将ChatGPT引入医疗护理场景。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "Agent"
+  ],
+  "highlight": {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "body": "OpenAI模型解决了离散几何领域长达80年的unit distance问题，推翻了一项核心猜想。这标志着AI在纯数学研究中从辅助工具跃升为能够独立突破理论边疆的研究主体，对AI for Science具有深远的范式意义。",
+    "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google I/O 2026正式发布Gemini 3.5系列模型",
+          "body": "Google在I/O 2026正式发布Gemini 3.5系列模型，强调frontier intelligence with action的结合。这是Google对Agentic AI时代的重要押注，标志着Gemini从对话工具向行动型智能体演进，将直接影响搜索、Workspace等核心产品线的AI能力基座。",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "source_name": "Google AI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemini",
+            "Sundar Pichai"
+          ]
+        },
+        {
+          "headline": "OpenAI模型推翻离散几何领域80年核心猜想",
+          "body": "OpenAI宣布其模型解决了离散几何领域长达80年的unit distance问题，并推翻了一项核心猜想。这一突破标志着AI在纯数学研究中的能力达到新高度，不仅能辅助证明，更能独立解决人类长期未决的理论难题，对AI for Science具有里程碑意义。",
+          "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI与Dell合作将Codex引入企业混合及本地环境",
+          "body": "OpenAI与Dell达成合作，将Codex AI编程代理引入混合云和本地企业环境。此举解决了金融、医疗等受监管行业对代码生成数据主权和安全合规的顾虑，使企业能够在私有基础设施中安全部署AI编码助手，加速企业开发流程的Agent化改造。",
+          "source_url": "https://openai.com/index/dell-codex-enterprise-partnership",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Dell",
+            "Codex"
+          ]
+        },
+        {
+          "headline": "Ramp工程师采用Codex与GPT-5.5加速代码审查",
+          "body": "Ramp工程师采用基于GPT-5.5的Codex进行代码审查，将反馈时间从小时级压缩至分钟级。这一案例展示了下一代AI编程工具在真实金融基础设施中的深度集成，不仅加速迭代周期，更表明大模型已能处理复杂生产代码的实质性审查与改进建议。",
+          "source_url": "https://openai.com/index/ramp",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Ramp",
+            "Codex",
+            "GPT-5.5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google AI Mode一周年：美国用户搜索行为正从关键词转向自然语言",
+          "body": "Google发布AI Mode上线一周年美国市场洞察，显示用户正从关键词搜索向自然语言查询迁移。这一行为转变验证了对话式搜索产品的市场接受度，也意味着Google核心搜索业务正在经历生成式AI带来的交互范式重构，对未来广告和分发模式有深远影响。",
+          "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+          "source_name": "Google AI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "Project Genie结合街景扩展真实世界地点模拟能力",
+          "body": "Google向AI Ultra订阅用户全球扩展Project Genie访问，并推出基于街景的新功能，可模拟真实世界地点。这一能力将生成式世界模型与地图数据结合，为城市规划、游戏开发和远程协作提供空间智能基础，体现了Google在物理世界AI模拟方面的前沿布局。",
+          "source_url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "source_name": "DeepMind Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "DeepMind",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI启动与新加坡的多年期AI合作伙伴关系",
+          "body": "OpenAI启动与新加坡的多年期AI合作伙伴关系，旨在扩展AI部署、建设本地人才库，并为企业和公共服务提供AI支持。这体现了OpenAI在亚太地区的战略扩张，通过政府级合作建立区域AI生态，同时也为其模型在东南亚多语言环境中的应用铺路。",
+          "source_url": "https://openai.com/index/introducing-openai-for-singapore",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Singapore"
+          ]
+        },
+        {
+          "headline": "SpaceX IPO文件披露Elon Musk及xAI关联交易构成风险因素",
+          "body": "The Verge报道SpaceX IPO文件披露Elon Musk是重要风险因素，其旗下xAI、Tesla等公司间的关联交易和资金往来引发关注。这一事件不仅关乎航天资产估值，更揭示了马斯克商业帝国中AI业务与其他实体的复杂关联，对xAI未来的独立融资和治理具有信号意义。",
+          "source_url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "SpaceX",
+            "Elon Musk",
+            "xAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AdventHealth采用ChatGPT优化医疗工作流程与患者护理",
+          "body": "美国医疗系统AdventHealth采用ChatGPT for Healthcare优化工作流程，减轻行政负担，将更多时间还给患者护理。该合作代表了生成式AI在美国大型医疗网络中的规模化落地，重点解决医疗行业文书工作繁重、医护效率低下的核心痛点。",
+          "source_url": "https://openai.com/index/adventhealth",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "AdventHealth",
+            "ChatGPT"
+          ]
+        },
+        {
+          "headline": "Google Workspace全面集成语音与AI能力升级企业办公套件",
+          "body": "Google在I/O期间宣布Workspace企业套件全面升级，Gmail、Docs和Keep新增语音交互能力，推出设计工具Google Pics，并强化AI Inbox功能。此举将生成式AI深度嵌入企业日常办公流，是Google在企业生产力市场对抗Microsoft 365 Copilot、推动知识工作者AI工作流转型的关键落子。",
+          "source_url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+          "source_name": "Google AI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Workspace"
+          ]
+        }
+      ]
+    }
+  ]
+}

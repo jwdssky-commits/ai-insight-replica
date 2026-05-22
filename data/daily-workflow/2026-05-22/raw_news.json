@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-21",
-  "collected_at": "2026-05-21T17:04:45.175819+00:00",
+  "date": "2026-05-22",
+  "collected_at": "2026-05-21T17:05:13.915288+00:00",
   "item_count": 80,
   "items": [
     {
@@ -9,50 +9,6 @@
       "source": "OpenAI Blog (RSS)",
       "published": "Thu, 21 May 2026 12:00:00 GMT",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "board_hints": [
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI Blog (RSS)",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "board_hints": [
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI Blog (RSS)",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "board_hints": [
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI Blog (RSS)",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "board_hints": [
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "source": "OpenAI Blog (RSS)",
-      "published": "Tue, 19 May 2026 20:30:00 GMT",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
       "board_hints": [
         "大模型"
       ],
@@ -70,117 +26,11 @@
       "lang": "en"
     },
     {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "source": "Google AI Blog (RSS)",
-      "published": "Wed, 20 May 2026 19:30:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\">This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
-      "board_hints": [
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "source": "Google AI Blog (RSS)",
-      "published": "Wed, 20 May 2026 16:45:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\">See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
-      "board_hints": [
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
       "title": "Quoting SpaceX S-1",
       "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
       "source": "Simon Willison (RSS)",
       "published": "2026-05-20T22:26:36+00:00",
       "summary": "<blockquote cite=\"https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\"><p>We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing acce",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "How fast is 10 tokens per second really?",
-      "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-20T17:57:45+00:00",
-      "summary": "<p><strong><a href=\"https://mikeveerman.github.io/tokenspeed/\">How fast is 10 tokens per second really?</a></strong></p>\nNeat little HTML app by Mike Veerman (<a href=\"https://github.com/MikeVeerman/tokenspeed/blob/master/index.html\">source code here</a>) which simulates LLM token output speeds from",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "Google I/O, Gemini Spark, Antigravity",
-      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-20T15:32:17+00:00",
-      "summary": "<p>It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".</p>\n<p>I actually prefer to write about things that are in general availability, because I've had ins",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "llm-gemini 0.32",
-      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-19T23:46:27+00:00",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.32\">llm-gemini 0.32</a></p>\n        <blockquote>\n<ul>\n<li>New model <code>gemini-3.5-flash</code> for <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini 3.5 Fla",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-19T22:40:25+00:00",
-      "summary": "<p>Today at Google I/O, Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">released Gemini 3.5 Flash</a>. This one skipped the <code>-preview</code> modifier and went straight to general availability, and Google appear to be using it for a whole lot ",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "datasette-llm-accountant 0.1a4",
-      "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-19T20:45:43+00:00",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm-accountant/releases/tag/0.1a4\">datasette-llm-accountant 0.1a4</a></p>\n        <blockquote>\n<ul>\n<li>Fixed bug tracking chains of responses. Refs <a href=\"https://github.com/datasette/datasette-llm/issues/7\">datasette-ll",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "llm-gemini 0.32a0",
-      "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-19T20:36:23+00:00",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.32a0\">llm-gemini 0.32a0</a></p>\n        <blockquote>\n<ul>\n<li>Compatible with <code>llm&gt;=0.32a0</code> alpha - adds the ability to stream reasoning tokens.</li>\n</ul>\n</blockquote>\n    \n    \n        <p>Tags:",
-      "board_hints": [
-        "AI Coding",
-        "大模型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "datasette-llm 0.1a8",
-      "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
-      "source": "Simon Willison (RSS)",
-      "published": "2026-05-19T20:28:16+00:00",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a8\">datasette-llm 0.1a8</a></p>\n        <blockquote>\n<ul>\n<li>Fix for bug where <code>llm_prompt_context()</code> hook did not fully collect chains of responses. #7</li>\n</ul>\n</blockquote>",
       "board_hints": [
         "AI Coding",
         "大模型"
@@ -484,17 +334,6 @@
       "lang": "en"
     },
     {
-      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
-      "source": "NVIDIA Blog (RSS)",
-      "published": "Tue, 19 May 2026 20:30:09 +0000",
-      "summary": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google ",
-      "board_hints": [
-        "AI行业"
-      ],
-      "lang": "en"
-    },
-    {
       "title": "Pull anomaly alert details using the Vercel CLI",
       "url": "https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli",
       "source": "Vercel Blog (RSS)",
@@ -659,56 +498,11 @@
       "lang": "en"
     },
     {
-      "title": "Green steel startup Boston Metal is doubling down on critical metals",
-      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-      "source": "MIT Tech Review (RSS)",
-      "published": "Wed, 20 May 2026 13:00:00 +0000",
-      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhous",
-      "board_hints": [
-        "AI行业"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "The Download: fully artificial chicken eggs and why Musk lost",
-      "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
-      "source": "MIT Tech Review (RSS)",
-      "published": "Wed, 20 May 2026 12:10:00 +0000",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But",
-      "board_hints": [
-        "AI行业"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "source": "MIT Tech Review (RSS)",
-      "published": "Tue, 19 May 2026 20:15:18 +0000",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in",
-      "board_hints": [
-        "AI行业"
-      ],
-      "lang": "en"
-    },
-    {
       "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
       "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
       "source": "Stratechery (RSS)",
       "published": "Thu, 21 May 2026 10:00:00 +0000",
       "summary": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
-      "board_hints": [
-        "AI行业",
-        "企业AI转型"
-      ],
-      "lang": "en"
-    },
-    {
-      "title": "Google I/O, World Models, I/O Spaghetti",
-      "url": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/",
-      "source": "Stratechery (RSS)",
-      "published": "Wed, 20 May 2026 10:00:00 +0000",
-      "summary": "Google I/O put AI everywhere, for better and for worse. Meanwhile, is DeepMind aligned with Google's business objectives?",
       "board_hints": [
         "AI行业",
         "企业AI转型"
@@ -942,6 +736,205 @@
         "企业AI转型"
       ],
       "lang": "zh"
+    },
+    {
+      "title": "开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818651789182080?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-21 16:10:17  +0800",
+      "summary": "<blockquote>\n   <p>&nbsp;</p>\n   <p>AI叙事不再是颠覆一切，真正值得关注的是那些沉默的行业壁垒和经验能否被智能照亮。</p>\n  </blockquote>\n  <p>&nbsp;</p>\n  <p>四年间，这场大会从趋势观察走向落地实践，36氪也从AI的观察者转型为助推者。36氪CEO冯大刚在2026北京亦庄AI+产业大会的开场中，为焦虑的商业世界开出一剂解药，AI不是一家公司的机会，而是千行百业的机会。两天会期、六七十位实操嘉宾、一个让供需双方面对面碰撞的舞台，这里不谈虚的概念，只讲做成了没有。我们记录下这段冷静而笃定的开场白，在技术狂欢中找回商业的常识",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+      "url": "https://arxiv.org/abs/2605.18801",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.18801v1 Announce Type: new \nAbstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+      "url": "https://arxiv.org/abs/2605.18818",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.18818v1 Announce Type: new \nAbstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulate",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+      "url": "https://arxiv.org/abs/2605.18937",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.18937v1 Announce Type: new \nAbstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (L",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+      "url": "https://arxiv.org/abs/2605.19008",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19008v1 Announce Type: new \nAbstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+      "url": "https://arxiv.org/abs/2605.19010",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19010v1 Announce Type: new \nAbstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despite the rapid advancements in the capabilities of LLM",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2605.19031",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19031v1 Announce Type: new \nAbstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional multi-layer",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+      "url": "https://arxiv.org/abs/2605.19035",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19035v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Interference-Aware Multi-Task Unlearning",
+      "url": "https://arxiv.org/abs/2605.19042",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19042v1 Announce Type: new \nAbstract: Machine unlearning aims to remove the contribution of designated training data from a trained model while preserving performance on the remaining data. Existing work mainly focuses on single-task settings, whereas modern models often operate in multi-",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+      "url": "https://arxiv.org/abs/2605.19093",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19093v1 Announce Type: new \nAbstract: System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user populations. Yet they are difficult to tune when feedback is available only as aggregate metrics rather than per-example labels",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+      "url": "https://arxiv.org/abs/2605.19099",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.19099v1 Announce Type: new \nAbstract: We introduce DecisionBench, a benchmark substrate for emergent delegation in long-horizon agentic workflows. The substrate fixes a task suite (GAIA, tau-bench, BFCL multi-turn), a peer-model pool (11 models, 7 vendor families), a delegation interface ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Shiny Stories, Hidden Struggles: Investigating the Representation of Disability Through the Lens of LLMs",
+      "url": "https://arxiv.org/abs/2605.20191",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20191v1 Announce Type: new \nAbstract: Modern Large Language Models (LLMs) have recently attracted much attention for their ability to simulate human behavior and generate text that reflects personas and demographic groups. While these capabilities can open up a multitude of diverse applic",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Leveraging Large Language Models for Sentiment Analysis: Multi-Modal Analysis of Decentraland's MANA Token",
+      "url": "https://arxiv.org/abs/2605.20192",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20192v1 Announce Type: new \nAbstract: Decentraland, a decentralized virtual reality platform operating within the expanding Metaverse ecosystem, utilizes its native MANA token to facilitate virtual asset transactions and governance. This study investigates the integration of Discord commu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Improving Quantized Model Performance in Qualitative Analysis with Multi-Pass Prompt Verification",
+      "url": "https://arxiv.org/abs/2605.20193",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20193v1 Announce Type: new \nAbstract: Quantized Large Language Models (LLMs) are used more often in qualitative analysis because they run fast and need fewer computing resources. This study examines how different lower bits quantization levels (8-bit, 4-bit, 3-bit, and 2-bit) and quantiza",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Parallel LLM Reasoning for Bias-Resilient, Robust Conceptual Abstraction",
+      "url": "https://arxiv.org/abs/2605.20194",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20194v1 Announce Type: new \nAbstract: Large language models (LLMs) have been increasingly used to analyze text. However, they are often plagued with contextual reasoning limitations when analyzing long documents. When long documents are processed sequentially, early or dominant concepts c",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pseudo-Siamese Network for Planning in Target-Oriented Proactive Dialogues",
+      "url": "https://arxiv.org/abs/2605.20195",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20195v1 Announce Type: new \nAbstract: A target-oriented proactive dialogue system is designed to steer conversations toward predefined targets while actively providing suggestions. The core paradigm of such a system is to plan a reasonable dialogue path and subsequently guide language mod",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Data Scaling as Progressive Coverage of a Predictive Contribution Spectrum",
+      "url": "https://arxiv.org/abs/2605.20196",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20196v1 Announce Type: new \nAbstract: We investigate the hypothesis that real-data scaling laws are governed by progressive coverage of a latent predictive contribution spectrum rather than by token-frequency tails alone. We work with a suffix-automaton representation of text corpora and ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MedicalBench: Evaluating Large Language Models Toward Improved Medical Concept Extraction",
+      "url": "https://arxiv.org/abs/2605.20197",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Thu, 21 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.20197v1 Announce Type: new \nAbstract: Medical concept extraction from electronic health records underpins many downstream applications, yet remains challenging because medically meaningful concepts are frequently implied rather than explicitly stated in medical narratives. Existing benchm",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
     }
   ]
 }

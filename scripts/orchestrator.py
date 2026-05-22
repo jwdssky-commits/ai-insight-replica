@@ -9,10 +9,11 @@ Usage:
 
 import json
 import os
+import shutil
 import sys
 import subprocess
 import logging
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 from pathlib import Path
 
 # ---- Config ----
@@ -200,6 +201,30 @@ def main():
     state["finished_at"] = datetime.now().isoformat()
     save_state(target_date, state)
     log.info("编排器完成 - 所有6步通过!")
+
+    # 自动清理：只保留近7天数据
+    cleanup_old_data(target_date)
+
+
+def cleanup_old_data(target_date: str, keep_days: int = 7):
+    cutoff = (datetime.strptime(target_date, "%Y-%m-%d") - timedelta(days=keep_days)).strftime("%Y-%m-%d")
+    removed = 0
+    if DATA_DIR.exists():
+        for d in DATA_DIR.iterdir():
+            if d.is_dir() and d.name < cutoff:
+                shutil.rmtree(d)
+                removed += 1
+    if FLAGS_DIR.exists():
+        for f in FLAGS_DIR.iterdir():
+            # flag文件名格式: step0-2026-05-01.flag
+            parts = f.stem.split("-")
+            if len(parts) >= 2:
+                date_part = "-".join(parts[-3:])
+                if date_part < cutoff:
+                    f.unlink()
+                    removed += 1
+    if removed:
+        log.info(f"已清理 {cutoff} 之前的旧数据 ({removed} 项)")
 
 if __name__ == "__main__":
     main()
