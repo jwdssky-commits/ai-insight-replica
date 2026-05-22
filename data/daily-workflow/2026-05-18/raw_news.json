@@ -1,0 +1,583 @@
+{
+  "date": "2026-05-18",
+  "collected_at": "2026-05-22T06:21:46.879222+00:00",
+  "item_count": 48,
+  "items": [
+    {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 18 May 2026 10:00:00 GMT",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Mon, 18 May 2026 18:21:39 +0000",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Sun, 17 May 2026 19:53:18 +0000",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Sun, 17 May 2026 19:50:57 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Sun, 17 May 2026 19:43:45 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Sun, 17 May 2026 13:50:34 +0000",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Sun, 17 May 2026 13:43:50 +0000",
+      "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+      "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-18T14:51:00+00:00",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/662161673/large.jpg\" alt=\"Glaucous-winged Gull\"></p><p><img src=\"https://static.inaturalist.org/photos/662161721/large.jpg\" alt=\"Glaucous-winged Gull\"></p><p><img src=\"https://static.inaturalist.org/photos/662161937/large.jpg\" alt=\"Brown Pelican\"></",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+      "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-17T15:59:41+00:00",
+      "summary": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/\">GDS weighs in on the NHS&#x27;s decision to retreat from Open Source</a></strong></p>\nTerence Eden continues his coverage of the NHS' <a href=\"https://shkspr.mobi/blog/2026/05/nhs-go",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Warelay -> OpenClaw",
+      "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-16T20:23:30+00:00",
+      "summary": "<p>In preparation for a lightning talk I'm giving at PyCon US <a href=\"https://us.pycon.org/2026/schedule/presentation/175/\">this afternoon</a> I decided to figure out how many names OpenClaw has <em>actually</em> had since that <a href=\"https://github.com/openclaw/openclaw/commit/f6dd362d39b8e30bd7",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Take your local GitHub sessions anywhere",
+      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Mon, 18 May 2026 16:54:53 +0000",
+      "summary": "<p>Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/\">Take your loc",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+      "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 18 May 2026 22:28:59 +0000",
+      "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloa",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 18 May 2026 21:48:17 +0000",
+      "summary": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance C",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pull anomaly alert details using the Vercel CLI",
+      "url": "https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-21T09:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Qwen 3.7 Max now available on Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-21T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Grok Build 0.1 now available on Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-20T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK now includes AI SDK tools",
+      "url": "https://vercel.com/changelog/chat-sdk-now-includes-ai-sdk-tools",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-20T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds message subjects and direct SDK access",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-message-subjects-and-direct-sdk-access",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-20T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK now supports callback URLs on buttons and modals",
+      "url": "https://vercel.com/changelog/chat-sdk-now-supports-callback-urls-on-buttons-and-modals",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-20T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel AI Gateway plugin for WordPress",
+      "url": "https://vercel.com/changelog/vercel-ai-gateway-plugin-for-wordpress",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-20T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nuxt MCP Toolkit now supports MCP apps",
+      "url": "https://vercel.com/changelog/nuxt-mcp-toolkit-mcp-apps",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-19T14:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini 3.5 Flash on AI Gateway",
+      "url": "https://vercel.com/changelog/gemini-3-5-flash-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-19T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Flat Rate CDN in Limited Beta",
+      "url": "https://vercel.com/changelog/flat-rate-cdn-in-limited-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-19T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Data Center Discontent, Understanding the Opposition, Fixing the Problem",
+      "url": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
+      "source": "Stratechery (RSS)",
+      "published": "Mon, 18 May 2026 10:00:00 +0000",
+      "summary": "There are understandable reasons for people to oppose data centers; the only solution that will work is simply paying them off.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "5个月MaaS收入增长15倍，阿里云找到了做大Token生意的办法",
+      "url": "https://36kr.com/p/3819955387371649?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 12:21:02  +0800",
+      "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>“阿里云MaaS业务的Token收入，在2026年的过去5个月里增长了15倍，月度Token收入已经达到数亿元级别。”这是阿里云在5月20日的发布会上给出的最新数字。而拉动这笔收入的最直接原因指向了一个词：Agent。</p>\n  <p>这一天，阿里云发布了新一代旗舰模型Qwen 3.7 Max等一系列产品，这距离Qwen 3.6 Max的面世仅仅过去了一个月。</p>\n  <p>为什么这么着急？随着今年2月OpenClaw的爆火，各家模型厂商都开始针对Age",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "潮水退去，裸泳的一定不止五粮液",
+      "url": "https://36kr.com/p/3819884036051074?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 11:26:05  +0800",
+      "summary": "<p><strong>作者 </strong>|&nbsp;谢芸子</p>\n  <p><strong>编辑 | </strong>张帆&nbsp;</p>\n  <p><strong>封面来源 |&nbsp;</strong> 企业官微&nbsp;</p>\n  <p>5月18日的临时股东大会，五粮液“真诚道歉”了，原因在于其创造的、最令A股错愕的“财务变脸”。</p>\n  <p>就在刚刚过去的4月末财报季，这家常年位于行业第二的白酒龙头企业，发布了一份“更正公告”，大幅抹去了公司去年前三季度超过50%的营收，以及近70%的净利润。</p>\n  <p>调整后的财报最终显示：2025年，五粮液实现营",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "签约仪式：带着AI去赛场:AI+电竞全流程赋能战略发布仪式| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3819898058330240?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 11:22:01  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1280,853\" src=\"https://img.36krcdn.com/hsossms/20260522/v2_cfae2a35d75e41958a6a0133d64259b0@6381723_oswg80822oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p>邵斌丨北京中关村学院教授、中关村人工智能研究院院长</p>\n  <p>左伟丨首都体育学院副校长</",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "带着AI去赛场:AI+电竞全流程赋能 | 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3819893521666436?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 11:18:08  +0800",
+      "summary": "<blockquote>\n   <p>AI的加入，让电竞的竞争维度从操作层面延伸到数据与策略层面。</p>\n  </blockquote>\n  <p>AI+电竞，不只是让电脑变强，而是让整个产业变聪明。赵鉴指出，在选手端，AI可分析操作习惯与决策模式，模拟不同风格的对手进行针对性训练；在赛事端，AI能理解比赛形势，生成风格化解说，并赋能赛事管理与商业运营；在产业端，AI驱动智能剪辑、虚拟主播和衍生品开发。</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1269,847\" src",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "从混沌到秩序：具身智能的数据供给革命与技能结构化实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3819884983226497?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 11:10:14  +0800",
+      "summary": "<blockquote>\n   <p>大语言模型可以靠堆数据跑通Scaling Law，但机器人面对的是动态、多模态、强时序关联的物理世界，杂乱的数据堆在一起，训不出可靠的模型。从混沌到秩序的工业化路径，质量比数量更重要。</p>\n  </blockquote>\n  <p>机器人进工厂、进场景，真正的挑战不在模型本身，而在数据。徐良威指出，具��智能的数据不是时间、空间、任务意图紧密耦合的多模态资产。智域基石提出了五层数据编译管线模型，每一层都有明确的质量指标，唯有构建数据底座生态，让本体方、模型方、产业方各司其职，高质量物理世界的数据才能真正流通起来，支撑具身智能的规模化落地。</p>\n  ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "从Demo到生产力：阿尔特太乙如何让AI走进汽车设计研发深水区| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3819837355921544?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 11:03:17  +0800",
+      "summary": "<blockquote>\n   <p>Demo 具备单点开放能够验证东西的作用，但不应该只停留在展示层，而要进入汽车研发体系内部，成为一种新的工程能力。</p>\n  </blockquote>\n  <p>汽车设计研发是一项高复杂度、高成本、高安全要求的系统工程，单点AI Demo难以真正落地。阿尔特太乙基于一线研发经验与私域数据，构建了从知识大模型、造型AI创绘、空气动力学智能预测、CAD智能检索、零部件智能生成到2D智能投图的产品矩阵。其核心理念不是做单点工具，而是打造“工程师一句话，平台全程跑完”的全流程AI研发设计平台，让AI从“惊艳一刻”走向“长期生产力”。</p>\n  <p>以下为演",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "「闹剧场」阿球：一个同济土木生转行，想把喜剧变成可批量复制的科学｜独家对谈",
+      "url": "https://36kr.com/p/3816066708872713?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 08:25:21  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,310\" src=\"https://img.36krcdn.com/hsossms/20260519/v2_8330b8e666044ca29b70131a24f3fdd3@5509299_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p><strong>“骨折那天，我拄着拐去排练。”</stro",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
+      "url": "https://36kr.com/p/3819709302329735?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-22 08:14:12  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>马斯克或成全球首位万亿美元富翁</p>\n  <p>三星内存工人，奖金或达280万元</p>\n  <p>东方甄选首家线下店正式营业</p>\n  <p>追觅俞浩回应“花4000万请员工去迪士尼”</p>\n  <p>妙鸭APP被曝团队解散&nbsp;</p>\n  <p>多地公布520结婚登记数据&nbsp;</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>Manus创始人计划融资10亿美元回购公司</strong></p>\n  <p>据彭博社报道，肖弘、季逸超和张涛正在筹划一轮约10亿美元的融资，估值不低于Meta此前收购时支付的20",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+      "url": "https://36kr.com/p/3816942732133510?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-21 21:14:15  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3818743882974345\"><strong>SpaceX据悉计划五年内实现每年1万次发射</strong></a></p>\n  <p>据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818927367046018?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-21 18:55:09  +0800",
+      "summary": "<blockquote>\n   <p>管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。</p>\n  </blockquote>\n  <p>新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。</p>\n  <p>以下为演讲内容，经36氪整理编辑：</p>\n  <p class=\"image-wrappe",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 18 May 2026 16:00:21 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 18 May 2026 15:12:46 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 18 May 2026 14:12:58 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment (81pts)",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T21:29:13Z",
+      "summary": "HN热度: 81分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Was my $48K GPU server worth it? (381pts)",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T19:33:03Z",
+      "summary": "HN热度: 381分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We let AIs run radio stations (372pts)",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T18:12:18Z",
+      "summary": "HN热度: 372分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cursor Introduces Composer 2.5 (284pts)",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T17:20:43Z",
+      "summary": "HN热度: 284分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents (61pts)",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T15:40:42Z",
+      "summary": "HN热度: 61分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "X accounts are limited to 50 posts and 200 replies a day unless they pay (57pts)",
+      "url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T20:22:37Z",
+      "summary": "HN热度: 57分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Linux security mailing list 'almost unmanageable' (215pts)",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T12:20:50Z",
+      "summary": "HN热度: 215分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era (101pts)",
+      "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T10:43:56Z",
+      "summary": "HN热度: 101分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Four Horsemen of the LLM Apocalypse (60pts)",
+      "url": "https://anarc.at/blog/2026-05-16-four-horsemen/",
+      "source": "Hacker News (API)",
+      "published": "2026-05-17T19:58:27Z",
+      "summary": "HN热度: 60分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Simulating Infinity in Conway's Game of Life with Modern C++ (67pts)",
+      "url": "https://ryanjk5.github.io/posts/GOLDE/",
+      "source": "Hacker News (API)",
+      "published": "2026-05-18T18:29:43Z",
+      "summary": "HN热度: 67分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[googleapis/python-genai] v2.4.0",
+      "url": "https://github.com/googleapis/python-genai/releases/tag/v2.4.0",
+      "source": "GitHub (googleapis/python-genai)",
+      "published": "2026-05-18T00:05:57Z",
+      "summary": "## [2.4.0](https://github.com/googleapis/python-genai/compare/v2.3.0...v2.4.0) (2026-05-17)\n\n\n### Features\n\n* Support Agent and Environment APIs. ([ef20d6b](https://github.com/googleapis/python-genai/commit/ef20d6ba54a183280c046a4346c125168d5f8a95))\n\n\n### Bug Fixes\n\n* Output_text for turns that don'",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    }
+  ]
+}

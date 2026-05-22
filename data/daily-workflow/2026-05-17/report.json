@@ -1,0 +1,158 @@
+{
+  "title": "Google DeepMind密集发布Gemini Omni与科学工具，Manus创始人筹划10亿美元融资",
+  "date": "2026-05-17",
+  "summary": "Google DeepMind今日密集发布Gemini Omni、Gemini for Science及Project Genie等前沿AI能力与工具，加速AI在科学发现与空间智能领域的落地。与此同时，Manus创始人被曝筹划10亿美元融资以回购公司，阿里云MaaS业务Token收入五个月内增长15倍并紧急迭代发布Qwen 3.7 Max，显示AI Agent正驱动全球与中国市场进入商业化加速期。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "Agent",
+    "融资"
+  ],
+  "highlight": {
+    "title": "Introducing Gemini Omni",
+    "body": "Google DeepMind今日发布Gemini Omni，并同步推出Gemini for Science与Project Genie等工具，覆盖多模态推理、科学发现及空间模拟，显示其正以前所未有的密度推进frontier AI产品化，直接加剧与OpenAI的竞争。",
+    "source_url": "https://deepmind.google/blog/introducing-gemini-omni/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google DeepMind发布Gemini Omni及配套科学AI能力",
+          "body": "Google DeepMind发布Gemini Omni，作为最新前沿多模态大模型，提升复杂任务理解与推理能力。此次与Gemini for Science、Project Genie等工具构成密集产品攻势，标志Google在通用人工智能与科学发现领域的加速布局，直接加剧与OpenAI的竞争。",
+          "source_url": "https://deepmind.google/blog/introducing-gemini-omni/",
+          "source_name": "DeepMind Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google DeepMind",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "DeepSeek-V4-Flash让大模型引导向量技术再受关注",
+          "body": "技术博客指出DeepSeek-V4-Flash让LLM steering vectors技术重新变得有趣。通过轻量级干预模型内部表征，研究者可以更精确控制模型行为而无需昂贵微调，为开源社区提供了提升大模型可控性与安全性的新路径，具有重要的工程实践价值。",
+          "source_url": "https://www.seangoedecke.com/steering-vectors/",
+          "source_name": "Seán Goedecke Blog",
+          "importance": "medium",
+          "related_entities": [
+            "DeepSeek"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "LLM时代的形式化验证：TLA+入门指南引发关注",
+          "body": "博客文章探讨在LLM时代利用提示工程辅助形式化验证。作者认为借助大模型，开发者能更轻松使用TLA+发现并修复并发系统bug，这种结合有望提升AI生成代码的可靠性与安全性，为高质量AI编程开辟新思路。",
+          "source_url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+          "source_name": "Empty Square",
+          "importance": "medium",
+          "related_entities": []
+        },
+        {
+          "headline": "OpenAI Python SDK v2.37.0发布",
+          "body": "OpenAI更新官方Python SDK至v2.37.0，为Responses API的compact方法新增service_tier参数。该更新允许开发者更灵活地指定服务层级，是OpenAI完善开发者工具链、优化API使用体验的常规迭代，对生产环境调用有一定帮助。",
+          "source_url": "https://github.com/openai/openai-python/releases/tag/v2.37.0",
+          "source_name": "GitHub",
+          "importance": "low",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Project Genie结合Street View模拟真实世界场景",
+          "body": "Google DeepMind扩展Project Genie能力，将其与Street View结合以模拟真实世界地点，向AI Ultra订阅者全球开放。这展示了生成式AI在空间智能与虚拟环境构建上的进展，可应用于城市规划、游戏及机器人训练等多元场景。",
+          "source_url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "source_name": "DeepMind Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google DeepMind",
+            "Project Genie"
+          ]
+        },
+        {
+          "headline": "DeepMind扩展内容创建与编辑溯源工具",
+          "body": "Google DeepMind推出新工具帮助用户追踪网络内容的创建与编辑过程，以应对AI生成内容带来的真实性挑战。该功能旨在提升数字内容透明度，属于平台级AI安全与信任基础设施建设，对媒体、社交平台及用户均有影响。",
+          "source_url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+          "source_name": "DeepMind Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google DeepMind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Manus创始人计划融资10亿美元回购公司",
+          "body": "据彭博社报道，Manus创始人肖弘等正筹划约10亿美元融资，估值不低于20亿美元，意图从Meta手中回购公司。若交易完成，将是AI Agent领域标志性的创始人回购事件，显示顶级AI Agent团队对独立发展的强烈诉求。",
+          "source_url": "https://36kr.com/p/3819709302329735?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Manus",
+            "Meta",
+            "肖弘"
+          ]
+        },
+        {
+          "headline": "阿里云MaaS五个月Token收入增长15倍并发布Qwen 3.7 Max",
+          "body": "阿里云披露MaaS业务五个月Token收入增长15倍，月度收入达数亿元，驱动力来自Agent需求。同日发布Qwen 3.7 Max，距上个版本仅一个月。这反映中国云厂商正通过模型即服务与Agent生态快速实现商业化闭环。",
+          "source_url": "https://36kr.com/p/3819955387371649?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "阿里云",
+            "Qwen",
+            "通义千问"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "新石器发布无人车AI Agent Neo Claw，单人可管理千台",
+          "body": "新石器在AI Partner大会上推出Neo Claw，用户可通过自然语言管理车队，单人效率从10台提升至100台以上。这标志着自动驾驶行业正从技术竞争转向运营效率竞争，AI Agent成为无人车商业落地的关键抓手。",
+          "source_url": "https://36kr.com/p/3818927367046018?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "新石器",
+            "Neo Claw"
+          ]
+        },
+        {
+          "headline": "北京亦庄发布AI+电竞全流程赋能战略",
+          "body": "在2026北京亦庄AI+产业大会上，多方联合发布AI+电竞全流程赋能战略。该签约标志AI深入电竞训练、赛事运营全链条，是传统体育产业数字化转型与AI场景落地的最新案例，展示了AI在娱乐产业的渗透。",
+          "source_url": "https://36kr.com/p/3819898058330240?f=rss",
+          "source_name": "36氪",
+          "importance": "low",
+          "related_entities": [
+            "北京亦庄",
+            "中关村人工智能研究院"
+          ]
+        }
+      ]
+    }
+  ]
+}

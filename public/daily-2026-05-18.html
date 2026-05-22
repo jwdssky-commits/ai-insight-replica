@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · Google发布Gemini Omni旗舰多模态模型，Cursor迭代Composer 2.5</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-05-18</div>
+        <h1 class="report-title">Google发布Gemini Omni旗舰多模态模型，Cursor迭代Composer 2.5</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>Introducing Gemini Omni</strong></p>
+            <p>Google DeepMind发布最新旗舰多模态大模型Gemini Omni，延续原生多模态统一架构的技术路线，是Google在与OpenAI、Anthropic竞争中巩固模型层领导地位的关键动作，将直接影响下游AI应用与Agent生态的模型选型与能力边界。</p>
+            <a href="https://deepmind.google/blog/introducing-gemini-omni/" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://deepmind.google/blog/introducing-gemini-omni/" target="_blank" class="news-title-link">Google DeepMind发布Gemini Omni旗舰多模态大模型</a></h3>
+            <div class="report-section-body"><p>Google DeepMind正式发布Gemini Omni，作为其最新旗舰多模态大模型，延续原生多模态统一架构路线，是Google在与OpenAI、Anthropic竞争中巩固模型层领导地位的关键动作，将直接影响下游AI应用和Agent生态的模型选型策略。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Google</span> <span class="entity-tag">DeepMind</span> <span class="entity-tag">Gemini</span></div>
+            <a href="https://deepmind.google/blog/introducing-gemini-omni/" target="_blank" class="source-link">📎 DeepMind Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/" target="_blank" class="news-title-link">Google推出Gemini for Science工具集切入科研领域</a></h3>
+            <div class="report-section-body"><p>Google DeepMind推出Gemini for Science专用工具集，通过AI实验与自动化工具扩展科学探索的规模与精度，代表大模型技术正向垂直科研领域深度渗透，可能加速材料发现、生物信息学和物理模拟等前沿领域的研究周期。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Google</span> <span class="entity-tag">DeepMind</span> <span class="entity-tag">Gemini</span></div>
+            <a href="https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/" target="_blank" class="source-link">📎 DeepMind Blog</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://cursor.com/blog/composer-2-5" target="_blank" class="news-title-link">Cursor发布Composer 2.5版本，AI Coding工具持续进化</a></h3>
+            <div class="report-section-body"><p>Cursor正式发布Composer 2.5版本，在Hacker News获得284pts高热度。作为Cursor核心Agent级编程功能，其快速迭代反映AI Coding工具竞争已从代码补全进入端到端项目生成与自动化重构的新阶段，持续重塑开发者生产力工具格局。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Cursor</span> <span class="entity-tag">Michael Truell</span></div>
+            <a href="https://cursor.com/blog/composer-2-5" target="_blank" class="source-link">📎 Cursor Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633" target="_blank" class="news-title-link">AI漏洞猎人使Linux安全邮件列表几近瘫痪</a></h3>
+            <div class="report-section-body"><p>据The Register报道，Linus Torvalds指出AI驱动的自动化漏洞猎人已使Linux安全邮件列表几乎无法管理。这揭示了AI Coding在安全领域的双刃剑效应：自动化代码审查极大提升漏洞发现效率，但也给开源维护者带来前所未有的信息过载与验证负担。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Linus Torvalds</span> <span class="entity-tag">Linux</span></div>
+            <a href="https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633" target="_blank" class="source-link">📎 The Register</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://andonlabs.com/blog/andon-fm" target="_blank" class="news-title-link">Andonlabs推出AI电台Andon FM实现24小时自动化广播</a></h3>
+            <div class="report-section-body"><p>Andonlabs推出Andon FM项目，让AI独立运营广播电台，在Hacker News获得372pts高热度。该项目展示生成式AI在实时音频内容创作与流媒体分发中的落地能力，代表AI正从工具属性向自主内容生产者角色演进，开拓消费级音频娱乐新场景。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Andonlabs</span></div>
+            <a href="https://andonlabs.com/blog/andon-fm" target="_blank" class="source-link">📎 Andonlabs Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/" target="_blank" class="news-title-link">Google Project Genie结合街景实现真实世界地点模拟</a></h3>
+            <div class="report-section-body"><p>Google将Project Genie与Street View结合，向AI Ultra订阅者全球开放真实世界地点的模拟能力。这标志着生成式世界模型从虚拟场景生成迈向真实物理空间映射，为游戏、自动驾驶仿真和空间智能应用提供关键基础设施。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Google</span> <span class="entity-tag">DeepMind</span> <span class="entity-tag">Project Genie</span></div>
+            <a href="https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/" target="_blank" class="source-link">📎 DeepMind Blog</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3819709302329735?f=rss" target="_blank" class="news-title-link">Manus创始人筹划10亿美元融资回购公司</a></h3>
+            <div class="report-section-body"><p>据彭博社报道，Manus创始人肖弘、季逸超和张涛正筹划约10亿美元融资，以不低于Meta此前收购时支付的20亿美元估值回购公司。这一罕见的创始人回购动作表明AI Agent赛道头部资产的独立价值获资本市场高度认可，反映创始团队对Agent产品长期控制权的战略考量。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Manus</span> <span class="entity-tag">肖弘</span> <span class="entity-tag">Meta</span></div>
+            <a href="https://36kr.com/p/3819709302329735?f=rss" target="_blank" class="source-link">📎 36氪</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/" target="_blank" class="news-title-link">个人4.8万美元GPU服务器投资复盘引发开发者热议</a></h3>
+            <div class="report-section-body"><p>一篇关于个人投资4.8万美元构建GPU服务器的实战复盘在Hacker News获得381pts高热度，折射出AI基础设施民主化背景下，个人开发者与中小型团队对本地高性能算力的强劲需求，以及AI推理与训练成本结构持续优化带来的私有化部署可行性。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Hacker News</span></div>
+            <a href="https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/" target="_blank" class="source-link">📎 Rosmine.ai</a>
+        </div>
+    <div class="postit-box orange" style="background: #fff3e0;">
+        <div class="postit-title">🏢 企业AI转型</div>
+        <div class="postit-body"><p>1 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3819955387371649?f=rss" target="_blank" class="news-title-link">阿里云MaaS业务5个月Token收入增长15倍</a></h3>
+            <div class="report-section-body"><p>阿里云披露2026年前5个月MaaS业务Token收入增长15倍，月度收入达数亿元级别，核心驱动力来自Agent爆发。这验证了中国企业级AI服务正从模型API调用向Agent工作流集成跃迁，云厂商成为AI Agent时代的基础设施核心。</p></div>
+            <div class="entity-tags"><span class="entity-tag">阿里云</span> <span class="entity-tag">阿里巴巴</span> <span class="entity-tag">Qwen</span></div>
+            <a href="https://36kr.com/p/3819955387371649?f=rss" target="_blank" class="source-link">📎 36氪</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>

@@ -67,19 +67,23 @@ def make_cutoff(target_date: str, lookback_hours: int) -> datetime:
     # 日报日期当天的 00:00 UTC 往前推 lookback_hours
     return target_dt - timedelta(hours=lookback_hours)
 
-def is_too_old(pub_date_str: str, cutoff: datetime) -> bool:
-    """判断新闻是否太旧，应被过滤。无时区的日期也做过滤"""
+def make_upper_bound(target_date: str) -> datetime:
+    """target_date 当天结束：次日 00:00 UTC，过滤比目标日期还新的新闻"""
+    return datetime.strptime(target_date, "%Y-%m-%d").replace(tzinfo=timezone.utc) + timedelta(days=1)
+
+def is_out_of_range(pub_date_str: str, cutoff: datetime, upper: datetime) -> bool:
+    """判断新闻是否超出采集范围（太旧或太新）"""
     parsed = parse_rss_date(pub_date_str)
     if not parsed:
         return False  # 无日期信息，保留
     if parsed.tzinfo is None:
-        # 无时区信息，假定为 UTC
         parsed = parsed.replace(tzinfo=timezone.utc)
-    return parsed < cutoff
+    return parsed < cutoff or parsed >= upper
 
 def collect_rss(feeds, lookback_hours, max_per_source=10, target_date=None):
     items = []
     cutoff = make_cutoff(target_date, lookback_hours) if target_date else datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+    upper = make_upper_bound(target_date) if target_date else datetime.now(timezone.utc) + timedelta(hours=1)
 
     for feed in feeds:
         name = feed["name"]
@@ -106,7 +110,7 @@ def collect_rss(feeds, lookback_hours, max_per_source=10, target_date=None):
             if not title or not link:
                 continue
 
-            if is_too_old(pub_date, cutoff):
+            if is_out_of_range(pub_date, cutoff, upper):
                 continue
 
             feed_items.append({
@@ -131,7 +135,7 @@ def collect_rss(feeds, lookback_hours, max_per_source=10, target_date=None):
             if not title or not link:
                 continue
 
-            if is_too_old(published, cutoff):
+            if is_out_of_range(published, cutoff, upper):
                 continue
 
             feed_items.append({
@@ -165,7 +169,7 @@ def collect_rss(feeds, lookback_hours, max_per_source=10, target_date=None):
                     continue
 
                 parsed_date = parse_rss_date(published)
-                if parsed_date and parsed_date.tzinfo and parsed_date < cutoff:
+                if parsed_date and parsed_date.tzinfo and (parsed_date < cutoff or parsed_date >= upper):
                     continue
 
                 feed_items.append({
@@ -195,13 +199,15 @@ def collect_hackernews(config, lookback_hours, max_items, target_date=None):
 
     if target_date:
         cutoff_ts = int(make_cutoff(target_date, lookback_hours).timestamp())
+        upper_ts = int(make_upper_bound(target_date).timestamp())
     else:
         cutoff_ts = int((datetime.now(timezone.utc) - timedelta(hours=lookback_hours)).timestamp())
+        upper_ts = int((datetime.now(timezone.utc) + timedelta(hours=1)).timestamp())
 
     for keyword in keywords[:5]:
         try:
             encoded = urllib.parse.quote(keyword)
-            url = f"https://hn.algolia.com/api/v1/search_by_date?query={encoded}&tags=story&numericFilters=points>={min_points},created_at_i>={cutoff_ts}&hitsPerPage=5"
+            url = f"https://hn.algolia.com/api/v1/search_by_date?query={encoded}&tags=story&numericFilters=points>={min_points},created_at_i>={cutoff_ts},created_at_i<{upper_ts}&hitsPerPage=5"
             data = json.loads(fetch_url(url))
 
             for hit in data.get("hits", []):
@@ -251,8 +257,10 @@ def collect_github(repos, lookback_hours, max_items, target_date=None):
 
     if target_date:
         cutoff = make_cutoff(target_date, lookback_hours)
+        upper = make_upper_bound(target_date)
     else:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+        upper = datetime.now(timezone.utc) + timedelta(hours=1)
 
     for repo_info in repos[:15]:
         repo = repo_info["repo"]
@@ -266,7 +274,7 @@ def collect_github(repos, lookback_hours, max_items, target_date=None):
 
             for rel in releases:
                 pub = rel.get("published_at", "")
-                if is_too_old(pub, cutoff):
+                if is_out_of_range(pub, cutoff, upper):
                         continue
 
                 name = rel.get("name") or rel.get("tag_name", "")

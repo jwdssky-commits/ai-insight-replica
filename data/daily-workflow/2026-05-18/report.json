@@ -1,0 +1,154 @@
+{
+  "title": "Google发布Gemini Omni旗舰多模态模型，Cursor迭代Composer 2.5",
+  "date": "2026-05-18",
+  "summary": "Google DeepMind正式发布旗舰多模态大模型Gemini Omni，并推出面向科学研究的专用工具集；AI Coding工具持续升级，Cursor发布Composer 2.5版本获得开发者社区高热度；OpenAI与Dell达成战略合作，将Codx AI编程Agent推向企业混合云与本地部署环境，加速企业级AI私有化落地。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "产品发布",
+    "融资"
+  ],
+  "highlight": {
+    "title": "Introducing Gemini Omni",
+    "body": "Google DeepMind发布最新旗舰多模态大模型Gemini Omni，延续原生多模态统一架构的技术路线，是Google在与OpenAI、Anthropic竞争中巩固模型层领导地位的关键动作，将直接影响下游AI应用与Agent生态的模型选型与能力边界。",
+    "source_url": "https://deepmind.google/blog/introducing-gemini-omni/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google DeepMind发布Gemini Omni旗舰多模态大模型",
+          "body": "Google DeepMind正式发布Gemini Omni，作为其最新旗舰多模态大模型，延续原生多模态统一架构路线，是Google在与OpenAI、Anthropic竞争中巩固模型层领导地位的关键动作，将直接影响下游AI应用和Agent生态的模型选型策略。",
+          "source_url": "https://deepmind.google/blog/introducing-gemini-omni/",
+          "source_name": "DeepMind Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "DeepMind",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "Google推出Gemini for Science工具集切入科研领域",
+          "body": "Google DeepMind推出Gemini for Science专用工具集，通过AI实验与自动化工具扩展科学探索的规模与精度，代表大模型技术正向垂直科研领域深度渗透，可能加速材料发现、生物信息学和物理模拟等前沿领域的研究周期。",
+          "source_url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+          "source_name": "DeepMind Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "DeepMind",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Cursor发布Composer 2.5版本，AI Coding工具持续进化",
+          "body": "Cursor正式发布Composer 2.5版本，在Hacker News获得284pts高热度。作为Cursor核心Agent级编程功能，其快速迭代反映AI Coding工具竞争已从代码补全进入端到端项目生成与自动化重构的新阶段，持续重塑开发者生产力工具格局。",
+          "source_url": "https://cursor.com/blog/composer-2-5",
+          "source_name": "Cursor Blog",
+          "importance": "high",
+          "related_entities": [
+            "Cursor",
+            "Michael Truell"
+          ]
+        },
+        {
+          "headline": "AI漏洞猎人使Linux安全邮件列表几近瘫痪",
+          "body": "据The Register报道，Linus Torvalds指出AI驱动的自动化漏洞猎人已使Linux安全邮件列表几乎无法管理。这揭示了AI Coding在安全领域的双刃剑效应：自动化代码审查极大提升漏洞发现效率，但也给开源维护者带来前所未有的信息过载与验证负担。",
+          "source_url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+          "source_name": "The Register",
+          "importance": "medium",
+          "related_entities": [
+            "Linus Torvalds",
+            "Linux"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Andonlabs推出AI电台Andon FM实现24小时自动化广播",
+          "body": "Andonlabs推出Andon FM项目，让AI独立运营广播电台，在Hacker News获得372pts高热度。该项目展示生成式AI在实时音频内容创作与流媒体分发中的落地能力，代表AI正从工具属性向自主内容生产者角色演进，开拓消费级音频娱乐新场景。",
+          "source_url": "https://andonlabs.com/blog/andon-fm",
+          "source_name": "Andonlabs Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Andonlabs"
+          ]
+        },
+        {
+          "headline": "Google Project Genie结合街景实现真实世界地点模拟",
+          "body": "Google将Project Genie与Street View结合，向AI Ultra订阅者全球开放真实世界地点的模拟能力。这标志着生成式世界模型从虚拟场景生成迈向真实物理空间映射，为游戏、自动驾驶仿真和空间智能应用提供关键基础设施。",
+          "source_url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "source_name": "DeepMind Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "DeepMind",
+            "Project Genie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Manus创始人筹划10亿美元融资回购公司",
+          "body": "据彭博社报道，Manus创始人肖弘、季逸超和张涛正筹划约10亿美元融资，以不低于Meta此前收购时支付的20亿美元估值回购公司。这一罕见的创始人回购动作表明AI Agent赛道头部资产的独立价值获资本市场高度认可，反映创始团队对Agent产品长期控制权的战略考量。",
+          "source_url": "https://36kr.com/p/3819709302329735?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Manus",
+            "肖弘",
+            "Meta"
+          ]
+        },
+        {
+          "headline": "个人4.8万美元GPU服务器投资复盘引发开发者热议",
+          "body": "一篇关于个人投资4.8万美元构建GPU服务器的实战复盘在Hacker News获得381pts高热度，折射出AI基础设施民主化背景下，个人开发者与中小型团队对本地高性能算力的强劲需求，以及AI推理与训练成本结构持续优化带来的私有化部署可行性。",
+          "source_url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+          "source_name": "Rosmine.ai",
+          "importance": "medium",
+          "related_entities": [
+            "Hacker News"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "阿里云MaaS业务5个月Token收入增长15倍",
+          "body": "阿里云披露2026年前5个月MaaS业务Token收入增长15倍，月度收入达数亿元级别，核心驱动力来自Agent爆发。这验证了中国企业级AI服务正从模型API调用向Agent工作流集成跃迁，云厂商成为AI Agent时代的基础设施核心。",
+          "source_url": "https://36kr.com/p/3819955387371649?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "阿里云",
+            "阿里巴巴",
+            "Qwen"
+          ]
+        }
+      ]
+    }
+  ]
+}
