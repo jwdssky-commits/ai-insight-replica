@@ -110,27 +110,6 @@ body {
 .tag.hermes { background: var(--postit-green); } .tag.openclaw { background: var(--postit-blue); }
 .tag.industry { background: var(--postit-yellow); } .tag.hot { background: var(--postit-pink); border-color: var(--accent); color: var(--accent); }
 
-/* === CALENDAR === */
-.calendar-wrap { background: var(--paper-white); border: 3px solid var(--border); border-radius: var(--radius-wobbly-md); padding: var(--space-lg); box-shadow: var(--shadow-sm); margin-top: var(--space-lg); }
-.calendar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: var(--space-md); }
-.calendar-title { font-family: var(--font-heading); font-size: 1.2rem; font-weight: 700; }
-.cal-nav-btn { background: var(--bg); border: 2px solid var(--border); border-radius: var(--radius-wobbly-tag); padding: 4px 14px; cursor: pointer; font-family: var(--font-body); font-size: 1rem; box-shadow: 2px 2px 0 0 rgba(45,45,45,0.15); transition: all 100ms; }
-.cal-nav-btn:hover { background: var(--muted); transform: translateY(1px); box-shadow: 1px 1px 0 0 rgba(45,45,45,0.15); }
-.calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
-.cal-day-label { font-family: var(--font-heading); font-size: 0.75rem; text-align: center; padding: 4px 0; opacity: 0.5; }
-.cal-day { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; font-family: var(--font-heading); font-size: 0.85rem; border-radius: 50% 45% 55% 48%; cursor: default; transition: all 100ms; }
-.cal-day.empty { visibility: hidden; }
-.cal-day.has-report { background: var(--postit-green); border: 2px solid #059669; cursor: pointer; font-weight: 700; }
-.cal-day.has-report:hover { transform: scale(1.15) rotate(3deg); box-shadow: 2px 2px 0 0 #059669; }
-.cal-day.today { background: var(--accent); color: white; border: 2px solid var(--accent); font-weight: 700; }
-.cal-day.weekly { background: var(--postit-blue); border: 2px solid var(--blue); }
-.cal-legend { display: flex; gap: var(--space-md); margin-top: var(--space-md); flex-wrap: wrap; }
-.cal-legend-item { display: flex; align-items: center; gap: 6px; font-family: var(--font-zh); font-size: 0.78rem; opacity: 0.65; }
-.cal-legend-dot { width: 12px; height: 12px; border-radius: 50% 45% 55% 48%; border: 2px solid; }
-.cal-legend-dot.daily { background: var(--postit-green); border-color: #059669; }
-.cal-legend-dot.weekly { background: var(--postit-blue); border-color: var(--blue); }
-.cal-legend-dot.today-dot { background: var(--accent); border-color: var(--accent); }
-
 /* === TIMELINE === */
 .timeline { position: relative; padding-left: 32px; }
 .timeline::before { content: ''; position: absolute; left: 11px; top: 0; bottom: 0; width: 3px; border-left: 3px dashed var(--muted); }
@@ -248,9 +227,6 @@ a.timeline-card:visited { color: inherit; }
     .daily-card { padding: var(--space-md); }
     .compare-card { transform: rotate(0deg) !important; }
 }
-/* Calendar clickable days */
-.cal-day.has-report a, .cal-day.today a { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; text-decoration: none; color: inherit; font-weight: bold; border-radius: 50%; }
-.cal-day.has-report a:hover { background: rgba(5,150,105,0.2); }
 </style>
 </head>
 <body>
@@ -269,10 +245,10 @@ a.timeline-card:visited { color: inherit; }
 
     <!-- STATS -->
     <div class="stats-grid">
-        <div class="stat-card"><div class="stat-number green" id="stat-reports">7</div><div class="stat-label">日报总数</div></div>
+        <div class="stat-card"><div class="stat-number green" id="stat-reports">1</div><div class="stat-label">日报总数</div></div>
         <div class="stat-card"><div class="stat-number blue" id="stat-research">5</div><div class="stat-label">追踪板块</div></div>
         <div class="stat-card"><div class="stat-number orange" id="stat-tracking">200+</div><div class="stat-label">追踪条目</div></div>
-        <div class="stat-card"><div class="stat-number red" id="stat-days">7</div><div class="stat-label">持续天数</div></div>
+        <div class="stat-card"><div class="stat-number red" id="stat-days">1</div><div class="stat-label">持续天数</div></div>
     </div>
 
     <!-- ABOUT -->
@@ -481,21 +457,6 @@ a.timeline-card:visited { color: inherit; }
                 
 
                 
-            </div>
-
-            <!-- Calendar -->
-            <div class="calendar-wrap">
-                <div class="calendar-header">
-                    <button class="cal-nav-btn" onclick="changeMonth(-1)">◀ 上月</button>
-                    <span class="calendar-title" id="calTitle">2026年4月</span>
-                    <button class="cal-nav-btn" onclick="changeMonth(1)">下月 ▶</button>
-                </div>
-                <div class="calendar-grid" id="calGrid"></div>
-                <div class="cal-legend">
-                    <div class="cal-legend-item"><div class="cal-legend-dot daily"></div><span>有日报</span></div>
-                    <div class="cal-legend-item"><div class="cal-legend-dot weekly"></div><span>周报</span></div>
-                    <div class="cal-legend-item"><div class="cal-legend-dot today-dot"></div><span>今天</span></div>
-                </div>
             </div>
         </section>
     </article>
@@ -818,47 +779,6 @@ function toggleAbout() { document.getElementById('aboutCard').classList.toggle('
 
 /* Accordion */
 function toggleCollapsible(header) { header.classList.toggle('active'); const c = header.nextElementSibling; if (c) c.classList.toggle('active'); }
-
-/* Calendar */
-const reportsData = {
-    '2026-05': [16,17,18,19,20,21,22],
-  };
-const weeklyReportsData = {};
-let calYear = 2026, calMonth = 3;
-
-function renderCalendar() {
-    const grid = document.getElementById('calGrid');
-    const titleEl = document.getElementById('calTitle');
-    if (!grid || !titleEl) return;
-    const monthNames = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
-    titleEl.textContent = calYear + '年' + monthNames[calMonth];
-    const key = calYear + '-' + String(calMonth + 1).padStart(2, '0');
-    const reports = reportsData[key] || [];
-    const weekly = weeklyReportsData[key] || {};
-    const today = new Date();
-    const todayDay = (today.getFullYear() === calYear && today.getMonth() === calMonth) ? today.getDate() : -1;
-    const firstDay = new Date(calYear, calMonth, 1).getDay();
-    const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
-    const dayLabels = ['日','一','二','三','四','五','六'];
-    let html = dayLabels.map(d => '<div class="cal-day-label">' + d + '</div>').join('');
-    for (let i = 0; i < firstDay; i++) html += '<div class="cal-day empty"></div>';
-    for (let d = 1; d <= daysInMonth; d++) {
-        let cls = 'cal-day';
-        if (d === todayDay) cls += ' today';
-        else if (weekly[d]) cls += ' weekly';
-        else if (reports.includes(d)) cls += ' has-report';
-        if (reports.includes(d)) {
-            const dd = String(d).padStart(2,'0');
-            const mm = String(calMonth+1).padStart(2,'0');
-            html += '<div class="' + cls + '"><a href="daily-' + calYear + '-' + mm + '-' + dd + '.html">' + d + '</a></div>';
-        } else {
-            html += '<div class="' + cls + '">' + d + '</div>';
-        }
-    }
-    grid.innerHTML = html;
-}
-function changeMonth(delta) { calMonth += delta; if (calMonth > 11) { calMonth = 0; calYear++; } if (calMonth < 0) { calMonth = 11; calYear--; } renderCalendar(); }
-renderCalendar();
 
 /* Knowledge Base */
 function toggleKBDimension(node) { if (event && event.target.closest('a')) return; node.setAttribute('data-expanded', node.getAttribute('data-expanded') === 'true' ? 'false' : 'true'); }
