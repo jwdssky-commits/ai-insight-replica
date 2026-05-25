@@ -366,14 +366,34 @@ def collect_wechat(accounts, lookback_hours, max_per_account=5, target_date=None
 
 # ---- Dedup ----
 
-def dedup_items(items):
+def load_previous_urls(target_date: str) -> set:
+    """加载前一天 raw_news.json 的 URL 集合，用于跨天去重"""
+    prev_dt = datetime.strptime(target_date, "%Y-%m-%d") - timedelta(days=1)
+    prev_path = ROOT / "data" / "daily-workflow" / prev_dt.strftime("%Y-%m-%d") / "raw_news.json"
+    if not prev_path.exists():
+        return set()
+    try:
+        with open(prev_path, encoding="utf-8") as f:
+            prev_data = json.load(f)
+        return {item["url"] for item in prev_data.get("items", []) if item.get("url")}
+    except Exception:
+        return set()
+
+def dedup_items(items, previous_urls=None):
     seen = set()
     result = []
+    skipped = 0
     for item in items:
         url = item.get("url", "")
-        if url and url not in seen:
-            seen.add(url)
-            result.append(item)
+        if not url:
+            continue
+        if url in seen or (previous_urls and url in previous_urls):
+            skipped += 1
+            continue
+        seen.add(url)
+        result.append(item)
+    if skipped:
+        print(f"  [去重] 跳过 {skipped} 条与前一天重复的新闻")
     return result
 
 
@@ -416,8 +436,9 @@ def main():
     wx_items = collect_wechat(tracking.get("wechat_accounts", []), lookback, max_per, target_date=args.date)
     all_items.extend(wx_items)
 
-    # Dedup
-    all_items = dedup_items(all_items)
+    # Dedup (within today + cross-day)
+    previous_urls = load_previous_urls(args.date)
+    all_items = dedup_items(all_items, previous_urls)
 
     # Enforce max
     max_total = nc.get("max_total_items", 80)
