@@ -27,7 +27,9 @@
     { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "boards": ["大模型", "AI Coding"], "lang": "en" },
     { "name": "ArXiv CS.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "boards": ["大模型"], "lang": "en" },
     { "name": "ArXiv CS.CL", "url": "https://rss.arxiv.org/rss/cs.CL", "boards": ["大模型"], "lang": "en" },
-    { "name": "宝玉 (@dotey)", "url": "https://nitter.net/dotey/rss", "boards": ["大模型", "AI应用"], "lang": "zh" }
+    { "name": "宝玉 (@dotey)", "url": "https://nitter.net/dotey/rss", "boards": ["大模型", "AI应用"], "lang": "zh" },
+    { "name": "NousResearch (@nousresearch)", "url": "https://nitter.net/nousresearch/rss", "boards": ["大模型", "AI Coding"], "lang": "en" },
+    { "name": "LingYang (@LingYang_PU, OpenClaw)", "url": "https://nitter.net/LingYang_PU/rss", "boards": ["大模型", "AI Coding"], "lang": "en" }
   ],
 
   "hackernews": {
@@ -56,7 +58,9 @@
     { "repo": "anthropics/claude-code", "boards": ["AI Coding"] },
     { "repo": "mem0ai/mem0", "boards": ["AI应用"] },
     { "repo": "microsoft/autogen", "boards": ["AI Coding"] },
-    { "repo": "crewAIInc/crewAI", "boards": ["AI Coding", "AI应用"] }
+    { "repo": "crewAIInc/crewAI", "boards": ["AI Coding", "AI应用"] },
+    { "repo": "NousResearch/hermes-agent", "boards": ["AI Coding", "AI应用"] },
+    { "repo": "Gen-Verse/OpenClaw-RL", "boards": ["AI Coding", "大模型"] }
   ],
 
   "wechat_accounts": [
