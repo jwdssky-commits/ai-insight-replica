@@ -1,0 +1,151 @@
+{
+  "title": "DeepSeek永久降价75%搅动全球定价，华为系具身智能人才密集出走创业",
+  "date": "2026-05-25",
+  "summary": "DeepSeek宣布对旗舰AI模型实施永久性75%折扣，直接冲击全球大模型定价体系；Epoch.ai数据显示内存已占AI芯片组件成本近三分之二，存储成为基础设施核心瓶颈。具身智能赛道迎来人才与资本共振：华为具身智能“大脑一号位”出走创立“具脑磐石”，以认知世界模型对标JEPA并获亿元级融资；机器人力传感器龙头蓝点触控半年内完成三轮亿元级融资，上汽、中芯等产业资本密集入局核心零部件。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "Agent",
+    "机器人",
+    "芯片",
+    "安全"
+  ],
+  "highlight": {
+    "title": "DeepSeek宣布对旗舰AI模型实施永久性75%折扣",
+    "body": "据Bloomberg报道，DeepSeek计划永久下调旗舰模型价格75%。这不仅是短期促销，而是以牺牲短期利润换取全球开发者生态份额的战略决策，将直接冲击OpenAI、Anthropic等厂商的定价体系，并可能引发新一轮行业级价格战，加速下游AI应用商业化。",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "DeepSeek宣布旗舰AI模型永久降价75%，再掀全球价格战",
+          "body": "据Bloomberg报道，DeepSeek计划对其旗舰AI模型实施永久性75%折扣。这一激进定价策略将进一步压低全球大模型推理成本，直接冲击OpenAI、Anthropic等竞争对手的定价体系。DeepSeek此前凭借低成本高性能模型引发行业震动，此次永久折扣表明其正在以“价格战”形式争夺全球开发者生态。对于下游应用厂商而言，推理成本的大幅下降将加速AI应用的商业化落地，但也可能压缩其他模型厂商的利润空间，引发新一轮行业洗牌。",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+          "source_name": "Bloomberg",
+          "importance": "high",
+          "related_entities": [
+            "DeepSeek"
+          ]
+        },
+        {
+          "headline": "AI芯片成本结构剧变：内存占比逼近三分之二",
+          "body": "Epoch.ai最新数据显示，内存（Memory）已占AI芯片总组件成本的近三分之二。随着大模型参数规模和上下文长度持续膨胀，HBM等高带宽存储器成为AI芯片中成本最高的部件，其重要性已超越计算单元本身。这一结构性变化意味着，未来AI基础设施的竞争将不仅是算力之争，更是存储技术之争。对于芯片设计商和云厂商而言，内存带宽与容量将成为制约大模型训练和推理效率的关键瓶颈，也可能推动CXL、近存计算等新型内存架构加速落地。",
+          "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+          "source_name": "Epoch.ai",
+          "importance": "high",
+          "related_entities": [
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "DeepSeek发布原生编程Agent Reasonix，主打高缓存与低成本",
+          "body": "DeepSeek推出原生AI编程Agent“Reasonix”，该产品针对代码生成场景优化，通过高缓存机制显著降低重复推理成本。作为DeepSeek在AI Coding领域的最新布局，Reasonix直接对标Cursor、GitHub Copilot等工具，但其差异化在于利用模型原生能力实现更低的使用成本。在当前AI Coding工具向Agent化演进的大背景下，Reasonix的发布意味着国产大模型厂商正从底层模型向垂直应用层延伸，试图在开发者生态中占据一席之地。高缓存设计也侧面反映了对长代码库理解和多轮对话场景的技术针对性。",
+          "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+          "source_name": "Hacker News / DeepSeek",
+          "importance": "high",
+          "related_entities": [
+            "DeepSeek",
+            "Cursor",
+            "GitHub Copilot"
+          ]
+        },
+        {
+          "headline": "研究揭示LLM Agent后端代码生成中的“约束衰减”脆弱性",
+          "body": "一篇发表于arXiv的论文《Constraint Decay》指出，当前LLM Agent在后端代码生成任务中存在系统性脆弱性：随着生成步骤增加，模型对初始约束条件的遵循能力呈衰减趋势。研究团队发现，Agent在处理复杂后端逻辑时，容易在后续迭代中遗忘或扭曲早期明确的需求约束，导致生成代码的可靠性大幅下降。这一发现对当前热门的AI Agent编程范式（如Devin、Cursor Agent模式）提出重要警示——单纯延长推理链或增加上下文长度并不能根本解决约束保持问题，亟需新的架构设计来增强Agent的长期约束记忆能力。",
+          "source_url": "https://arxiv.org/abs/2605.06445",
+          "source_name": "arXiv",
+          "importance": "medium",
+          "related_entities": [
+            "Devin",
+            "Cursor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "黑客正利用AI聊天机器人“个性”特征实施新型攻击",
+          "body": "The Verge报道，黑客开始针对性地利用AI聊天机器人的“个性”（Personality）漏洞进行社会工程攻击。与早期直接绕过安全护栏的提示注入不同，新型攻击通过操纵聊天机器人的情感回应、角色扮演倾向等个性化特征，诱导其泄露敏感信息或执行非授权操作。这暴露出当前消费级AI产品在安全设计上的盲区：厂商为提升用户黏性而强化的“人格化”交互，反而可能成为被利用的攻击面。随着AI助手广泛接入个人数据和企业系统，此类攻击的潜在危害显著上升，安全团队需重新审视AI交互层的风险模型。",
+          "source_url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Anthropic"
+          ]
+        },
+        {
+          "headline": "《和平精英》AI队友周末活跃破1770万，游戏AI技术外溢成趋势",
+          "body": "2026年GDC大会上披露的数据显示，《和平精英》AI队友周末活跃玩家突破1770万，累计1.1亿人体验过AI功能，麦克风开启率高达75%，超过真人双排历史峰值。这标志着游戏AI已从实验性功能转变为大规模用户依赖的核心体验。更重要的是，游戏场景中沉淀的语音交互、多智能体协作、实时决策等技术，正在向教育、培训、虚拟服务等“千行百业”外溢。腾讯等游戏巨头的技术积累，可能成为中国AI应用落地的重要基础设施，也为消费级AI交互提供了可复制的范式。",
+          "source_url": "https://36kr.com/p/3822747968196993?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "腾讯"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "华为具身智能“大脑一号位”出走创业，具脑磐石获亿元融资对标JEPA",
+          "body": "华为具身智能核心负责人出走创立“具脑磐石”，完成新一轮亿元级融资。公司致力于构建认知世界模型（Cognitive World Model），技术路线直接对标Yann LeCun提出的JEPA（联合嵌入预测架构），强调用认知科学和类脑计算重塑具身智能的“大脑”。本轮融资由顶尖产业资本领投，资金将用于技术研发和全球化拓展。这一事件标志着具身智能领域正从硬件本体竞争向“认知架构”竞争升级，也反映出顶尖AI人才从大厂向创业生态流动的加速趋势。",
+          "source_url": "https://36kr.com/p/3819931562414467?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "华为",
+            "具脑磐石",
+            "Yann LeCun"
+          ]
+        },
+        {
+          "headline": "六维力传感器龙头蓝点触控再获数亿融资，上汽、中芯等产业资本入局",
+          "body": "蓝点触控宣布完成C++轮数亿元人民币融资，半年内已连续完成三轮亿元级融资，本轮距上一轮仅一个月。本轮由上汽金控、尚颀资本领投，中芯聚源等跟投。作为机器人六维力传感器龙头，蓝点触控的股东阵容已集齐红杉、宁德时代、上汽、中芯、智元机器人等产业链核心玩家。力传感器是人形机器人实现精细操作的核心部件，本轮产业资本密集入局表明：具身智能产业链正从本体制造向上游核心零部件延伸，传感器、执行器等“卡脖子”环节成为投资热点，国产替代和供应链安全逻辑持续强化。",
+          "source_url": "https://36kr.com/p/3824053061652616?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "智元机器人",
+            "蓝点触控"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "商汤国香领投空间相机公司竹马创新，布局具身智能数据采集入口",
+          "body": "消费级空间相机公司“竹马创新”完成数千万天使+轮融资，由商汤国香资本领投。该公司以“Camera + AI”为核心，定义“空间相机”新品类，既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。创始人来自群核科技，具备大规模空间数据处理能力。此轮融资反映出企业级AI转型中的关键基础设施投资逻辑：随着具身智能和世界模型发展，高质量三维空间数据将成为稀缺资源，率先布局数据采集硬件具有战略卡位意义，也为传统行业数字化提供了新的数据维度。",
+          "source_url": "https://36kr.com/p/3824089662853513?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "商汤",
+            "群核科技"
+          ]
+        }
+      ]
+    }
+  ]
+}
