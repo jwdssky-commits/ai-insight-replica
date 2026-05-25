@@ -304,6 +304,66 @@ def collect_github(repos, lookback_hours, max_items, target_date=None):
     return result
 
 
+# ---- Sogou WeChat Collector ----
+
+def collect_wechat(accounts, lookback_hours, max_per_account=5, target_date=None):
+    """通过搜狗微信搜索采集公众号文章"""
+    items = []
+
+    for account in accounts:
+        name = account["name"]
+        query = account.get("query", name)
+        boards = account.get("boards", [])
+        lang = account.get("lang", "zh")
+
+        try:
+            encoded = urllib.parse.quote(query)
+            url = f"https://weixin.sogou.com/weixin?type=2&query={encoded}&ie=utf8"
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml",
+                "Accept-Language": "zh-CN,zh;q=0.9",
+            })
+            with urllib.request.urlopen(req, timeout=15, context=ssl._create_unverified_context()) as resp:
+                data = resp.read().decode("utf-8", errors="replace")
+
+            # Extract articles: <h3><a href=...>Title</a></h3>
+            articles = re.findall(
+                r'<h3[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>\s*</h3>',
+                data, re.DOTALL
+            )
+
+            feed_items = []
+            for i, (link, title_html) in enumerate(articles[:max_per_account]):
+                title = re.sub(r"<[^>]+>", "", title_html).strip()
+                if not title:
+                    continue
+
+                # Resolve sogou redirect URL
+                if link.startswith("/"):
+                    link = "https://weixin.sogou.com" + link
+
+                feed_items.append({
+                    "title": title,
+                    "url": link,
+                    "source": f"{name} (微信)",
+                    "published": "",
+                    "summary": f"来源: {name}公众号",
+                    "board_hints": boards,
+                    "lang": lang,
+                })
+
+            items.extend(feed_items)
+            print(f"  [OK] {name}: {len(feed_items)} 条")
+            time.sleep(1.0)  # Be polite to sogou
+
+        except Exception as e:
+            print(f"  [WARN] 微信 {name}: {e}")
+            continue
+
+    return items
+
+
 # ---- Dedup ----
 
 def dedup_items(items):
@@ -350,6 +410,11 @@ def main():
     print("\n[GitHub 采集]")
     gh_items = collect_github(tracking.get("github_repos", []), lookback, max_per, target_date=args.date)
     all_items.extend(gh_items)
+
+    # 4. WeChat public accounts (via Sogou)
+    print("\n[微信公众号 采集]")
+    wx_items = collect_wechat(tracking.get("wechat_accounts", []), lookback, max_per, target_date=args.date)
+    all_items.extend(wx_items)
 
     # Dedup
     all_items = dedup_items(all_items)

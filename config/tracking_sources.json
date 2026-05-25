@@ -26,7 +26,8 @@
     { "name": "36氪 AI", "url": "https://36kr.com/feed", "boards": ["AI行业", "企业AI转型"], "lang": "zh" },
     { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "boards": ["大模型", "AI Coding"], "lang": "en" },
     { "name": "ArXiv CS.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "boards": ["大模型"], "lang": "en" },
-    { "name": "ArXiv CS.CL", "url": "https://rss.arxiv.org/rss/cs.CL", "boards": ["大模型"], "lang": "en" }
+    { "name": "ArXiv CS.CL", "url": "https://rss.arxiv.org/rss/cs.CL", "boards": ["大模型"], "lang": "en" },
+    { "name": "宝玉 (@dotey)", "url": "https://nitter.net/dotey/rss", "boards": ["大模型", "AI应用"], "lang": "zh" }
   ],
 
   "hackernews": {
@@ -56,6 +57,14 @@
     { "repo": "mem0ai/mem0", "boards": ["AI应用"] },
     { "repo": "microsoft/autogen", "boards": ["AI Coding"] },
     { "repo": "crewAIInc/crewAI", "boards": ["AI Coding", "AI应用"] }
+  ],
+
+  "wechat_accounts": [
+    { "name": "宝玉", "query": "宝玉 AI", "boards": ["大模型", "AI应用"], "lang": "zh" },
+    { "name": "机器之心", "query": "机器之心", "boards": ["大模型", "AI行业"], "lang": "zh" },
+    { "name": "新智元", "query": "新智元", "boards": ["大模型", "AI行业"], "lang": "zh" },
+    { "name": "AI产品经理大本营", "query": "AI产品经理大本营", "boards": ["AI应用"], "lang": "zh" },
+    { "name": "AI工具集", "query": "AI工具集", "boards": ["AI应用"], "lang": "zh" }
   ],
 
   "knowledge_base": {
