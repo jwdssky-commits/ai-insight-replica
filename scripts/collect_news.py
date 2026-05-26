@@ -309,6 +309,8 @@ def collect_github(repos, lookback_hours, max_items, target_date=None):
 def collect_wechat(accounts, lookback_hours, max_per_account=5, target_date=None):
     """通过搜狗微信搜索采集公众号文章"""
     items = []
+    cutoff = make_cutoff(target_date, lookback_hours) if target_date else datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+    upper = make_upper_bound(target_date) if target_date else datetime.now(timezone.utc) + timedelta(hours=1)
 
     for account in accounts:
         name = account["name"]
@@ -327,6 +329,9 @@ def collect_wechat(accounts, lookback_hours, max_per_account=5, target_date=None
             with urllib.request.urlopen(req, timeout=15, context=ssl._create_unverified_context()) as resp:
                 data = resp.read().decode("utf-8", errors="replace")
 
+            # Extract timestamps: timeConvert('unix_ts')
+            timestamps = re.findall(r"timeConvert\(\s*['\"]?(\d+)['\"]?\s*\)", data)
+
             # Extract articles: <h3><a href=...>Title</a></h3>
             articles = re.findall(
                 r'<h3[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>\s*</h3>',
@@ -334,10 +339,24 @@ def collect_wechat(accounts, lookback_hours, max_per_account=5, target_date=None
             )
 
             feed_items = []
-            for i, (link, title_html) in enumerate(articles[:max_per_account]):
+            skipped_old = 0
+            for i, (link, title_html) in enumerate(articles):
                 title = re.sub(r"<[^>]+>", "", title_html).strip()
                 if not title:
                     continue
+
+                # Time filtering via sogou timestamps (1-to-1 with articles)
+                pub_date = ""
+                if i < len(timestamps):
+                    try:
+                        ts = int(timestamps[i])
+                        pub_dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                        pub_date = pub_dt.isoformat()
+                        if pub_dt < cutoff or pub_dt >= upper:
+                            skipped_old += 1
+                            continue
+                    except (ValueError, OSError):
+                        pass
 
                 # Resolve sogou redirect URL
                 if link.startswith("/"):
@@ -347,15 +366,17 @@ def collect_wechat(accounts, lookback_hours, max_per_account=5, target_date=None
                     "title": title,
                     "url": link,
                     "source": f"{name} (微信)",
-                    "published": "",
+                    "published": pub_date,
                     "summary": f"来源: {name}公众号",
                     "board_hints": boards,
                     "lang": lang,
                 })
+                if len(feed_items) >= max_per_account:
+                    break
 
             items.extend(feed_items)
-            print(f"  [OK] {name}: {len(feed_items)} 条")
-            time.sleep(1.0)  # Be polite to sogou
+            print(f"  [OK] {name}: {len(feed_items)} 条" + (f" (跳过{skipped_old}条旧文)" if skipped_old else ""))
+            time.sleep(1.0)
 
         except Exception as e:
             print(f"  [WARN] 微信 {name}: {e}")

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "collected_at": "2026-05-26T04:09:52.059159+00:00",
-  "item_count": 80,
+  "collected_at": "2026-05-26T04:43:47.731878+00:00",
+  "item_count": 68,
   "items": [
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -558,6 +558,18 @@
       "lang": "en"
     },
     {
+      "title": "Agent 应用和传统 App + AI 的最大差别，在于执行的主体不同。\n传统 App + AI，是人“操作” App，AI 只是辅助\nAgent 应用，是人“指挥” Agent 去操作 App/cli，Agent 自助做事\n\n举例来说，微软家的 Copilot （早年版本）集成在 PowerPoint 中，你能问它个话，基于文档回答点问题，你让它帮你操作 PowerPoint 它做不到\n\n现在的 Codex，你告诉它写一个 Slides，或者上传一个 PPTx 文件，让它帮你修改一下，你全程不用自己操作 PowerPoint。\n\n这就是差别。",
+      "url": "https://nitter.net/dotey/status/2059129670558200101#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 26 May 2026 04:29:04 GMT",
+      "summary": "<p>Agent 应用和传统 App + AI 的最大差别，在于执行的主体不同。<br>\n传统 App + AI，是人“操作” App，AI 只是辅助<br>\nAgent 应用，是人“指挥” Agent 去操作 App/cli，Agent 自助做事<br>\n<br>\n举例来说，微软家的 Copilot （早年版本）集成在 PowerPoint 中，你能问它个话，基于文档回答点问题，你让它帮你操作 PowerPoint 它做不到<br>\n<br>\n现在的 Codex，你告诉它写一个 Slides，或者上传一个 PPTx 文件，让它帮你修改一下，你全程不用自己操作 PowerPoint。<br>\n",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
       "title": "微信就是太封闭了，要是开放一点能有很多有意思的衍生产品出来",
       "url": "https://nitter.net/dotey/status/2059093711875702898#m",
       "source": "宝玉 (@dotey) (RSS)",
@@ -642,11 +654,11 @@
       "lang": "en"
     },
     {
-      "title": "Using AI to write better code more slowly (259pts)",
+      "title": "Using AI to write better code more slowly (308pts)",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "source": "Hacker News (API)",
       "published": "2026-05-25T23:16:59Z",
-      "summary": "HN热度: 259分",
+      "summary": "HN热度: 308分",
       "board_hints": [
         "大模型",
         "AI Coding",
@@ -668,11 +680,11 @@
       "lang": "en"
     },
     {
-      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing (208pts)",
+      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing (211pts)",
       "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
       "source": "Hacker News (API)",
       "published": "2026-05-25T16:44:49Z",
-      "summary": "HN热度: 208分",
+      "summary": "HN热度: 211分",
       "board_hints": [
         "大模型",
         "AI Coding",
@@ -681,11 +693,11 @@
       "lang": "en"
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks (269pts)",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks (270pts)",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "source": "Hacker News (API)",
       "published": "2026-05-25T13:56:39Z",
-      "summary": "HN热度: 269分",
+      "summary": "HN热度: 270分",
       "board_hints": [
         "大模型",
         "AI Coding",
@@ -694,11 +706,11 @@
       "lang": "en"
     },
     {
-      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few (333pts)",
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few (334pts)",
       "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
       "source": "Hacker News (API)",
       "published": "2026-05-25T13:17:58Z",
-      "summary": "HN热度: 333分",
+      "summary": "HN热度: 334分",
       "board_hints": [
         "大模型",
         "AI Coding",
@@ -707,11 +719,11 @@
       "lang": "en"
     },
     {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training (190pts)",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training (202pts)",
       "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
       "source": "Hacker News (API)",
       "published": "2026-05-25T19:37:57Z",
-      "summary": "HN热度: 190分",
+      "summary": "HN热度: 202分",
       "board_hints": [
         "大模型",
         "AI Coding",
@@ -720,11 +732,11 @@
       "lang": "en"
     },
     {
-      "title": "C extensions, portability, and alternative compilers (144pts)",
+      "title": "C extensions, portability, and alternative compilers (146pts)",
       "url": "https://lemon.rip/w/6-c-extensions-compilers/",
       "source": "Hacker News (API)",
       "published": "2026-05-25T14:15:19Z",
-      "summary": "HN热度: 144分",
+      "summary": "HN热度: 146分",
       "board_hints": [
         "大模型",
         "AI Coding",
@@ -783,167 +795,11 @@
       "lang": "en"
     },
     {
-      "title": "Anthropic 官方发布:《创始人手册:打造 AI 原生初创公司》",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9FQuZZcPiyrU1ujeIzDPG4y9Vu-djN2SV9Y4ErtBByzZbn-2lXBry3K9YPc_Dh4j0QXJ4GCWaVEtjwl5om5VoJD-KZnUTuYdwQaDoTohm6Z7LB5fA4QVEWUe2QY_n05lk2trZ1jDFbJf_MAL4lgp9aRtDcn0zXjC4qzt-ooCjjtjP28temKTOwg..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "小红书公众号PPT自动配图!宝玉老师开源的AI信息图神器,2分钟拿到专业级信息图",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9vhJa8WwndXgEOP8C2NucDAFSna0d-mDINpiM9qAepE2RMH5TU9gvUNvcIB2FEtwNhCbwhIrAJF19b7T1r34QePrNgsmYZZAoRJUI2debSZSKLFVXhzEAB3pw6nCRC8Ij2pxiA_UieobhOfKbEjyoT4krHkVBcyEHoDoUoC7LIhDP28temKTOwg..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "Claude Code auto mode 解析:如何用 AI 分类器替代人工审批",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9FQuZZcPiyrU1ujeIzDPG4y9Vu-djN2SV9Y4ErtBByzZbn-2lXBry3NEzn5ZbyalOwUduK1Wjgs8UiggyTZbzIybbEbEgbrNy5mMYLcLqxtQCJYc7uFAGSWxaGQMUROUE2dn0M0ntSCh9kCtNBqpWhXRXj0YwAzuE61ZL_xXGhJmE8RsmObDbtQ..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "世间神祇 | AI&ldquo;眼中&rdquo;的《朝元图》",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9tsensIpgNAfRKvfVYsPmoeb0GrJc0VJ9nsPgK7OW2PRr6tl6A6RS7LsoGxoNjWnzT1he_sjSAzU8gVLiv1906MwqcErfWE9Y3ceG8N2xX2iO62OYblhfZkru8FuzvI5QlATV1P-wdiW8g9kl0k8IEUJNYRjrai3cUj6LL_ed5u4O8fIRwtipOg..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "AI参考&middot;第1期",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9UEm_2evqSwCz06cCp8w8o8mAZadqqTweWVEiDRe1U_O8-ycpnzCDGNyuTmxbae6hiEdqMm73vi-HEbgKAWcdyNcEd2OmKb0OgIABDXRlphIEw4SW6G9X6f4WgS2tWrsSYLvG76I8UHPvF_fVHEhtISbQSspDB2yaCLXL8CelHJAYJSSFPgfogQ..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "《红楼梦》中的OPC与AI",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9fzboBPDVEEm2SZct8wSIsokNPX3ZZuONSDJATRqvwgmSmXULPEsXFCHuH3I7UguRLBAdQ887LT9TotLRODAch_MCslIlKk2LKr5SSipVdFu4hbwZvz0IFVNFAfI8pGZCe4Og9k9vevgWMTQmq-sd0WhGQ4FVM2iifVxOr8WebcY5eBgmN3LoYQ..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "Skill之外:当 AI 越来越像基建,人类还通过什么留下自己?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd9tuDHA9P0klPWgzUZlWAQIbtLEJ8MBSU2zoKZAPgog8Q_7PbNkq4hOmS3l1SRFKDhvla0h6m3anQ_7WmDiLNbCom4N2NOpkOeeZfWXXSRvqJzfQpPF2PLF84G---_KQLybBs8KJ62W09hqZ4K4JLavB6NvBUB4ECHhfP2mVPLjRI5eBgmN3LoYQ..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "AI圈精选文章!3月27日!Claude Code进阶,9个必装Skill!如何让AI像研究员一样工作?林俊旸离职后对AI方向的深度思考?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd94g2DLqM1yZL0ueUQXAG-FjTeH2fehUHm9WhTHbC7JjtHTQo1Quq2kgDVC4HDjoBw7l042QYk9Y0b8Rlcrb8AdFawy75ulSe8xvKAj1X-PsWQlz11B9gnffXnEXpRHOWV1jY7tK5VoEHSmHy7w9jvRK7Lb8O4kl0IY_AaSpWS8stFkDr8IT4KYw..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "读书笔记 | AI大模型审计应用落地,怎么看、怎么办、怎么干?",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1ia9o4MeQcSj-TiFDSOunxQ1qXa8Fplpd99FvpFh5XvPSykU3MzOhJhuMuBna1rc0ye-KubNieRSeq1HoGQTFHj6zr4Jh014DcB9HcIbu16VARRwKth6aPbVEU8IQjgc5Ygrsaz7zbATb3XECQCS-WDfHKqDSzKSQ6yljEA1Fh1quJRL_qnVc8xKaFbXs_hhDSEQdmMY4RgSI5eBgmN3LoYQ..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=F22404C0C642ADE7C3C29174699795B4C45D852F6A151D09",
-      "source": "宝玉 (微信)",
-      "published": "",
-      "summary": "来源: 宝玉公众号",
-      "board_hints": [
-        "大模型",
-        "AI应用"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "机器之心GMIS 2017寻找VIP&mdash;&mdash;四大专家签名赠书",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DFKSldCN7t2I7N2UwAyW4UqVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7A6LXaGIP41MVFCwzHpO7xPdDN-Rv8jYqDuh6p4TFuaNlUpt8QW_t1OBjaUnaQfDa3gSyacRFT7q521Qimgf_IhUArNyzW_OG2Xzd0o5i_O7OBErQlxPwPz02WirtXyazQJVXnZNIoak-pmDW0NVkU5yJpguuL2dqhec38_j4MiA6q9yj-ShRLJiZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=F2240FF316957A37141541A4B97C1C331445E9DA6A151D0A",
-      "source": "机器之心 (微信)",
-      "published": "",
-      "summary": "来源: 机器之心公众号",
-      "board_hints": [
-        "大模型",
-        "AI行业"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "机器之心年度盘点:2017年人工智能领域度备受关注的科研成果",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1iXKVDiLNsBgqTiFDSOunxQ1qXa8Fplpd9BgGs39X-B0p0JvAkO7XMMZQfrvuBYbwdvDzfIQT6lWewVsWOeVs34TXmFp3oOoFJ9RDQPl9TsI5uF8zYCgJcOOBCWDm7Mc4lIzedc7Z7gijSor2A8QLYOCVEsDnam88aCi0Ad2B3jD9r-bU6waznGAr0Hfz1hftUbLx-ghReVbPYl_Q5RRZQjg..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=F2240FF316957A37141541A4B97C1C331445E9DA6A151D0A",
-      "source": "机器之心 (微信)",
-      "published": "",
-      "summary": "来源: 机器之心公众号",
-      "board_hints": [
-        "大模型",
-        "AI行业"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "机器之心「AI00」颁奖晚宴闭幕,五月最新榜单发布",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1iXKVDiLNsBgqTiFDSOunxQ1qXa8Fplpd9BgGs39X-B0p0JvAkO7XMMZQfrvuBYbwdvDzfIQT6lWewVsWOeVs34fY1kxD7Ok4_zbqwmrcVXHAmvmugkWwRixwJ2MyBN38bwZymfhbSQV7NBhXSmFbQLLGlJ4XUqUXz9cEjz8aFWYRCG2C1prnTJ_CGcUbnsiPW2tP4U73H4jNhlgeRt7bSzA..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=F2240FF316957A37141541A4B97C1C331445E9DA6A151D0A",
-      "source": "机器之心 (微信)",
-      "published": "",
-      "summary": "来源: 机器之心公众号",
-      "board_hints": [
-        "大模型",
-        "AI行业"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "机器之心独家盘点:2016人工智能领域十大焦点回顾",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DFKSldCN7t2I7N2UwAyW4UqVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7A6LXaGIP41MeqDJK0tlT4e92qEJz2INJeSG40ay86oHHPpdTtZYzN8s69bDfs35LYPioOec7jkrFckD7UAMRgLxT0Fug0ZV2cM6ZrCNyLWMbcL6g-_KULSMpddlPqbCYKrPysuoaRf3Xakwh2hu-ZdiUpBhhATzjJCCav-Zk7uv8rkd9qMtZFhiZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=F2240FF316957A37141541A4B97C1C331445E9DA6A151D0A",
-      "source": "机器之心 (微信)",
-      "published": "",
-      "summary": "来源: 机器之心公众号",
-      "board_hints": [
-        "大模型",
-        "AI行业"
-      ],
-      "lang": "zh"
-    },
-    {
-      "title": "机器之心走进卡耐基梅隆,专访 CMU Summit 团队",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DFKSldCN7t2I7N2UwAyW4UqVgrFeYQugDuZARsm5j9HZOu0ZuxpyPHQjl3PoGn_TpTHapSxnI7HjzYi9NmG9T7A6LXaGIP41MfVzTRc4VhRxpFgNY10K-tFTEzB2cjVqJKi28ZBeNMD8gIHFYO0TRAG8GT_ReTdCBQOQqLemFlMJujH5gmFLwfOkiift2LbReM6nO84zxQWYZjX5q38f9XCZ4UCDTPALHt0pF7xczEhw17iU8p0VjKZHqzvzP-DyllvUbPnVWilRiZqwg0yoRFw.&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=F2240FF316957A37141541A4B97C1C331445E9DA6A151D0A",
-      "source": "机器之心 (微信)",
-      "published": "",
-      "summary": "来源: 机器之心公众号",
+      "title": "新智元ALL in ASI英雄帖",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7801PrF8t1iHuzRz1RnBb2TiFDSOunxQ1qXa8Fplpd9BUdyVx5Ufe0vnpNePW-ChZ1YevKysEHen_EygFu3Li5HxvsVkSodscCKkwlbKlX20G_Uy7QCH3OPRzUD0flfEEsl5Lww1vT7Q7h68yZ33KSzU-rC6f62Gh7bQdA0vgt8-kwMpkEFRZuZW45AeVsL0YJYwVSjHm35p7apGZUa9kvS-e4Yz84xMA..&amp;type=2&amp;query=%E6%96%B0%E6%99%BA%E5%85%83&amp;token=F25590D3D454BBF2D5D08767F5044E25D6CE952D6A1524FF",
+      "source": "新智元 (微信)",
+      "published": "2026-05-25T04:48:09+00:00",
+      "summary": "来源: 新智元公众号",
       "board_hints": [
         "大模型",
         "AI行业"
