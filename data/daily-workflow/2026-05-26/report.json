@@ -1,0 +1,155 @@
+{
+  "title": "教皇首颁AI通谕警示权力集中，SaaS-Bench揭示Agent落地困局",
+  "date": "2026-05-26",
+  "summary": "教皇良十四世发布首份AI主题通谕，警告技术权力集中风险；UniPat AI发布SaaS-Bench评测显示Claude等模型真实办公通过率不足4%，揭示Agent落地严峻差距；同时ClickUp大规模裁员以AI Agent替代员工，反映AI正深刻重构企业劳动力结构。技术社区亦热议geohot对AI低质内容泛滥的批评。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "Agent",
+    "评测",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+    "body": "教皇良十四世在首份通谕中警告AI权力集中风险，将AI伦理议题提升至全球宗教与政治层面，引发科技界对技术人文方向的广泛讨论与反思。",
+    "source_url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "SaaS-Bench评测：Claude真实办公通过率不到4%，全自动办公幻想破碎",
+          "body": "UniPat AI发布SaaS-Bench评测显示，Claude等主流大模型在真实SaaS办公任务中完全通过率最高仅3.8%，揭示当前Computer-Use能力远未达到全自动办公水平，Agent大规模落地仍面临严峻现实挑战。",
+          "source_url": "https://www.qbitai.com/2026/05/424277.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "Claude",
+            "UniPat AI",
+            "SaaS-Bench"
+          ]
+        },
+        {
+          "headline": "OpenAI与巴西媒体巨头合作，将新闻内容引入ChatGPT",
+          "body": "OpenAI与巴西Grupo Folha及Grupo UOL达成战略合作，将权威新闻内容引入ChatGPT，用户可通过对话获取带归因的巴西新闻，标志OpenAI持续扩张全球本地内容生态布局。",
+          "source_url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Grupo Folha",
+            "Grupo UOL",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "用AI写更好但更慢的代码，开发者重新审视效率定义",
+          "body": "Nolan Lawson发文探讨使用AI编写更优质代码却更慢的现象，反思开发者应在速度与质量间重新取舍，指出AI辅助编程并非简单加速，而是需配合深思熟虑的代码审查流程。",
+          "source_url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+          "source_name": "Nolan Lawson Blog",
+          "importance": "high",
+          "related_entities": [
+            "Nolan Lawson"
+          ]
+        },
+        {
+          "headline": "Hugging Face厘清AI Agent关键术语，推动工程话语统一",
+          "body": "Hugging Face发布博客厘清Harness、Scaffold等AI Agent关键术语定义，为开发者社区建立统一话语体系，减少概念混淆，推动Agent工程实践标准化与沟通效率提升。",
+          "source_url": "https://huggingface.co/blog/agent-glossary",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Hugging Face",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "ClickUp大规模裁员，以数千AI Agent取代数百员工",
+          "body": "ClickUp进行大规模裁员，计划以数千个AI Agent替代数百名员工，成为AI替代企业岗位的最新案例，引发对生产力工具公司自身劳动力结构转型的广泛讨论与争议。",
+          "source_url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "ClickUp",
+            "AI Agent"
+          ]
+        },
+        {
+          "headline": "京东JoyInside：AI终极形态是融入每件物品，而非聊天",
+          "body": "京东JoyInside负责人戴文军表示AI终极形态并非聊天界面，而是融入家庭每件物品，强调硬件应主动适应人，预示智能家居与端侧AI的深度融合方向。",
+          "source_url": "https://www.qbitai.com/2026/05/424794.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "京东",
+            "JoyInside",
+            "戴文军"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "教皇良十四世发布首份通谕，警告无约束AI技术权力风险",
+          "body": "教皇良十四世发布首份通谕《Magnifica Humanitas》，警告无约束的AI技术权力风险，呼吁在技术时代保护人类主体性，将AI伦理议题上升至全球宗教与政治议程。",
+          "source_url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+          "source_name": "Religion News Service",
+          "importance": "high",
+          "related_entities": [
+            "Pope Leo XIV",
+            "梵蒂冈",
+            "Magnifica Humanitas"
+          ]
+        },
+        {
+          "headline": "geohot发文抨击AI低质内容泛滥，引发技术社区热议",
+          "body": "geohot发表博文《The Eternal Sloptember》，抨击AI生成低质内容（slop）的持续泛滥，引发技术社区对生成式AI长期内容生态质量的深刻反思与热议。",
+          "source_url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+          "source_name": "geohot blog",
+          "importance": "high",
+          "related_entities": [
+            "geohot",
+            "George Hotz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "国家级产业基金投资桥田智能亿元A+轮融资",
+          "body": "桥田智能完成A+轮亿元融资，由国家工业母机产业投资基金投资，专注汽车主机厂机器人末端设备，资金用于高端产能扩建与全球化布局，体现工业机器人赛道持续获国家级资本支持。",
+          "source_url": "https://36kr.com/p/3825527430025856?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "桥田智能",
+            "国家工业母机产业投资基金"
+          ]
+        }
+      ]
+    }
+  ]
+}
