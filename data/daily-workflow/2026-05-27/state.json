@@ -6,11 +6,12 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "started_at": "2026-05-27T10:45:05.435913",
-  "finished_at": "2026-05-27T10:50:27.348558",
-  "status": "failed",
+  "finished_at": "2026-05-27T03:04:22.177289",
+  "status": "completed",
   "errors": [
     "Step 5: exit code 127",
     "Step 5: exit code 127",
