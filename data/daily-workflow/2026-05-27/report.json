@@ -1,0 +1,141 @@
+{
+  "title": "千问3.7编程榜全球第二，Stack Overflow论坛萎缩但收入翻倍",
+  "date": "2026-05-27",
+  "summary": "阿里通义千问3.7在权威编程评测中位列全球第二，仅次于Claude，标志国产编程模型进入第一梯队。Stack Overflow受AI编程助手冲击，月新提问量跌至6866个与2008年持平，但公司通过数据授权和企业知识库实现年收入翻倍至1.15亿美元。Meta内部“Token军备竞赛”与微软Copilot企业数据泄露事件，则分别折射大厂AI转型焦虑与Agent安全瓶颈。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI行业",
+    "企业AI转型",
+    "评测",
+    "安全",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Stack Overflow 因为大家都用 AI 导致发帖量断崖式下跌，但它反而收入更高了",
+    "body": "Stack Overflow上月仅收到6866个新提问，回到2008年水平，被ChatGPT、Cursor、Claude等AI编程助手严重挤压。但公司通过Stack Internal企业知识库和数据授权，年收入翻倍至1.15亿美元，亏损大幅收窄，揭示了AI时代内容平台向数据资产运营转型的典型路径。",
+    "source_url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "编程权威榜单：阿里千问3.7仅次于Claude，位列全球第二",
+          "body": "阿里通义千问3.7在权威编程评测中位列全球第二，仅次于Claude。这标志着国产大模型在代码生成领域已跻身第一梯队，将加剧AI编程工具市场的竞争，并对Cursor、GitHub Copilot等现有格局形成挑战。",
+          "source_url": "https://www.qbitai.com/2026/05/425150.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "阿里云",
+            "通义千问",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "研究者提出LLM的类睡眠记忆巩固机制",
+          "body": "最新arXiv论文提出模拟生物睡眠的记忆巩固机制，用于解决大语言模型持续学习中的灾难性遗忘问题。该方法借鉴神经科学原理，有望为LLM增量学习和知识更新提供新的架构方向，提升模型长期记忆能力。",
+          "source_url": "https://arxiv.org/abs/2605.26099",
+          "source_name": "arXiv",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Stack Overflow月发帖量跌至2008年水平，年收入却翻倍至1.15亿美元",
+          "body": "Stack Overflow上月新提问仅6866个，跌至2008年水平，受ChatGPT、Cursor等AI编程助手严重挤压。但公司通过Stack Internal企业知识库和向AI公司授权数据，年收入翻倍至1.15亿美元，亏损大幅收窄，成功实现数据资产化转型。",
+          "source_url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+          "source_name": "Sherwood News",
+          "importance": "high",
+          "related_entities": [
+            "Stack Overflow",
+            "ChatGPT",
+            "Cursor",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "curl团队面临AI辅助安全漏洞报告的史无前例压力",
+          "body": "curl维护者Daniel Stenberg表示，团队正面临AI辅助生成的安全漏洞报告带来的空前压力。大量看似可信的报告严重消耗开源维护者精力，揭示了AI Coding普及后，关键开源基础设施在安全审计和可持续性方面遭遇的新挑战。",
+          "source_url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+          "source_name": "Simon Willison (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Daniel Stenberg",
+            "curl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": false,
+      "items": []
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "我国人形机器人全球市场占比超八成，字节Seed向员工开放豆包股认购权",
+          "body": "我国人形机器人全球市场份额已超八成。同时，字节跳动首次向Seed部门员工发放与豆包业务挂钩的低价股票期权，三星电子下月起允许员工使用外部AI模型。这些动态显示AI人才争夺与地缘产业布局正在同步加剧。",
+          "source_url": "https://36kr.com/p/3825928694846085?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "字节跳动",
+            "豆包",
+            "三星电子",
+            "人形机器人"
+          ]
+        },
+        {
+          "headline": "华为发布AI DC数据基础设施全栈方案",
+          "body": "华为发布面向AI数据中心的数据基础设施全栈方案，覆盖AI训练与推理所需的存储、计算和网络调度。这反映了中国科技巨头在AI算力基础设施的系统化布局，对国产AI生态建设和行业智能化跃升具有基础设施级战略意义。",
+          "source_url": "https://www.qbitai.com/2026/05/425296.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "华为",
+            "AI数据中心"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "硅谷Token军备竞赛观察：Meta曾推内部Claude消耗排名",
+          "body": "据硅谷一线观察，Meta曾内部上线“Claudeonomics”榜单，按员工消耗Claude Token数量排名并与裁员风险挂钩，以此推动“AI-Native”转型。该榜单虽已暂停，但折射出大厂在AI转型中的深层焦虑与对生产力回报的困惑。",
+          "source_url": "https://36kr.com/p/3826390617870984?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Meta",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "Microsoft Copilot被曝存在企业文件泄露风险",
+          "body": "安全研究机构披露Microsoft Copilot的Cowork功能存在文件泄露漏洞，攻击者可能利用Agentic系统实现数据外泄。这再次凸显企业级AI部署的核心安全瓶颈：当AI Agent被授予企业数据访问权限时，如何防止越权访问与提示注入攻击。",
+          "source_url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+          "source_name": "Simon Willison (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Microsoft",
+            "Copilot",
+            "PromptArmor"
+          ]
+        }
+      ]
+    }
+  ]
+}
