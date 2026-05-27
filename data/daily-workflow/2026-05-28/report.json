@@ -1,0 +1,79 @@
+{
+  "title": "小米MiMo-v2.5降价99%引爆AI定价战，OpenAI Codex紧急修复OAuth规范",
+  "date": "2026-05-28",
+  "summary": "今日，小米MiMo-v2.5宣布API价格大幅下调99%，引发市场对AI定价战的高度关注，可能重塑大模型市场的竞争格局与盈利预期。同时，OpenAI Codex的OAuth认证故障经历后台修复与规范变更，开发者需通过`hermes update`更新以恢复使用。此外，Hacker News热帖强调AI工具的价值本质上取决于人类判断力，提醒企业在AI部署中不可忽视人的决策因素。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI行业",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+    "body": "小米MiMo-v2.5宣布API价格下调99%，直接引爆AI基础模型定价战。这一极端降价策略将显著压缩竞品利润空间，迫使行业重新评估token经济学，并可能加速下游AI应用的普及与商业模式重构。",
+    "source_url": "https://platform.xiaomimimo.com/docs/en-US/welcome"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "小米MiMo-v2.5降价99%，点燃AI定价战",
+          "body": "小米MiMo-v2.5宣布API价格下调99%，引发业界对AI定价战的高度关注。此举大幅降低了基础模型使用门槛，可能迫使国内外大模型厂商重新调整定价策略与利润预期，加剧底层模型市场竞争。",
+          "source_url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+          "source_name": "Hacker News",
+          "importance": "high",
+          "related_entities": [
+            "小米",
+            "MiMo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI Codex修复OAuth故障并变更接口规范",
+          "body": "OpenAI Codex的OAuth认证故障已被修复，OpenAI在后台调整后又于近日变更了完整接口规范。开发者需执行`hermes update`命令以同步最新配置，恢复Codex CLI及相关Agent工具的正常使用。",
+          "source_url": "https://nitter.net/Teknium/status/2059467329138999709#m",
+          "source_name": "NousResearch",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Hermes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": false,
+      "items": []
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "业界反思：AI工具效力取决于人类判断力",
+          "body": "一篇登上Hacker News热榜的文章指出，AI工具的实际价值最终受限于使用者的判断力与决策质量。文章强调，生成式AI并非替代人类思考的捷径，而是放大专业认知差异的杠杆，提示企业在部署AI时需配套提升员工AI素养。",
+          "source_url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+          "source_name": "Hacker News",
+          "importance": "medium",
+          "related_entities": [
+            "Hacker News"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}

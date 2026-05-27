@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-28",
+  "collected_at": "2026-05-27T03:14:12.746770+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "RT by @NousResearch: If you have been experiencing issues with OpenAI Codex oAuth, it is now fixed. \n\nOpenAI has been fixing it in the background and then seemed to change their whole spec today to solve it, you must `hermes update` to fix.\n\nEnjoy",
+      "url": "https://nitter.net/Teknium/status/2059467329138999709#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 27 May 2026 02:50:48 GMT",
+      "summary": "<p>If you have been experiencing issues with OpenAI Codex oAuth, it is now fixed. <br>\n<br>\nOpenAI has been fixing it in the background and then seemed to change their whole spec today to solve it, you must `hermes update` to fix.<br>\n<br>\nEnjoy</p>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI tools are only as good as your judgment (55pts)",
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "source": "Hacker News (API)",
+      "published": "2026-05-27T00:00:35Z",
+      "summary": "HN热度: 55分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war (62pts)",
+      "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+      "source": "Hacker News (API)",
+      "published": "2026-05-26T23:02:59Z",
+      "summary": "HN热度: 62分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
