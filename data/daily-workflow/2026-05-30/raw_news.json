@@ -1,0 +1,946 @@
+{
+  "date": "2026-05-30",
+  "collected_at": "2026-05-29T23:45:38.302783+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 29 May 2026 03:00:00 GMT",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Fri, 29 May 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\">We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Fri, 29 May 2026 17:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\">Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Fri, 29 May 2026 12:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\">University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "datasette 1.0a31",
+      "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-29T03:32:02+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a31\">datasette 1.0a31</a></p>\n        <p>Another significant alpha release, with two new headline features.</p>\n<blockquote>\n<p>Datasette now offers users with the necessary permissions the ability to both <str",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic's run-rate revenue hits $47 billion",
+      "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-29T01:23:08+00:00",
+      "summary": "<p>The most interesting thing about <a href=\"https://www.anthropic.com/news/series-h\">Anthropic's $65B Series H announcement</a> is this line (emphasis mine):</p>\n<blockquote>\n<p>Since our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate reven",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+      "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-28T23:59:50+00:00",
+      "summary": "<p>Anthropic shipped <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> today. My favourite thing about it is this note in the release announcement:</p>\n<blockquote>\n<p>Users will find Opus 4.8 to be a modest but tangible improvement on its predecessor. There’s still more t",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm-anthropic 0.25.1",
+      "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-05-28T23:54:56+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.25.1\">llm-anthropic 0.25.1</a></p>\n        <blockquote>\n<ul>\n<li>New model: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> (<code>claude-opus-4.8</code>).</li>\n<li>New <code>-o ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 22:14:22 +0000",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 18:49:19 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 17:57:05 +0000",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 17:27:13 +0000",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 16:13:47 +0000",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 14:15:00 +0000",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 14:00:00 +0000",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 14:00:00 +0000",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 13:00:00 +0000",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 29 May 2026 12:00:00 +0000",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tech companies desperately want to film you doing chores",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-05-29T13:37:43-04:00",
+      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants foo",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Jony Ive’s funky Ferrari",
+      "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-05-29T08:25:12-04:00",
+      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This AI startup will clean your home for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-05-29T07:58:40-04:00",
+      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social med",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-05-29T06:00:00-04:00",
+      "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Together AI built the world’s fastest speech-to-text stack",
+      "url": "https://www.together.ai/blog/how-together-ai-built-the-worlds-fastest-speech-to-text-stack",
+      "source": "Together AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "summary": "Together AI built the fastest speech-to-text stack on Artificial Analysis by treating ASR as a full-path systems problem, not just a GPU inference problem.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Function invocations now billed per unit",
+      "url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T10:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Protecting against inference theft",
+      "url": "https://vercel.com/blog/protecting-against-inference-theft",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Run Docker containers inside Vercel Sandbox",
+      "url": "https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T00:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Port 8080 is now available in Vercel Sandboxes",
+      "url": "https://vercel.com/changelog/port-8080-is-now-available-in-vercel-sandboxes",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T00:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Building a real-time power outage map with Next.js on Vercel",
+      "url": "https://vercel.com/blog/building-a-real-time-power-outage-map-with-next-js-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-28T14:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Team-wide provider allowlist on AI Gateway",
+      "url": "https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-28T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox",
+      "url": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-27T14:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 29 May 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 29 May 2026 11:19:52 +0000",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo viru",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 29 May 2026 10:00:00 +0000",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.22: Luceing Their Mind",
+      "url": "https://stratechery.com/2026/luceing-their-mind/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 29 May 2026 17:00:00 +0000",
+      "summary": "The best Stratechery content from the week of May 25, 2026, including why everyone hates Luce, how to monetize AI answers, and social mobility in China.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "url": "https://www.qbitai.com/2026/05/426557.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 14:30:20 +0000",
+      "summary": "智驾出事，比亚迪兜底",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+      "url": "https://www.qbitai.com/2026/05/426552.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 11:27:07 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+      "url": "https://www.qbitai.com/2026/05/426548.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 11:24:57 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "url": "https://www.qbitai.com/2026/05/426542.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 09:13:24 +0000",
+      "summary": "端侧 AI 是一个系统性工程",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+      "url": "https://www.qbitai.com/2026/05/426479.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 09:05:30 +0000",
+      "summary": "这是这个时代的印刷机",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+      "url": "https://www.qbitai.com/2026/05/426447.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 08:50:10 +0000",
+      "summary": "下一波AI创作浪潮正在游戏领域发生",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+      "url": "https://www.qbitai.com/2026/05/426400.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 08:32:52 +0000",
+      "summary": "一个人拥有整个创意工作室",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+      "url": "https://www.qbitai.com/2026/05/426366.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 07:02:05 +0000",
+      "summary": "从按帧学动作，到按「事件」理解世界",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "清华系团队给大模型织了一张“智能算力电网”",
+      "url": "https://www.qbitai.com/2026/05/426353.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 29 May 2026 02:47:09 +0000",
+      "summary": "单位Token成本降低40%",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "url": "https://www.qbitai.com/2026/05/426314.html",
+      "source": "量子位 (RSS)",
+      "published": "Thu, 28 May 2026 23:57:47 +0000",
+      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "url": "https://36kr.com/p/3830580716365449?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-30 00:28:31  +0800",
+      "summary": "<p>为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。</p>\n  <p>36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。</p>\n  <p>有接近吉利的知情人士告诉36氪：“这轮整合后，吉利研究院辅助驾驶团队，被平移至千里智驾与极氪的合资公司千里浩瀚，千里浩瀚今后主要服务吉利这个核心客户。千里智驾可以将更多精力转移至其他主机厂客户。吉利暂定了这样一个整合方案。”针对以上信息，36氪向吉利求证，截止发稿，没有回应。</p>\n  <p>据公开信息显示，千里智驾是千里科技负责辅助驾",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线",
+      "url": "https://36kr.com/p/3830545234552452?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-30 00:02:16  +0800",
+      "summary": "<p>在中国美妆行业增长放缓、价格竞争加剧的背景下，越来越多品牌开始重新审视“可持续发展”这件事的商业意义。</p>\n  <p>5月26日，自然堂集团发布《2025年度可持续发展报告》，这是其连续第15年披露ESG相关内容。相比早期以公益、环保为主的企业社会责任叙事，今年的报告更强调“可量化”与“产业化”：包括首次按照科学碳目标倡议（SBTi）标准制定减碳路径、扩大范围三碳排放披露边界，以及将生物多样性、绿色原料、智能制造与供应链效率直接绑定。</p>\n  <p>对于当前的中国美妆行业而言，这种变化并不只是“做ESG”，更像是在寻找下一阶段竞争力。</p>\n  <p>过去几年，ESG更多是国际",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
+      "url": "https://36kr.com/p/3830254963517318?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 19:00:15  +0800",
+      "summary": "<p>36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。</p>\n  <p>公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业载人航天在科技、人文、消费与场景协同上的多重需求。这不仅有助于完善产业生态，也将推动太空旅游从“少数人的高端体验”逐步走向“大众化、普惠化”的新阶段。</p>\n  <p>「穿越者」是36",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+      "url": "https://36kr.com/p/3830194503526277?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 17:57:52  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付</strong></p>\n  <p>36氪获悉，5月28日，上汽集团迎来全球第一亿辆整车交付，成为我国首家累计产销量突破一亿辆的汽车集团。其中，上汽通用五菱累计贡献超3200万辆。当日，上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付。</p>\n  <p><strong>特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台</strong></p>\n  <p>据报道，特斯拉位于得克萨斯州的超级工厂内，专属Optimus人形机器人工厂正式动工建设，规划年产能最",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
+      "url": "https://36kr.com/p/3830038913558147?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 15:17:14  +0800",
+      "summary": "<p>2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实况影像创新、AI 智慧体验、跨设备生态协同为核心，实现手机、平板、耳机无缝联动；同时推出学生专属购机补贴，为学生群体打造一站式入学数码解决方案，重新定义年轻人的潮流移动智能生态。</p>\n  <p c",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "铃木敏文去世，他与711的三个反常识故事",
+      "url": "https://36kr.com/p/3829890126046851?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 13:40:55  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"800,533\" src=\"https://img.36krcdn.com/hsossms/20260529/v2_c0f38fc2bb664ae08b008bf5c5a104b0@5971123_oswg235262oswg800oswg533_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">铃木敏文</p>\n  <p><strong>作者&nbsp;|&nb",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "谁是世界上第二爱泡泡玛特的人？",
+      "url": "https://36kr.com/p/3829746420835715?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 10:40:19  +0800",
+      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑 | </strong>张帆&nbsp;</p>\n  <p>一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。</p>\n  <p>5月27日晚间，段永平与其全资控股的H&amp;H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。</p>\n  <p>知名投资人的每一次站台，总是能或多或少地提升市场信心。</p>\n  <p>截至发稿前，泡泡玛特收盘价161.5港元，涨幅4.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "再花22亿乘胜追击，北京城建“龍樾”要抢跑了",
+      "url": "https://36kr.com/p/3829749268981123?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 10:26:05  +0800",
+      "summary": "<p>5月28日，北京石景山区黄庄村43号棚户区改造项目SS00-1622-002、SS00-2501-002地块进入现场竞拍，最终该地块由北京城建兴通置业有限公司以底价22亿元摘得，成交楼面价约3.31万元/㎡。</p>\n  <p>北京城建兴通置业有限公司是北京城建的全资子公司。<strong>这是去年第四季度以来，北京城建第三次独立拿地补仓。</strong></p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1080,972\" src=\"https://img.36krcdn.com/hsossms/20260529/v2_5e",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹",
+      "url": "https://36kr.com/p/3829705374098823?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 09:39:23  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，星空原野（重庆）科技有限公司（以下简称“星空原野”）近日完成新一轮融资，由线性资本独家投资数百万美金，安可资本担任公司独家财务顾问。此前公司曾获明月湖国际智能产业科创基地（XbotPark 重庆）孵化基金，及重庆市种子投资基金投资。</p>\n  <p>星空原野成立于2024年，是一家聚焦星空摄影设备和智能影像解决方案的创新型科技企业。公司以星野摄影为切入点，正在探索新一代星野 Robot Camera：通过软硬件一体化，把过去依赖专业设备、复杂参数和电脑后期的星空创作",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "「卡玺CardChic」  获天使轮融资，以中国文化IP＋精品化打造收藏卡品牌 | 36氪首发",
+      "url": "https://36kr.com/p/3829202710045827?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-05-29 09:01:06  +0800",
+      "summary": "<p>文 | 小葵</p>\n  <p>编辑 | 刘士武</p>\n  <p>36氪获悉，<strong>专注于中国文化IP的精品卡牌发行品牌「卡玺CardChic」近日已完成近千万级人民币天使轮融资。本轮资金将用于重磅IP的签约储备、产品工艺升级以及新一代TCG对战卡牌的研发与推广。&nbsp;</strong></p>\n  <p>卡玺CardChic创办于2025年，总部位于杭州。核心团队中，创始人李昌林毕业于新加坡南洋理工大学，高中起连续创业，研究生期间创办广告公司并实现年营收近千万元，成功退出后曾加入腾讯；供应链合伙人拥有20年印刷行业经验；运营合伙人在国内卡牌圈深耕四年，个人收藏卡价值达",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+      "url": "https://arxiv.org/abs/2605.28849",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28849v1 Announce Type: new \nAbstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD method",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+      "url": "https://arxiv.org/abs/2605.28855",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28855v1 Announce Type: new \nAbstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+      "url": "https://arxiv.org/abs/2605.28864",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28864v1 Announce Type: new \nAbstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a mat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
+      "url": "https://arxiv.org/abs/2605.28883",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28883v1 Announce Type: new \nAbstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+      "url": "https://arxiv.org/abs/2605.28897",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28897v1 Announce Type: new \nAbstract: LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assistance, but also that authors use LLMs to revise thei",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Orthogonal Concept Erasure for Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.28902",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28902v1 Announce Type: new \nAbstract: Concept erasure has emerged as a promising approach to mitigate undesired or unsafe content in diffusion models, yet existing methods still face significant limitations. While training-based methods are effective, their high computational cost limits ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
+      "url": "https://arxiv.org/abs/2605.28965",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28965v1 Announce Type: new \nAbstract: Linking free-text phenotype descriptions to ontology terms, typically referred to as phenotype annotation, is essential for the cross-study integration of comparative morphological data. This labor intensive process has heavily relied on highly traine",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
+      "url": "https://arxiv.org/abs/2605.28978",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28978v1 Announce Type: new \nAbstract: Finite Element Analysis (FEA) serves as the cornerstone of modern engineering design. However, its workflow is inherently complex and relies heavily on domain expertise. Although recent efforts have integrated Large Language Models (LLMs) into FEA, ex",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
+      "url": "https://arxiv.org/abs/2605.28994",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.28994v1 Announce Type: new \nAbstract: AI tools to support real world decision making must be able to build simulation models that inform their recommendations and render them interpretable. Tools that can automate aspects of modeling practice must complement human expertise, not replace i",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
+      "url": "https://arxiv.org/abs/2605.29018",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 29 May 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.29018v1 Announce Type: new \nAbstract: Although a growing body of research has begun to describe user--LLM interactions, the picture it paints is largely static; little is known about how individual users change their behavior over time. To address this gap, we analyze the conversational t",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "有时候反过来也成立的，复杂任务让它们一起做是最优的解法\n赛博赛马法",
+      "url": "https://nitter.net/dotey/status/2060452705311523147#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 20:06:20 GMT",
+      "summary": "<p>有时候反过来也成立的，复杂任务让它们一起做是最优的解法<br>\n赛博赛马法</p>\n<hr/>\n<blockquote>\n<b>akazwz (@akazwz_)</b>\n<p>\n<p>codex 牛逼，我用新的 claude 4.8 找 bug，开了最高的 think， 找了半天搞出来一些不痛不痒的问题。还是 gpt 5.5 比较厉害，真让他找到了。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/akazwz_/status/2060266751036944763#m\">https://nitter.net/akazwz_",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我就不理解为什么 Codex 在普通模式下一直不支持 ask__user_question tool，有时候回复 Agent 的问题要手动去写就很烦！",
+      "url": "https://nitter.net/dotey/status/2060443252285734916#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 19:28:47 GMT",
+      "summary": "<p>我就不理解为什么 Codex 在普通模式下一直不支持 ask__user_question tool，有时候回复 Agent 的问题要手动去写就很烦！</p>\n<hr/>\n<blockquote>\n<b>jason (@jxnlco)</b>\n<p>\n<p>did you wish codex ask__user_question tool was available outside of plan mode</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/jxnlco/status/2060231660738887815#m",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OpenAI 今天宣布，Codex 的 Computer Use 功能正式登陆 Windows。\n\n这个功能让 AI 能像人一样操作桌面应用，看屏幕、点鼠标、打字，4 月中旬上线时只支持 macOS。\n\n同时更新的还有手机远程控制。5 月中旬 OpenAI 把 Codex 接入了 ChatGPT 手机 App，可以在手机上启动、监控和审批电脑上跑着的 Codex 任务，但当时只能连 Mac 主机。现在 Windows 也能当主机了，出门在外用手机盯着家里的 Windows 电脑干活，流程算是跑通了。",
+      "url": "https://nitter.net/dotey/status/2060436685037682896#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 19:02:41 GMT",
+      "summary": "<p>OpenAI 今天宣布，Codex 的 Computer Use 功能正式登陆 Windows。<br>\n<br>\n这个功能让 AI 能像人一样操作桌面应用，看屏幕、点鼠标、打字，4 月中旬上线时只支持 macOS。<br>\n<br>\n同时更新的还有手机远程控制。5 月中旬 OpenAI 把 Codex 接入了 ChatGPT 手机 App，可以在手机上启动、监控和审批电脑上跑着的 Codex 任务，但当时只能连 Mac 主机。现在 Windows 也能当主机了，出门在外用手机盯着家里的 Windows 电脑干活，流程算是跑通了。</p>\n<hr/>\n<blockquote>\n<b>Op",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对于 Claude Design 和实际代码的版本同步问题，我目前是这么处理的：\n\n首先要有一个唯一源，就是把 Claude Design 的结果当做设计唯一的源，以它为准\n\n然后在更新design的时候会让它写一个changelog，让 Claude Code 去根据Changelog 同步\n\n尽可能先改 Claude Design 的设计再改代码。有时候临时在代码中修改了，时候去 Claude Design 那边同步一下。\n\n如果有更好的办法也欢迎分享",
+      "url": "https://nitter.net/dotey/status/2060433841135772012#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 18:51:23 GMT",
+      "summary": "<p>对于 Claude Design 和实际代码的版本同步问题，我目前是这么处理的：<br>\n<br>\n首先要有一个唯一源，就是把 Claude Design 的结果当做设计唯一的源，以它为准<br>\n<br>\n然后在更新design的时候会让它写一个changelog，让 Claude Code 去根据Changelog 同步<br>\n<br>\n尽可能先改 Claude Design 的设计再改代码。有时候临时在代码中修改了，时候去 Claude Design 那边同步一下。<br>\n<br>\n如果有更好的办法也欢迎分享</p>\n<img src=\"https://nitter.net/p",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "> 5、在工程组织上，他把 Notion 重构成一个杠铃结构。  一端是非常 junior 的工程师，刚毕业或者职业早期；另一端是少数非常 senior 的架构师和技术带头人。  中间那类常规中高级工程师反而被刻意压缩，整个分布像一根两头重、中间瘦的杠铃。\n\n他这个观点是有问题的：\n\n1. 少了中层衔接\n初级工程师做出来的东西不靠谱，然后高级的工程的就要花大量时间经历去引导和验证，还得照顾新人的情绪，比自己做还累。\n\n2. 初级会成长为中层\n就算说这个杠铃结构是好的，那么经过1-3年，杠铃一头会变成中间那部分，杠铃变三角锥了，难不成隔一段就开除掉中间那一段重新招新人？\n\n这理论用在 AI 上还靠谱一点，一个人指挥几个 AI 比指挥junior工程师省心多了\n\nNotion 创始人给我感觉就是每次写文章都很厉害，写出来的东西都能传播一波，但 Notion 在 AI 时代有啥惊艳的产品吗？",
+      "url": "https://nitter.net/dotey/status/2060421928267952385#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 18:04:03 GMT",
+      "summary": "<p>&gt; 5、在工程组织上，他把 Notion 重构成一个杠铃结构。  一端是非常 junior 的工程师，刚毕业或者职业早期；另一端是少数非常 senior 的架构师和技术带头人。  中间那类常规中高级工程师反而被刻意压缩，整个分布像一根两头重、中间瘦的杠铃。<br>\n<br>\n他这个观点是有问题的：<br>\n<br>\n1. 少了中层衔接<br>\n初级工程师做出来的东西不靠谱，然后高级的工程的就要花大量时间经历去引导和验证，还得照顾新人的情绪，比自己做还累。<br>\n<br>\n2. 初级会成长为中层<br>\n就算说这个杠铃结构是好的，那么经过1-3年，杠铃一头会变成中间那部分，杠铃变三",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我的原则：\n✅ Reasoning Max \n❌Speed Fast\n\n慢就是快，多花点时间推理，你就少花一点时间去验证\n\n快就是贵，Fast 不是不好，主要是性价比不高，不差钱当然无所谓",
+      "url": "https://nitter.net/dotey/status/2060417073847709710#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 17:44:45 GMT",
+      "summary": "<p>我的原则：<br>\n✅ Reasoning Max <br>\n❌Speed Fast<br>\n<br>\n慢就是快，多花点时间推理，你就少花一点时间去验证<br>\n<br>\n快就是贵，Fast 不是不好，主要是性价比不高，不差钱当然无所谓</p>\n<hr/>\n<blockquote>\n<b>Rainman (@0xdeusyu)</b>\n<p>\n<p>选择Max<br>\n<br>\n挽弓当挽强、用人当用长，你的时间比什么都宝贵</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/0xdeusyu/status/206035428539",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "借助 AI 去写 Mac App 完全没问题的。几点经验分享：\n\n1. 尽可能选 AppKit 而不是 SwiftUI，SwiftUI 不如 AppKit 强大，做出来的界面也不好看。SwiftUI 相比 AppKit 的优势是开发简单，但这条已经被 AI 弥补了\n\n2. 先用 Claude Design 去打磨 UI 设计和 UX 交互再去写代码可以事半功倍\n\n3. Opus 比 GPT-5.5 做出来的 UI 要好看\n\n4. Codex 有个官方 Plugin 叫 “Build macOS Apps”，可以用",
+      "url": "https://nitter.net/dotey/status/2060411347930661235#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 17:22:00 GMT",
+      "summary": "<p>借助 AI 去写 Mac App 完全没问题的。几点经验分享：<br>\n<br>\n1. 尽可能选 AppKit 而不是 SwiftUI，SwiftUI 不如 AppKit 强大，做出来的界面也不好看。SwiftUI 相比 AppKit 的优势是开发简单，但这条已经被 AI 弥补了<br>\n<br>\n2. 先用 Claude Design 去打磨 UI 设计和 UX 交互再去写代码可以事半功倍<br>\n<br>\n3. Opus 比 GPT-5.5 做出来的 UI 要好看<br>\n<br>\n4. Codex 有个官方 Plugin 叫 “Build macOS Apps”，可以用</p>\n<",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 这其实让我想起 OpenAI API 的消息类型，一直是可以随意组合和传入 role 为 system 的消息的。\n\n主要差别在于 OpenAI 对于 role 为 system 的消息权重不算很高，而 Claude 对于 role 为 system 的消息权重很高。\n\n另一个实现层面的差异：OpenAI 的缓存是全自动的，不需要开发者做任何事；Anthropic 的缓存需要开发者手动设置 cache_control 断点来标记哪些内容应该缓存（虽然现在也有了自动缓存选项）。",
+      "url": "https://nitter.net/dotey/status/2060407572708913648#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 17:07:00 GMT",
+      "summary": "<p>这其实让我想起 OpenAI API 的消息类型，一直是可以随意组合和传入 role 为 system 的消息的。<br>\n<br>\n主要差别在于 OpenAI 对于 role 为 system 的消息权重不算很高，而 Claude 对于 role 为 system 的消息权重很高。<br>\n<br>\n另一个实现层面的差异：OpenAI 的缓存是全自动的，不需要开发者做任何事；Anthropic 的缓存需要开发者手动设置 cache_control 断点来标记哪些内容应该缓存（虽然现在也有了自动缓存选项）。</p>\n<img src=\"https://nitter.net/pic/med",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: Notion 创始人这期分享确实很精彩。\n\n大家千万别错过 Notion CEO Ivan Zhao 在红杉聊的这期播客，观点特别有见地。\n\n甚至我觉得，这是近半年来所有创业者都应该认真精读的一期内容。\n\n相当解惑。Ivan 把 AI 时代里一个组织正在发生的变化，用一种特别形象的方式串了起来。\n\n1、Ivan 提到一个非常有意思的概念，叫 Jazz Mode。传统公司像 marching band（行进乐队），队形整齐，节奏固定，指挥说什么大家做什么。\n\nNotion 想做的是 jazz band，有基本结构，但更强调即兴、互相接住、每个人都能主动发挥。\n\nIvan 觉得 AI 时代变化太快，太像 marching band 的组织会跟不上，所以 Notion 这几年在刻意招那种高主动性、高好奇心、能自己找路的人。\n\n2、公司并不存在完美的扁平结构，人和人之间的层级关系始终存在，在这一点上他选择承认现实。\n\n真正能设计的是一起工作的方式，把公司组织得更像一支可以即兴合奏的爵士乐队，而不是一支只会整齐队列表演的军乐队。\n\n3、但爵士模式的前提是主旋律要清楚，相当于愿景、产品方向和少数几条铁律，类似底层和声结构。\n\n团队在这个主旋律之上拥有较大的即兴空间，可以根据用户反馈和技术变化自己处理段落，而不是在每一个决策点都往上递审批。\n\n4、Notion 现在大约有六十个曾经做过创始人的员工，这是他刻意营造的人才结构。\n\n他更愿意招对 0 到 1 负过全责的人，这类人习惯自己发现问题、搭框架、推进落地，也更愿意在模糊地带主动出手。\n\n公司需要的是能自己写歌、也能听懂别人演奏的人，而不是只会照谱子执行任务的演奏员。\n\n5、在工程组织上，他把 Notion 重构成一个杠铃结构。\n\n一端是非常 junior 的工程师，刚毕业或者职业早期；另一端是少数非常 senior 的架构师和技术带头人。\n\n中间那类常规中高级工程师反而被刻意压缩，整个分布像一根两头重、中间瘦的杠铃。\n\n6、杠铃结构背后的逻辑很简单。年轻工程师可塑性强，不会被旧时代的大规模工程实践和工具链束缚思路，在大模型快速变化的环境里能更容易接受全新的开发范式。\n\n资深架构师负责定义系统级的分工和抽象，比如哪些部分交给模型，哪些部分坚持规则，如何组织数据和服务，确保整个产品作为一个系统是连贯的，而不是东一块西一块的功能拼盘。\n\n7、当一个工程团队里大多数人都停在经验不浅、但也谈不上顶尖的这个档位时，整个组织很容易陷入一种温水状态：事情都有人做，但缺少敢颠覆旧方案的人，也少了愿意疯狂尝试新东西的人。\n\n年轻人缺少全局视角，只能局部优化，老一辈如果人数太少，声音又容易被流程淹没，这种结构在 AI 时代会变得非常迟钝。\n\n8、他用一个很有画面感的比喻来解释大模型产品开发。传统软件工程更像修桥，强调确定性的结构分析和数学推演，只要按照规范搭建，结果会高度可预测。\n\n基于大语言模型做产品更接近酿啤酒，需要在原有配方和工艺上不断试验，调整温度、时间和原料比例，最后的标准来自人的口感而不是单一技术指标，用户体验是第一参照系。\n\n9、他把 Notion 的 AI 能力视作对产品的再创作，而不是简单给旧界面贴一个智能按钮。\n\n在拿到 GPT4 的早期访问时，他的直觉是，工具本身的工作方式需要重想，如果从公司一开始就可以假设存在这样的模型，那么 Notion 的交互结构、功能边界和价值主张应该是完全不一样的一套设计，这需要以重启思维来对待，而不是做一个插件。\n\n10、他的职业生涯里出现过两次真正意义上的重启。\n\n第一次发生在公司最困难的时候，团队被压缩到只剩几个核心成员，几个人躲在京都的小公寓里，用近乎白纸的心态重新问自己。\n\nNotion 还要不要继续存在，如果要继续，哪些东西必须放弃，哪些能力哪怕再难也要保留。这一轮更偏向拿掉包袱、守住本质。\n\n11、第二次重启发生在他拿到 GPT4 早期权限之后。\n\n当模型能力跃迁时，他意识到自己这家公司可能会失去原本的位置，也可能借此进化成下一代生产力工具，关键在于有没有勇气承认旧的产品假设正在过期。\n\n这一次的重启更偏向向前跳，是把 Notion 推向 AI 原生路线的转折点，从「文档+数据库」升级成「有理解能力的工作空间」的起点。\n\n12、关于什么时候该重启，他给的判断标准非常实际。\n\n并不是等到财务报表撑不住，更多是看组织与时代之间的错位：技术和市场环境已经明显往前走了，内部流程、产品形态和人才结构还停在旧逻辑里。\n\n同时创始人对当下这家公司明显提不起兴趣，每天更像在维护一台运转正常但没有灵魂的机器，这种状态持续存在，基本就到了需要重启的阶段。\n\n13、他谈创始人角色时，把重心放在创始人能量上。\n\n创始人在公司里最关键的价值不只是最后拍板，更是持续发射出一套稳定的频率，这套频率包括对产品审美的标准，对什么算好体验的直觉，对哪些细节不能妥协的执念，以及面对不确定性时愿不愿意亲自下场试。\n\n只要这股能量还在线，团队就知道自己在跟随一位有风格的乐手，不是在为一个抽象的 KPI 系统打工。\n\n14、在人才选拔上，他逐步弱化简历本身的重要性。\n\nNotion 的第一轮面试已经不再以简历为核心材料，更关注候选人在开放问题前的思考方式，对产品的直觉，对工具和工作方式的理解。\n\n名校和大厂的履历在他眼里容易变成噪音，他更在意一个人能不能提出自己的看法，能不能在真实的情境下把事情推进，而不仅是在纸面上合格。\n\n15、在销售文化上，他没有把销售放在产品的对立面。\n\n他希望 Notion 的销售像懂音乐的乐手，先听清楚客户现在那首歌的节奏，再思考 Notion 这件乐器应该在什么位置加入，是主旋律，是伴奏，还是间奏，而不是一上来就把音量拉到最大只追逐签约数字。\n\n真正重要的是建立长期合作关系，帮助对方把 Notion 用深、用广，而不是满足一次性收入目标。\n\n16、他反复把组织、产品和 AI 放在同一个坐标系里思考。\n\n组织设计要适配新的技术范式，人才结构要为试错和即兴留出空间，产品要在模型能力和用户体验之间找到新的平衡点，销售和商业化则负责把这套东西带到更大的市场里。\n\n整套思路的底层前提很简单：这家公司永远是一支在不断改编曲目的爵士乐队，而不是一台固定工序的流水线。",
+      "url": "https://nitter.net/xiaogaifun/status/2060298550123385304#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 09:53:47 GMT",
+      "summary": "<p>Notion 创始人这期分享确实很精彩。<br>\n<br>\n大家千万别错过 Notion CEO Ivan Zhao 在红杉聊的这期播客，观点特别有见地。<br>\n<br>\n甚至我觉得，这是近半年来所有创业者都应该认真精读的一期内容。<br>\n<br>\n相当解惑。Ivan 把 AI 时代里一个组织正在发生的变化，用一种特别形象的方式串了起来。<br>\n<br>\n1、Ivan 提到一个非常有意思的概念，叫 Jazz Mode。传统公司像 marching band（行进乐队），队形整齐，节奏固定，指挥说什么大家做什么。<br>\n<br>\nNotion 想做的是 jazz band，有基本结",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Opus 4.8 发布的同时，Anthropic 还上线了一个 API 层面的新能力：mid-conversation system messages（对话中途系统消息）。对于做 Agent 开发的会很有用。\n\n简单来说它就是类似于后续注入的方式修改原始系统提示词（System Prompt），并且不会影响 Prompt Caching。\n\n4.8 之前 Claude 是不能发送类型是 system 的消息，只能支持 user 或者 assistant 消息，system prompt 只能在最前面。\n\n所以 Claude Code 之前是用的一种特殊的消息内容：<system-reminder>，尝试覆盖系统消息指令。\n\n举个例子，你在初始 system message 指定这个 Agent 是一个系统设计师的角色，擅长做系统设计，但是不允许写代码，只写文档。\n\n然后随着任务推进，现在得让这个 Agent 开始写代码了，但你就算通过 user message 去让它可以写代码，因为权重不够高，它还是会倾向于不写代码写文档。\n\n现在有了 mid-conversation system messages，你就可以新加一条指令，明确要求它转变角色变成一个开发工程师，不必再遵守之前不写代码只写文档的约定，并且 mid-conversation system messages 的优先级更高，能覆盖原始 system message 的设定。\n\n这个功能目前只支持 Claude Opus 4.8，只在 Anthropic 自家 API 和 AWS 上的 Claude Platform 可用，Bedrock、Vertex AI、Microsoft Foundry 都不支持。系统消息不能放在对话开头（开头还是用顶层 system 字段），也不能连续放两条，必须跟在 user 消息后面。\n\n对于普通用户，这功能无需关心。",
+      "url": "https://nitter.net/dotey/status/2060404667423596843#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 29 May 2026 16:55:27 GMT",
+      "summary": "<p>Claude Opus 4.8 发布的同时，Anthropic 还上线了一个 API 层面的新能力：mid-conversation system messages（对话中途系统消息）。对于做 Agent 开发的会很有用。<br>\n<br>\n简单来说它就是类似于后续注入的方式修改原始系统提示词（System Prompt），并且不会影响 Prompt Caching。<br>\n<br>\n4.8 之前 Claude 是不能发送类型是 system 的消息，只能支持 user 或者 assistant 消息，system prompt 只能在最前面。<br>\n<br>\n所以 Claude C",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Hermes Agent now has Tool Search, so your agent only loads what it needs",
+      "url": "https://nitter.net/NousResearch/status/2060490936124105179#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 29 May 2026 22:38:15 GMT",
+      "summary": "<p>Hermes Agent now has Tool Search, so your agent only loads what it needs</p>\n<a href=\"https://nitter.net/NousResearch/status/2060490936124105179#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/media%2FHJhUwfjXgAUnLk2.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: As always, 'hermes update'\n\nMore info:\n\nhttps://hermes-agent.nousresearch.com/docs/user-guide/features/tool-search",
+      "url": "https://nitter.net/NousResearch/status/2060491074338972072#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 29 May 2026 22:38:48 GMT",
+      "summary": "<p>As always, 'hermes update'<br>\n<br>\nMore info:<br>\n<br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/features/tool-search\">hermes-agent.nousresearch.co…</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2058548375956439041%2FfFW7qOjS%3Fformat%3Dpng%26name%3D386x202\" style=\"max",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
