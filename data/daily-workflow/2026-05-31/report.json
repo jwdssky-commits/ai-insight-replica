@@ -1,0 +1,152 @@
+{
+  "title": "GitHub Copilot计费模式引争议，OpenRouter获1.13亿美元B轮融资",
+  "date": "2026-05-31",
+  "summary": "OpenRouter完成1.13亿美元B轮融资，巩固AI模型路由基础设施地位；GitHub Copilot转向Token计费模式引发开发者强烈不满，Gemini 3.5 Flash等模型消耗倍数高达14倍；Anthropic发布Claude跨产品沙盒实践，为企业AI安全部署提供参考；Meta据传开发AI吊坠硬件，加速消费级AI设备布局。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "融资",
+    "产品发布",
+    "安全",
+    "机器人"
+  ],
+  "highlight": {
+    "title": "GitHub Copilot推行Token计费模式引发开发者不满",
+    "body": "微软GitHub Copilot从固定订阅转向按Token计费，开发者社区反应强烈。据爆料，Gemini 3.5 Flash按14倍系数折算，Claude Opus 4.8达15倍，GPT-5.5为7.5倍。此举显著改变了开发者使用AI编程助手的成本结构，引发广泛争议。",
+    "source_url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenRouter完成1.13亿美元B轮融资，强化模型路由基础设施",
+          "body": "OpenRouter完成1.13亿美元B轮融资，作为连接数百个大语言模型的路由基础设施，其降低了开发者切换模型的成本。此轮融资将助力其扩展企业级服务，进一步巩固在AI模型分发与聚合层的关键地位，反映资本市场对AI基础设施的持续看好。",
+          "source_url": "https://openrouter.ai/announcements/series-b",
+          "source_name": "OpenRouter / Hacker News",
+          "importance": "high",
+          "related_entities": [
+            "OpenRouter"
+          ]
+        },
+        {
+          "headline": "量子位报道Gemini IMO金牌背后的关键研究者",
+          "body": "量子位报道一位曾为Gemini拿下IMO金牌的关键研究者，其背景横跨数学与音乐。该报道展现了大模型顶尖研发人才的多元化路径，也反映出Google DeepMind在数学推理领域的长期投入，IMO金牌已成为衡量大模型高级推理能力的重要标杆。",
+          "source_url": "https://www.qbitai.com/2026/05/426706.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "Google DeepMind",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GitHub Copilot转向Token计费，开发者成本结构剧变",
+          "body": "微软GitHub Copilot从固定订阅转向按Token计费，开发者社区反应强烈。据爆料，Gemini 3.5 Flash按14倍系数折算，Claude Opus 4.8达15倍，GPT-5.5为7.5倍。此举显著改变了开发者使用AI编程助手的成本结构，引发广泛争议。",
+          "source_url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "GitHub",
+            "Microsoft"
+          ]
+        },
+        {
+          "headline": "Anthropic详述Claude跨产品沙盒实践",
+          "body": "Anthropic发布技术文档详述如何在不同产品中对Claude实施沙箱隔离，涵盖权限控制、输出过滤与跨域限制。该实践填补了AI Agent安全部署的细节空白，为企业级AI容器化提供了可复现的工程范式，具有重要的行业参考价值。",
+          "source_url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+          "source_name": "Simon Willison / Anthropic",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Meta据传正在开发AI吊坠设备",
+          "body": "Meta据传正在开发一款AI吊坠设备，延续其在AI硬件领域的大胆押注。从Ray-Ban智能眼镜到AI吊坠，Meta持续探索消费级AI的新形态，试图通过可穿戴设备获取更自然的用户交互数据，打造全天候AI伴侣入口。",
+          "source_url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Meta"
+          ]
+        },
+        {
+          "headline": "Google Gemini Spark 24/7 AI助手实测",
+          "body": "TechCrunch评测Google新推出的24/7 AI助手Gemini Spark，认为其在收件箱摘要、本地活动规划等日常任务自动化中表现实用。但报道也质疑Google将其作为独立产品的逻辑，反映出通用AI助手在定位和商业模式上仍面临整合挑战。",
+          "source_url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "乘物机器人获天使轮融资，深耕工业具身智能",
+          "body": "深圳乘物机器人完成天使轮融资，由和椿科技战略投资。公司专注工业具身智能，服务富士康等客户，半年营收已超两千万元。该融资显示工业场景中的具身智能落地正在加速，制造巨头通过投资锁定上游机器人技术伙伴。",
+          "source_url": "https://36kr.com/p/3831135917107075?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "乘物机器人",
+            "富士康",
+            "和椿科技"
+          ]
+        },
+        {
+          "headline": "安永加拿大网络安全报告被曝存在AI幻觉引用",
+          "body": "安永加拿大发布的一份网络安全报告被调查发现存在大量AI幻觉引用。该事件暴露了四大会计师事务所在使用生成式AI进行专业内容生产时的重大风险，警示企业级AI应用必须建立严格的事实核查与溯源机制，避免声誉受损。",
+          "source_url": "https://gptzero.me/investigations/ey",
+          "source_name": "GPTZero / Hacker News",
+          "importance": "high",
+          "related_entities": [
+            "EY",
+            "安永",
+            "GPTZero"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "埃森哲收购Ookla，补强网络智能与AI服务",
+          "body": "埃森哲宣布收购网络测速公司Ookla，旨在将网络性能数据与AI能力结合，为企业客户提供更智能的网络体验与运营决策支持。此次收购体现传统咨询巨头正通过数据资产补强其AI转型服务，夯实企业数字化基础设施底座。",
+          "source_url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+          "source_name": "Accenture / Hacker News",
+          "importance": "medium",
+          "related_entities": [
+            "Accenture",
+            "Ookla"
+          ]
+        }
+      ]
+    }
+  ]
+}
