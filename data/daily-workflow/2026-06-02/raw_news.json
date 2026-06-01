@@ -1,0 +1,937 @@
+{
+  "date": "2026-06-02",
+  "collected_at": "2026-06-01T23:46:37.755439+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp\">Learn how Googlers used AI to produce Google I/O 2026.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-01T21:14:47+00:00",
+      "summary": "<p><strong><a href=\"https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/\">Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked</a></strong></p>\nI had trouble believing this story was true, but",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "May 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-01T04:45:00+00:00",
+      "summary": "<p>I just sent out the May edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-05-may.md\">access it here</a>.</p>\n<p>This m",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 22:55:09 +0000",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 18:19:53 +0000",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 16:36:55 +0000",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 01 Jun 2026 14:49:10 +0000",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T16:02:31-04:00",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up un",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T16:00:00-04:00",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T15:20:47-04:00",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic has officially filed to go public",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T12:40:38-04:00",
+      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fu",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T10:39:03-04:00",
+      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entir",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T10:30:00-04:00",
+      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.&#160; Well, it’s",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-01T10:06:44-04:00",
+      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its deve",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 05:00:56 +0000",
+      "summary": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications.  NVIDIA AI Clouds are a growing ecosystem of purpose-bui",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+      "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 05:00:47 +0000",
+      "summary": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer.  Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory O",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 05:00:41 +0000",
+      "summary": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As Vera Rubin ramps into full production to power agentic AI factories worldwide, that ecosystem spans",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+      "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 04:45:07 +0000",
+      "summary": "",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 04:30:11 +0000",
+      "summary": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive proc",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elastic Build Machines now protect against out of memory builds",
+      "url": "https://vercel.com/changelog/elastic-build-machines-now-protect-against-out-of-memory-builds",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-01T18:30:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Qwen 3.7 Plus now available on AI Gateway",
+      "url": "https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-01T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Blob now supports OIDC authentication",
+      "url": "https://vercel.com/changelog/vercel-blob-now-supports-oidc-authentication",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-01T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MiniMax M3 on AI Gateway",
+      "url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-31T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Opus 4.8 on AI Gateway",
+      "url": "https://vercel.com/changelog/opus-4-8-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-28T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: China’s brain implant ambitions",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 01 Jun 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province l",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 01 Jun 2026 09:09:00 +0000",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+      "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
+      "source": "Stratechery (RSS)",
+      "published": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "summary": "YouTubers are ruling the box office,  and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+      "url": "https://www.qbitai.com/2026/06/427530.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 10:34:31 +0000",
+      "summary": "已经投资了数个世界领先的AI科技公司",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+      "url": "https://www.qbitai.com/2026/06/427516.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 09:46:32 +0000",
+      "summary": "场景永不消失，多人真正同屏",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+      "url": "https://www.qbitai.com/2026/06/427231.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 08:10:20 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+      "url": "https://www.qbitai.com/2026/06/427332.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 07:57:16 +0000",
+      "summary": "文本图像视频都能用",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OpenAI重返机器人赛道！四大核心岗位开招",
+      "url": "https://www.qbitai.com/2026/06/427238.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 06:11:12 +0000",
+      "summary": "年薪超200万",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+      "url": "https://www.qbitai.com/2026/06/427141.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 05:32:24 +0000",
+      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
+      "url": "https://www.qbitai.com/2026/06/427142.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 01 Jun 2026 05:25:27 +0000",
+      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+      "url": "https://36kr.com/p/3834544830721671?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 19:44:01  +0800",
+      "summary": "<p>5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。</p>\n  <p>随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”</p>\n  <p>据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，<strong>豆包预计将在6月下旬正式上线付费内容，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
+      "url": "https://36kr.com/p/3826034537223043?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 19:06:39  +0800",
+      "summary": "<p><strong>「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。</strong></p>\n  <p>这笔融资背后，是一个逐渐清晰的判断：<strong>AI for Science需要量子计算。</strong></p>\n  <p>AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模型预测结果也会显著受限。</p>\n  <p>量子计算",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
+      "url": "https://36kr.com/p/3834354415347337?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 18:56:21  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3834374932047745\"><strong>中通快递在广州成立新物流公司，注册资本5亿</strong></a></p>\n  <p>36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。</p>\n ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
+      "url": "https://36kr.com/p/3834276149356420?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 18:26:33  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1280,720\" src=\"https://img.36krcdn.com/hsossms/20260601/v2_b9a37c5629f14bbba894f73475fcb9b4@6381723_oswg1772858oswg1280oswg720_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <h2><strong>一、每一年，我们都在找一个地方，让年轻人在一起</strong></h2>\n  ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
+      "url": "https://36kr.com/p/3834427736024965?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 17:42:20  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;林晴晴</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，Micro-LED显示技术公司「秋水半导体」已于近期连续完成Pre-A及A轮融资，合计近2亿元人民币。本轮融资由朝晖资本领投，通商基金、盛宇投资、宁波人才发展基金、嘉溢创投、涌现科技、数字光芯及兴棠资本跟投，兴棠资本担任长期财务顾问。本轮融资资金将主要用于在宁波高新区建设8英寸混合键合量产线及后续研发投入。</p>\n  <p>「秋水半导体」成立于2022年11月，是一家专注于Micro-LED微显示芯片与模组的半导体公司，产品覆盖数字车灯、AR眼镜、微投影等应用领域。",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我们有全世界最多的运动鞋，却没有一支值得爱20年的球队",
+      "url": "https://36kr.com/p/3834297577383553?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 17:29:10  +0800",
+      "summary": "<blockquote>\n   <p>编者按： 当中国体育用品业总产出突破2万亿元，占据体育产业总产出的54.3%，这无疑是一份值得骄傲的成绩单。过去几十年，中国建立起全球最完整、最高效的体育用品供应链，也孕育出一批具有国际竞争力的品牌。</p>\n   <p>但在规模增长之外，另一个问题同样值得关注：当体育产业的大部分价值仍来自商品制造与销售，我们距离一个成熟的体育文化生态还有多远？赛事、IP、社区、俱乐部、体育传媒，以及由此产生的情感认同与共同体文化，是否正在成为中国体育下一阶段发展的关键命题？</p>\n   <p>本文并非讨论体育用品行业本身，而是试图透过“54.3%”这一数字，重新审视中",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "「AromeManpo馥郁满铺」完成近亿元B轮融资，今年线下门店将突破10家",
+      "url": "https://36kr.com/p/3832924137138057?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 16:06:01  +0800",
+      "summary": "<p>作者 | &nbsp;钟艺璇</p>\n  <p>36氪获悉，芳香馥愈&nbsp;情绪护肤品牌「AromeManpo馥郁满铺」已于近期完成近亿元B轮融资，投资方为颖通控股，穆棉资本作为独家财务顾问。交易完成后，颖通控股将获得杭州白昼与梦生物科技有限公司（馥郁满铺母公司）增资完成后15%的股权。</p>\n  <p>馥郁满铺诞生于2013年，品牌灵感最初来源于创始人姜腾数十年的芳疗基因，承传欧洲芳疗系统，融汇东西方植物智慧与前沿发酵科技，以香为引，秉持“芳香馥愈，情绪护肤”的品牌定位，带用户奔赴回归本真的感官之旅。品牌目前已推出「晚香玉光感发酵系列」「黑鸢尾赋活琉金系列」两条功效芳疗面护线，创",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
+      "url": "https://36kr.com/p/3834310434875011?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 15:49:38  +0800",
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜邓咏仪</strong></p>\n  <p>万格智元团队有这样一些标签：00后、博士团队、埋头搞技术。</p>\n  <p>CEO王冠博恰好占全了，他现博士就读于清华大学计算机系，是一位00后连续创业者。</p>\n  <p>其团队相当年轻，规模约20人，其中近90%的成员为00后，大多数为清华、北大等院校的硕博生，也有来自亚马逊、OpenAI、字节跳动等公司的成员。</p>\n  <p>《智能涌现》独家获悉，<strong>近日，万格智元连续完成两轮五源资本、峰瑞资本参投的数千万元天使轮及天使+轮融资，源合",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "获国家队采购、联名比音勒芬，「PLAYTOP」想用东方美学演绎户外功能服饰｜早期项目",
+      "url": "https://36kr.com/p/3824416083825027?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 11:19:10  +0800",
+      "summary": "<p>当户外运动品牌纷纷在“防晒”“速干”“保暖”等参数上展开竞赛时，一家成立仅三年的新锐品牌，开始在功能的基础上，将“东方美学”元素融入一件功能衣中。</p>\n  <p><strong>成立于2022年的「PLAYTOP」，是一家将东方美学与天然功能材料融合的户外品牌，瞄准25-40岁追求颜值与舒适体验的高智菁英人群。2025年雪季，PLAYTOP做到了小红书滑雪速干衣用户主动搜索排名第一。</strong></p>\n  <p>目前，PLAYTOP已获得12项独家专利及多国环保创意新材料奖，产品被国家队和军事科学院采购，也是首个连续登上中国国际时装周的户外针织品牌。</p>\n  <p>PLA",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
+      "url": "https://36kr.com/p/3833985105782402?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-01 10:12:48  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>在龙旗位于南昌的智能制造工厂中，两台智元精灵G2人形机器人已融入平板产线，承担起多媒体集成测试（MMIT）工站的上下料作业。</p>\n  <p>其工作节拍已接近熟练产线员工——依托腰部的三个运动自由度与全向移动底盘，机器人精准从传送带抓取生产完成的平板，送入检测机箱；待测试完毕，又能迅速取出合格产品、利落放回传送带分流。</p>\n  <p>据现场实测数据，单台机器人每小时可稳定处理约310台平板设备，峰值达316台，8小时连续作业整体成功率超99.5%</p>\n  <p>这并非",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 13:51:18 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 01 Jun 2026 04:44:55 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constr",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30542v1 Announce Type: new \nAbstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observation-predictive wor",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30563v1 Announce Type: new \nAbstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angelic nondeterminism. This allows for a more compact representation of tasks than traditional formalis",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30570v1 Announce Type: new \nAbstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black and Grid-Graph) and introduce two novel representa",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30576v1 Announce Type: new \nAbstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framework that leverages ex",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30621v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "url": "https://arxiv.org/abs/2605.30637",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30637v1 Announce Type: new \nAbstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future health outcomes under incomplete evidence. LLMs are increasingly used to support these decisions due ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+      "url": "https://arxiv.org/abs/2605.30664",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30664v1 Announce Type: new \nAbstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic problems but often relies on explicit subgoal generation that can incur substantial overhead and hinders scalability. In this pa",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+      "url": "https://arxiv.org/abs/2605.30680",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30680v1 Announce Type: new \nAbstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and so cannot evaluate mechanisms by the equilibrium they produce. We recast hospital mechanism design a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+      "url": "https://arxiv.org/abs/2605.30738",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30738v1 Announce Type: new \nAbstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language models achieve strong results on individual benchmarks, their ability to compose reasoning strategies, ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Protocol for evaluating ChatGPT in biomedical association generation and verification using a RAG-enabled, cross-model majority voting workflow",
+      "url": "https://arxiv.org/abs/2605.30400",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30400v1 Announce Type: new \nAbstract: We present a protocol to evaluate ChatGPT's ability to generate disease-centric biomedical associations. It outlines how we generate the associations, validate the biological entities using biomedical ontologies, and verify associations using literatu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exploring Autonomous Agentic Data Engineering for Model Specialization",
+      "url": "https://arxiv.org/abs/2605.30407",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30407v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong performance on general tasks, while often struggling to adapt to specialized domains without high-quality domain-specific data. Existing LLM-based data curation methods primarily rely on human-desi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Domain Adaptation and Reasoning Frameworks in Language Models: A Controlled Experiment with Historical Cosmology",
+      "url": "https://arxiv.org/abs/2605.30415",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30415v1 Announce Type: new \nAbstract: We investigate how domain adaptation reshapes explanatory behavior in language models using historical cosmology as a controlled setting. In Phase 1, we train a small language model from scratch on a pre-Copernican corpus from which explicit heliocent",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cross-Lingual Steering for Figurative Language Generation",
+      "url": "https://arxiv.org/abs/2605.30443",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30443v1 Announce Type: new \nAbstract: Multilingual large language models can generate figurative language, but whether the internal signals driving this behavior are language-specific or reusable across languages is unclear. Using activation steering as a probe, we estimate a direction fo",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Can LLM Teams Play What? Where? When?",
+      "url": "https://arxiv.org/abs/2605.30459",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30459v1 Announce Type: new \nAbstract: Large language models (LLMs) remain limited on tasks requiring indirect reasoning, cultural knowledge, and coordinated hypothesis testing. We investigate whether team-based interaction improves LLM performance in What? Where? When? (ChGK), a quiz game",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study",
+      "url": "https://arxiv.org/abs/2605.30465",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30465v1 Announce Type: new \nAbstract: Multi-label topic classification without labeled training data is a challenging task, specially when documents contain complex relational information. We present a zero-shot multi-label topic classification framework and systematically investigate how",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Your Multimodal Speech Model Says I Have a Face for Radio",
+      "url": "https://arxiv.org/abs/2605.30472",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30472v1 Announce Type: new \nAbstract: As large neural models have become better at language tasks, researchers are increasingly building multi- and omnimodal models that handle more modalities of data. One example is the expansion of speech recognition models to audio-visual data for nois",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When English Rewrites Local Knowledge: Global Narrative Dominance in Large Language Models",
+      "url": "https://arxiv.org/abs/2605.30481",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30481v1 Announce Type: new \nAbstract: Large language models (LLMs) are widely used as cross-lingual knowledge interfaces. However, culturally grounded questions often reflect globally dominant narratives rather than local contexts. We study this failure mode as \\textit{global narrative do",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Configurable Reward Model for Balanced Safety Alignment",
+      "url": "https://arxiv.org/abs/2605.30487",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30487v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) to heterogeneous and rapidly evolving safety requirements remains a critical challenge. Existing instruction-tuned LLMs and standalone safety classifiers often fail to generalize to new safety configurations, moti",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law",
+      "url": "https://arxiv.org/abs/2605.30497",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2605.30497v1 Announce Type: new \nAbstract: RAG-based legal assistants have been growing in popularity, but LLM hallucinations remain a key issue and potentially undermines justice. While benchmarks have been developed to evaluate progress, many rely on synthetic queries rather than realistic l",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cursor 在为用户增加使用额度。最近我重度使用了 Cursor 的 Agent，效果相当不错。我常用的 GUI Agent 里面，Codex App > Cursor > Claude Desktop。\n\n几个亮点：\n\n1. 它的 multitask 模式可以开启多个后台任务并行，速度很不错。\n\n2. 它可以灵活选择各种模型，不像 Codex 和 Claude Code 只能选择自家模型，composer 2.5 在普通任务上的能力和速度都还可以\n\n3. Plan 模式比较详细，列有详细的 Steps，配合 multitask 模式通常效果很稳定\n\n不足之处：\n还不支持 /goal、手机版\n还没有类似于 Codex 的 Chrome use + Computer use 的调试功能，只有内置浏览器的调试",
+      "url": "https://nitter.net/dotey/status/2061569125948760319#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 22:02:36 GMT",
+      "summary": "<p>Cursor 在为用户增加使用额度。最近我重度使用了 Cursor 的 Agent，效果相当不错。我常用的 GUI Agent 里面，Codex App &gt; Cursor &gt; Claude Desktop。<br>\n<br>\n几个亮点：<br>\n<br>\n1. 它的 multitask 模式可以开启多个后台任务并行，速度很不错。<br>\n<br>\n2. 它可以灵活选择各种模型，不像 Codex 和 Claude Code 只能选择自家模型，composer 2.5 在普通任务上的能力和速度都还可以<br>\n<br>\n3. Plan 模式比较详细，列有详细的 Steps，配合 ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "It would be great if AI agents like Codex and Cursor could expose an API to web views. This would allow a webpage opened in the right pane to send prompts (including text and images) directly back to the agent.\n\nFor instance, if I build a webpage similar to Claude Design, I could add an in-page input box. When a user enters a prompt and clicks \"send\", the webpage would call an API like \"window.codex.sendPrompt(text, attachments)\" to push that content straight into the chat interface on the left. This would enable much deeper interaction between the agent and the webpage, unlocking a lot more possibilities.\n\ncc @thsottiaux @jxnlco @Dimillian",
+      "url": "https://nitter.net/dotey/status/2061565621360337132#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 21:48:40 GMT",
+      "summary": "<p>It would be great if AI agents like Codex and Cursor could expose an API to web views. This would allow a webpage opened in the right pane to send prompts (including text and images) directly back to the agent.<br>\n<br>\nFor instance, if I build a webpage similar to Claude Design, I could add an i",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 比如我这周还剩2天自然重置，如果是 Codex 的重置，相当于重新7天的计数\n而 Claude 则是这2天是7天满额token，2天后又是7天的重置",
+      "url": "https://nitter.net/dotey/status/2061556501450228081#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 21:12:26 GMT",
+      "summary": "<p>比如我这周还剩2天自然重置，如果是 Codex 的重置，相当于重新7天的计数<br>\n而 Claude 则是这2天是7天满额token，2天后又是7天的重置</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 而且比 Codex 良心的是，它剩余时间不是顺延 7 天，而是剩下的时间都是满的😃",
+      "url": "https://nitter.net/dotey/status/2061555590745231582#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 21:08:49 GMT",
+      "summary": "<p>而且比 Codex 良心的是，它剩余时间不是顺延 7 天，而是剩下的时间都是满的😃</p>\n<img src=\"https://nitter.net/pic/media%2FHJwd4XYXsAA8hIj.png\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "明天 Codex 和 OpenAI platform 会有什么重要更新呢？",
+      "url": "https://nitter.net/dotey/status/2061539606592360781#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 20:05:18 GMT",
+      "summary": "<p>明天 Codex 和 OpenAI platform 会有什么重要更新呢？</p>\n<hr/>\n<blockquote>\n<b>Derrick Choi (@derrickcchoi)</b>\n<p>\n<p>Come join our livestream tomorrow where we'll preview some exciting updates to the Codex and the OpenAI platform.<br>\n<br>\nTuesday 6/2 at 8:30am PT / 11:30am ET / 4:30pm BST<br>\n<br>\n<a href=\"h",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "活久见，Claude 也重置了额度！",
+      "url": "https://nitter.net/dotey/status/2061507315690279135#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 17:56:59 GMT",
+      "summary": "<p>活久见，Claude 也重置了额度！</p>\n<hr/>\n<blockquote>\n<b>ClaudeDevs (@ClaudeDevs)</b>\n<p>\n<p>We've reset 5-hour and weekly rate limits for all users on Pro and Max plans.<br>\n<br>\nWe fixed an issue that caused some Claude Code sessions to spawn excessive parallel subagents, burning through usage faster than ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 在 X 上看了不少文章封面，发现普遍都很丑，包括自己的。\n\n我让@xiaoxiaodong01 发了一个他满意的提示词。\n\n在此基础让 ChatGPT优化，把硬性限定词都去掉，给 AI 充分的发挥空间。\n\n以后任意一篇文章丢给ChatGPT或Codex都可以生成类似的 5:2 大字封面。\n\n提示词见评论区",
+      "url": "https://nitter.net/vista8/status/2061462881984725365#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 15:00:25 GMT",
+      "summary": "<p>在 X 上看了不少文章封面，发现普遍都很丑，包括自己的。<br>\n<br>\n我让<a href=\"https://nitter.net/xiaoxiaodong01\" title=\"小小东\">@xiaoxiaodong01</a> 发了一个他满意的提示词。<br>\n<br>\n在此基础让 ChatGPT优化，把硬性限定词都去掉，给 AI 充分的发挥空间。<br>\n<br>\n以后任意一篇文章丢给ChatGPT或Codex都可以生成类似的 5:2 大字封面。<br>\n<br>\n提示词见评论区</p>\n<img src=\"https://nitter.net/pic/media%2FHJvI8E",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "你不能指望一个模型在什么地方都是最强的，要像渣男一样才能用好 AI：去爱很多模型，去发掘他们的优秀点，东食西宿，组合着用\n\nOpus 4.8 在写作不太行，但是在 UI 设计，UI 实现比 GPT-5.5 要好很多，推荐你多用用 Claude Design，然后把 Claude Design 设计好的结果分别给 GPT-5.5 和 Opus 4.8 去实现一下看看差异。\n\n然后系统设计和计划方面，质量也是很高的，一个复杂一点任务通常要先做 Plan、做系统设计，这方面 Opus 4.8 也是非常好的。\n\n另外和你用的 Agent 有关系，每个模型都有自己的特性，需要重新设计提示词反复调优，如果你在 Claude Code 和 Cursor 里面用 Opus 4.8，除了写作，其他任务的效果是没有什么问题的。",
+      "url": "https://nitter.net/dotey/status/2061463713941492062#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 01 Jun 2026 15:03:44 GMT",
+      "summary": "<p>你不能指望一个模型在什么地方都是最强的，要像渣男一样才能用好 AI：去爱很多模型，去发掘他们的优秀点，东食西宿，组合着用<br>\n<br>\nOpus 4.8 在写作不太行，但是在 UI 设计，UI 实现比 GPT-5.5 要好很多，推荐你多用用 Claude Design，然后把 Claude Design 设计好的结果分别给 GPT-5.5 和 Opus 4.8 去实现一下看看差异。<br>\n<br>\n然后系统设计和计划方面，质量也是很高的，一个复杂一点任务通常要先做 Plan、做系统设计，这方面 Opus 4.8 也是非常好的。<br>\n<br>\n另外和你用的 Agent 有关系，每",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    }
+  ]
+}
