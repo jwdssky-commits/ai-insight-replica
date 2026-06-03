@@ -1,0 +1,936 @@
+{
+  "date": "2026-06-03",
+  "collected_at": "2026-06-03T00:05:33.185287+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 09:00:00 GMT",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft's new MAI models",
+      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-02T22:21:52+00:00",
+      "summary": "<p>Microsoft <a href=\"https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/\">announced two new text LLMs</a> this morning - <strong><a href=\"https://microsoft.ai/news/introducing-mai-thinking-1/\">MAI-Thinking-1</a></strong> (reasoning, 35B parameters, available to",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-02T18:17:03+00:00",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/671786719/large.jpg\" alt=\"California Brown Pelican\"></p><p>California Brown Pelican, in Fort Mason, CA, US</p><p>I'm at the <a href=\"https://build.microsoft.com/\">Microsoft Build</a> conference today, held at <a href=\"https://en.wikipedia.org/wiki/F",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pasted File Editor",
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-02T04:13:36+00:00",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/pasted-file-editor\">Pasted File Editor</a></p>\n        <p>I really like how you can paste a large volume of text into <a href=\"https://claude.ail\">claude.ai</a> (or the Claude desktop/mobile apps) and it will detect it as a large pas",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 22:50:56 +0000",
+      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 19:11:48 +0000",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 19:02:21 +0000",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 18:16:53 +0000",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 18:02:44 +0000",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 17:47:28 +0000",
+      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 16:23:08 +0000",
+      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T15:23:52-04:00",
+      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event l",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T14:33:42-04:00",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T14:12:44-04:00",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companie",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T14:00:00-04:00",
+      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expen",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T14:00:00-04:00",
+      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T13:31:02-04:00",
+      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concept Project Solara dev",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
+      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T12:30:00-04:00",
+      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized for sustained workl",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T11:59:58-04:00",
+      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-02T08:38:08-04:00",
+      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local [&#823",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 17:30:03 +0000",
+      "summary": "<p>At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/\">GitHub Copilot app: The agent-native desktop ex",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Serving MiniMax-M3 for efficient inference: Unlocking 1M-Token Context and Multimodality Without Regrets",
+      "url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+      "source": "Together AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 GMT",
+      "summary": "How Together served MiniMax-M3 efficiently with KV-block-major sparse attention, paged MSA decode, optimized index scoring, and a Rust-based multimodal gateway.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 22:00:58 +0000",
+      "summary": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours.  Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 19:00:08 +0000",
+      "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+      "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 06:00:36 +0000",
+      "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems.  Siloed systems prevent institutions from developing a unified understandi",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 02:00:40 +0000",
+      "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module a",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Edit Git settings for all projects in a repo",
+      "url": "https://vercel.com/changelog/edit-git-settings-for-all-projects-in-a-repo",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-02T06:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Signed URLs are now available for Vercel Blob",
+      "url": "https://vercel.com/changelog/signed-urls-are-now-available-for-vercel-blob",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-02T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds Lark and Feishu support",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-lark-feishu-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-31T14:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Function invocations now billed per unit",
+      "url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T10:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Protecting against token theft",
+      "url": "https://vercel.com/blog/protecting-against-token-theft",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Run Docker containers inside Vercel Sandbox",
+      "url": "https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-05-29T00:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: AI can run your admin department now",
+      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 02 Jun 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills need",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 02 Jun 2026 11:23:34 +0000",
+      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Google Capital Company",
+      "url": "https://stratechery.com/2026/the-google-capital-company/",
+      "source": "Stratechery (RSS)",
+      "published": "Tue, 02 Jun 2026 10:00:00 +0000",
+      "summary": "Google has issued equity to Berkshire Hathaway in a deal that signals far more demand and a future where capital is the ultimate commodity.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
+      "url": "https://www.qbitai.com/2026/06/428092.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 15:50:16 +0000",
+      "summary": "还能带你打卡老黄同款南锣路线",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+      "url": "https://www.qbitai.com/2026/06/428003.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 14:54:29 +0000",
+      "summary": "还挖走了苏炜杰",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+      "url": "https://www.qbitai.com/2026/06/427922.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 14:52:01 +0000",
+      "summary": "平台入驻全球达人已超10万",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+      "url": "https://www.qbitai.com/2026/06/427810.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 09:28:00 +0000",
+      "summary": "AI视频编辑先理解再动手",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "“豆包汽车”，目标市场10万-20万",
+      "url": "https://www.qbitai.com/2026/06/427760.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 08:12:10 +0000",
+      "summary": "国资入主，赛力斯让权",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+      "url": "https://www.qbitai.com/2026/06/427754.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 07:47:30 +0000",
+      "summary": "已上线 PaddleOCR 官网，支持网页端和API调用",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+      "url": "https://www.qbitai.com/2026/06/427729.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 03:57:21 +0000",
+      "summary": "全新的机器人强化学习训练架构",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+      "url": "https://www.qbitai.com/2026/06/427730.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 03:15:52 +0000",
+      "summary": "Qwen3.7-Plus已上线阿里云百炼",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+      "url": "https://www.qbitai.com/2026/06/427472.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 01:33:13 +0000",
+      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+      "url": "https://www.qbitai.com/2026/06/427541.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 02 Jun 2026 00:33:17 +0000",
+      "summary": "token热潮开始降温",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
+      "url": "https://36kr.com/p/3834354708031111?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 19:50:30  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3835631030990214\"><strong>高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜</strong></a></p>\n  <p>36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "美团在竞争中看清自己",
+      "url": "https://36kr.com/p/3835814792492416?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 17:20:31  +0800",
+      "summary": "<p>作者｜任彩茹</p>\n  <p>编辑｜乔芊</p>\n  <p>参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。</p>\n  <p>2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。</p>\n  <p>业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。</p>\n  <p><strong>值得关注的是，本季财报中美团还更新了两个关键",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+      "url": "https://36kr.com/p/3835814391100550?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 17:13:50  +0800",
+      "summary": "<p>文｜肖思佳</p>\n  <p>编辑｜乔芊 杨轩</p>\n  <p>5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。</p>\n  <p>随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”</p>\n  <p>据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
+      "url": "https://36kr.com/p/3835511712363657?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 12:23:41  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1080,1620\" src=\"https://img.36krcdn.com/hsossms/20260602/v2_7b07d12e29bd42fbb2dab51b5d041fa0@325131774_oswg132265oswg1080oswg1620_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">爱彼迎的”进化“</p>\n  <p>五月的旧金山，正在经历一场技术的集体癫狂。硅谷的",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+      "url": "https://36kr.com/p/3800191597583621?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 11:34:38  +0800",
+      "summary": "<p>36氪获悉，植物纤维皮革面料公司深圳朴飞生物（以下简称超级皮儿PEELSPHERE®）已完成新一轮融资，由头部创投机构——深圳市创新投资集团有限公司（深创投）独家战略投资。此轮资金将主要用于新产品研发与团队扩充。</p>\n  <p>超级皮儿PEELSPHERE®是一家做植纤皮革面料的公司。它所切入的场景清晰而纯粹：在消费品牌对材料性能、设计表达、健康环保和综合赋能提出更高要求的背景下，如何通过绿色科技，将咖啡渣、橘子皮、苹果皮等农业废料转化为兼具皮革性能质感、设计表现力和规模化制造潜力的新型面料，为品牌提供更多元、更具产品力的可持续整体解决方案。</p>\n  <p>其技术路径是一套兼顾科",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+      "url": "https://36kr.com/p/3835387558065541?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 10:00:58  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，近日，居家养老消费电子品牌「元生智能」完成新一轮超千万元Pre-A轮融资。本轮融资由银创资本领投，东科创跟投。本轮资金将主要用于渠道拓展以及相关新产品的持续迭代。</p>\n  <p>元生智能是硬氪长期关注的企业，成立于2022年，主要为65岁以上空巢、独居老人提供居家看护产品。公司创始人、CEO邓龙生曾任小天才学习平板产品负责人、星火教育合伙人；联合创始人房少杰同样来自小天才，曾任小天才电话手表及火火兔产品负责人。</p>\n  <p>元生智能旗下老年看护品牌「亲鹿」于",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 09:57:17  +0800",
+      "summary": "<p>具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。</p>\n  <p>而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。</p>\n  <p>36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。</p>\n  <p><strong>元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的产品合作部署意向。</strong></p>\n  <p>元节智能的创始团队带有鲜明的",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+      "url": "https://36kr.com/p/3835278829008257?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 08:12:57  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>闲鱼回应读取用户手机内文物照片上架售卖</li>\n   <li>赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力</li>\n   <li>英伟达推出NVIDIA DSX平台</li>\n   <li>OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人</li>\n   <li>4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>豆包预计6月下旬正式付费，并加速打通抖音电商</strong></p>\n  <p>5月初旬，豆包将推出付费",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+      "url": "https://36kr.com/p/3834400181741440?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-02 08:00:06  +0800",
+      "summary": "<p>36氪获悉，<strong>NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。</strong>本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。</p>\n  <p>Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO&nbsp;Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 02 Jun 2026 14:13:23 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+      "url": "https://arxiv.org/abs/2606.00002",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00002v1 Announce Type: new \nAbstract: Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment rarely matches solve-time assumptions: small perturbations in costs, demands, or resource availability",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+      "url": "https://arxiv.org/abs/2606.00005",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00005v1 Announce Type: new \nAbstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than error. The protocol assigns engineered cognitive person",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+      "url": "https://arxiv.org/abs/2606.00007",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00007v1 Announce Type: new \nAbstract: As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governance mechanisms do not transfer directly: agent statel",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+      "url": "https://arxiv.org/abs/2606.00008",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00008v1 Announce Type: new \nAbstract: Multi-objective molecular optimization requires searching vast chemical spaces under conflicting objectives, where early design decisions strongly constrain downstream outcomes. Existing methods typically rely on a single policy or fixed scalarization",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+      "url": "https://arxiv.org/abs/2606.00009",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00009v1 Announce Type: new \nAbstract: Bayesian Optimization (BO) is widely and successfully adopted for solving optimization problems having an expensive-to-evaluate, black-box, and non-convex objective function. However, the vanilla BO algorithm is not able to exploit possible symmetries",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+      "url": "https://arxiv.org/abs/2606.00017",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00017v1 Announce Type: new \nAbstract: Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate game rules, or on decisions made by other players. Sta",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Universal Quantum Transformer",
+      "url": "https://arxiv.org/abs/2606.00045",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00045v1 Announce Type: new \nAbstract: Classical continuous-space neural networks fundamentally struggle to lock into exact mathematical symmetries, such as modular arithmetic and non-commutative algebra. To approximate these discrete logical rules, they often rely on massive parameter sca",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2606.00050",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00050v1 Announce Type: new \nAbstract: We present Grokers, an architecture for building persistent, structured comprehension of typed knowledge graphs through bottom-up inductive traversal of dependency subgraphs. Unlike retrieval-augmented generation (RAG), which pays full comprehension c",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2606.00052",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00052v1 Announce Type: new \nAbstract: As Industry 4.0 accelerates the integration of Cyber-Physical Systems (CPS) in manufacturing, robust anomaly detection has become critical for ensuring process safety and security. Current data-driven approaches typically employ \"product-agnostic\" or ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+      "url": "https://arxiv.org/abs/2606.00102",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00102v1 Announce Type: new \nAbstract: Over the centuries, probability theory has grown from the calculus of games of chance into a central framework for reasoning under uncertainty. This article interprets that evolution not merely as a mathematical history, but as a transformation of rat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset",
+      "url": "https://arxiv.org/abs/2606.00012",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00012v1 Announce Type: new \nAbstract: Multi-party dialogue discourse parsing aims to identify dependency structures and relation types between utterances in conversations. Previous studies are mostly limited to textual modality or two-party dialogue, failing to meet the multimodal and mul",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval",
+      "url": "https://arxiv.org/abs/2606.00014",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00014v1 Announce Type: new \nAbstract: Although studies have demonstrated that Large Language Models (LLMs) can perform well on Out-of-Distribution (OOD) tasks, their advantage tends to diminish as the distribution shift becomes more severe. Consequently, researchers aim to retrieve distri",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2606.00016",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00016v1 Announce Type: new \nAbstract: Detecting AI-generated text is becoming increasingly challenging as modern language models approach human-level fluency and can evade detectors that rely on surface statistics or likelihood-based signals. We propose \\textsc{AEyeDE}, an attribution-dri",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards",
+      "url": "https://arxiv.org/abs/2606.00020",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00020v1 Announce Type: new \nAbstract: Large Language Model (LLM) based Chinese Grammatical Error Correction (CGEC) systems face two critical challenges: general-purpose models lack specialized linguistic priors for subtle grammatical distinctions, and Supervised Fine-Tuning (SFT) with Max",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SENSE: Semantic Embedding Navigation with Soft-gated Evaluation for Retrieval-based Speculative Decoding",
+      "url": "https://arxiv.org/abs/2606.00021",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00021v1 Announce Type: new \nAbstract: Speculative Decoding (SD) accelerates Large Language Model (LLM) inference by employing a lightweight draft model to propose candidate tokens, which are verified in parallel by the target model, without compromising generation quality. While Retrieval",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "lmfaoooo at SemEval-2026 Task 1: Humor Is an Audience. Preference Modeling for Constrained Humor Generation",
+      "url": "https://arxiv.org/abs/2606.00022",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00022v1 Announce Type: new \nAbstract: Humor generation remains difficult not only because producing fluent, novel jokes is hard, but because \"funny\" is audience-dependent and supervision is noisy -- preferences vary with audience, context, and culture, and annotator agreement is often low",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TrustLDM: Benchmarking Trustworthiness in Language Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.00023",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00023v1 Announce Type: new \nAbstract: The rapid development of Language Diffusion Models (LDMs) challenges the dominant position of auto-regressive competitors in language processing. However, their flexible, any-order decoding strategies not only enable fast decoding speed but also poten",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ART: Attention Run-time Termination for Efficient Large Language Model Decoding",
+      "url": "https://arxiv.org/abs/2606.00024",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.00024v1 Announce Type: new \nAbstract: Long-context decoding in Large Language Models (LLMs) is severely constrained by the memory bandwidth required to fetch the extensive Key-Value (KV) cache. Most existing KV management methods rely on key-only pruning before decoding, despite the evide",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    }
+  ]
+}

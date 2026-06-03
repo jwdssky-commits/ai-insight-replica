@@ -1,0 +1,174 @@
+{
+  "title": "微软自研MAI推理模型与Scout assistant双线发布，AI行业格局生变",
+  "date": "2026-06-03",
+  "summary": "微软在Build 2026密集发布自研MAI-Thinking-1推理模型与Scout个人助理，标志其AI战略从依赖OpenAI转向自主研发；OpenAI则将Codex扩展至白领工作场景并官宣进军机器人赛道。国内方面，阿里云推出Qwen3.7-Plus多模态智能体，豆包即将开启付费订阅并打通抖音电商。政策层面，特朗普签署行政令建立前沿AI模型自愿审查框架，引发行业对监管趋严的关注。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "产品发布",
+    "Agent",
+    "机器人",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Microsoft’s first advanced reasoning AI is here",
+    "body": "微软在Build 2026发布自研旗舰推理模型MAI-Thinking-1（35B参数），标志其从完全依赖OpenAI转向自主模型研发，同时推出集成M365的AI助理Scout，重塑企业AI生产力格局。",
+    "source_url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微软发布自研高级推理模型MAI-Thinking-1",
+          "body": "微软在Build 2026推出首个自研旗舰推理模型MAI-Thinking-1，35B参数，专为复杂推理设计。此举标志其从完全依赖OpenAI转向自主模型研发，并同步发布多款MAI系列模型，加剧大模型领域竞争。",
+          "source_url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Microsoft",
+            "OpenAI",
+            "MAI-Thinking-1",
+            "Build 2026"
+          ]
+        },
+        {
+          "headline": "阿里云发布Qwen3.7-Plus多模态智能体基座",
+          "body": "阿里云百炼正式上线Qwen3.7-Plus，作为新一代多模态智能体基座，支持一键复刻桌面端专业软件能力。该模型强化工具调用与GUI自动化，显示国产大模型在Agent化与多模态融合方向的持续突破。",
+          "source_url": "https://www.qbitai.com/2026/06/427730.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "阿里云",
+            "Qwen3.7-Plus",
+            "通义千问"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI Codex扩展至白领工作场景发布六款插件",
+          "body": "OpenAI发布六款面向白领的Codex插件，覆盖数据分析、销售、投行等场景。Codex从代码生成工具向通用知识工作平台演进，通过集成上下文与指令实现特定岗位工作流自动化。",
+          "source_url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Codex"
+          ]
+        },
+        {
+          "headline": "HuggingFace发布Holo3.1本地计算机使用Agent",
+          "body": "HuggingFace推出Holo3.1，主打快速且本地运行的计算机使用Agent，无需云端即可实现GUI自动化。该方案为隐私敏感场景提供端侧AI编程与自动化新选择，推动本地Agent能力落地。",
+          "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "HuggingFace",
+            "Holo3.1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微软推出AI个人助理Scout深度集成M365",
+          "body": "微软发布基于OpenClaw架构的个人助理Scout，深度集成Outlook、Teams等M365应用。该助手可全天候协助管理日程与处理邮件，标志企业级AI从对话工具向嵌入式生产力代理转型。",
+          "source_url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Microsoft",
+            "Scout",
+            "OpenClaw",
+            "Microsoft 365"
+          ]
+        },
+        {
+          "headline": "Google Gemini Spark实现端到端AI旅行规划",
+          "body": "Google推出Gemini Spark AI代理，可自动完成旅行规划全流程，包括搜索航班、调研活动及实时调整行程。实测显示其具备高度自主性，但也引发对AI过度自动化及用户控制权的担忧。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemini Spark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "特朗普签署AI模型审查行政令建立自愿框架",
+          "body": "特朗普签署行政令，要求前沿AI公司在发布模型前与联邦政府共享，建立自愿审查框架。该政策以安全创新为名，开创美国联邦政府直接介入前沿模型发布流程的先例，影响全球监管风向。",
+          "source_url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Donald Trump",
+            "白宫"
+          ]
+        },
+        {
+          "headline": "宇树科技IPO过会OpenAI官宣进军人形机器人",
+          "body": "综合36氪报道，宇树科技IPO顺利过会，创始人王兴兴身家或超140亿元；OpenAI宣布进军机器人赛道。此外豆包将开启付费，英伟达推出DSX平台，SK海力士工厂发生火灾影响供应链。",
+          "source_url": "https://36kr.com/p/3835278829008257?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "宇树科技",
+            "王兴兴",
+            "OpenAI",
+            "豆包",
+            "英伟达",
+            "SK海力士"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Travelers保险全国部署OpenAI理赔助手",
+          "body": "美国保险巨头Travelers与OpenAI合作，全国推出AI Claim Assistant，7x24小时引导客户理赔并在高峰自动扩缩容。这是传统金融行业利用大模型重构客户服务与运营效率的标杆案例。",
+          "source_url": "https://openai.com/index/travelers",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Travelers",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "豆包6月下旬正式付费并加速打通抖音电商",
+          "body": "字节跳动旗下豆包将于6月下旬正式上线付费订阅，设68元至500元多档月费，同时加速与抖音电商打通。这标志着国内头部消费级AI进入规模化变现阶段，也是内容平台通过AI重构电商闭环的关键布局。",
+          "source_url": "https://36kr.com/p/3835814391100550?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "字节跳动",
+            "豆包",
+            "抖音电商"
+          ]
+        }
+      ]
+    }
+  ]
+}
