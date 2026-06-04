@@ -1,0 +1,170 @@
+{
+  "title": "资本狂潮与Agent落地：Alphabet创纪录融资850亿美元，具身智能再诞百亿独角兽",
+  "date": "2026-06-04",
+  "summary": "今日AI领域资本与产品双线爆发。Alphabet完成创纪录850亿美元融资，全力押注Google AI业务；深圳具身智能公司星尘智能三个月内融资超10亿元，估值破百亿，成为又一家机器人独角兽。产品层面，Meta正式全球推出WhatsApp Business AI Agent，OpenAI升级GPT-Rosalind专攻生命科学，Google Gemma 4 12B开源多模态模型引发开发者热议。与此同时，Uber限制Claude Code用量以控制成本，显示企业级AI工具正从试用走向精细化预算管理。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "融资",
+    "Agent",
+    "机器人",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Alphabet创纪录850亿美元融资加码Google AI业务",
+    "body": "Alphabet完成史上最大规模股票发售之一，为Google AI业务筹集850亿美元。此举凸显资本市场对AI赛道的极度看好，也预示Google将在模型研发、算力扩张与生态竞争中发起更激进的资本攻势，重塑行业竞争格局。",
+    "source_url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google发布Gemma 4 12B：无编码器统一多模态模型",
+          "body": "Google推出Gemma 4 12B，采用无编码器统一多模态架构，在Hacker News获得639分高热度。该模型延续了Google在端侧与开发者友好模型上的布局，为开源社区提供了新的多模态基准选择，可能加速轻量级AI应用的创新与落地。",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "source_name": "Google Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemma"
+          ]
+        },
+        {
+          "headline": "OpenAI升级GPT-Rosalind，专攻生命科学推理",
+          "body": "OpenAI发布GPT-Rosalind新能力，强化生物推理、药物化学、基因组分析及实验工作流。这是OpenAI在垂直科学领域深度布局的标志性动作，旨在将大模型能力从通用对话延伸至高精度科研场景，加速生命科学研究的智能化转型。",
+          "source_url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "GPT-Rosalind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Wasmer借助Codex与GPT-5.5十倍加速构建Node.js边缘运行时",
+          "body": "Wasmer利用OpenAI Codex与GPT-5.5开发Node.js边缘运行时，开发速度提升10至20倍，将原本数月的工期压缩至数周。该案例展示了前沿大模型在底层系统编程与运行时开发中的生产力飞跃，为AI辅助基础设施开发提供了可量化的商业验证。",
+          "source_url": "https://openai.com/index/wasmer",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Wasmer",
+            "GPT-5.5"
+          ]
+        },
+        {
+          "headline": "Uber限制员工使用Claude Code等AI工具以控制成本",
+          "body": "Uber开始限制内部对Claude Code等AI编码工具的使用量以管理支出。这一举动反映出头部科技企业在规模化部署AI编程助手时面临的真实成本压力，标志着AI Coding从无限试用走向预算管控阶段，对企业AI工具的采购与治理策略具有风向标意义。",
+          "source_url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+          "source_name": "Simon Willison / Bloomberg",
+          "importance": "medium",
+          "related_entities": [
+            "Uber",
+            "Anthropic",
+            "Claude Code"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Meta面向全球推出WhatsApp Business AI Agent并按token收费",
+          "body": "Meta宣布其WhatsApp Business AI Agent正式全球可用，企业使用需按token付费。这标志着Meta将生成式AI能力大规模导入商业 messaging 生态，试图通过会话式AI Agent重塑企业客户服务与营销触达模式，是全球消费级AI Agent商业化的重要里程碑。",
+          "source_url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Meta",
+            "WhatsApp"
+          ]
+        },
+        {
+          "headline": "Google Spark AI Agent因过度了解用户个人信息引发担忧",
+          "body": "The Verge编辑在测试Google新AI Agent Spark时发现，它能准确说出同事的狗名和妻子姓名等未主动提供的隐私信息。这一现象揭示了AI Agent在整合个人数据实现高效服务的同时，所带来的深层隐私与信任危机，引发对AI便利性与用户边界之间张力的反思。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemini",
+            "Spark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Alphabet创纪录850亿美元融资加码Google AI业务",
+          "body": "Alphabet完成创纪录的850亿美元股票发售，为Google AI业务提供庞大资金弹药。此次融资规模空前，显示出机构投资者对AI基础设施与商业化前景的强烈信心，也预示着Google将在算力、模型研发及生态扩张上发动更激进的资本投入。",
+          "source_url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Alphabet",
+            "Google"
+          ]
+        },
+        {
+          "headline": "星尘智能三个月融资超10亿，估值突破百亿元",
+          "body": "深圳具身智能公司星尘智能三个月内完成三轮B系列融资，累计超10亿元，估值破百亿，投资方包括腾讯、阿里、字节系及中科创达等。公司同时拿下千台级工业及商业服务订单，显示具身智能正从实验室快速迈向规模化商业落地。",
+          "source_url": "https://36kr.com/p/3836068296209537?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "星尘智能",
+            "Astribot",
+            "腾讯",
+            "阿里",
+            "中科创达"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "旷行科技获财通、商汤投资，打造高危场景具身机器人大脑",
+          "body": "浙大教授团队创立的旷行科技完成数千万元Pre-A轮融资，由财通资本和商汤国香投资。公司专注矿山、电力、油气等高危工业场景的机器人AI大脑，代表具身智能向垂直重工业领域深度渗透，推动传统高危行业通过AI实现无人化运维转型。",
+          "source_url": "https://36kr.com/p/3836744788014208?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "旷行科技",
+            "商汤",
+            "财通资本"
+          ]
+        },
+        {
+          "headline": "Coralogix融资2亿美元构建AI Agent可观测性基础设施",
+          "body": "Coralogix完成2亿美元融资，专注为生产环境中的AI Agent提供监控、故障排查与行为可观测性工具。随着企业加速部署AI Agent，系统可靠性需求激增，Coralogix所代表的AI运维层正成为企业AI转型中不可或缺的新型基础设施。",
+          "source_url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Coralogix"
+          ]
+        }
+      ]
+    }
+  ]
+}
