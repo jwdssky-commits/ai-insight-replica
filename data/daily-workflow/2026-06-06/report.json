@@ -1,0 +1,156 @@
+{
+  "title": "Google天价签约SpaceX算力，微信A2A助手落地手机终端",
+  "date": "2026-06-06",
+  "summary": "Google宣布每月向SpaceX支付9.2亿美元购买算力，以应对AI产品激增的需求，凸显全球算力资源紧张。国内方面，微信与华为、小米等手机厂商达成合作，推出基于A2A协议的Agent-to-Agent助手能力。此外，华为云与腾讯云同日发布企业级AI产品，分别推出Agentic AI新品和WorkBuddy企业版，加速中国企业智能化转型。",
+  "tags": [
+    "AI行业",
+    "企业AI转型",
+    "Agent",
+    "大模型",
+    "热点",
+    "融资",
+    "产品发布"
+  ],
+  "highlight": {
+    "title": "Google每月支付SpaceX 9.2亿美元购买算力",
+    "body": "Google与SpaceX达成每月9.2亿美元算力采购协议，年化超110亿美元，创AI基础设施交易纪录。这反映出Google AI产品需求远超预期，全球科技巨头正陷入算力资源争夺战，SpaceX也有望成为分布式算力新巨头。",
+    "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Gemma 4推出QAT量化模型，瞄准端侧高效推理",
+          "body": "Google发布Gemma 4量化感知训练（QAT）模型，专为移动设备和笔记本电脑优化压缩效率。该技术在保持模型精度的同时显著降低推理开销，意味着高性能大模型可更广泛地部署在端侧设备，减少对云端依赖，推动端侧AI应用落地。",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+          "source_name": "Google AI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemma"
+          ]
+        },
+        {
+          "headline": "30亿参数小模型驱动多智能体经济实验",
+          "body": "Hugging Face博客展示了一项名为Thousand Token Wood的实验，在30亿参数小模型上构建多智能体经济系统。研究证明小模型足以支撑复杂的Agent协作与经济模拟，为低成本、高效率的边缘AI Agent部署提供了可行性验证，拓展了小模型能力边界。",
+          "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Hugging Face"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Ladybird浏览器宣布不再接受公开PR，应对AI生成代码挑战",
+          "body": "Ladybird浏览器创始人Andreas Kling宣布不再接受公开Pull Request，因为AI生成代码使大量补丁代表诚意的开源假设失效。此举折射出AI Coding普及后，开源社区面临的代码质量与信任危机，引发开发者对协作模式重构的广泛讨论。",
+          "source_url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+          "source_name": "Simon Willison's Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Andreas Kling",
+            "Ladybird",
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微信联合手机厂商推出A2A助手能力，重构系统级Agent交互",
+          "body": "微信确认与华为、小米、荣耀、OPPO、vivo等手机厂商合作，推出基于A2A（Agent-to-Agent）协议的助手能力。用户可通过手机系统AI助手直接发起微信通话或发消息，数据安全由双重授权保障。这标志着超级App与系统层Agent深度协同，可能重塑移动端AI交互入口。",
+          "source_url": "https://36kr.com/p/3839575253993985?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "微信",
+            "腾讯",
+            "华为",
+            "小米"
+          ]
+        },
+        {
+          "headline": "WPS笔记发布，AI重构记录整理与知识复用全流程",
+          "body": "WPS笔记正式发布，将AI能力融入记录、整理与复用全过程。产品定位为信息入口而非简单聊天框，旨在解决知识管理中的信息流转问题。这表明办公赛道正从通用对话工具向垂直场景的深度AI工作流演进，金山办公在AI生产力工具领域的布局进一步加深。",
+          "source_url": "https://www.qbitai.com/2026/06/431014.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "WPS",
+            "金山办公"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google每月支付SpaceX 9.2亿美元购买算力，创行业纪录",
+          "body": "Google宣布每月向SpaceX支付9.2亿美元购买算力，以支持其近期AI产品的意外需求激增。这笔年化超110亿美元的交易创行业纪录，反映科技巨头面临前所未有的算力缺口，也显示SpaceX有望成为重要分布式算力提供商。",
+          "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "SpaceX"
+          ]
+        },
+        {
+          "headline": "原力灵机并购物流机器人公司，获智谱商汤阶跃等投资",
+          "body": "旷视联合创始人唐文斌创办的具身智能公司原力灵机并购物流机器人企业，并完成新一轮融资，智谱、阶跃星辰、商汤科技等大模型公司参与投资。这显示具身智能赛道进入整合期，大模型厂商积极向下游机器人场景延伸布局。",
+          "source_url": "https://36kr.com/p/3838835333253385?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "唐文斌",
+            "原力灵机",
+            "旷视科技",
+            "智谱AI",
+            "商汤科技",
+            "阶跃星辰"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "华为云发布Agentic AI系列新品，打造企业智能底座",
+          "body": "华为云正式发布Agentic AI系列新品，定位打造智能时代的硅基黑土地。该产品面向企业市场提供Agent化AI能力，旨在降低智能应用构建门槛。此举加剧国内云厂商在企业AI Agent平台的竞争，推动传统行业智能化基础设施升级。",
+          "source_url": "https://www.qbitai.com/2026/06/431027.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "华为云",
+            "华为"
+          ]
+        },
+        {
+          "headline": "腾讯云推出WorkBuddy企业版，瞄准超级团队协同",
+          "body": "腾讯云推出WorkBuddy企业版，从超级个体向超级团队升级，主打企业AI效率工具市场。该产品瞄准组织协同场景，试图成为企业AI效率工具的新标配。腾讯借此进一步完善其To B产品矩阵，与钉钉、飞书等竞品在AI办公赛道展开直接较量。",
+          "source_url": "https://www.qbitai.com/2026/06/430758.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "腾讯云",
+            "腾讯"
+          ]
+        }
+      ]
+    }
+  ]
+}
