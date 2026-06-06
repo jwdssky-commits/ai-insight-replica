@@ -1,0 +1,603 @@
+{
+  "date": "2026-06-07",
+  "collected_at": "2026-06-06T23:33:16.179613+00:00",
+  "item_count": 49,
+  "items": [
+    {
+      "title": "micropython-wasm 0.1a2",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-06T04:26:06+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/micropython-wasm/releases/tag/0.1a2\">micropython-wasm 0.1a2</a></p>\n        <p>I added a CLI to <code>micropython-wasm</code> (<a href=\"https://github.com/simonw/micropython-wasm/issues/7\">issue #7</a>), inspired by the first draft of <",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-06T03:53:34+00:00",
+      "summary": "<p>I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called <a href=\"https://github.com/simonw/micropython",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI Help: Lockdown Mode",
+      "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-05T23:56:40+00:00",
+      "summary": "<p><strong><a href=\"https://help.openai.com/en/articles/20001061-lockdown-mode\">OpenAI Help: Lockdown Mode</a></strong></p>\nOpenAI first teased this <a href=\"https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/\">in February</a>, but now it's live and \"rolling out t",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 06 Jun 2026 17:42:15 +0000",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 06 Jun 2026 16:17:21 +0000",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-06T11:05:00-04:00",
+      "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-06T10:00:00-04:00",
+      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Here comes new Siri again",
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-06T08:00:00-04:00",
+      "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Updates to Legal Terms",
+      "url": "https://vercel.com/changelog/updates-to-legal-terms-june-2026",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-04T18:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nemotron 3 Ultra now available on AI Gateway",
+      "url": "https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-04T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Edit Git settings for all projects in a repo",
+      "url": "https://vercel.com/changelog/edit-git-settings-for-all-projects-in-a-repo",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-02T06:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Signed URLs are now available for Vercel Blob",
+      "url": "https://vercel.com/changelog/signed-urls-are-now-available-for-vercel-blob",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-02T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "url": "https://www.qbitai.com/2026/06/431371.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 06 Jun 2026 10:14:54 +0000",
+      "summary": "造火箭的正在批量造巨富",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "url": "https://www.qbitai.com/2026/06/431287.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 06 Jun 2026 07:15:13 +0000",
+      "summary": "观众投币定前十！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Hinton吹哨了：AI已经有意识！",
+      "url": "https://www.qbitai.com/2026/06/431349.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 06 Jun 2026 07:08:15 +0000",
+      "summary": "人类得接受自己不再是唯一智能生命体",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
+      "url": "https://www.qbitai.com/2026/06/431186.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 06 Jun 2026 07:00:06 +0000",
+      "summary": "广东上大分！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 06 Jun 2026 03:35:47 +0000",
+      "summary": "形成「鞋履+人工智能数据」双主业",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-06 09:07:19  +0800",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX据悉将其IPO的日本融资目标提高至25亿美元</p>\n  <p>二手房挂牌量回落新房库存下降，楼市供需关系向好</p>\n  <p>B站宣布启动AI创造公开赛</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>数据显示，豆包推出付费后月活减少610万&nbsp;</strong></p>\n  <p>据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Sat, 06 Jun 2026 19:02:33 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Desktop 的人一定是有超大显示屏，所以设计出来的 Side chat 才这么袖珍！根本没法好好浏览，甚至内容都无法直接复制出来！",
+      "url": "https://nitter.net/dotey/status/2063374139826565180#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 21:35:05 GMT",
+      "summary": "<p>Claude Desktop 的人一定是有超大显示屏，所以设计出来的 Side chat 才这么袖珍！根本没法好好浏览，甚至内容都无法直接复制出来！</p>\n<img src=\"https://nitter.net/pic/media%2FHKKTrVdXAAAVsUf.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>宝玉 (@dotey)</b>\n<p>\n<p>Claude Desktop 打开内置的网页预览的那一刻我惊呆了，一个屏幕居然能放下这么多 Panels！<br>\n<br>\n这产品经理应该是用 Zoom 开视频会",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "审美 Claude opus 4.8 > GPT 5，设计相关任务还是得 Opus",
+      "url": "https://nitter.net/dotey/status/2063314623613337822#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 17:38:35 GMT",
+      "summary": "<p>审美 Claude opus 4.8 &gt; GPT 5，设计相关任务还是得 Opus</p>\n<hr/>\n<blockquote>\n<b>向阳乔木 (@vista8)</b>\n<p>\n<p>跟Tom聊完了，直播中讨论的大模型前端审美主观排名：<br>\n<br>\nClaude opus 4.8 &gt; kimi2.6 &gt; GPT 5.5 &gt; Deepseek v4 pro &gt; GLM 5.1&gt; deepseek v4 flash<br>\n<br>\n不知道和你的实际使用体感一样不一样。<br>\n<br>\n声明：都是大家的主观看法，没有Benchmark。</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "微信的傲慢不是盖的🫠",
+      "url": "https://nitter.net/dotey/status/2063313071691481348#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 17:32:25 GMT",
+      "summary": "<p>微信的傲慢不是盖的🫠</p>\n<hr/>\n<blockquote>\n<b>Frank Wang 玉伯 (@lifesinger)</b>\n<p>\n<p>这几天陪老家的亲戚，都是六七十年代生人。有几个很深的感触：<br>\n<br>\n1、微信、拼多多、抖音非常伟大。基本上涵盖了老一辈用手机的所有场景。其他应用确实都没有存在的必要。除了豆包，逐步有老人家提及，并在研究怎么用，能明显感觉到那种提及时的兴奋感。<br>\n<br>\n2、同时越来越觉得微信非常傲慢。老人家一方面离不开微信，一方面在遇到各种问题时，因为需求不在张小龙的最大公约数内，被直接忽略了。比如：老人家出来游玩，很喜欢拍照，并且是互",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: “Knobs mode” 在界面上主要对应普通 HTML 预览的 Edit 模式。启用后，用户点击画布元素，左侧会出现 KnobsPanel，可以拖拽或输入调整 CSS。",
+      "url": "https://nitter.net/dotey/status/2063310214569295968#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 17:21:04 GMT",
+      "summary": "<p>“Knobs mode” 在界面上主要对应普通 HTML 预览的 Edit 模式。启用后，用户点击画布元素，左侧会出现 KnobsPanel，可以拖拽或输入调整 CSS。</p>\n<hr/>\n<blockquote>\n<b>理查富贵罗 (@yyneo01)</b>\n<p>\n<p>宝玉老师 Knobs mode 在哪开启呀，找半天没找到呀</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/yyneo01/status/2063303306966188269#m\">https://nitter.net/yyneo01/status/",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Design 的小贴士很有意思：\n\n### 第一部分：产品设计心法\n\n1. 交互的本质\n- EN: A prototype nobody clicks is just a painting.\n- CN: 没人点击交互的产品原型，充其量只是一幅画罢了。\n\n2. 设计的最高境界\n- EN: The best design system is the one nobody notices.\n- CN: 最好的设计系统，是自然到让人察觉不到它的存在。\n\n3. 字体搭配\n- EN: You cannot unsee a bad font pairing. Choose carefully.\n- CN: 糟糕的字体搭配一旦入眼，就再也忘不掉了。挑选时请务必慎重。\n\n4. 像素级克制\n- EN: Every pixel argues for attention. Most should lose.\n- CN: 屏幕上的每一个像素都在疯狂争夺用户的注意力，但绝大部分像素都应该学会“让步”。\n\n5. 发布的意义\n- EN: The fastest way to finish a design is to ship it.\n- CN: 完成一个设计的绝对捷径，就是把它发布上线。\n\n6. 留白的艺术\n- EN: Whitespace is not empty. It is the silence between the notes.\n- CN: 留白并不代表空洞。它是乐谱上音符之间那迷人的停顿。\n\n7. 色彩法则\n- EN: If you need more than three colors, you have zero colors.\n- CN: 如果你觉得需要三种以上的颜色才能把控画面，那说明你完全失去了对颜色的掌控。\n\n8. 核心规范\n- EN: The user's mental model is the only spec that matters.\n- CN: 用户的心理模型 (mental model)，才是唯一真正重要的产品规范。\n\n---\n\n### 第二部分：日常实用小妙招 (Info)\n\n9. 去除鞋底口香糖\n- EN: Freeze gum with an ice cube for 2 minutes. It peels right off shoes.\n- CN: 用冰块冷敷口香糖 2 分钟，就能把它从鞋底轻松撕下来。\n\n10. 清洁微波炉\n- EN: Microwave a damp paper towel for 30 seconds. Crud wipes right off the inside.\n- CN: 把湿纸巾放进微波炉里加热 30 秒。微波炉内壁的顽固污垢立刻就能一擦就掉。\n\n11. 拧开滑丝的螺丝\n- EN: A rubber band over a stripped screw head gives enough grip to turn it.\n- CN: 把一根橡皮筋垫在滑丝的螺丝头上，就能增加足够的摩擦力把它拧出来。\n\n12. 修复木家具划痕\n- EN: Run walnuts over scratched wood furniture. The oils fill the scratches.\n- CN: 拿核桃仁在被划伤的木质家具上摩擦。核桃的天然油脂会完美填补那些划痕。\n\n13. 面包保鲜秘诀\n- EN: Store bread in the freezer. Toasting it from frozen tastes better than fresh.\n- CN: 把面包存在冷冻室里。冷冻后再拿去烤，口感甚至比新鲜出炉的还要好。\n\n14. 砧板除味\n- EN: Rub a wooden cutting board with lemon and salt to deodorize it completely.\n- CN: 用柠檬和盐摩擦木质砧板，可以彻底去除难闻的异味。\n\n15. 防止沸水溢出\n- EN: Put a wooden spoon across a boiling pot. It won't boil over.\n- CN: 在沸腾的锅面上横放一把木勺，汤汁就不会溢出来了。\n\n16. 炒出蓬松鸡蛋\n- EN: Adding a splash of water instead of milk makes fluffier eggs. Milk makes them dense.\n- CN: 炒鸡蛋时加一点水而不是牛奶，煎出来的鸡蛋会更蓬松。加牛奶反而会让鸡蛋变紧实。\n\n---\n\n### 第三部分：Claude 操作与交互技巧\n\n17. 语音控制\n- EN: Talk to Claude: tap ⌘G to start voice input, or hold Space in a comment to dictate.\n- CN: 语音对话 Claude：按下 ⌘G 即可启动语音输入，或者在写评论时按住空格键直接口述。\n\n18. 智能识图\n- EN: Drop images here — they auto-attach to your next message as context.\n- CN: 直接把图片拖到这里——它们会自动附加到你的下一条消息中，作为上下文（Context，即帮助 AI 理解你意图的背景信息）使用。\n\n19. 快捷截图\n- EN: ⌘V pastes screenshots straight from your clipboard into the chat view.\n- CN: 按 ⌘V 可以将剪贴板里的截图直接粘贴到聊天界面中。\n\n20. 代码库读取\n- EN: Mount a local folder from the Import menu — Claude reads your codebase live, no copying.\n- CN: 从“导入”(Import) 菜单挂载本地文件夹——Claude 能实时读取你的代码库 (codebase)，再也不用你手动来回复制粘贴代码了。\n\n21. 导入专业知识\n- EN: Attach skills or reference design systems from the Import menu.\n- CN: 从“导入”菜单中添加特定技能，或者引入你需要参考的设计系统。\n\n22. 精准批注\n- EN: Click \"Comment\" in the toolbar, then click any element to annotate it.\n- CN: 点击工具栏上的“评论”(Comment)，然后点击界面上的任何元素，就可以给它添加批注了。\n\n23. 批量发送\n- EN: Leave multiple comments before sending — they all batch into one message.\n- CN: 你可以在发送前留下多条评论——它们会被打包合并成一条消息一起发给 Claude。\n\n24. 原地修改文本\n- EN: Text edit mode lets you click text in the preview and rewrite it in-place.\n- CN: 开启文本编辑模式后，你只需在预览区域点击文字，就能原地修改它。\n\n25. 输入框管理\n- EN: Comments and text edits appear as chips in the composer. Remove any you don't want.\n- CN: 你的评论和文本修改会变成输入框里的一块块小标签 (chips)。遇到不满意的，随时点叉删掉就行。\n\n26. 实时 UI 调试\n- EN: Knobs mode lets you drag-adjust CSS values live — sizes, colors, spacing. Use a prompt to control the UI.\n- CN: 在“旋钮模式”(Knobs mode) 下，你可以像拧收音机旋钮一样，通过拖拽来实时调整 CSS（层叠样式表，网页外观设计的代码语言）数值，比如大小、颜色和间距。你也可以直接用提示词 (prompt) 来控制用户界面 (UI)。\n\n27. 产品原型进化\n- EN: \"Prototype\" starts at wireframes, moves to hi-fi, and ends as a working interactive app.\n- CN: “原型”(Prototype) 功能带你走完产品设计的全流程：从简单的线框图开始，进化到高保真设计图，最终变成一个真正能点、能用的交互式应用。\n\n28. 生成演讲稿\n- EN: Turn on speaker notes when creating decks to get a full presenter script.\n- CN: 让 AI 帮你制作幻灯片 (decks) 时，记得打开“演讲者备注”(speaker notes)，这样你就能直接获得一份完整的演讲稿。\n\n29. 沉淀工作流\n- EN: Ask Claude to \"save this as a template\" — it packages the workflow for reuse.\n- CN: 告诉 Claude“把这个保存为模板”——它就会把这套工作流 (workflow) 打包，方便你下次直接复用。\n\n30. 多格式导出\n- EN: The Share menu lets you export as PPTX, PDF, or a folder to give to Claude Code.\n- CN: 通过“分享”(Share) 菜单，你可以把作品导出为 PPTX、PDF，或者打包成一个文件夹交给 Claude Code（Anthropic 推出的面向开发者的命令行 AI 编程助手）。\n\n31. 无缝对接开发\n- EN: \"Handoff to Claude Code\" creates a dev-ready package with specs and structure. Download it, then tell Claude Code \"create this design.\"\n- CN: “移交至 Claude Code”(Handoff to Claude Code) 功能会为你生成一个包含规范和结构的“开发就绪”数据包。下载它，然后直接告诉 Claude Code：“帮我把这个设计写成代码。”\n\n32. 切换模型大脑\n- EN: Use the Gear next to the Send button to change model.\n- CN: 点击发送按钮旁边的齿轮图标，即可随时切换不同的大语言模型 (LLM)。\n\n33. 原型内嵌 API\n- EN: Claude can call the Claude API from inside your prototypes. No backend needed.\n- CN: Claude 甚至可以直接在你的产品原型中调用 Claude API（应用程序编程接口，相当于连接 AI 大脑的通道）。完全不需要写任何后端代码！\n\n34. 网页语音交互\n- EN: Ask Claude to use the Web Speech API for interactive voice input and output.\n- CN: 试试让 Claude 调用 Web Speech API（浏览器内置的语音合成与识别接口），让你的网页直接实现可以对话的语音输入与输出。\n\n35. 手绘草图\n- EN: The napkin sketch tool lets you draw freehand — great for rough layouts.\n- CN: “餐巾纸草图”(napkin sketch) 工具允许你随心所欲地手绘涂鸦——非常适合用来勾勒粗略的排版布局。\n\n36. 捕获真实网页\n- EN: Import → Web Capture lets you copy elements from real web pages and paste them to Claude.\n- CN: 使用“导入”→“网页捕获”(Web Capture)，你可以直接从真实的网页上复制元素，然后原封不动地粘贴给 Claude。",
+      "url": "https://nitter.net/dotey/status/2063291945972060525#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 16:08:28 GMT",
+      "summary": "<p>Claude Design 的小贴士很有意思：<br>\n<br>\n### 第一部分：产品设计心法<br>\n<br>\n1. 交互的本质<br>\n- EN: A prototype nobody clicks is just a painting.<br>\n- CN: 没人点击交互的产品原型，充其量只是一幅画罢了。<br>\n<br>\n2. 设计的最高境界<br>\n- EN: The best design system is the one nobody notices.<br>\n- CN: 最好的设计系统，是自然到让人察觉不到它的存在。<br>\n<br>\n3. 字体搭配<br>\n- EN:",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Vibe Coding 这个名字不好，容易联想成让 AI 生成垃圾代码。以后程序员无论是前端还是后端，无论你是编程高手还是小白，主流都是人指挥 AI 写代码。\n\n✅程序员的角色会变成 Tech Lead 这样的角色：分解任务、架构选型、代码审查和调试。至于写代码，会越来越少的手写。\n\n❌但不建议当老板的角色：我想要什么功能你给我实现，实现不了就开除。\n\n如果你还没有习惯指挥 AI 写代码，建议：\n1. 开始适应指挥 AI 写代码而不是亲自写代码；\n2. 用你能用到的最聪明的模型，不要省钱\n3. 开始之前认真设计，至少复杂一点的用 Plan mode 讨论清楚设计，如果你对设计都不参与你对代码库无法了解未来还是会失控\n4. 一次不要做太多，AI生成后要做审查，因为 AI 不会担责任，你还是责任主体\n5. 刻意的做一些手写代码的练习，尽可能搞懂 AI 生成的代码",
+      "url": "https://nitter.net/dotey/status/2063282159259898162#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 15:29:35 GMT",
+      "summary": "<p>Vibe Coding 这个名字不好，容易联想成让 AI 生成垃圾代码。以后程序员无论是前端还是后端，无论你是编程高手还是小白，主流都是人指挥 AI 写代码。<br>\n<br>\n✅程序员的角色会变成 Tech Lead 这样的角色：分解任务、架构选型、代码审查和调试。至于写代码，会越来越少的手写。<br>\n<br>\n❌但不建议当老板的角色：我想要什么功能你给我实现，实现不了就开除。<br>\n<br>\n如果你还没有习惯指挥 AI 写代码，建议：<br>\n1. 开始适应指挥 AI 写代码而不是亲自写代码；<br>\n2. 用你能用到的最聪明的模型，不要省钱<br>\n3. 开始之前认真设计，至少",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "当时发这个 PR 的时候，只是实现了最基本的多语言，所以语言覆盖不够，还有很多是英文；另外设计上是参考颜色模式的选择，会有个隐含的问题：如果语言数量一多，就无法在一屏显示下了\n\n所以昨天花了不少时间做了多语言的覆盖，基本上能找到的硬编码文字都换成了多语言；另外把语言选择换成了可以检索的 Dropdown List。\n\n现在 PR 已经被合并了，下个版本 Hermes Desktop 可以支持更多语言了，为了测试语言的支持，加上了完整的繁体中文和日文的支持。\n\n翻译主要借助于 Web 版的翻译和 AI 辅助的翻译，所以难免有错误，建议如果有错误可以自行提交 PR。",
+      "url": "https://nitter.net/dotey/status/2063277561266782661#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 15:11:19 GMT",
+      "summary": "<p>当时发这个 PR 的时候，只是实现了最基本的多语言，所以语言覆盖不够，还有很多是英文；另外设计上是参考颜色模式的选择，会有个隐含的问题：如果语言数量一多，就无法在一屏显示下了<br>\n<br>\n所以昨天花了不少时间做了多语言的覆盖，基本上能找到的硬编码文字都换成了多语言；另外把语言选择换成了可以检索的 Dropdown List。<br>\n<br>\n现在 PR 已经被合并了，下个版本 Hermes Desktop 可以支持更多语言了，为了测试语言的支持，加上了完整的繁体中文和日文的支持。<br>\n<br>\n翻译主要借助于 Web 版的翻译和 AI 辅助的翻译，所以难免有错误，建议如果有错",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "《图解Skill》需要复制粘贴的内容基本都在 GitHub Repo，包括一些我之前没开源的自己用的 Skills，比如从播客文字稿生成访谈稿的 Skill，理论上来说你不买书也可以的。\n\nRepo地址：\nhttps://github.com/JimLiu/Illustrated-Agent-Skills\n电子书版本已经发布了，购买链接：https://www.ituring.com.cn/book/3616",
+      "url": "https://nitter.net/dotey/status/2063107627744145812#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 03:56:03 GMT",
+      "summary": "<p>《图解Skill》需要复制粘贴的内容基本都在 GitHub Repo，包括一些我之前没开源的自己用的 Skills，比如从播客文字稿生成访谈稿的 Skill，理论上来说你不买书也可以的。<br>\n<br>\nRepo地址：<br>\n<a href=\"https://github.com/JimLiu/Illustrated-Agent-Skills\">github.com/JimLiu/Illustrate…</a><br>\n电子书版本已经发布了，购买链接：<a href=\"https://www.ituring.com.cn/book/3616\">ituring.com.cn/book/",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Codex 里面可以 Review 代码的修改（比如选择Last turn就是上一次 AI 更改的），然后可以对部分内容进行评论，评论的内容会直接附加在左侧的会话内，提交就可以作为上下文发给 Agent，让它对评论处理",
+      "url": "https://nitter.net/dotey/status/2063104010148557018#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 03:41:41 GMT",
+      "summary": "<p>Codex 里面可以 Review 代码的修改（比如选择Last turn就是上一次 AI 更改的），然后可以对部分内容进行评论，评论的内容会直接附加在左侧的会话内，提交就可以作为上下文发给 Agent，让它对评论处理</p>\n<img src=\"https://nitter.net/pic/media%2FHKGdty6WgAAQ40n.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKGeJ4FWQAAMrsO.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我比你还惨，给几家 AI 公司做牛做马\n\n既怕 Token 不够用，又怕 Token 没用完！",
+      "url": "https://nitter.net/dotey/status/2063079705956237316#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 06 Jun 2026 02:05:06 GMT",
+      "summary": "<p>我比你还惨，给几家 AI 公司做牛做马<br>\n<br>\n既怕 Token 不够用，又怕 Token 没用完！</p>\n<hr/>\n<blockquote>\n<b>图拉鼎 (@tualatrix)</b>\n<p>\n<p>我就是 OpenAI 的驴，每天起床先看看有没有余量 Token，有就开始消耗。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/tualatrix/status/2063069013685698931#m\">https://nitter.net/tualatrix/status/206306901368569",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Hermes Agent is for the Artists",
+      "url": "https://nitter.net/NousResearch/status/2063379687070466559#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 06 Jun 2026 21:57:07 GMT",
+      "summary": "<p>Hermes Agent is for the Artists</p>\n<img src=\"https://nitter.net/pic/media%2FHKKY2haXMAA-alw.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Updated the skills hub integration search in the Hermes Agent Dashboard to be way more comprehensive and give you the info you need.",
+      "url": "https://nitter.net/Teknium/status/2063196560905965869#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 06 Jun 2026 09:49:27 GMT",
+      "summary": "<p>Updated the skills hub integration search in the Hermes Agent Dashboard to be way more comprehensive and give you the info you need.</p>\n<img src=\"https://nitter.net/pic/media%2FHKHxhzTaoAAiGux.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hermes Desktop 现已支持简体中文——聊天界面完整适配简体中文。\n\n桌面应用现在已在所有 UI 界面全面提供简体中文（Simplified Chinese / 简体中文）翻译：包括聊天窗口本身、侧边栏、设置、命令中心、cron、消息、个人资料、技能、智能体等全部内容。\n\n英语仍为默认语言；你可以在“外观”设置中切换语言，选择后会自动保存到配置项 display.language。",
+      "url": "https://nitter.net/NousResearch/status/2063105834570121719#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 06 Jun 2026 03:48:56 GMT",
+      "summary": "<p>Hermes Desktop 现已支持简体中文——聊天界面完整适配简体中文。<br>\n<br>\n桌面应用现在已在所有 UI 界面全面提供简体中文（Simplified Chinese / 简体中文）翻译：包括聊天窗口本身、侧边栏、设置、命令中心、cron、消息、个人资料、技能、智能体等全部内容。<br>\n<br>\n英语仍为默认语言；你可以在“外观”设置中切换语言，选择后会自动保存到配置项 display.language。</p>\n<hr/>\n<blockquote>\n<b>Nous Research (@NousResearch)</b>\n<p>\n<p>Hermes Agent v0.",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: Full Release Notes:  http://github.com/NousResearch/hermes-agent/releases/tag/v2026.6.5\n\nHermes Desktop: http://hermes-agent.nousresearch.com/desktop\n\nTo update, run: 'hermes update'",
+      "url": "https://nitter.net/NousResearch/status/2063075373785428083#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 06 Jun 2026 01:47:53 GMT",
+      "summary": "<p>Full Release Notes:  <a href=\"http://github.com/NousResearch/hermes-agent/releases/tag/v2026.6.5\">github.com/NousResearch/herm…</a><br>\n<br>\nHermes Desktop: <a href=\"http://hermes-agent.nousresearch.com/desktop\">hermes-agent.nousresearch.co…</a><br>\n<br>\nTo update, run: 'hermes update'</p>\n<img s",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pinned: Hermes Agent v0.16.0 - “The Surface Release”\n\nChangelog below:",
+      "url": "https://nitter.net/NousResearch/status/2063075092859637888#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 06 Jun 2026 01:46:46 GMT",
+      "summary": "<p>Hermes Agent v0.16.0 - “The Surface Release”<br>\n<br>\nChangelog below:</p>\n<a href=\"https://nitter.net/NousResearch/status/2063075092859637888#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/media%2FHKGDtZ6aMAABvJY.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot (322pts)",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T18:35:27Z",
+      "summary": "HN热度: 322分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements (143pts)",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T15:35:49Z",
+      "summary": "HN热度: 143分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "US House lawmakers release draft bill to prohibit state AI rules (105pts)",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T13:40:22Z",
+      "summary": "HN热度: 105分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers (61pts)",
+      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T12:15:59Z",
+      "summary": "HN热度: 61分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy (194pts)",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T09:17:49Z",
+      "summary": "HN热度: 194分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs (217pts)",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T12:52:18Z",
+      "summary": "HN热度: 217分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introduction – Rust for Python Programmers (66pts)",
+      "url": "https://microsoft.github.io/RustTraining/python-book/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T10:52:25Z",
+      "summary": "HN热度: 66分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nordstjernen 1.0 (53pts)",
+      "url": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
+      "source": "Hacker News (API)",
+      "published": "2026-06-05T23:42:54Z",
+      "summary": "HN热度: 53分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ask HN: Why is the HN crowd so anti-AI? (357pts)",
+      "url": "https://news.ycombinator.com/item?id=48420827",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T02:31:51Z",
+      "summary": "HN热度: 357分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic (1329pts)",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-06T04:38:36Z",
+      "summary": "HN热度: 1329分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[ollama/ollama] v0.30.6",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6",
+      "source": "GitHub (ollama/ollama)",
+      "published": "2026-06-05T20:00:18Z",
+      "summary": "## What's Changed\r\n* `ollama launch omp` now integrates with [Oh My Pi](https://omp.sh), an AI coding agent with IDE integration\r\n* MLX embedding layers now use NVFP4 global scale for improved quantization on Apple Silicon\r\n\r\n\r\n**Full Changelog**: https://github.com/ollama/ollama/compare/v0.30.5...v",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[anthropics/anthropic-sdk-python] v0.107.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.107.0",
+      "source": "GitHub (anthropics/anthropic-sdk-python)",
+      "published": "2026-06-06T17:13:25Z",
+      "summary": "## 0.107.0 (2026-06-06)\n\nFull Changelog: [v0.106.0...v0.107.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.106.0...v0.107.0)\n\n### Features\n\n* **api:** small updates to Managed Agents types ([72923f9](https://github.com/anthropics/anthropic-sdk-python/commit/72923f986f808597f86482a7",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[anthropics/anthropic-sdk-python] v0.106.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.106.0",
+      "source": "GitHub (anthropics/anthropic-sdk-python)",
+      "published": "2026-06-05T21:13:11Z",
+      "summary": "## 0.106.0 (2026-06-05)\n\nFull Changelog: [v0.105.2...v0.106.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.105.2...v0.106.0)\n\n### Features\n\n* **api:** mark Claude Opus 4.1 as deprecated ([85068cc](https://github.com/anthropics/anthropic-sdk-python/commit/85068cc4cb42feecb80a378942c",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
