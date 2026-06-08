@@ -1,0 +1,152 @@
+{
+  "title": "OpenAI冲刺IPO对标Anthropic，苹果WWDC重塑Siri AI体验",
+  "date": "2026-06-09",
+  "summary": "OpenAI正式向SEC秘密提交S-1文件启动IPO，紧随Anthropic之后，开启AI超级独角兽的资本市场竞速。苹果在WWDC 2026发布全新Siri AI与新一代Apple Intelligence，全面加码消费级AI。国内方面，腾讯高管回应AI布局节奏，豆包付费后月活减少610万引发行业对AI产品商业化的讨论。",
+  "tags": [
+    "AI行业",
+    "AI应用",
+    "企业AI转型",
+    "大模型",
+    "融资",
+    "产品发布",
+    "热点"
+  ],
+  "highlight": {
+    "title": "OpenAI秘密向SEC提交S-1文件，正式启动IPO程序",
+    "body": "OpenAI官方确认已秘密提交IPO注册草案，成为继Anthropic后第二家冲刺公开市场的AI超级独角兽。此举标志着AI产业从私募融资迈向公开市场的重要转折点，将深刻影响全球AI资本格局与产业竞争态势。",
+    "source_url": "https://openai.com/index/openai-submits-confidential-s-1"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI启动经济研究计划探讨AGI对劳动力市场影响",
+          "body": "OpenAI启动Economic Research Exchange计划，联合学术界研究AI对就业、生产力及宏观经济的影响。该计划通过开放申请支持精选研究项目，试图量化AGI带来的经济变革，为政策制定提供数据支撑，体现其对技术社会外部性的系统性关注。",
+          "source_url": "https://openai.com/index/economic-research-exchange",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "国产大模型高考数学实战评测：ChatGPT与豆包直接PK",
+          "body": "量子位使用2026年高考数学试题对ChatGPT与豆包进行评测，对比两者在逻辑推理与解题步骤上的表现。结果显示国产大模型在数理能力上正快速追赶国际先进水平，此类实战评测已成为用户选择模型的重要参考依据。",
+          "source_url": "https://www.qbitai.com/2026/06/432425.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "字节跳动",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simon Willison发布Datasette Agent文本编辑插件",
+          "body": "Simon Willison发布datasette-agent-edit 0.1a0插件，为Datasette Agent增加智能文本编辑能力。该工具支持对现有内容进行AI驱动的修改与优化，进一步扩展了开源数据管理场景中的编程辅助功能，展现AI Coding工具的垂直化演进。",
+          "source_url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "low",
+          "related_entities": [
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "苹果WWDC发布新一代Siri AI与Apple Intelligence",
+          "body": "苹果在WWDC 2026推出全新Siri AI与新一代Apple Intelligence，覆盖iOS 27及Safari、Shortcuts等原生应用。苹果称新版本Siri更具对话性与个性化，此次密集更新显示其正加速追赶消费级AI竞赛，重塑终端智能交互体验。",
+          "source_url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Apple",
+            "Siri"
+          ]
+        },
+        {
+          "headline": "亚马逊推出AI生成按需定制商品服务",
+          "body": "亚马逊推出AI生成定制商品服务，用户可通过Alexa使用文本提示生成图像并印制于T恤、水瓶等商品。该功能将AIGC与电商供应链深度结合，降低个性化创作门槛，代表AI技术在消费电商领域的又一规模化商业落地。",
+          "source_url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Amazon",
+            "Alexa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI秘密向SEC提交S-1文件启动IPO",
+          "body": "OpenAI正式宣布已向美国SEC秘密提交S-1注册草案，成为继Anthropic后第二家冲刺IPO的AI超级独角兽。此举标志着AI实验室从风险投资转向公开市场融资的关键转折，将深刻影响全球AI产业资本格局与竞争态势。",
+          "source_url": "https://openai.com/index/openai-submits-confidential-s-1",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Sam Altman",
+            "Anthropic"
+          ]
+        },
+        {
+          "headline": "豆包付费后月活减少610万，Anthropic呼吁放缓AI开发",
+          "body": "数据显示字节跳动豆包推出付费订阅后5月月活减少610万。同期Anthropic呼吁全球放缓AI开发并警告“自我改进”风险。两件事折射出消费级AI在商业化与用户体验间的张力，以及头部实验室对AGI安全性的日益警觉。",
+          "source_url": "https://36kr.com/p/3840996342073604?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "字节跳动",
+            "Anthropic",
+            "Dario Amodei"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "腾讯汤道生与姚顺雨对谈回应AI布局节奏",
+          "body": "在腾讯云AI产业应用大会上，汤道生与首席AI科学家姚顺雨对谈，直面“腾讯AI是否慢了”的市场质疑。姚顺雨就混元3与元宝产品进展进行回应，释放腾讯在超过20个垂直场景布局To B Agent的信号，展现其企业AI生态构建提速。",
+          "source_url": "https://36kr.com/p/3844018911889924?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "腾讯",
+            "汤道生",
+            "姚顺雨"
+          ]
+        },
+        {
+          "headline": "蚂蚁集团推出海外AI支付解决方案",
+          "body": "蚂蚁集团推出面向海外商户的AI支付解决方案，支持全球智能体运营与可信交易判断。该方案协助用户与商家评估智能体可信度，将AI能力深度融入跨境支付流程，体现金融科技在国际化企业级服务中的创新应用。",
+          "source_url": "https://www.qbitai.com/2026/06/432587.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "蚂蚁集团",
+            "支付宝"
+          ]
+        }
+      ]
+    }
+  ]
+}

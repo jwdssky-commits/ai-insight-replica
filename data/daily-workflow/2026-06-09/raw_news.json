@@ -1,0 +1,939 @@
+{
+  "date": "2026-06-09",
+  "collected_at": "2026-06-08T23:41:58.702930+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "datasette-agent-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-07T23:56:38+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0\">datasette-agent-edit 0.1a0</a></p>\n        <p>I'm planning several plugins for <a href=\"https://agent.datasette.io/\">Datasette Agent</a> which can make edits to existing pieces of text - thing",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 22:41:45 +0000",
+      "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 21:15:42 +0000",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 20:53:55 +0000",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 19:41:32 +0000",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 18:48:45 +0000",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 18:45:12 +0000",
+      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 18:38:07 +0000",
+      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 08 Jun 2026 18:36:04 +0000",
+      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T18:14:17-04:00",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a dem",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI files for IPO, following Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T17:38:29-04:00",
+      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon is launching AI-generated custom merch",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T13:52:51-04:00",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T13:34:24-04:00",
+      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T12:00:00-04:00",
+      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to int",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T10:00:00-04:00",
+      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "WWDC 2026: How to watch and what to expect",
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-08T07:00:00-04:00",
+      "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live. When WWDC will ha",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub for Beginners: Answers to some common questions",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 16:00:00 +0000",
+      "summary": "<p>Find the answers to some of the most common GitHub-related questions.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/\">GitHub for Beginners: Answers to some common questions</a> appeared first on <a href=\"https://github.b",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 06:00:57 +0000",
+      "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker.  At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 03:00:50 +0000",
+      "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, valida",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Updates to Legal Terms",
+      "url": "https://vercel.com/changelog/updates-to-legal-terms-june-2026",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-04T18:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nemotron 3 Ultra now available on AI Gateway",
+      "url": "https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-04T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Edit Git settings for all projects in a repo",
+      "url": "https://vercel.com/changelog/edit-git-settings-for-all-projects-in-a-repo",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-02T06:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Signed URLs are now available for Vercel Blob",
+      "url": "https://vercel.com/changelog/signed-urls-are-now-available-for-vercel-blob",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-02T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 08 Jun 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 08 Jun 2026 09:00:00 +0000",
+      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google Buys Compute From SpaceX, Broadcom’s Outlook, Apple’s AI Politics",
+      "url": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
+      "source": "Stratechery (RSS)",
+      "published": "Mon, 08 Jun 2026 10:00:00 +0000",
+      "summary": "Google's deal with SpaceX, and Broadcom's earnings, both seem bullish for Nvidia. Then, what I'm looking for at WWDC.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "url": "https://www.qbitai.com/2026/06/432587.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 10:40:55 +0000",
+      "summary": "协助用户与商家判断智能体可信赖程度",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+      "url": "https://www.qbitai.com/2026/06/432489.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 09:00:20 +0000",
+      "summary": "ABot-Earth0.5正式开放内测",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "url": "https://www.qbitai.com/2026/06/432425.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 08:28:48 +0000",
+      "summary": "豆包硬刚ChatGPT",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "url": "https://www.qbitai.com/2026/06/432581.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 08:09:25 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "url": "https://www.qbitai.com/2026/06/432417.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 06:30:23 +0000",
+      "summary": "轻视它就会错过整个时代",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+      "url": "https://www.qbitai.com/2026/06/432084.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 05:02:40 +0000",
+      "summary": "最值得看的不是火箭是AI",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+      "url": "https://www.qbitai.com/2026/06/432062.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 04:36:03 +0000",
+      "summary": "黄仁勋要算一万步，这家公司的芯片只需一步",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
+      "url": "https://www.qbitai.com/2026/06/432055.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 08 Jun 2026 03:17:35 +0000",
+      "summary": "文远知行携L2++ 一段式端到端方案WRD 3.0参展",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "url": "https://36kr.com/p/3844185422400008?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 23:09:52  +0800",
+      "summary": "<p>2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。</p>\n  <p>2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\"三重浪（TRIONDA）\"。据阿迪达斯方面介绍，这款比赛用球在中国广东的一家代工厂完成生产与检测，每一颗出厂用球均印有\"MADE IN CHINA\"字样。</p>\n  <p>值得说明的是，全球足球制造的版图并非由单一地区主导。公开资料显示，巴基斯坦锡亚尔科特一城便生产了全球约七成足球，历届世界杯的大量用球亦出自当地的Forward Spo",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 21:29:53  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>热门中概股美股盘前多数上涨，哔哩哔哩涨超5%</strong></p>\n  <p>36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。</p>\n  <p><strong>天娱数科：目前无物理AI业务，未形成相关业务收入</strong></p>\n  <p>36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经公司自查并向第一大",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+      "url": "https://36kr.com/p/3844018911889924?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 17:01:03  +0800",
+      "summary": "<p>文｜王毓婵</p>\n  <p>编辑｜张雨忻</p>\n  <p>6月5日，腾讯云AI产业应用大会最受外界关注的是什么？</p>\n  <p>毫无疑问，是汤道生与姚顺雨的对话。</p>\n  <p>在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。</p>\n  <p>腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？”</p>\n  <p>姚顺雨回答说：“",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "url": "https://36kr.com/p/3844199957236227?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 15:30:56  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"5824,3264\" src=\"https://img.36krcdn.com/hsossms/20260608/v2_5df1ae2781914aa88ac025cd5c6c9c0a@5722974_oswg9187222oswg5824oswg3264_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\"></p>\n  <p>2026年，全球平均每小时就有一家新的AI公司诞生。&nbsp;</p>\n  <p>AI行业的",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "url": "https://36kr.com/p/3844006775360002?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 12:07:08  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。</p>\n  <p>作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。</p>\n  <p>但范典做第一款产品用了三年。</p>\n  <p>2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 08:30:00  +0800",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。</p>\n  <p>华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。</p>\n  <p>公司核心团队汇聚了来自",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+      "url": "https://36kr.com/p/3843764238174729?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-08 08:01:39  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>AI等机器网络请求量首超人类</p>\n  <p>瑞幸咖啡回应拿铁去冰仅半杯</p>\n  <p>宗馥莉自有品牌KELLYONE回归</p>\n  <p>多家低成本航空公司对登机箱登机收费</p>\n  <p>黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>八家上市公司集中公告“补税”&nbsp;</strong></p>\n  <p>6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-06 09:07:19  +0800",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX据悉将其IPO的日本融资目标提高至25亿美元</p>\n  <p>二手房挂牌量回落新房库存下降，楼市供需关系向好</p>\n  <p>B站宣布启动AI创造公开赛</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>数据显示，豆包推出付费后月活减少610万&nbsp;</strong></p>\n  <p>据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "url": "https://arxiv.org/abs/2606.06514",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06514v1 Announce Type: new \nAbstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant under the counterfactual operation of switching a ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "url": "https://arxiv.org/abs/2606.06518",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06518v1 Announce Type: new \nAbstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing works of solving Sudoku mainly focus on two dominant approaches, i.e., traditional heuristic and deep ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "url": "https://arxiv.org/abs/2606.06519",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06519v1 Announce Type: new \nAbstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vulnerable to malicious prompts, even when the training data is not intentionally harmful. This create",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifyi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+      "url": "https://arxiv.org/abs/2606.06526",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06526v1 Announce Type: new \nAbstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with final answers, step-by-step solutions, or complete proofs. They do not capture collaborative open-p",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "url": "https://arxiv.org/abs/2606.06529",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06529v1 Announce Type: new \nAbstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework for deploying capable but untrusted AI agents under the oversight of a weaker, trusted monitor and a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+      "url": "https://arxiv.org/abs/2606.06531",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06531v1 Announce Type: new \nAbstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, auditable, and responsibility-bounded repair. Prediction and game-theoretic planners can suggest plausibl",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+      "url": "https://arxiv.org/abs/2606.06533",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06533v1 Announce Type: new \nAbstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data, objectives, architectures, and optimization dynamics. Yet much of AI research treats models as fi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+      "url": "https://arxiv.org/abs/2606.06641",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06641v1 Announce Type: new \nAbstract: We present Accelerated Fourier SAT (AFSAT), a GPU-accelerated solver for pseudo-Boolean satisfiability based on continuous local search (CLS). AFSAT realises the proof-of-concept approach, FastFourierSAT, into a fully-engineered solver supporting any ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Study of Parallel Continuous Local Search",
+      "url": "https://arxiv.org/abs/2606.06656",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06656v1 Announce Type: new \nAbstract: We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo-Boolean (PB) constraints. Here, the $n$-variable PB-satisfiability problem is relaxed to a continuous optimisation problem",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Improving Cross-Lingual Factual Recall via Consistency-Driven Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.06586",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06586v1 Announce Type: new \nAbstract: Large language models (LLMs) trained predominantly on English data encode substantial world knowledge, yet often fail to express it reliably in other languages, a phenomenon known as cross-lingual factual inconsistency. To study and address this, we i",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Re-Centering Humans in LLM Personalization",
+      "url": "https://arxiv.org/abs/2606.06614",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06614v1 Announce Type: new \nAbstract: Despite growing interest, most evaluations of large language models' (LLMs') personalization abilities have relied on synthetic data. It remains unclear how well current personalization systems work for real users. In this paper, we study the gap in L",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs",
+      "url": "https://arxiv.org/abs/2606.06622",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06622v1 Announce Type: new \nAbstract: We introduce UnpredictaBench, an evaluation that tests the ability of large language models (LLMs) to capture true underlying distributions. As LLMs are increasingly used as substitutes for other entities (e.g., for humans in economic simulations), th",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Language Models Fail: Token-Level Signatures of Committed and Persistent Reasoning Failures",
+      "url": "https://arxiv.org/abs/2606.06635",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06635v1 Announce Type: new \nAbstract: Failures in language model reasoning emerge through distinct processes that leave identifiable signatures in the reasoning trace. We characterize these failures using token-level uncertainty signals, finding they arise through two empirically distingu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures",
+      "url": "https://arxiv.org/abs/2606.06646",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06646v1 Announce Type: new \nAbstract: Formalizing complex reasoning from natural text is one of the central challenges in computational linguistics. It requires systems to understand not just keywords but also the context and complex reasoning embedded in a text. Current Argument Mining (",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment",
+      "url": "https://arxiv.org/abs/2606.06667",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06667v1 Announce Type: new \nAbstract: The mechanisms behind LLMs' broad over-generalization beyond training examples remain unclear. Emergent misalignment (EM) offers a striking case study: finetuning on narrow tasks induces broad misalignment to semantically-unrelated test domains. In th",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What Do People Actually Want From AI? Mapping Preference Plurality",
+      "url": "https://arxiv.org/abs/2606.06674",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06674v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are often fine-tuned through Reinforcement Learning from Human Feedback (RLHF) to align with people's preferences and values. However, this method has known limitations: it aggregates conflicting preferences, often relies ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "HKJudge: A Legal Discourse-Annotated Corpus for Interpreting What Courts Find, How They Reason, and What They Rule",
+      "url": "https://arxiv.org/abs/2606.06679",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06679v1 Announce Type: new \nAbstract: Court judgments are central to legal practice and jurisprudence, yet discourse analysis of Hong Kong judgments has received limited attention, owing largely to the absence of expert-annotated corpora. We introduce the Hong Kong Judgment Discourse Data",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Signal-Driven Observation for Long-Horizon Web Agents",
+      "url": "https://arxiv.org/abs/2606.06708",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06708v1 Announce Type: new \nAbstract: Web agents operating over long horizons ingest raw DOM and accessibility trees -- routinely tens of thousands of tokens -- at every action step, causing progressive context degradation that erodes reasoning well before tasks complete. We argue that th",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.06712",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.06712v1 Announce Type: new \nAbstract: We study the transformation of autoregressive models (ARLMs) into diffusion language models (DLMs). Rather than pretraining from scratch, prior work replaces the causal attention in ARLMs with bidirectional attention and then trains the resulting mode",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @dotey: 微信总以为自己是 OS（操作系统），但是它不是，它只是寄生在手机系统上的庞然大物罢了。\n\n当年豆包手机想访问微信它拒绝了，但很快回旋镖就要砸到自己的头上了……",
+      "url": "https://nitter.net/dotey/status/2064104389006991673#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 21:56:50 GMT",
+      "summary": "<p>微信总以为自己是 OS（操作系统），但是它不是，它只是寄生在手机系统上的庞然大物罢了。<br>\n<br>\n当年豆包手机想访问微信它拒绝了，但很快回旋镖就要砸到自己的头上了……</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "帮转，豆包手机团队招设计工程师",
+      "url": "https://nitter.net/dotey/status/2064069492850708484#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 19:38:10 GMT",
+      "summary": "<p>帮转，豆包手机团队招设计工程师</p>\n<hr/>\n<blockquote>\n<b>笑林 (@xiaolinbythesea)</b>\n<p>\n<p>Cursor 招聘设计工程师了，非常令人心动，但我还犹豫着不能行动；<br>\n<br>\n我在字节工作了8年，一直游走在动效设计师和设计工程师之间。最近我的团队（豆包手机团队）也在招聘设计工程师，但是我们需要的方向更多要有一些对 Android 平台的了解，和硅谷大多数设计工程师围绕 Web 展开工作有所区别。<br>\n<br>\n前一阵我也对市面上招聘设计工程师的 JD 做了调研，和 ChatGPT 一起做出以下几个画像，虽然 Title 都",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 👍",
+      "url": "https://nitter.net/dotey/status/2064065046993375433#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 19:20:30 GMT",
+      "summary": "<p>👍</p>\n<hr/>\n<blockquote>\n<b>木瓜蛋白酶Tea🎋 (@PapainTea)</b>\n<p>\n<p>我比较年轻🌚，我没有经历 PC 端的 QQ 转到移动端的微信的这样的一个时代。但是我观察到的一个现象是，年轻一代用 QQ 的比例会很高，因为微信注册需要手机号，且一个手机号绑定一个微信，而一个手机号可以绑定三个 QQ。这样的话，年轻一代的小孩可以用他们家长的手机绑定他们的 QQ，年轻一代对 AI 的接触又是最多的，甚至可能某一代以后的孩子都是 AI native 原住民，所以我觉得未来 AI 时代的社交资源会更向年轻一代的社交工具倾斜。同时现在我能看到 QQ 正在往",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: x.com/i/article/206396892401…",
+      "url": "https://nitter.net/xiaohu/status/2063972223170556302#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 13:11:39 GMT",
+      "summary": "<p><a href=\"http://x.com/i/article/2063968924019163136\">x.com/i/article/206396892401…</a></p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 之前做的一个 web to design md 的skill，一直忘记给大家分享，目前已开源到 github，图一图二是提取出来的效果，朋友都在夸。使用方式也很简单，直接发网址给他，让他帮你提取 design.mdj就行了",
+      "url": "https://nitter.net/xin_pai88825/status/2063896217726419265#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 08:09:38 GMT",
+      "summary": "<p>之前做的一个 web to design md 的skill，一直忘记给大家分享，目前已开源到 github，图一图二是提取出来的效果，朋友都在夸。使用方式也很简单，直接发网址给他，让他帮你提取 design.mdj就行了</p>\n<img src=\"https://nitter.net/pic/media%2FHKRuRFhagAA292X.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKRuRpoa8AAiImk.jpg\" style=\"max-width:250px;\" />\n",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 关系链的变化是一个渐变再剧变的过程，很像当年从QQ到微信，开始只是新的关心链，慢慢就是老的关系链也迁移过去了。\n\n就比如我的孩子给我发消息都是用手机自带短信而不是微信，他们同学之间聊天直接用手机自带群发短信",
+      "url": "https://nitter.net/dotey/status/2064052918685208809#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 18:32:18 GMT",
+      "summary": "<p>关系链的变化是一个渐变再剧变的过程，很像当年从QQ到微信，开始只是新的关心链，慢慢就是老的关系链也迁移过去了。<br>\n<br>\n就比如我的孩子给我发消息都是用手机自带短信而不是微信，他们同学之间聊天直接用手机自带群发短信</p>\n<hr/>\n<blockquote>\n<b>大力出奇迹 (@gimleefly)</b>\n<p>\n<p>这个角度有意思。但微信的护城河是关系链，Agent要取代入口，得先解决关系链迁移的问题，不然还是得打开微信。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/gimleefly/status/20",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 微信 AI 想复制 Agent Skills 的成功，甚至开发规范都是参考 Skill 和 MCP 来定义的 https://x.com/op7418/status/2064029622304710955?s=20\n\n但是小程序却有几个致命的缺陷：\n\n1. 无法自动进化\nSkill 有不足，Agent 在用的时候就能发现，Agent 直接就能改，越改越好用。\n\n小程序是要打包要审查的，Agent 用的时候发现问题，它也许能汇报给开发者，但是无法去改，就算不好用也只能凑合甚至“摆烂”\n\n2. 无法高度定制化\n好用的 Skill 都是高度个性化的，每个人的偏好不一样，Skill 受欢迎一个原因也是每个人都可以去自己定制，从头写或者找个开源的，让 Agent 帮改改，再加上自动进化和记忆能力，它会越来越好用。\n\n3. Agent 图形界面操作能力远不如脚本能力\n小程序是图形界面操作，除非微信 AI 把小程序的接口搞的跟 CLI 一样，让 Agent 可以像命令行工具一样操作小程序，否则模型操作小程序的成本和成功率都很难做好。",
+      "url": "https://nitter.net/dotey/status/2064050136989208695#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 18:21:15 GMT",
+      "summary": "<p>微信 AI 想复制 Agent Skills 的成功，甚至开发规范都是参考 Skill 和 MCP 来定义的 <a href=\"https://nitter.net/op7418/status/2064029622304710955?s=20\">nitter.net/op7418/status/20640296…</a><br>\n<br>\n但是小程序却有几个致命的缺陷：<br>\n<br>\n1. 无法自动进化<br>\nSkill 有不足，Agent 在用的时候就能发现，Agent 直接就能改，越改越好用。<br>\n<br>\n小程序是要打包要审查的，Agent 用的时候发现问题，它也许能汇报",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 小龙虾为什么很成功，至少有两个因素是很重要的：\n1. 它没有那么多权限、安全上的顾虑，能连接很多你的隐私数据，能有很高的权限运行脚本。\n\n且不说安全性问题，但很多任务确实是少不了这些权限，Claude Cowork 我不爱用恰恰就是权限卡的太死了。\n\n2. 它有一个 PC 作为运行环境，实时编写脚本反复尝试、消耗了大量 Token 后大力出奇迹，反正结果给你做成了\n\n而微信 AI 这两者都不具备，既拿不到你手机多少权限，也没有一个长期稳定运行 Agent 的环境，更不会给你烧很多 Token。\n\n指望把这个成本转嫁到小程序，问题是开发者也不傻，不可能会给你贡献 Token 的。\n\n最终大部分场景是体现不出 Agent 能力的，用户用完会觉得这还不如直接手机上指挥 Codex、Claude Code 等",
+      "url": "https://nitter.net/dotey/status/2064044201369567454#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 17:57:40 GMT",
+      "summary": "<p>小龙虾为什么很成功，至少有两个因素是很重要的：<br>\n1. 它没有那么多权限、安全上的顾虑，能连接很多你的隐私数据，能有很高的权限运行脚本。<br>\n<br>\n且不说安全性问题，但很多任务确实是少不了这些权限，Claude Cowork 我不爱用恰恰就是权限卡的太死了。<br>\n<br>\n2. 它有一个 PC 作为运行环境，实时编写脚本反复尝试、消耗了大量 Token 后大力出奇迹，反正结果给你做成了<br>\n<br>\n而微信 AI 这两者都不具备，既拿不到你手机多少权限，也没有一个长期稳定运行 Agent 的环境，更不会给你烧很多 Token。<br>\n<br>\n指望把这个成本转嫁到",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 这一波 Agent 进化是先从效率场景开始：编程 -> 办公 -> 其他\n\n微信的主要场景恰恰是生活类的，这一类目前 Agent 能力还不够，能做的事情很有限，到时候就算接入了一堆的小程序，以微信 AI 的能力现在不一定就能处理好生活类场景，比如帮你订个机票酒店什么的。\n\n等到效率场景都被其他 Agent 抢占用户心智了，会自然而然的泛化到生活场景，用户会倾向于都用相同的 Agent，那时候就真没微信 AI 啥事了。",
+      "url": "https://nitter.net/dotey/status/2064035848794906859#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 17:24:28 GMT",
+      "summary": "<p>这一波 Agent 进化是先从效率场景开始：编程 -&gt; 办公 -&gt; 其他<br>\n<br>\n微信的主要场景恰恰是生活类的，这一类目前 Agent 能力还不够，能做的事情很有限，到时候就算接入了一堆的小程序，以微信 AI 的能力现在不一定就能处理好生活类场景，比如帮你订个机票酒店什么的。<br>\n<br>\n等到效率场景都被其他 Agent 抢占用户心智了，会自然而然的泛化到生活场景，用户会倾向于都用相同的 Agent，那时候就真没微信 AI 啥事了。</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "微信格局还是不够，总是想着大家都去他们家一亩三分地耕耘，还幻想着未来微信会继续是超级入口，人人都在用微信，所以只需要让 AI 去操作小程序。\n\n但现实是，未来微信的入口属性会越来越少，以后的年轻人，不会再去打开微信，只会问自己的 Agent：去帮我总结一下我昨天的群聊，去给我妈发条消息说晚上不回家吃饭了。\n\n而这个承担超级入口职责的 Agent，大概率不是微信 AI。",
+      "url": "https://nitter.net/dotey/status/2064028538823405848#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 08 Jun 2026 16:55:26 GMT",
+      "summary": "<p>微信格局还是不够，总是想着大家都去他们家一亩三分地耕耘，还幻想着未来微信会继续是超级入口，人人都在用微信，所以只需要让 AI 去操作小程序。<br>\n<br>\n但现实是，未来微信的入口属性会越来越少，以后的年轻人，不会再去打开微信，只会问自己的 Agent：去帮我总结一下我昨天的群聊，去给我妈发条消息说晚上不回家吃饭了。<br>\n<br>\n而这个承担超级入口职责的 Agent，大概率不是微信 AI。</p>\n<hr/>\n<blockquote>\n<b>歸藏(guizang.ai) (@op7418)</b>\n<p>\n<p>微信终于要加 AI Agent 能力了？<br>\n<br>\n微信发",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Now you can text Hermes on iMessage 💬\nIt's just that simple.\n\nPhoton brings the BEST agents to everyone where they already are -> http://tryphoton.ai",
+      "url": "https://nitter.net/photon_hq/status/2064112017800360419#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 08 Jun 2026 22:27:09 GMT",
+      "summary": "<p>Now you can text Hermes on iMessage 💬<br>\nIt's just that simple.<br>\n<br>\nPhoton brings the BEST agents to everyone where they already are -&gt; <a href=\"http://tryphoton.ai\">tryphoton.ai</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKUyrX7bcAEObZC.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blo",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: More on the Photon integration:\n\nhttps://hermes-agent.nousresearch.com/docs/user-guide/messaging/photon",
+      "url": "https://nitter.net/NousResearch/status/2064102510759985233#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 08 Jun 2026 21:49:22 GMT",
+      "summary": "<p>More on the Photon integration:<br>\n<br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/messaging/photon\">hermes-agent.nousresearch.co…</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2063690289055748096%2FhR6saZL_%3Fformat%3Dpng%26name%3D386x202\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}

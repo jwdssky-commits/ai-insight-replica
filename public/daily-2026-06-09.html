@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · OpenAI冲刺IPO对标Anthropic，苹果WWDC重塑Siri AI体验</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-06-09</div>
+        <h1 class="report-title">OpenAI冲刺IPO对标Anthropic，苹果WWDC重塑Siri AI体验</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>OpenAI秘密向SEC提交S-1文件，正式启动IPO程序</strong></p>
+            <p>OpenAI官方确认已秘密提交IPO注册草案，成为继Anthropic后第二家冲刺公开市场的AI超级独角兽。此举标志着AI产业从私募融资迈向公开市场的重要转折点，将深刻影响全球AI资本格局与产业竞争态势。</p>
+            <a href="https://openai.com/index/openai-submits-confidential-s-1" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/economic-research-exchange" target="_blank" class="news-title-link">OpenAI启动经济研究计划探讨AGI对劳动力市场影响</a></h3>
+            <div class="report-section-body"><p>OpenAI启动Economic Research Exchange计划，联合学术界研究AI对就业、生产力及宏观经济的影响。该计划通过开放申请支持精选研究项目，试图量化AGI带来的经济变革，为政策制定提供数据支撑，体现其对技术社会外部性的系统性关注。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span> <span class="entity-tag">Sam Altman</span></div>
+            <a href="https://openai.com/index/economic-research-exchange" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/06/432425.html" target="_blank" class="news-title-link">国产大模型高考数学实战评测：ChatGPT与豆包直接PK</a></h3>
+            <div class="report-section-body"><p>量子位使用2026年高考数学试题对ChatGPT与豆包进行评测，对比两者在逻辑推理与解题步骤上的表现。结果显示国产大模型在数理能力上正快速追赶国际先进水平，此类实战评测已成为用户选择模型的重要参考依据。</p></div>
+            <div class="entity-tags"><span class="entity-tag">字节跳动</span> <span class="entity-tag">OpenAI</span></div>
+            <a href="https://www.qbitai.com/2026/06/432425.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>1 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📝 速览</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything" target="_blank" class="news-title-link">Simon Willison发布Datasette Agent文本编辑插件</a></h3>
+            <div class="report-section-body"><p>Simon Willison发布datasette-agent-edit 0.1a0插件，为Datasette Agent增加智能文本编辑能力。该工具支持对现有内容进行AI驱动的修改与优化，进一步扩展了开源数据管理场景中的编程辅助功能，展现AI Coding工具的垂直化演进。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Simon Willison</span></div>
+            <a href="https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything" target="_blank" class="source-link">📎 Simon Willison</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/" target="_blank" class="news-title-link">苹果WWDC发布新一代Siri AI与Apple Intelligence</a></h3>
+            <div class="report-section-body"><p>苹果在WWDC 2026推出全新Siri AI与新一代Apple Intelligence，覆盖iOS 27及Safari、Shortcuts等原生应用。苹果称新版本Siri更具对话性与个性化，此次密集更新显示其正加速追赶消费级AI竞赛，重塑终端智能交互体验。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Apple</span> <span class="entity-tag">Siri</span></div>
+            <a href="https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing" target="_blank" class="news-title-link">亚马逊推出AI生成按需定制商品服务</a></h3>
+            <div class="report-section-body"><p>亚马逊推出AI生成定制商品服务，用户可通过Alexa使用文本提示生成图像并印制于T恤、水瓶等商品。该功能将AIGC与电商供应链深度结合，降低个性化创作门槛，代表AI技术在消费电商领域的又一规模化商业落地。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Amazon</span> <span class="entity-tag">Alexa</span></div>
+            <a href="https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing" target="_blank" class="source-link">📎 The Verge</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/openai-submits-confidential-s-1" target="_blank" class="news-title-link">OpenAI秘密向SEC提交S-1文件启动IPO</a></h3>
+            <div class="report-section-body"><p>OpenAI正式宣布已向美国SEC秘密提交S-1注册草案，成为继Anthropic后第二家冲刺IPO的AI超级独角兽。此举标志着AI实验室从风险投资转向公开市场融资的关键转折，将深刻影响全球AI产业资本格局与竞争态势。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span> <span class="entity-tag">Sam Altman</span> <span class="entity-tag">Anthropic</span></div>
+            <a href="https://openai.com/index/openai-submits-confidential-s-1" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3840996342073604?f=rss" target="_blank" class="news-title-link">豆包付费后月活减少610万，Anthropic呼吁放缓AI开发</a></h3>
+            <div class="report-section-body"><p>数据显示字节跳动豆包推出付费订阅后5月月活减少610万。同期Anthropic呼吁全球放缓AI开发并警告“自我改进”风险。两件事折射出消费级AI在商业化与用户体验间的张力，以及头部实验室对AGI安全性的日益警觉。</p></div>
+            <div class="entity-tags"><span class="entity-tag">字节跳动</span> <span class="entity-tag">Anthropic</span> <span class="entity-tag">Dario Amodei</span></div>
+            <a href="https://36kr.com/p/3840996342073604?f=rss" target="_blank" class="source-link">📎 36氪</a>
+        </div>
+    <div class="postit-box orange" style="background: #fff3e0;">
+        <div class="postit-title">🏢 企业AI转型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3844018911889924?f=rss" target="_blank" class="news-title-link">腾讯汤道生与姚顺雨对谈回应AI布局节奏</a></h3>
+            <div class="report-section-body"><p>在腾讯云AI产业应用大会上，汤道生与首席AI科学家姚顺雨对谈，直面“腾讯AI是否慢了”的市场质疑。姚顺雨就混元3与元宝产品进展进行回应，释放腾讯在超过20个垂直场景布局To B Agent的信号，展现其企业AI生态构建提速。</p></div>
+            <div class="entity-tags"><span class="entity-tag">腾讯</span> <span class="entity-tag">汤道生</span> <span class="entity-tag">姚顺雨</span></div>
+            <a href="https://36kr.com/p/3844018911889924?f=rss" target="_blank" class="source-link">📎 36氪</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/06/432587.html" target="_blank" class="news-title-link">蚂蚁集团推出海外AI支付解决方案</a></h3>
+            <div class="report-section-body"><p>蚂蚁集团推出面向海外商户的AI支付解决方案，支持全球智能体运营与可信交易判断。该方案协助用户与商家评估智能体可信度，将AI能力深度融入跨境支付流程，体现金融科技在国际化企业级服务中的创新应用。</p></div>
+            <div class="entity-tags"><span class="entity-tag">蚂蚁集团</span> <span class="entity-tag">支付宝</span></div>
+            <a href="https://www.qbitai.com/2026/06/432587.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>
