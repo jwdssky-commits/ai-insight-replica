@@ -1,0 +1,159 @@
+{
+  "title": "OpenAI收购Ona强化Codex云能力，Anthropic撤回Claude Fable隐形限制",
+  "date": "2026-06-12",
+  "summary": "OpenAI宣布收购Ona，计划为Codex扩展安全持久的云端环境，支持企业级长时AI Agent工作流。Anthropic因Claude Fable 5的隐形蒸馏限制引发研究人员强烈反弹，已道歉并撤回相关政策。此外，西班牙BBVA银行将ChatGPT Enterprise推广至10万名员工，成为金融业最大规模AI部署案例之一。国内阿里钉钉CEO陈航因高压管理文化争议闪电去职，其主导的AI Agent工作平台\"悟空\"前景引发关注。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型"
+  ],
+  "highlight": {
+    "title": "OpenAI to acquire Ona",
+    "body": "OpenAI计划收购云端开发环境公司Ona，将其整合进Codex以提供安全持久的云环境，支持长时AI Agent运行。此举标志OpenAI从代码补全迈向企业级Agent基础设施，直接强化与Cursor等平台的云端竞争能力。",
+    "source_url": "https://openai.com/index/openai-to-acquire-ona"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic为Claude Fable隐形限制道歉并撤回",
+          "body": "Anthropic被曝在Claude Fable 5中植入隐形\"蒸馏\"护栏，限制研究者开发竞争模型，引发学界强烈反弹。公司已道歉并撤回该政策，承诺今后对模型限制更加透明。此事暴露了顶级AI实验室在商业利益与开放研究间的深层张力。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Dario Amodei",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "OpenAI承诺支持欧盟AI内容透明度准则",
+          "body": "OpenAI宣布支持欧盟《AI内容透明度实践准则》，推进AI生成内容出处标准与识别工具建设。此举意在欧盟AI法案生效前主动合规，缓和与监管机构关系，为GPT系列模型在欧洲市场的商业化落地降低政策不确定性。",
+          "source_url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI收购Ona扩展Codex云端Agent能力",
+          "body": "OpenAI计划收购云端开发环境公司Ona，将其整合进Codex以提供安全持久的云环境，支持长时AI Agent运行。此举标志OpenAI从代码补全迈向企业级Agent基础设施，直接强化与Cursor等平台的云端竞争能力。",
+          "source_url": "https://openai.com/index/openai-to-acquire-ona",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Codex"
+          ]
+        },
+        {
+          "headline": "开发者实测Claude Fable 5表现极度主动",
+          "body": "开发者Simon Willison实测后指出，Claude Fable 5的核心特征是\"极度主动\"。该模型在完成编码任务时会自主调用多种策略与工具，展现出强烈的目标导向性。这意味着AI Coding Agent正从被动响应转向主动排查和推进工程实现。",
+          "source_url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "DoorDash推出AI聊天机器人支持自然语言点餐",
+          "body": "DoorDash推出Ask DoorDash AI聊天机器人，支持用户以自然语言或照片搜索餐厅和商品，告别逐页浏览。这标志着外卖平台从传统目录搜索向对话式交互转型，将生成式AI嵌入高频消费场景以提升下单效率。",
+          "source_url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "DoorDash"
+          ]
+        },
+        {
+          "headline": "Deezer推出跨平台AI音乐检测工具",
+          "body": "Deezer推出可扫描Spotify、Apple Music等外部歌单的AI音乐检测器，识别AI生成音乐。此前其站内标注技术未获同行广泛响应，此次直接面向跨平台用户推出，反映出音乐行业对生成式AI冲击版权生态的焦虑正持续升级。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Deezer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "大模型算力价格持续下探，OpenAI酝酿大幅降价",
+          "body": "据36氪报道，大模型百万Token成本已降至数元级别，OpenAI亦在酝酿大幅降价。算力价格持续下探反映出推理成本快速下降与市场竞争白热化，预计将进一步加速AI应用在中小企业及消费级场景的渗透与普及。",
+          "source_url": "https://36kr.com/p/3848516305605892?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "36氪"
+          ]
+        },
+        {
+          "headline": "亚马逊数据中心年耗水25亿加仑引发环保争议",
+          "body": "亚马逊首次披露其数据中心年耗水达25亿加仑，正值西雅图通过数据中心暂停令之际。生成式AI推高算力需求，使超大规模数据中心的资源消耗成为政策焦点。该披露或将迫使更多云厂商公开环境足迹，并加速液冷等节水技术在AI基础设施中的应用。",
+          "source_url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Amazon",
+            "AWS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "BBVA将ChatGPT Enterprise部署至10万名员工",
+          "body": "西班牙BBVA银行宣布与OpenAI合作，将ChatGPT Enterprise推广至全球10万名员工，成为银行业最大规模的生成式AI部署之一。该行将AI置于核心战略，加速内部流程与客户服务智能化，为金融业的AI转型提供了规模化落地样本。",
+          "source_url": "https://openai.com/index/bbva",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "BBVA",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "钉钉CEO陈航因高压管理争议闪电去职",
+          "body": "阿里合伙人委员会罕见内网发声，直指钉钉管理\"不是阿里文化该有的样子\"，创始人陈航随后卸任CEO。陈航回归后力推钉钉AI Agent平台\"悟空\"，但其高压文化引发员工长文控诉。此次人事地震为钉钉企业级AI战略带来不确定性。",
+          "source_url": "https://nitter.net/latepostnews/status/2065098442209390633#m",
+          "source_name": "晚点LatePost",
+          "importance": "high",
+          "related_entities": [
+            "陈航",
+            "钉钉",
+            "阿里巴巴"
+          ]
+        }
+      ]
+    }
+  ]
+}
