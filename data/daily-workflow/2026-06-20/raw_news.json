@@ -1,0 +1,868 @@
+{
+  "date": "2026-06-20",
+  "collected_at": "2026-06-19T23:32:50.998762+00:00",
+  "item_count": 73,
+  "items": [
+    {
+      "title": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-19T22:45:49+00:00",
+      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48592163#48593190\"><p>The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...]</p>\n<p>Maybe the idealized form of MCP is just a",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-18T23:58:38+00:00",
+      "summary": "<p>Today we launched a new plugin for Datasette, <a href=\"https://github.com/datasette/datasette-apps\">datasette-apps</a>, with <a href=\"https://datasette.io/blog/2026/datasette-apps/\">this launch announcement post</a> on the Datasette project blog. That post has the <em>what</em>, but I'm going to ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 16:08:17 +0000",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 16:01:03 +0000",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 15:23:28 +0000",
+      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 07:59:12 +0000",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-19T10:15:29-04:00",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-19T00:49:33-04:00",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How we built an internal data analytics agent",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Fri, 19 Jun 2026 16:00:00 +0000",
+      "summary": "<p>Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/\">How we bu",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Ship 2026 recap",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Agent Stack",
+      "url": "https://vercel.com/blog/agent-stack",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T04:30:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Vercel Connect",
+      "url": "https://vercel.com/blog/introducing-vercel-connect",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing eve",
+      "url": "https://vercel.com/blog/introducing-eve",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CLI deployment limits removed",
+      "url": "https://vercel.com/changelog/cli-deployment-limits-removed",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Passport is now in Public Beta",
+      "url": "https://vercel.com/changelog/vercel-passport-is-now-in-public-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Connect: Secure access to external services for your agents",
+      "url": "https://vercel.com/changelog/vercel-connect-secure-access-to-external-services-for-your-agents",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing eve, an open-source agent framework",
+      "url": "https://vercel.com/changelog/introducing-eve-an-open-source-agent-framework",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel for Enterprise Apps and Agents",
+      "url": "https://vercel.com/blog/vercel-for-enterprise-apps-and-agents",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-16T23:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 19 Jun 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.25: The Stuff of Myth(os)",
+      "url": "https://stratechery.com/2026/the-stuff-of-mythos/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 19 Jun 2026 17:00:00 +0000",
+      "summary": "The best Stratechery content from the week of June 15, 2026, including Anthropic, e-commerce in the age of AI, and the NBA Finals being a perfect 10.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "url": "https://www.qbitai.com/2026/06/436864.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 19 Jun 2026 08:42:04 +0000",
+      "summary": "创作者的终极玩具来了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GPT发AI原创新成果了",
+      "url": "https://www.qbitai.com/2026/06/436842.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 19 Jun 2026 03:34:23 +0000",
+      "summary": "AI实现药物全自动研发，还远吗？",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+      "url": "https://www.qbitai.com/2026/06/436813.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 19 Jun 2026 03:28:37 +0000",
+      "summary": "人形机器人正式迈入“GPT时代”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-19 18:01:25  +0800",
+      "summary": "<p>硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。</p>\n  <p>ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
+      "url": "https://36kr.com/p/3859469888508933?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-19 10:16:23  +0800",
+      "summary": "<p>36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。</p>\n  <p>过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。</p>\n  <p>安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。</p>\n  <p>根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.19464",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "url": "https://arxiv.org/abs/2606.19469",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19469v1 Announce Type: new \nAbstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "url": "https://arxiv.org/abs/2606.19475",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that gen",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As s",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "url": "https://arxiv.org/abs/2606.19501",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19501v1 Announce Type: new \nAbstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19509v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution di",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
+      "url": "https://arxiv.org/abs/2606.19522",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19522v1 Announce Type: new \nAbstract: The retina offers a noninvasive window into neurodegenerative disease, capturing subtle structural patterns associated with a risk of future cognitive decline. Vision-language alignment frameworks such as REVEAL have shown that pairing retinal fundus ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Emergent Alignment",
+      "url": "https://arxiv.org/abs/2606.19527",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19527v1 Announce Type: new \nAbstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that reviews its own reasoning and outputs, and we extend the training loss with an ali",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+      "url": "https://arxiv.org/abs/2606.19538",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19538v1 Announce Type: new \nAbstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.19559",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19559v1 Announce Type: new \nAbstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exposing the Unsaid: Visualizing Hidden LLM Bias through Stochastic Path Aggregation",
+      "url": "https://arxiv.org/abs/2606.19344",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19344v1 Announce Type: new \nAbstract: Large Language Models (LLMs) exhibit representational and syntactic biases that are difficult to evaluate due to the stochastic nature of text generation. Standard auditing methods rely on a single output inspection or static automated metrics. These ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ensembles of Large Language Models for Identifying EQ-5D Studies in PubMed Based on Their Abstracts",
+      "url": "https://arxiv.org/abs/2606.19345",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19345v1 Announce Type: new \nAbstract: The rapid increase in scientific publications leads to the fact that manual study screening in systematic literature reviews (SLRs) is increasingly resource consuming, inefficient, and inconsistent. Classifying studies that clearly report health-relat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Disentangling Linguistic Relatedness from Task Alignment in Cross-Lingual Transfer",
+      "url": "https://arxiv.org/abs/2606.19346",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19346v1 Announce Type: new \nAbstract: We study cross-lingual transfer by fine-tuning seven large language models (4B--671B parameters) on Arabic and evaluating zero-shot reading comprehension on Semitic languages and non-Semitic controls. Across dense and Mixture-of-Experts architectures,",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How LLMs Fail and Generalize in RTL Coding for Hardware Design?",
+      "url": "https://arxiv.org/abs/2606.19347",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19347v1 Announce Type: new \nAbstract: Translating sequential programming priors into the parallel temporal logic of hardware design remains a crucial bottleneck for large language models(LLM). To investigate this, we introduce a new error taxonomy grounded in problem solvability, inspired",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "url": "https://arxiv.org/abs/2606.19348",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19348v1 Announce Type: new \nAbstract: We present a preview version of DeepSeek-V4 series, including two strong Mixture-of-Experts (MoE) language models -- DeepSeek-V4-Pro with 1.6T parameters (49B activated) and DeepSeek-V4-Flash with 284B parameters (13B activated) -- both supporting a c",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Where to Place the Query? Unveiling and Mitigating Positional Bias in In-Context Learning for Diffusion LLMs via Decoding Dynamics",
+      "url": "https://arxiv.org/abs/2606.19349",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19349v1 Announce Type: new \nAbstract: While In-Context Learning (ICL) is extensively studied in Autoregressive (AR) LLMs, its mechanism within Diffusion Large Language Models (dLLMs) remains largely unexplored. Unlike AR models restricted by unidirectional causal masking, dLLMs intrinsica",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pruning via Causal Attribution Preserves Reasoning Performance in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.19350",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19350v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at multi-step reasoning but incur substantial inference cost. We introduce Causal Attribution Pruning (CAP), a training-free method that identifies critical attention heads by measuring their causal impact on reasoni",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Detecting Hallucinations for Large Language Model-based Knowledge Graph Reasoning",
+      "url": "https://arxiv.org/abs/2606.19351",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19351v1 Announce Type: new \nAbstract: Knowledge graph (KG) reasoning infers new knowledge from existing facts and is widely applied in question answering, recommendation, and decision support. With the rapid development of large language models (LLMs), LLM-based KG reasoning frameworks ha",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sign-Language Datasets at Scale: A Comprehensive Survey on Resources, Benchmarks, and Annotation Standards",
+      "url": "https://arxiv.org/abs/2606.19352",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19352v1 Announce Type: new \nAbstract: Sign languages are expressive visual languages used by Deaf and Hard-of-Hearing (DHH) communities. Despite substantial progress in sign-language recognition, translation, and production, advances remain constrained by fragmented datasets, inconsistent",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quantifying Aleatoric Uncertainty of In-Context Learning for Robust Measure of LLM Prediction Confidence",
+      "url": "https://arxiv.org/abs/2606.19353",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.19353v1 Announce Type: new \nAbstract: In-Context Learning (ICL) allows LLMs to adapt to new tasks from a few demonstrations, but its reliability remains a concern: predictions are highly sensitive to both prompt design and the model's ability to understand the context, obscuring whether f",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @dotey: 大概一个月多前，电脑中了木马，潜伏了一个月才被发现，也导致了我的 X 账号被盗。\n\n让 Claude 和 Codex 逐一分析系统进程时，找到了一个叫做 com\\.apple.accountsd.helper.plist 的进程，乍一看还以为是苹果系统的宿主进程，但 Claude 对这个进程提出了质疑。\n\n沿着这个线索，对 accountsd 进行了详细的分析。这个木马首先给系统添加了一个开机自启项，确保可长期潜伏，然后通过 root 权限写了一个守护脚本，每秒探测当前系统是否有新用户登录，一旦登录就通过 AppleScript 脚本切换成当前用户身份，运行一个叫做 AccountsHelper 的程序。\n\n对 AccountsHelper（SHA256：9168cbc45f）也做二进制分析，它的依赖极少，主要职责是从远端加载指令，然后拉起一个交互式 PTY shell，攻击者就是通过这个 shell 来远程操控电脑的。木马执行的每个环节，清理工作都做的特别好，几乎所有日志都被清理干净了。\n\n为了溯源整个中马过程，我分析了将近两个多月的系统日志，仅找到一条可疑指令：有个 curl 操作，下载并执行了一条混淆命令，这也是唯一的线索，解密指令得到了一个远端 IP地址。\n\n后来也从公开情报里找到这个木马，它是 AMOS Stealer 恶意软件家族的变种，之前主要针对 Windows 平台，今年四月第一次在 macOS 上被发现。\n\n从 .zhistory 日志看，curl 前后都是 Claude Code 相关操作，高度怀疑就是 Agent 程序引入了这个木马。\n\n我的 Claude Code 长期是 bypass 模式，所有的命令执行都是直接放过，怀疑是在做软件安装或更新的时候，AI 从互联网找到了一些不安全的资源，下载了这个木马。\n\n这个 AMOS 木马，主要会去扫各种虚拟货币钱包，尤其是浏览器插件钱包。顺带也把我各种登录态 Cookies 全部拿走了，这才导致 X 账号被恶意添加了一个 Passkey。\n\n一般木马进来之后，除了目的性的攻击（例如虚拟钱包转账、文件加密勒索）外，它还会使劲去找各种敏感信息，尤其是浏览器里的登录态、Keychain 里保存的账号密码、聊天工具的登录状态、开发环境里的 .env 文件和各种 token，等等。\n\n我这个教训，大家记住两点：1）所有能够加 F2A 的账号都要加，登录时的二次验证会增加攻击者的门槛；2）AI 在执行各种程序的时候，一定要注意它在执行什么，尤其是安装和更新软件的时候，要先确认再执行。\n\n跟一些安全研究者也交流了这个木马的细节，他说近期这类事件特别高频，攻击者会伪造各种软件的官网，Google 搜出来默认都排在第一位，诱导用户（尤其是 AI）下载木马，防不胜防！",
+      "url": "https://nitter.net/Barret_China/status/2067997733605331174#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 15:47:35 GMT",
+      "summary": "<p>大概一个月多前，电脑中了木马，潜伏了一个月才被发现，也导致了我的 X 账号被盗。<br>\n<br>\n让 Claude 和 Codex 逐一分析系统进程时，找到了一个叫做 com\\.apple.accountsd.helper.plist 的进程，乍一看还以为是苹果系统的宿主进程，但 Claude 对这个进程提出了质疑。<br>\n<br>\n沿着这个线索，对 accountsd 进行了详细的分析。这个木马首先给系统添加了一个开机自启项，确保可长期潜伏，然后通过 root 权限写了一个守护脚本，每秒探测当前系统是否有新用户登录，一旦登录就通过 AppleScript 脚本切换成当前用户身份，运",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Skill 和软件一样，需要不断迭代的，而且你用户越多，遇到的各种问题就越多，就需要去解决各种边边角角的问题，才能越来越好用。\n\n比如 @yangyi 昨天在他的牛马AI里面测试了这个Skill，说导出好像有问题，我拿到结果一看，简直惨不忍睹（图2），这里面有两个问题：\n1. 样式表不对，没有铺满整页，只占了一半\n2. 导出的渐变色没有了，把图片都遮没了\n\n写 Skill 比写软件有个优势，就是你可以让 Agent 先跑，跑完之后 Agent 它自己知道有哪些上下文，遇到了什么问题，这样它可以分析问题在哪。\n\n于是我在本地跑一次，能重现，再让它分析原因，解决，那么它就能找出原因，并从 Skill 的层面去解决，添加测试覆盖，避免类似的问题再次出现。图1就是修复后的，看起来就好多了。\n\n这其实也是我日常迭代 Skill 的方法：\n\n自己用 -> 发现问题 -> 让 Agent 分析原因 -> 让 Agent 出解决方案 -> 确认方案♻️ -> 更新 Skill -> 自己用 ♻️",
+      "url": "https://nitter.net/dotey/status/2068042001895809420#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 18:43:30 GMT",
+      "summary": "<p>Skill 和软件一样，需要不断迭代的，而且你用户越多，遇到的各种问题就越多，就需要去解决各种边边角角的问题，才能越来越好用。<br>\n<br>\n比如 <a href=\"https://nitter.net/yangyi\" title=\"Yangyi\">@yangyi</a> 昨天在他的牛马AI里面测试了这个Skill，说导出好像有问题，我拿到结果一看，简直惨不忍睹（图2），这里面有两个问题：<br>\n1. 样式表不对，没有铺满整页，只占了一半<br>\n2. 导出的渐变色没有了，把图片都遮没了<br>\n<br>\n写 Skill 比写软件有个优势，就是你可以让 Agent 先跑，跑完之后 ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 作者回应",
+      "url": "https://nitter.net/dotey/status/2068016647877640381#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 17:02:45 GMT",
+      "summary": "<p>作者回应</p>\n<hr/>\n<blockquote>\n<b>Mitchell Hashimoto (@mitchellh)</b>\n<p>\n<p>Got em. I poison my AGENTS.md (and other things like code comments) all over the place with prompt injections like this to find people who don't review their code and sling it off to another human. Catches folks all the tim",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "哈哈，绝了，通过提示词注入让那些通过 AI 提交 PR 并且不人工审查的现出原形！",
+      "url": "https://nitter.net/dotey/status/2068016587953643922#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 17:02:31 GMT",
+      "summary": "<p>哈哈，绝了，通过提示词注入让那些通过 AI 提交 PR 并且不人工审查的现出原形！</p>\n<hr/>\n<blockquote>\n<b>Seb ⚛️ ThisWeekInReact.com (@sebastienlorber)</b>\n<p>\n<p>🤪 Great AI disclosure trick <a href=\"https://nitter.net/mitchellh\" title=\"Mitchell Hashimoto\">@mitchellh</a> :D</p>\n<img src=\"https://nitter.net/pic/media%2FHLLnMwTXEAAua88",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 公布抽奖结果了，使用评论没有直接触发，所以只好直接去问 Grok，这是会话：\nhttps://x.com/i/grok/share/fdde175c8e0d426ab62c41fd99b5a26e\n\n中奖名单：\n1. TKroos  @Xiaohewwww \n2. dddd @PengJia40845 \n3. 烨晨凌 @timecrafter6969 \n4. Hayden feng @feng_hayden \n5. 黄赟 @huangyun_122 \n6. noname @dontouchme43782 \n7. Flow @ldneedu \n8. Kawnnor @kawnnor \n9. lin Liu @linLiu1177636 \n10. simleviathan @vhmksf \n\n🎉 恭喜这 10 位网友\n\n我会给中奖的网友发送私信，到时候需要给我发一下收件地址，如果是电子版留一个 Email",
+      "url": "https://nitter.net/dotey/status/2067985087883255939#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 14:57:20 GMT",
+      "summary": "<p>公布抽奖结果了，使用评论没有直接触发，所以只好直接去问 Grok，这是会话：<br>\n<a href=\"https://nitter.net/i/grok/share/fdde175c8e0d426ab62c41fd99b5a26e\">nitter.net/i/grok/share/fdde175c8…</a><br>\n<br>\n中奖名单：<br>\n1. TKroos  <a href=\"https://nitter.net/Xiaohewwww\" title=\"TKroos\">@Xiaohewwww</a> <br>\n2. dddd <a href=\"https://nitter.ne",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: @grok 请从转发和评论这条推文的人里面随机挑选10个人作为中奖读者，但是排除：\n1. 垃圾评论、广告\n2. AI 生成的\n\n请直接将名单以评论形式发布",
+      "url": "https://nitter.net/dotey/status/2067880896988897729#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 08:03:19 GMT",
+      "summary": "<p><a href=\"https://nitter.net/grok\" title=\"Grok\">@grok</a> 请从转发和评论这条推文的人里面随机挑选10个人作为中奖读者，但是排除：<br>\n1. 垃圾评论、广告<br>\n2. AI 生成的<br>\n<br>\n请直接将名单以评论形式发布</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "baoyu-design skill 更新：可以在制作 PPT、动画视频或者网站时调用 AI 生图技能配图了，当然需要你本地 Agent 有配置画图 Skill。\n\n如果是 Codex 可以直接调用内置画图工具，如果你用 Claude Code 的话可以配合 baoyu-image-gen skill 去调用 Codex CLI 画图。\n\n用它来生成 PPT 效果特别好，可以自动帮你在 PPT 合适位置插入配图，最牛的是你可以连图片一起导出为 PPTX，还可以接着用 PowerPoint 或者 Keynote 二次编辑。\n\n推荐去试试看：\nbaoyu-design Skill：https://github.com/jimliu/baoyu-design\nbaoyu-image-gen Skill：https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-image-gen",
+      "url": "https://nitter.net/dotey/status/2067876611873964284#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 19 Jun 2026 07:46:18 GMT",
+      "summary": "<p>baoyu-design skill 更新：可以在制作 PPT、动画视频或者网站时调用 AI 生图技能配图了，当然需要你本地 Agent 有配置画图 Skill。<br>\n<br>\n如果是 Codex 可以直接调用内置画图工具，如果你用 Claude Code 的话可以配合 baoyu-image-gen skill 去调用 Codex CLI 画图。<br>\n<br>\n用它来生成 PPT 效果特别好，可以自动帮你在 PPT 合适位置插入配图，最牛的是你可以连图片一起导出为 PPTX，还可以接着用 PowerPoint 或者 Keynote 二次编辑。<br>\n<br>\n推荐去试试看：<",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @NousResearch: Full Release Notes:  https://github.com/NousResearch/hermes-agent/releases/tag/v2026.6.19\n\nTo update, run: 'hermes update'",
+      "url": "https://nitter.net/NousResearch/status/2068056504125563317#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 19 Jun 2026 19:41:07 GMT",
+      "summary": "<p>Full Release Notes:  <a href=\"https://github.com/NousResearch/hermes-agent/releases/tag/v2026.6.19\">github.com/NousResearch/herm…</a><br>\n<br>\nTo update, run: 'hermes update'</p>\n<img src=\"https://nitter.net/pic/media%2FHLM2ayDWcAADQCz.png\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pinned: Hermes Agent v0.17.0 - The Reach Release\n\nChangelog below:",
+      "url": "https://nitter.net/NousResearch/status/2068056222457115126#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 19 Jun 2026 19:40:00 GMT",
+      "summary": "<p>Hermes Agent v0.17.0 - The Reach Release<br>\n<br>\nChangelog below:</p>\n<a href=\"https://nitter.net/NousResearch/status/2068056222457115126#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/media%2FHLMuXNMaEAA7HJP.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hermes Agent is so good right now…",
+      "url": "https://nitter.net/NousResearch/status/2068024982446215279#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 19 Jun 2026 17:35:52 GMT",
+      "summary": "<p>Hermes Agent is so good right now…</p>\n<hr/>\n<blockquote>\n<b>David Ondrej (@DavidOndrej1)</b>\n<p>\n<p>Hermes Agent is so good right now…</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/DavidOndrej1/status/2067980283215769880#m\">https://nitter.net/DavidOndrej1/status/2067980283215769880#m</a",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: okay hermes make me a video game",
+      "url": "https://nitter.net/theemozilla/status/2068001939724415103#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 19 Jun 2026 16:04:18 GMT",
+      "summary": "<p>okay hermes make me a video game</p>\n<img src=\"https://nitter.net/pic/media%2FHLMEr7EXMAEr0UA.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Companies rein in AI usage as costs strain budgets (81pts)",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T19:57:18Z",
+      "summary": "HN热度: 81分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is AI ruining our skills? Early results are in – and they're not good (193pts)",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T18:00:48Z",
+      "summary": "HN热度: 193分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A new bill takes aim at government pressure to silence lawful online speech (216pts)",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T17:34:28Z",
+      "summary": "HN热度: 216分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amateur may have cracked Linear A (392pts)",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T16:04:42Z",
+      "summary": "HN热度: 392分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Norway imposes near ban on AI in elementary school (277pts)",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T16:03:15Z",
+      "summary": "HN热度: 277分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died (92pts)",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T19:35:15Z",
+      "summary": "HN热度: 92分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette (137pts)",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T01:06:27Z",
+      "summary": "HN热度: 137分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Are You in the Weights? (435pts)",
+      "url": "https://www.intheweights.com/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-18T20:49:03Z",
+      "summary": "HN热度: 435分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "EU to soon classify AWS and Azure as gatekeepers under DSA (59pts)",
+      "url": "https://www.heise.de/en/news/Report-EU-to-soon-classify-AWS-and-Azure-as-gatekeepers-under-DSA-11337873.html",
+      "source": "Hacker News (API)",
+      "published": "2026-06-19T09:28:22Z",
+      "summary": "HN热度: 59分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Zork name origin got an update on Wikipedia (85pts)",
+      "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
+      "source": "Hacker News (API)",
+      "published": "2026-06-18T20:27:28Z",
+      "summary": "HN热度: 85分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[googleapis/python-genai] v2.9.0",
+      "url": "https://github.com/googleapis/python-genai/releases/tag/v2.9.0",
+      "source": "GitHub (googleapis/python-genai)",
+      "published": "2026-06-19T08:05:21Z",
+      "summary": "## [2.9.0](https://github.com/googleapis/python-genai/compare/v2.9.0-rc1...v2.9.0) (2026-06-19)\n\n### Major updates\n\n* **The interactions implementation has been completely replaced**. The public api surface is unchanged.  ([d830f16](https://github.com/googleapis/python-genai/commit/d830f165d223ac5f4",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    }
+  ]
+}
