@@ -1,0 +1,448 @@
+{
+  "date": "2026-06-22",
+  "collected_at": "2026-06-21T23:48:55.210999+00:00",
+  "item_count": 36,
+  "items": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-21T23:35:47+00:00",
+      "summary": "<p><a href=\"https://sqlite-utils.datasette.io/en/latest/\">sqlite-utils</a> is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default <a href=\"https://docs.python.org/3/library/sqlite3.html\">sqlite3",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "sqlite-utils 4.0rc1",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-21T23:30:04+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1\">sqlite-utils 4.0rc1</a></p>\n        <p>See <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1 adds migrations and nested transactions</a>.</p>\n    \n    \n        <p>T",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-21T22:01:04+00:00",
+      "summary": "<p><strong><a href=\"https://blog.cloudflare.com/temporary-accounts/\">Temporary Cloudflare Accounts for AI agents</a></strong></p>\nThe announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 21 Jun 2026 15:28:17 +0000",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 21 Jun 2026 14:40:28 +0000",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Ship 2026 recap",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Agent Stack",
+      "url": "https://vercel.com/blog/agent-stack",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T04:30:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Vercel Connect",
+      "url": "https://vercel.com/blog/introducing-vercel-connect",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing eve",
+      "url": "https://vercel.com/blog/introducing-eve",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CLI deployment limits removed",
+      "url": "https://vercel.com/changelog/cli-deployment-limits-removed",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Passport is now in Public Beta",
+      "url": "https://vercel.com/changelog/vercel-passport-is-now-in-public-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Connect: Secure access to external services for your agents",
+      "url": "https://vercel.com/changelog/vercel-connect-secure-access-to-external-services-for-your-agents",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing eve, an open-source agent framework",
+      "url": "https://vercel.com/changelog/introducing-eve-an-open-source-agent-framework",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel for Enterprise Apps and Agents",
+      "url": "https://vercel.com/blog/vercel-for-enterprise-apps-and-agents",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-16T23:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 21 Jun 2026 09:18:12 +0000",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "url": "https://www.qbitai.com/2026/06/437141.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 21 Jun 2026 04:46:07 +0000",
+      "summary": "一个月只要340块",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-19 18:01:25  +0800",
+      "summary": "<p>硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。</p>\n  <p>ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
+      "url": "https://36kr.com/p/3859469888508933?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-19 10:16:23  +0800",
+      "summary": "<p>36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。</p>\n  <p>过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。</p>\n  <p>安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。</p>\n  <p>根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 冷知识：当你去问 ChatBot Markdown 格式有啥局限，输出的内容就是 Markdown",
+      "url": "https://nitter.net/dotey/status/2068768631958159827#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 21 Jun 2026 18:50:52 GMT",
+      "summary": "<p>冷知识：当你去问 ChatBot Markdown 格式有啥局限，输出的内容就是 Markdown</p>\n<img src=\"https://nitter.net/pic/media%2FHLW99Q9WQAAnT3_.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: LLM 每一轮迭代，都会让一批创业者丢掉生意。今天跟一位朋友聊，他说模型越强，他却越兴奋。 他是做硬件集成解决方案的，前十年在工厂摸爬滚打，2023 年 AI 爆发后开始跟着 waytoagi 社区沉浸式学习，将 AI 能力转换成生产力，然后将经验复制到工厂生产场景，写 prompt，建 workflow，也捏 agent，认识了很多工厂老板。 两年下来，最大的感受是，再好用的提示词和工作流，都会随着大模型能力的提升成为历史的遗迹。这也一度让他产生焦虑。 今年年初，他把投入的方向做了一些调整。Coding agent 的能力跃迁，让 AI 可以做好大量繁琐工作的拆解了，例如可以把工厂的需求拆解成更具体的电路问题和软件设计问题，将复杂的电路集成问题拆解成可单元化合成的简单问题。凭借着对硬件领域的认知和人脉关系，他开始从咨询顾问转型为硬件集成方，除了做方案供给，也把软硬件实现环节给承接了下来。 在能力打磨阶段，一方面承接市场各类个性化定制需求，一对一客服，另一方面线下跑工厂，帮助工厂完成 AI 转型和升级。过程中，把对 AI 的理解附加到硬件产品上，又把对硬件的理解融入到AI 的交互体验中，逐步积累了深厚的技术壁垒和认知壁垒。 过去半年，他几乎每天只睡四个小时。为了解决某个硬件集成或设计问题，会去了解每个元件的工作原理，做好参数调试，以及供应商对比，在实战中沉淀和优化了丰富的元件知识库，也与大量硬件供应商建立信任关系，很快就逐渐形成了自己的集成方案优势、价格优势和服务体验优势。 他说这些都是脏活苦活累活，很多人不愿意下场，愿意下场的人又不懂 AI，也就没办法将沉淀的知识转换成有效生产力。 在做生意方面，也是务实的风格。遇到了好的硬件想法和创意，他并没有直接下场实现，而是把利润让给合适工厂，跟工厂一起打磨更顺畅的合作模式，同时也为自己建设更全面的硬件调试能力，以此来构建更持久、更健康的生态合作环境。 跟这个朋友的沟通，让我感受到，1）无论是数字时代还是智能时代，都需要下苦功夫，没有捷径可走；2）行业 know-how 就是最强护城河，充分发挥自己的领域优势，结合 AI 把人解决起来最难、最痛苦的问题搞定，前面就是曙光；3）做生意，三分利七分情，生态好了，自己才会更好。",
+      "url": "https://nitter.net/Barret_China/status/2068718083167092886#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 21 Jun 2026 15:30:00 GMT",
+      "summary": "<p>LLM 每一轮迭代，都会让一批创业者丢掉生意。今天跟一位朋友聊，他说模型越强，他却越兴奋。<br>\n<br>\n他是做硬件集成解决方案的，前十年在工厂摸爬滚打，2023 年 AI 爆发后开始跟着 waytoagi 社区沉浸式学习，将 AI 能力转换成生产力，然后将经验复制到工厂生产场景，写 prompt，建 workflow，也捏 agent，认识了很多工厂老板。<br>\n<br>\n两年下来，最大的感受是，再好用的提示词和工作流，都会随着大模型能力的提升成为历史的遗迹。这也一度让他产生焦虑。<br>\n<br>\n今年年初，他把投入的方向做了一些调整。Coding agent 的能力跃迁，让 ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "翻译还是得用 Gemini 3.1 Pro 最好，翻译质量是没办法通过工作流弥补的，Opus-4.8 自身写作能力不行翻译的总是很生硬",
+      "url": "https://nitter.net/dotey/status/2068709091501838520#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 21 Jun 2026 14:54:16 GMT",
+      "summary": "<p>翻译还是得用 Gemini 3.1 Pro 最好，翻译质量是没办法通过工作流弥补的，Opus-4.8 自身写作能力不行翻译的总是很生硬</p>\n<hr/>\n<blockquote>\n<b>LinearUncle (@LinearUncle)</b>\n<p>\n<p>Claude Code 设置/effort 为ultracode，然后翻译英文文章，你就会收获一个自动的多智能体流水线翻译流程：<br>\n<br>\n先让 3 位风格各异的译者各出一稿 → 双语编辑对照原文评审挑出最佳译法 → 综合成定稿 → 最后逐句校对纠错（这句话不是我说的，是ClaudeCode输出的，自己想的办法）<br>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "要不怎么说微信傲慢呢，AI 时代不支持 markdown 还觉得理所因当，总觉得自己特别牛逼，可以制定标准，别人都得听它的。 但凡好的标准，微信就不想去支持的，或者非要山寨一个自己的；但凡微信提出的标准，没一个好的。",
+      "url": "https://nitter.net/dotey/status/2068702092689043732#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 21 Jun 2026 14:26:28 GMT",
+      "summary": "<p>要不怎么说微信傲慢呢，AI 时代不支持 markdown 还觉得理所因当，总觉得自己特别牛逼，可以制定标准，别人都得听它的。<br>\n<br>\n但凡好的标准，微信就不想去支持的，或者非要山寨一个自己的；但凡微信提出的标准，没一个好的。</p>\n<hr/>\n<blockquote>\n<b>Fenng (@Fenng)</b>\n<p>\n<p>已经帮喷子找好了角度：微信小微居然不支持 Markdown <br>\n<br>\n这可是全世界最好的文件格式 Markdown 啊，居然敢不支持，还有王法吗？</p>\n<img src=\"https://nitter.net/pic/media%2FHLV",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "帮转招人，DeepSeek Harness",
+      "url": "https://nitter.net/dotey/status/2068697546508149050#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 21 Jun 2026 14:08:24 GMT",
+      "summary": "<p>帮转招人，DeepSeek Harness</p>\n<hr/>\n<blockquote>\n<b>Tianyi Cui (@tianyi)</b>\n<p>\n<p>作为新成立的部门，DeepSeek Harness 组的目标远大、工作繁重，仍然非常缺人。我每天都在面试，以及各种地方张贴小广告……一共有三种职位：<br>\n<br>\nHarness 研究员（实习全职均可）：<a href=\"https://app.mokahr.com/su/mCyA8\">app.mokahr.com/su/mCyA8</a><br>\nHarness 工程师（全职实习均可）：<a href=\"https://ap",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: We just passed 1500 Contributors to Hermes Agent's repo! Thank you to all the contributors and developers!",
+      "url": "https://nitter.net/Teknium/status/2068703654866190605#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 21 Jun 2026 14:32:40 GMT",
+      "summary": "<p>We just passed 1500 Contributors to Hermes Agent's repo! <br>\n<br>\nThank you to all the contributors and developers!</p>\n<img src=\"https://nitter.net/pic/media%2FHLWC-5PbgAA71MK.png\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI (122pts)",
+      "url": "https://apertvs.ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T21:29:43Z",
+      "summary": "HN热度: 122分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The early hiring funnel is now breaking on both ends (93pts)",
+      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T16:14:54Z",
+      "summary": "HN热度: 93分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The 100k whys of AI (164pts)",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T05:45:21Z",
+      "summary": "HN热度: 164分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Don’t use AI to write things that you present as your own work (68pts)",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T04:50:46Z",
+      "summary": "HN热度: 68分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Building reliable agentic AI systems (177pts)",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T04:28:39Z",
+      "summary": "HN热度: 177分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stop wasting tokens and re explaining your project between sessions (51pts)",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T21:05:37Z",
+      "summary": "HN热度: 51分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A 3D voxel game engine written in APL (146pts)",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T08:04:54Z",
+      "summary": "HN热度: 146分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "'We had to get out of the way': The backlash over delivery robots (82pts)",
+      "url": "https://www.bbc.com/news/articles/c0rygp005wjo",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T00:12:49Z",
+      "summary": "HN热度: 82分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Linux eliminates the strncpy API after six years of work, 360 patches (282pts)",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "source": "Hacker News (API)",
+      "published": "2026-06-20T20:59:40Z",
+      "summary": "HN热度: 282分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Identity verification on Claude (512pts)",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T12:44:13Z",
+      "summary": "HN热度: 512分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "宝玉变渣男?黛玉嫁他人?这部AI短剧治好了我的精神内耗",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-3Gvnu31hEZhZto-J9txnuLbVb08v5-I1qXa8Fplpd91jqTv6vek0IBIID9QSPR2nxrp34n5-agU_YSSO85UKvuaDv6brzdNcN42m8O_I7RIjxxm0tEb7rn2ZlVoVRI6Y_taluRaRDoVYJi4Z4aOKB-seQNA0-TphyHgz2WZMKkBxxiQ3vsGo2kMWZI6kfxmjOJw91QAeRmB_PvZXfvZd_s46dn8Efgxg..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=BA3DDA7DA3A1FA96121745DE386F408A1297A9E36A38785B",
+      "source": "宝玉 (微信)",
+      "published": "2026-06-21T14:13:30+00:00",
+      "summary": "来源: 宝玉公众号",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    }
+  ]
+}
