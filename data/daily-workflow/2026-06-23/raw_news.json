@@ -1,0 +1,816 @@
+{
+  "date": "2026-06-23",
+  "collected_at": "2026-06-22T23:46:51.348719+00:00",
+  "item_count": 68,
+  "items": [
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The AI world is getting ‘loopy’",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 20:53:11 +0000",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 18:49:44 +0000",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 17:31:29 +0000",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 16:51:29 +0000",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 22 Jun 2026 14:00:00 +0000",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-22T19:24:32-04:00",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-22T16:00:00-04:00",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Read this before you vibe-code another app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-22T07:00:00-04:00",
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 17:20:31 +0000",
+      "summary": "<p>Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. </p>\n<p>The post <a href=\"https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/\">From pledge to practice: Building a more inc",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vibe Coding's Coachella Moment Just Happened. Inside Replit's Inaugural Vibecon.",
+      "url": "https://replit.com/blog/vibecon",
+      "source": "Replit Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 18:38:37 GMT",
+      "summary": "The industrial space on the Lower East Side was completely transformed. Raw concrete and exposed beams were saturated with vibrant color and pulsing lights, while deep house grooves thumped through the room. Orange bean bags dotted the floor, installations glowed in every corner, and the whole place",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 13:00:48 +0000",
+      "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects runn",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 13:00:38 +0000",
+      "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management.  NVIDIA contributed t",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 13:00:20 +0000",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 13:00:20 +0000",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.  The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+      "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 13:00:13 +0000",
+      "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy.  As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unpre",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 05:00:22 +0000",
+      "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deploy from Claude Design to Vercel",
+      "url": "https://vercel.com/changelog/claude-design-and-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Flags: Platform-native feature flags",
+      "url": "https://vercel.com/blog/vercel-flags-platform-native-feature-flags",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-22T08:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel CLI now supports signing blob URLs",
+      "url": "https://vercel.com/changelog/vercel-cli-now-supports-signing-blob-urls",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-22T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Increased limit for projects per Git repo",
+      "url": "https://vercel.com/changelog/increased-limit-for-projects-per-git-repo",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-22T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "WebSocket support is now in Public Beta",
+      "url": "https://vercel.com/changelog/websocket-support-is-now-in-public-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-22T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sakana Fugu Ultra now available on AI Gateway",
+      "url": "https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-22T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 22 Jun 2026 18:00:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 22 Jun 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 22 Jun 2026 08:00:00 +0000",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple Price Increases, Apple Intelligence and the E.U.",
+      "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+      "source": "Stratechery (RSS)",
+      "published": "Mon, 22 Jun 2026 10:00:00 +0000",
+      "summary": "Apple is (finally) raising prices, but they're not shipping Siri AI to the E.U.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "url": "https://www.qbitai.com/2026/06/437317.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 22 Jun 2026 07:30:07 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+      "url": "https://www.qbitai.com/2026/06/437308.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 22 Jun 2026 06:22:00 +0000",
+      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "url": "https://www.qbitai.com/2026/06/437249.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 22 Jun 2026 05:09:27 +0000",
+      "summary": "DeepSeek正在全力押注",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "url": "https://www.qbitai.com/2026/06/437235.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 22 Jun 2026 03:48:38 +0000",
+      "summary": "120分钟长视频一边看一边记",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+      "url": "https://36kr.com/p/3864071269569540?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 18:00:50  +0800",
+      "summary": "<p>当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。</p>\n  <p>感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致力于成为世界模型时代的基础设施服务商。</p>\n  <p>“我们注意到，目前市面上还没有相对成熟完善的空间感知解决方案，大部分做传感器的",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
+      "url": "https://36kr.com/p/3864065855706120?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 16:26:13  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3864020323276038\"><strong>赢创计划全球裁员3200人</strong></a></p>\n  <p>赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3864054145209602?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 16:10:06  +0800",
+      "summary": "<p>每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑:</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"3173,2115\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_7f9fbf357e494a4683af3a1ce47976ac@6381723_oswg3956841oswg3173oswg",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3864033017549832?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 15:38:54  +0800",
+      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3864002982286342?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 15:08:07  +0800",
+      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！",
+      "url": "https://36kr.com/p/3863967437247751?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 14:56:09  +0800",
+      "summary": "<h2><strong>一、36氪官方大数据股市舆情工具介绍</strong></h2>\n  <p>36氪企业全情报是36氪联合红麦数据推出的专业资本市场情报平台，依托全网大数据资源，实时同步个股、产业一手资讯，同时通过智能算法识别行情潜藏风险，一站式查询板块、个股完整消息脉络。</p>\n  <p><strong>小程序直达链接，手机端可直接打开使用，无需下载任何软件：</strong></p>\n  <p><strong>&nbsp;</strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://link.wtturl.c",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
+      "url": "https://36kr.com/p/3863988138956032?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 14:52:52  +0800",
+      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
+      "url": "https://36kr.com/p/3863849524859911?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 13:52:45  +0800",
+      "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+      "url": "https://36kr.com/p/3863885024973832?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 13:07:50  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。</p>\n  <p>随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。</p>\n  <p>从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统稳定",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
+      "url": "https://36kr.com/p/3863883390194692?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-22 13:06:22  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。</p>\n  <p><strong>大连坤达成立于2016年，主要面向航空航天等重型制造场景提供智能装配装备和自动化解决方案。</strong>公司业务涵盖高精度移动对接平台、复合移动机器人、智能装配产线",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 22 Jun 2026 13:18:56 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @dotey: A Subagent Opens A New Context",
+      "url": "https://nitter.net/dongxi_nlp/status/2068922428516892998#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 22 Jun 2026 05:02:00 GMT",
+      "summary": "<hr/>\n<b>Article</b><br>\n<a href=\"https://nitter.net/i/article/2068922428516892998\">\n<img src=\"https://nitter.net/pic/media%2FHLUp-v9XsAAHt6j.jpg\" style=\"max-width:250px;\" />\n<br>\n<b>A Subagent Opens A New Context</b>\n</a>\n<p>Harness 系列文章之 7，关于  subagent。\n\nSubagent 是一次 tool call，为 coding agent会打开一个新",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 晚点LateTask这篇访谈的信息量非常大，关于百度美研、Scaling Law、OpenAI、Anthropic、Cerebras的往事。 > \"Dario 能进百度，其实是他职业生涯里很重要的一步。他是 Greg Diamos 招进来的。而且加入百度前，Dario 并不是计算机或 AI 科班出身，而是数学、物理和生物背景，Greg Diamos 发现他很有 AI 直觉和训练模型的能力。\" > 十年前（早于transformer），百度已经在训练接近 3 亿参数的语言模型——也就是发现Scaling Law雏形的时候。用 GPU 训练一次要三个多月，这个模型基于一个自研的框架——Paddle（飞桨）。 > Sam Altman 本人是 Cerebras 的投资人。百度是 2017 年投的，Sam Altman 2016 年就投了。 > 百度早期投资 Cerebras，投资决策只用了2天，由李彦宏、陆奇、CFO做出——这个投资决策也证明了百度当时的投资眼光有多超前。 > 百度曾有机会成为 OpenAI、Anthropic 的早期天使。当时OpenAI、Databricks、Scale AI 这些公司都在百度的待投名单上。可惜的是中美关系恶化导致没投成。 > 陆奇早年曾是 Sam Altman 的 mentor。2018 年 5 月陆奇从百度离职后，同年 8 月便接受 Sam Altman 的邀请，出任 YC 中国的创始人兼首席执行官。 > 2020 年夏天，一些在 OpenAI 的百度前员工说 GPT-3 快训练出来了，当年在百度想做的事情，快在 OpenAI 做成了——维基百科水平的语言模型。那时 GPT-3 还在后训练阶段，距离 ChatGPT 出来还有两年多。 > 百度美研顶峰时期至少 250 多人，人才密度很高，甚至在 Google DeepMind 都没有过。很多人是冲着吴恩达来的。 > 后来这里的很多人加入了核心 AI 创业公司，或自己创业，除了前面提到的 OpenAI、Anthropic，也有人参与创办 Adept、xAI，还有一些人成了 Meta FAIR 等实验室的重要成员。 https://mp.weixin.qq.com/s/INA72IMxDN6kzz3r30xonA?scene=1&click_id=5",
+      "url": "https://nitter.net/paulwalker99318/status/2068950423248208306#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 22 Jun 2026 06:53:14 GMT",
+      "summary": "<p>晚点LateTask这篇访谈的信息量非常大，关于百度美研、Scaling Law、OpenAI、Anthropic、Cerebras的往事。<br>\n<br>\n&gt; \"Dario 能进百度，其实是他职业生涯里很重要的一步。他是 Greg Diamos 招进来的。而且加入百度前，Dario 并不是计算机或 AI 科班出身，而是数学、物理和生物背景，Greg Diamos 发现他很有 AI 直觉和训练模型的能力。\"<br>\n<br>\n&gt; 十年前（早于transformer），百度已经在训练接近 3 亿参数的语言模型——也就是发现Scaling Law雏形的时候。用 GPU 训练一次",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 不一定非把普通用户想的跟弱智一样，支持了 Markdown 普通用户就不会用了。 豆包支持 Markdown 完蛋了？Telegram 支持 Markdown 被普通用户喷死了？Codex 支持 Markdown 就只有极客在用了？",
+      "url": "https://nitter.net/dotey/status/2068942077455405399#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 22 Jun 2026 06:20:05 GMT",
+      "summary": "<p>不一定非把普通用户想的跟弱智一样，支持了 Markdown 普通用户就不会用了。<br>\n<br>\n豆包支持 Markdown 完蛋了？Telegram 支持 Markdown 被普通用户喷死了？Codex 支持 Markdown 就只有极客在用了？</p>\n<hr/>\n<blockquote>\n<b>Alex和弦 (@Alex_hexian)</b>\n<p>\n<p>微信全是不玩互联网的普通人，它支持markdown会被喷死啊</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/Alex_hexian/status/2068935",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 十分推荐这个 skill，尤其是自己没有什么前端和 UI 经验的人 前两张图是使用这个 skill 之后的样式，第三张图是旧的样式，确实要更加好看一些 https://buildwithais.github.io/voicekey/",
+      "url": "https://nitter.net/pzx553/status/2068899205033115970#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 22 Jun 2026 03:29:43 GMT",
+      "summary": "<p>十分推荐这个 skill，尤其是自己没有什么前端和 UI 经验的人<br>\n<br>\n前两张图是使用这个 skill 之后的样式，第三张图是旧的样式，确实要更加好看一些<br>\n<br>\n<a href=\"https://buildwithais.github.io/voicekey/\">buildwithais.github.io/voice…</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLY0RZfWQAAOXr6.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitte",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: it's official, I'm on community at NousResearch. I'll be shipping tested walkthroughs, answering questions and carrying what the community builds back to the team. if you're on Hermes Agent, the Discord is where we all are, come through.",
+      "url": "https://nitter.net/witcheer/status/2069182611696529843#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 22 Jun 2026 22:15:52 GMT",
+      "summary": "<p>it's official, I'm on community at NousResearch.<br>\n<br>\nI'll be shipping tested walkthroughs, answering questions and carrying what the community builds back to the team. <br>\n<br>\nif you're on Hermes Agent, the Discord is where we all are, come through.</p>\n<img src=\"https://nitter.net/pic/med",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NVIDIAAI: discord.gg/Qa6ppFws?event=15…",
+      "url": "https://nitter.net/NousResearch/status/2069180536304566335#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 22 Jun 2026 22:07:38 GMT",
+      "summary": "<p><a href=\"https://discord.gg/Qa6ppFws?event=1518673734708236458\">discord.gg/Qa6ppFws?event=15…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://discord.gg/Qa6ppFws?event=1518673734708236458\">\n<b>Join the Nous Research Discord Server!</b>\n</a>\n<p>We&apos;re a like-minded community interested in open-",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Join us in our Discord this time tomorrow for Office Hours! Our topic will be the @NVIDIAAI × @stripe × @NousResearch Hermes Agent Accelerated Business Hackathon which concludes at the end of the month. http://discord.gg/nousresearch",
+      "url": "https://nitter.net/NousResearch/status/2069150335386456283#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 22 Jun 2026 20:07:37 GMT",
+      "summary": "<p>Join us in our Discord this time tomorrow for Office Hours!<br>\n<br>\nOur topic will be the <a href=\"https://nitter.net/NVIDIAAI\" title=\"NVIDIA AI\">@NVIDIAAI</a> × <a href=\"https://nitter.net/stripe\" title=\"Stripe\">@stripe</a> × <a href=\"https://nitter.net/NousResearch\" title=\"Nous Research\">@Nous",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @trycua: Computer Use docs: https://hermes-agent.nousresearch.com/docs/user-guide/features/computer-use",
+      "url": "https://nitter.net/NousResearch/status/2069118966497222831#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 22 Jun 2026 18:02:58 GMT",
+      "summary": "<p>Computer Use docs:<br>\n<br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/features/computer-use\">hermes-agent.nousresearch.co…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/features/computer-use\">\n<img src=\"https://nitter.net/pic/car",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hermes Agent now supports computer use via @trycua on Windows and Linux in addition to existing macOS support",
+      "url": "https://nitter.net/NousResearch/status/2069118782132363662#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 22 Jun 2026 18:02:14 GMT",
+      "summary": "<p>Hermes Agent now supports computer use via <a href=\"https://nitter.net/trycua\" title=\"Cua\">@trycua</a> on Windows and Linux in addition to existing macOS support</p>\n<a href=\"https://nitter.net/NousResearch/status/2069118782132363662#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/media%2FHL",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hermes Agent has reached 200,000 GitHub stars Thank you to our contributors, supporters, users, and agents!",
+      "url": "https://nitter.net/NousResearch/status/2069079819032089036#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 22 Jun 2026 15:27:25 GMT",
+      "summary": "<p>Hermes Agent has reached 200,000 GitHub stars<br>\n<br>\nThank you to our contributors, supporters, users, and agents!</p>\n<img src=\"https://nitter.net/pic/media%2FHLbYsUKW8AAtJ5f.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Unsloth GLM-5.2 – How to Run Locally (93pts)",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T21:21:01Z",
+      "summary": "HN热度: 93分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia Halos (82pts)",
+      "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T13:57:49Z",
+      "summary": "HN热度: 82分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sakana Fugu (212pts)",
+      "url": "https://sakana.ai/fugu/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T02:08:18Z",
+      "summary": "HN热度: 212分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.2 vs. Opus (478pts)",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T07:22:03Z",
+      "summary": "HN热度: 478分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions (203pts)",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T22:55:23Z",
+      "summary": "HN热度: 203分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better (54pts)",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "source": "Hacker News (API)",
+      "published": "2026-06-21T22:46:43Z",
+      "summary": "HN热度: 54分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components (75pts)",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T19:19:55Z",
+      "summary": "HN热度: 75分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon (88pts)",
+      "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T19:04:49Z",
+      "summary": "HN热度: 88分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Prompt Injection as Role Confusion (134pts)",
+      "url": "https://role-confusion.github.io",
+      "source": "Hacker News (API)",
+      "published": "2026-06-22T15:48:55Z",
+      "summary": "HN热度: 134分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain==1.3.11",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.11",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-06-22T23:00:47Z",
+      "summary": "Changes since langchain==1.3.10\n\nrelease(langchain): 1.3.11 (#38377)\nfix(langchain,openai): only set `strict=True` on tools for OpenAI-compatible models in `ProviderStrategy` (#38370)\nchore: bump pydantic-settings from 2.12.0 to 2.14.2 in /libs/langchain_v1 (#38279)\nchore: bump vcrpy from 8.1.1 to 8",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openai==1.3.3",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.3.3",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-06-22T22:54:23Z",
+      "summary": "Changes since langchain-openai==1.3.2\n\nrelease(openai): 1.3.3 (#38375)\nfix(openai): drop response item ids when `store` is false (#38372)\nfix(langchain,openai): only set `strict=True` on tools for OpenAI-compatible models in `ProviderStrategy` (#38370)\ntest(openai): clarify expected strict schema er",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-anthropic==1.4.7",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.4.7",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-06-22T22:56:18Z",
+      "summary": "Changes since langchain-anthropic==1.4.6\n\nhotfix(anthropic): regenerate cassette (#38376)\nrelease(anthropic): 1.4.7 (#38373)\nchore: bump vcrpy from 8.1.1 to 8.2.1 in /libs/partners/anthropic (#38324)\nchore: bump langsmith from 0.8.5 to 0.8.18 in /libs/partners/anthropic (#38325)\ndocs(anthropic): cla",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}

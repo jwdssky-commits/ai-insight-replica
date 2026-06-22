@@ -1,0 +1,158 @@
+{
+  "title": "OpenAI发布Daybreak安全套件与GPT-5.5-Cyber，Groq获6.5亿美元融资",
+  "date": "2026-06-23",
+  "summary": "OpenAI推出Daybreak企业安全工具集，包含GPT-5.5-Cyber与Codex Security；AI芯片公司Groq确认完成6.5亿美元融资并重组团队；Google DeepMind与A24达成7500万美元AI电影合作。安全、芯片与内容生成成为当日焦点。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "安全",
+    "融资",
+    "芯片"
+  ],
+  "highlight": {
+    "title": "OpenAI推出Daybreak安全工具与GPT-5.5-Cyber",
+    "body": "OpenAI发布Daybreak套件，包含Codex Security和GPT-5.5-Cyber模型，旨在帮助企业大规模发现、验证和修补安全漏洞，标志着大模型向企业级安全攻防场景的深入落地。",
+    "source_url": "https://openai.com/index/daybreak-securing-the-world"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布Daybreak安全套件与GPT-5.5-Cyber",
+          "body": "OpenAI推出Daybreak工具集，包含Codex Security代码安全分析和GPT-5.5-Cyber网络安全模型，并启动Patch the Planet计划支持开源维护者修复漏洞。这显示OpenAI正将大模型能力系统性输出到企业安全攻防与开源治理场景。",
+          "source_url": "https://openai.com/index/daybreak-securing-the-world",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "清华开源空间模型入选ECCV 2026，声称超越Gemini",
+          "body": "清华大学团队开源的空间智能模型入选ECCV 2026，强调真正的空间智能应在世界变化中持续学习。该模型能在120分钟长视频中边观看边记录，在持续学习场景下表现优于Gemini，为长上下文与空间智能研究提供新路径。",
+          "source_url": "https://www.qbitai.com/2026/06/437235.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "清华大学",
+            "Google",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Vibe-coding暗藏安全风险引发警示",
+          "body": "The Verge报道指出，vibe-coding快速构建的应用存在严重安全隐患。例如\"Boomberg\"网站上线数月后才发现隐藏SQL注入漏洞。文章警示AI辅助编程在提升效率的同时，可能因缺乏审查而引入生产级安全风险。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": []
+        },
+        {
+          "headline": "OpenAI分享Codex长时复杂项目管理实践",
+          "body": "OpenAI发布案例研究，介绍开发者Jason Liu如何使用Codex保存上下文、管理复杂项目并实现超越单轮提示的长时运行工作。这展示了Codex Agent在处理大型代码库与延续性开发任务中的实际工程价值。",
+          "source_url": "https://openai.com/index/codex-maxxing-long-running-work",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI",
+            "Jason Liu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google DeepMind与A24达成7500万美元AI电影合作",
+          "body": "Google DeepMind与独立电影公司A24宣布合作，投入7500万美元开发AI电影制作工具。此次合作标志着顶尖AI实验室与好莱坞主流制作力量的深度绑定，AI生成视频与影视制作流程的融合进入产业化阶段。",
+          "source_url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Google DeepMind",
+            "A24"
+          ]
+        },
+        {
+          "headline": "阿里发布视频生成模型HappyHorse 1.1",
+          "body": "阿里巴巴发布视频生成模型HappyHorse 1.1，宣称在五大维度实现全面升级。作为国内视频生成赛道的重要迭代，该模型进一步加剧了与可灵、Sora等产品的竞争，推动多模态生成技术在电商与内容产业的落地。",
+          "source_url": "https://www.qbitai.com/2026/06/437317.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "阿里巴巴"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Groq确认完成6.5亿美元融资并重组团队",
+          "body": "AI芯片公司Groq确认完成6.5亿美元融资，并在与Nvidia的200亿美元非收购式人才交易后重组团队。Groq将继续推进neocloud业务，AI芯片初创公司在巨头挤压下的独立发展路径引发行业关注。",
+          "source_url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Groq",
+            "Nvidia"
+          ]
+        },
+        {
+          "headline": "Nvidia推出新数据中心冷却系统以减少用水量",
+          "body": "Nvidia宣布新的数据中心冷却技术，可减少机房内部用水消耗。然而分析指出，该技术并未解决AI基础设施最大的水资源消耗来源——化石燃料发电厂。此消息凸显AI算力扩张带来的环境可持续性质疑仍在持续。",
+          "source_url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Nvidia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "三星电子向韩国全体员工开放ChatGPT与Codex",
+          "body": "据36氪报道，三星电子已向韩国所有员工开放ChatGPT和Codex使用权限。这一举措标志着大型科技企业在内部全面拥抱生成式AI工具，预示着企业级AI部署从试点走向常态化，对提升组织效率具有标杆意义。",
+          "source_url": "https://36kr.com/p/3864065855706120?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "三星电子",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "芯感通科技完成数千万元天使轮融资",
+          "body": "AI算力中心方案商芯感通科技完成数千万元天使轮融资，由联想之星与险峰联合领投。资金将用于芯片研发迭代与市场拓展，瞄准大模型时代数据中心高功耗与高能量密度带来的管理瓶颈及新兴太空算力需求。",
+          "source_url": "https://36kr.com/p/3863885024973832?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "芯感通科技",
+            "联想之星",
+            "险峰"
+          ]
+        }
+      ]
+    }
+  ]
+}
