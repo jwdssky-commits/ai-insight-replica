@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · GPT-5.6受限发布，OpenAI推自研芯片Jalapeño</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-06-27</div>
+        <h1 class="report-title">GPT-5.6受限发布，OpenAI推自研芯片Jalapeño</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>OpenAI发布GPT-5.6系列但遭美国政府准入限制</strong></p>
+            <p>OpenAI发布新一代模型GPT-5.6，采用Sol/Terra/Luna三档命名，旗舰Sol在Terminal-Bench 2.1得分91.9%。但应美国政府要求，目前仅向约20家审批合作伙伴开放，普通用户暂无法使用，引发对AI监管与地缘化的深度担忧。</p>
+            <a href="https://openai.com/index/previewing-gpt-5-6-sol/" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/previewing-gpt-5-6-sol/" target="_blank" class="news-title-link">OpenAI发布GPT-5.6系列，Sol旗舰模型引入max与ultra双模式</a></h3>
+            <div class="report-section-body"><p>OpenAI预览GPT-5.6系列，新命名体系包括旗舰Sol、均衡Terra与经济Luna。Sol支持max深度推理和ultra多agent并行模式。在Terminal-Bench 2.1上Sol Ultra达91.9%，显著领先竞品。API定价分层明显，Sol输入5美元/百万token，Terra减半，Luna仅1美元。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span> <span class="entity-tag">Sam Altman</span></div>
+            <a href="https://openai.com/index/previewing-gpt-5-6-sol/" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/06/438789.html" target="_blank" class="news-title-link">Anthropic Claude Fable 5分批重新上线</a></h3>
+            <div class="report-section-body"><p>Anthropic Claude Fable 5开始分批重新上线，此前因特朗普政府通牒而下线的Mythos级模型危机尚未完全解除。这与OpenAI GPT-5.6受限发布形成对照，显示美国前沿AI模型面临严格政治干预，行业竞争已从技术对抗转向地缘政治博弈。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Anthropic</span> <span class="entity-tag">Dario Amodei</span></div>
+            <a href="https://www.qbitai.com/2026/06/438789.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://github.com/workweave/router" target="_blank" class="news-title-link">Show HN: 在Claude、Codex和Cursor中实现智能模型路由</a></h3>
+            <div class="report-section-body"><p>开发者推出WorkWeave Router开源工具，可在Claude、Codex和Cursor内实现智能模型路由，根据任务复杂度自动选择最优模型。随着多档模型并存，这类路由层工具有望成为AI Coding基础设施，帮助开发者在代码质量与推理成本间取得平衡。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Cursor</span> <span class="entity-tag">Michael Truell</span></div>
+            <a href="https://github.com/workweave/router" target="_blank" class="source-link">📎 Hacker News / GitHub</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything" target="_blank" class="news-title-link">AI助手安全测试：2000人参与攻击挑战暴露提示注入风险</a></h3>
+            <div class="report-section-body"><p>开发者发起hackmyclaw挑战，邀请近2000人攻击其AI助手，结果暴露大规模提示注入下的安全隐患。与此同时，假设性事件报告CVE-2026-LGTM描述了竞争厂商的AI代码审查代理陷入无限循环竞争的场景，折射出自动化agent交互的安全边界问题。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Simon Willison</span></div>
+            <a href="https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything" target="_blank" class="source-link">📎 Simon Willison&#x27;s Blog</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/" target="_blank" class="news-title-link">美国政府介入GPT-5.6发布，OpenAI称限制不应成为常态</a></h3>
+            <div class="report-section-body"><p>OpenAI应美国政府要求将GPT-5.6预览限制在约20家审批伙伴，普通用户暂无法访问。OpenAI明确表示此类政府准入不应成为常态。TechCrunch指出前沿AI模型已产生真实政治后果，这不再是单纯的企业竞争，而是需要集体行动应对的监管博弈。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span> <span class="entity-tag">Sam Altman</span></div>
+            <a href="https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/" target="_blank" class="news-title-link">OpenAI披露自研推理芯片Jalapeño，联合Broadcom降低Nvidia依赖</a></h3>
+            <div class="report-section-body"><p>OpenAI确认与Broadcom合作开发自研推理芯片Jalapeño，试图降低对Nvidia的完全依赖。同时GPT-5.6将上线Cerebras加速版本，推理速度达每秒750 token。芯片自主化正成为前沿AI实验室控制成本、保障供应链和差异化竞争的核心战略。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span> <span class="entity-tag">Jensen Huang</span> <span class="entity-tag">Broadcom</span></div>
+            <a href="https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+    <div class="postit-box orange" style="background: #fff3e0;">
+        <div class="postit-title">🏢 企业AI转型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3869622921041156?f=rss" target="_blank" class="news-title-link">中科闻歌港交所上市开盘暴涨81%，市值近200亿港元</a></h3>
+            <div class="report-section-body"><p>中科院背景的中科闻歌6月26日在港交所挂牌，开盘暴涨81.2%，市值达190亿港元。作为北京又一家硬科技IPO，其上市表现反映资本市场对底层技术型AI企业的高度热情，在港股AI板块波动下具有风向标意义。</p></div>
+            <div class="entity-tags"><span class="entity-tag">中科闻歌</span></div>
+            <a href="https://36kr.com/p/3869622921041156?f=rss" target="_blank" class="source-link">📎 36氪</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3866837793952769?f=rss" target="_blank" class="news-title-link">张亚勤：AI不是泡沫，但AI公司有泡沫，具身智能需降温</a></h3>
+            <div class="report-section-body"><p>清华大学张亚勤院士表示“AI不是泡沫，但AI公司有泡沫”，呼吁具身智能与投资热潮降温。其创立的AIR研究院已孵化十家公司，累计融资约150亿元、估值1500亿元。这一判断代表了国内顶级学者对AI资本过热的审慎态度，对企业转型节奏具有参考意义。</p></div>
+            <div class="entity-tags"><span class="entity-tag">张亚勤</span> <span class="entity-tag">清华大学智能产业研究院</span></div>
+            <a href="https://36kr.com/p/3866837793952769?f=rss" target="_blank" class="source-link">📎 36氪</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>
