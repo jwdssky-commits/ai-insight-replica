@@ -1,0 +1,481 @@
+{
+  "date": "2026-06-28",
+  "collected_at": "2026-06-27T23:32:37.964220+00:00",
+  "item_count": 39,
+  "items": [
+    {
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 27 Jun 2026 20:42:36 +0000",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 27 Jun 2026 12:00:00 +0000",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 27 Jun 2026 01:01:37 +0000",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-27T14:39:32-04:00",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-27T09:30:00-04:00",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-26T20:33:44-04:00",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI SDK 7",
+      "url": "https://vercel.com/blog/ai-sdk-7",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-25T13:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Teaching agents product design at Vercel",
+      "url": "https://vercel.com/blog/teaching-agents-product-design-at-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI SDK 7 is now available",
+      "url": "https://vercel.com/changelog/ai-sdk-7",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deep Agents and OpenCode are now available in the AI SDK Harness",
+      "url": "https://vercel.com/changelog/deepagents-and-opencode-harness-adapters",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-25T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Flags no longer requires SDK Keys for Vercel deployments",
+      "url": "https://vercel.com/changelog/authenticate-vercel-flags-with-openid-connect-by-default",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-24T22:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pro teams can now run up to 500 concurrent builds",
+      "url": "https://vercel.com/changelog/pro-teams-can-now-run-up-to-500-concurrent-builds",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-24T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+      "url": "https://www.qbitai.com/2026/06/439393.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 27 Jun 2026 12:29:33 +0000",
+      "summary": "人类一次录制，Agent就能模拟",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "第一批一人公司，现在怎么样了？",
+      "url": "https://www.qbitai.com/2026/06/439237.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 27 Jun 2026 12:23:29 +0000",
+      "summary": "我们跟一群OPC创业者聊了聊",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+      "url": "https://www.qbitai.com/2026/06/439236.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 27 Jun 2026 12:19:42 +0000",
+      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+      "url": "https://www.qbitai.com/2026/06/439032.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 27 Jun 2026 04:48:02 +0000",
+      "summary": "28页干货爆炸",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+      "url": "https://www.qbitai.com/2026/06/438895.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 27 Jun 2026 01:53:27 +0000",
+      "summary": "一口气端出三款GPT 5.6系列模型",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+      "url": "https://36kr.com/p/3871109381035011?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-27 15:37:59  +0800",
+      "summary": "<p>本文约2500字，建议阅读5分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。</p>\n  </blockquote>\n  <p>6月26日，储能公司大秦数字能源向港交所递交了上市",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "url": "https://36kr.com/p/3869740772316162?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-27 09:40:53  +0800",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。</p>\n  <p>从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。</p>\n  <p>物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "url": "https://36kr.com/p/3870720040588295?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-27 09:02:37  +0800",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>OpenAI官宣推出GPT-5.6</p>\n  <p>亚洲“果链”股价几乎全线大幅下跌</p>\n  <p><strong>SpaceX计划为美国消费者推出新的星链移动服务</strong></p>\n  <p><strong>美团股价低迷，王兴回应</strong></p>\n  <p><strong>小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人</strong></p>\n  <p><strong>微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹</strong></p>\n  <h2><strong>TOP",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 谢谢指正",
+      "url": "https://nitter.net/dotey/status/2070961932480188467#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 27 Jun 2026 20:06:15 GMT",
+      "summary": "<p>谢谢指正</p>\n<hr/>\n<blockquote>\n<b>核桃 (@1gedahetao)</b>\n<p>\n<p>推文有误，GPT4.5是彻底下线了，包括api，api在大约一年前就下线了，web是很长时间以来唯一能用GPT4.5的渠道</p>\n<img src=\"https://nitter.net/pic/media%2FHL2HY2LaoAATEM6.jpg\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/1gedahetao/status/207096026675",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "现在 Codex/Claude Code 的上下文压缩确实做的挺好了，加上 Prompt Caching，一个 Session 内持续聊没那么大成本压力了。我现在也越来越多的在一个会话内继续任务。 另外还有两个配套功能是很好的： 1. fork，就是从某一个对话位置开分支，只保留该对话前面的历史记录，让上下文更纯粹 2. /btw或者/side，在当前会话中提问，通常用于你想起来一件跟当前任务关系不大的事，没必要加入当前上下文中。 比如说使用 plan 模式时，你要回答一堆问题，但是这些问题选项说的不是很清楚你也不知道该选什么，这时候最适合用 /btw 让详细解释一下每个选项的意思，甚至还可以让它给你建议。",
+      "url": "https://nitter.net/dotey/status/2070904833939329477#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 27 Jun 2026 16:19:22 GMT",
+      "summary": "<p>现在 Codex/Claude Code 的上下文压缩确实做的挺好了，加上 Prompt Caching，一个 Session 内持续聊没那么大成本压力了。我现在也越来越多的在一个会话内继续任务。<br>\n<br>\n另外还有两个配套功能是很好的：<br>\n<br>\n1. fork，就是从某一个对话位置开分支，只保留该对话前面的历史记录，让上下文更纯粹<br>\n<br>\n2. /btw或者/side，在当前会话中提问，通常用于你想起来一件跟当前任务关系不大的事，没必要加入当前上下文中。<br>\n<br>\n比如说使用 plan 模式时，你要回答一堆问题，但是这些问题选项说的不是很清楚你也不知",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "6 月 26 日，OpenAI 正式从 ChatGPT 中移除了 GPT-4.5。这是 GPT-4 系列在 ChatGPT 里的最后一个模型，至此，GPT-4 时代在消费端彻底翻篇。 我觉得 GPT-4.5 至今仍是最好的写作模型之一，GPT-5 系列在文风和个性上始终没能达到 GPT-4.5 的水准。 GPT-4.5 原本就只对付费用户开放，使用量不大，所以 OpenAI 只给了 30 天的过渡期（5 月 28 日公告，6 月 26 日下线）。已有的 GPT-4.5 对话会自动切换到 GPT-5.5 继续，用户不需要手动操作。基于 GPT-4.5 搭建的自定义 GPT 也将同步失效，创建者需要手动迁移到新模型。 API 端不受影响，开发者仍然可以通过 API 调用 GPT-4.5。 回头看，GPT-4 系列的退场过程颇为曲折。去年 GPT-5 发布时，OpenAI 原本打算同步下线 GPT-4o，结果引发大规模用户抗议，不少人把 GPT-4o 当成了有温度的陪伴者，对下线反应激烈到 OpenAI 不得不临时恢复。最终 GPT-4o 在今年 2 月才正式退役，OpenAI 当时透露日活用户中仅 0.1% 仍在选用它，但按 8 亿周活用户的基数算，这仍然意味着约 80 万人。 下一个要走的是 o3，8 月 26 日下线，过渡期 90 天。",
+      "url": "https://nitter.net/dotey/status/2070901946735587764#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 27 Jun 2026 16:07:54 GMT",
+      "summary": "<p>6 月 26 日，OpenAI 正式从 ChatGPT 中移除了 GPT-4.5。这是 GPT-4 系列在 ChatGPT 里的最后一个模型，至此，GPT-4 时代在消费端彻底翻篇。<br>\n<br>\n我觉得 GPT-4.5 至今仍是最好的写作模型之一，GPT-5 系列在文风和个性上始终没能达到 GPT-4.5 的水准。<br>\n<br>\nGPT-4.5 原本就只对付费用户开放，使用量不大，所以 OpenAI 只给了 30 天的过渡期（5 月 28 日公告，6 月 26 日下线）。已有的 GPT-4.5 对话会自动切换到 GPT-5.5 继续，用户不需要手动操作。基于 GPT-4.5 搭",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "讨厌老登，理解老登，成为老登",
+      "url": "https://nitter.net/dotey/status/2070891191898370086#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 27 Jun 2026 15:25:10 GMT",
+      "summary": "<p>讨厌老登，理解老登，成为老登</p>\n<hr/>\n<blockquote>\n<b>i5ting (@i5ting)</b>\n<p>\n<p>我喜欢老登，有认知和思辨。<br>\n我一直的观点：ai构建在好的基建上，才能健康稳定的快速迭代。<br>\n基建能做好的基本都是老登。这是专业程序员最后的尊严。<br>\n新登往往概念强，快速落地，然后吹牛忽悠投资，砍掉产研，钱到手就完事。有朋友说一年时间，被三家ai创业公司裁员，套路基本都这样。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/i5ting/status/20707846024",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 的 Mythos 5 被美国政府封禁两周后，今天拿到了部分解禁令。 商务部长 Howard Lutnick 致信 Anthropic，批准约 100 家美国政府机构和关键基础设施企业重新使用 Mythos 5。这是 6 月 12 日全面封禁以来的第一次松动，但只是部分松动，面向普通用户的 Fable 5 仍然处于下线状态。 先说前因。6 月 9 日 Anthropic 同时发布了两个模型：Fable 5 面向公众开放，Mythos 5 则限定给 Project Glasswing 合作伙伴用于网络安全防御。两者其实是同一个底层模型，区别在于 Fable 5 加了一层安全护栏，遇到网络攻击、生化等敏感话题会自动降级到 Opus 4.8 回答；Mythos 5 把这些限制放开了，专门给防御端用。 三天后，Amazon CEO Andy Jassy 亲自打电话给财政部长 Scott Bessent，说亚马逊安全研究员发现了一种绕过 Fable 5 安全护栏的方法。当晚，商务部长 Lutnick 向 Anthropic 发出正式出口管制指令，要求禁止所有外国公民访问这两个模型，不遵守可能面临刑事和民事处罚。由于 Anthropic 无法实时验证用户国籍，只能对所有用户一刀切下线。 这里有个微妙的背景：Amazon 是 Anthropic 最大的投资方，累计投入 130 亿美元，Anthropic 也承诺在 AWS 上花费 1000 亿美元。投资人亲手引爆了被投公司最重要产品的下架，这在硅谷历史上相当罕见。同时也有人开始关注商务部长 Lutnick 与 OpenAI（Anthropic 的直接竞争对手）的财务关系。 Anthropic 的态度很明确：他们认为这是一个“窄范围的、非通用的”越狱方法，不应该成为召回一个已部署给数亿人的商业模型的理由。如果同样的标准应用于整个行业，所有前沿模型的部署都得停。 过去两周，Anthropic 派出了顶级科学家和工程师团队到华盛顿，与商务部和国家网络安全主管办公室每天进行会谈。今天的结果算是初步成果。 回到今天的新闻。新指令允许 Mythos 5 向运营和保护关键基础设施的美国机构重新开放，而且这次有一个重要变化：这些机构的非美国籍员工也被授权使用，Anthropic 自己的非美国籍员工也包含在内。这比 6 月 12 日那个“一刀切禁止所有外国公民”的指令灵活了不少。 据知情人士透露，Anthropic 将在本周末继续与政府讨论 Fable 5 的恢复问题。但 Fable 5 何时能回归，目前没有时间表。对普通用户来说，Claude 最强模型仍然不可用，只能继续用 Opus 4.8。 Mythos 5 当初被封禁，理由是它的网络攻击能力太强、有被滥用的风险。现在被优先解禁的用途，恰恰是网络安全防御。一个模型因为太危险而被下架，又因为太有用而被请回来。而就在同一天，OpenAI 的 GPT 5.6 也在走类似的路径，由政府逐客户审批后才能使用。美国政府对前沿 AI 模型的发布前审查，正在从个案变成惯例。",
+      "url": "https://nitter.net/dotey/status/2070735570830020939#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 27 Jun 2026 05:06:47 GMT",
+      "summary": "<p>Anthropic 的 Mythos 5 被美国政府封禁两周后，今天拿到了部分解禁令。<br>\n<br>\n商务部长 Howard Lutnick 致信 Anthropic，批准约 100 家美国政府机构和关键基础设施企业重新使用 Mythos 5。这是 6 月 12 日全面封禁以来的第一次松动，但只是部分松动，面向普通用户的 Fable 5 仍然处于下线状态。<br>\n<br>\n先说前因。6 月 9 日 Anthropic 同时发布了两个模型：Fable 5 面向公众开放，Mythos 5 则限定给 Project Glasswing 合作伙伴用于网络安全防御。两者其实是同一个底层模型，",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Come and take it",
+      "url": "https://nitter.net/NousResearch/status/2070849801583747440#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 27 Jun 2026 12:40:41 GMT",
+      "summary": "<p>Come and take it</p>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: not trying to glaze but the hermes agent experience is so much better now it is running so much of our triage stuff now at ***** ai labs now, still have to correct/customize stuff every now and then but its been cinema 10/10",
+      "url": "https://nitter.net/tunahorse21/status/2070656511584379364#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 26 Jun 2026 23:52:37 GMT",
+      "summary": "<p>not trying to glaze but the hermes agent experience is so much better now <br>\n<br>\nit is running so much of our triage stuff now at ***** ai labs now, still have to correct/customize stuff every now and then but its been cinema 10/10</p>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work (64pts)",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "source": "Hacker News (API)",
+      "published": "2026-06-27T20:34:53Z",
+      "summary": "HN热度: 64分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf] (711pts)",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News (API)",
+      "published": "2026-06-27T09:18:52Z",
+      "summary": "HN热度: 711分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations (540pts)",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "source": "Hacker News (API)",
+      "published": "2026-06-26T22:48:28Z",
+      "summary": "HN热度: 540分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI in mathematics is forcing big questions (195pts)",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "Hacker News (API)",
+      "published": "2026-06-26T22:36:51Z",
+      "summary": "HN热度: 195分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting (94pts)",
+      "url": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
+      "source": "Hacker News (API)",
+      "published": "2026-06-27T20:16:32Z",
+      "summary": "HN热度: 94分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ships keep moving through Hormuz despite strike (54pts)",
+      "url": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
+      "source": "Hacker News (API)",
+      "published": "2026-06-27T19:06:03Z",
+      "summary": "HN热度: 54分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice (54pts)",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "source": "Hacker News (API)",
+      "published": "2026-06-27T21:34:06Z",
+      "summary": "HN热度: 54分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days (604pts)",
+      "url": "https://github.com/bikini/exploitarium",
+      "source": "Hacker News (API)",
+      "published": "2026-06-27T14:31:00Z",
+      "summary": "HN热度: 604分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-anthropic==1.4.8",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.4.8",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-06-26T21:28:59Z",
+      "summary": "Changes since langchain-anthropic==1.4.7\n\nrelease(anthropic): 1.4.8 (#38490)\nfix(anthropic): keep initial text on `content_block_start` (#38442)\nchore: bump langgraph-checkpoint from 4.1.0 to 4.1.1 in /libs/partners/anthropic (#38479)\nfix(core): add messages to bare `raise ValueError` calls (#38158)",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[All-Hands-AI/OpenHands] cloud: 1.40.0",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/cloud-1.40.0",
+      "source": "GitHub (All-Hands-AI/OpenHands)",
+      "published": "2026-06-26T20:36:25Z",
+      "summary": "## 1.40.0 (2026-06-26)\n\n<!-- Release notes generated using configuration in .github/release.yml at main -->\n\n## What's Changed\n### Features\n* feat: Add full Git history user setting by @malhotra5 in https://github.com/OpenHands/OpenHands/pull/14950\n* feat(enterprise): add admin user-provisioning end",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
