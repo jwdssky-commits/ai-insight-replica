@@ -1,0 +1,448 @@
+{
+  "date": "2026-06-29",
+  "collected_at": "2026-06-28T23:34:36.496032+00:00",
+  "item_count": 36,
+  "items": [
+    {
+      "title": "Quoting Jon Udell",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-28T21:57:41+00:00",
+      "summary": "<blockquote cite=\"https://blog.jonudell.net/2026/06/28/doctor-it-hurts-when-agents-create-unreviewable-prs-dont-do-that/\"><p><strong><del>Human</del> Agent in the loop</strong></p>\n<p>I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hack Your Summer",
+      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-28T19:26:11+00:00",
+      "summary": "<p><strong><a href=\"https://www.hackyoursummer.org/\">Hack Your Summer</a></strong></p>\nI learned about this initiative from DJ Patil this morning:</p>\n<blockquote>\n<p>It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduates who want to build ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 28 Jun 2026 15:00:00 +0000",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-28T17:42:51-04:00",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-28T16:27:36-04:00",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-28T10:12:06-04:00",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Ship 2026 recap",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-26T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Query Web Analytics from the Vercel CLI",
+      "url": "https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-26T08:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trace and debug eve agent sessions with Vercel Observability",
+      "url": "https://vercel.com/changelog/eve-agent-observability",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-26T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.2 Fast via Wafer now available on AI Gateway",
+      "url": "https://vercel.com/changelog/glm-5-2-fast-via-wafer-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-24T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+      "url": "https://www.qbitai.com/2026/06/439603.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 28 Jun 2026 13:55:50 +0000",
+      "summary": "杀进一众大厂中间",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "url": "https://www.qbitai.com/2026/06/439548.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 28 Jun 2026 08:06:04 +0000",
+      "summary": "精髓在于极强的系统工程",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "url": "https://www.qbitai.com/2026/06/439515.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 28 Jun 2026 07:56:22 +0000",
+      "summary": "GitHub 20k Star",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "url": "https://www.qbitai.com/2026/06/439464.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 28 Jun 2026 06:04:17 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+      "url": "https://36kr.com/p/3867976058803459?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-28 08:37:08  +0800",
+      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。<span style=\"letter-spacing: 0px;\">提交申请后的第三天，她依旧没有收到邀请消息。</span><span style=\"letter-spacing: 0px;\">“我还以为填完资料就能进去。”她说。</span></p>\n  <p>按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。</p>\n ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
+      "url": "https://36kr.com/p/3866946087867394?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-27 07:31:16  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1024,683\" src=\"https://img.36krcdn.com/hsossms/20260624/v2_245e2d5a160e4ed9af72f125da58d25e@6310690_oswg338035oswg1024oswg683_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源视觉中国</p>\n  <p><br>动力电池一直是新能源汽车",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+      "url": "https://36kr.com/p/3870292939658242?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-27 07:30:20  +0800",
+      "summary": "<p>过去几年，智能驾驶行业的竞争重心经历了几次明显变化。</p>\n  <p>最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。</p>\n  <p>到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。</p>\n  <p>这也是为什么越来越多车企开始走向自研。</p>\n  <p>特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+      "url": "https://36kr.com/p/3869884559332356?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-26 20:12:40  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长</strong></p>\n  <p>36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年6月19日止），离任后不在公司及控股子公司任职，其离任不会对公司正常经营产生影响。截至本公告披露日，曾从钦未持有公司股份，不存在应",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "《走进AIE》，谁是下一个主角",
+      "url": "https://36kr.com/p/3869838577620231?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-26 18:28:31  +0800",
+      "summary": "<h3><strong>一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台</strong></h3>\n  <p><br>全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。<strong>2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台</strong>。</p>\n  <p><strong>技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。</strong>为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+      "url": "https://36kr.com/p/3866837793952769?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-26 16:52:52  +0800",
+      "summary": "<p>文 | 海若镜</p>\n  <p>访谈 | 海若镜 巴芮</p>\n  <p>6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。</p>\n  <p>访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。</p>\n  <p>五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里<strong>孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”</strong>。其中，华深智药、它石智航等独",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+      "url": "https://36kr.com/p/3869622921041156?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-26 14:24:40  +0800",
+      "summary": "<p>本文约900字，建议阅读2分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1080,2341\" src=\"https://img.36krcdn.com/hsossms/2026062",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "这种AI视频也挺有意思的😂",
+      "url": "https://nitter.net/dotey/status/2071357697585242300#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 28 Jun 2026 22:18:53 GMT",
+      "summary": "<p>这种AI视频也挺有意思的😂</p>\n<a href=\"https://nitter.net/dotey/status/2071357697585242300#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071129793815261184%2Fimg%2Fj-H76vWar4D4-kOM.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 上周发布了 Claude Tag，目前以 beta 形式面向 Claude Team 和 Enterprise 用户开放。 简单说，Claude Tag 让团队可以在 Slack 频道里 @ Claude，像 @ 同事一样给它派活。管理员事先配置好 Claude 能访问哪些频道、工具、数据源和代码库，之后频道里的任何人都能直接给它布置任务，Claude 会在后台拆解、执行，完成后在 Slack 线程里回复结果。 Claude Tag 发布当天，Andrej Karpathy 发了一条长帖，称这是 LLM 交互方式的第三次重大重新设计。他的框架是这样的： 第一代，LLM 是你去访问的网站（ChatGPT 网页版）； 第二代，是你下载到电脑上的 App（Codex App、Claude 桌面端、Cursor 这类）； 第三代，也就是 Claude Tag 代表的方向，LLM 变成了一个持久存在、异步运行、拥有组织级工具和上下文的实体，直接嵌入团队的工作流里。 Karpathy 说，一旦底层的集成工作做好了（工具、计算环境、权限、记忆这些），Claude 就像一个无缝加入团队的成员，你像跟人说话一样跟它沟通，它能处理各种各样的工作。他的原话是： > \"it really takes a while to wrap your head around it, but it works and it is awesome\"。 这条帖子引发了两极反应。一部分人认为 Karpathy 在给 Anthropic 做软广，一个 Slack bot 而已，何至于\"第三次重新设计\"。另一部分人则认为他抓住了一个真实的产品范式变化，只是用了一个很容易被误读的产品（Slack 集成）来承载这个观点。 Gergely Orosz 今天发帖说，他跟 Anthropic 内部几个人聊过之后，理解了 Karpathy 在说什么，也理解了为什么很多人会误解。 重点不在 Slack。真正的突破是一个云端 AI 被接入了公司内部系统后开箱即用。Slack 只是入口，背后是云端执行环境、持久记忆、工具集成和组织级权限控制这套组合。 他举了个例子：两周前有家创业公司给他演示了自己搭的类似系统，在 Slack 里 @ 一下就能启动云端开发环境、自动连接内部工具。他们的评价是“绝对的 game changer”，因为触发并行工作变得极其简单。 这套东西对已经配好本地开发环境的工程师来说没什么新鲜感，就是个“哦，然后呢”的反应。真正受益的是三类人： 1. 新入职员工 2. 非工程师 3. 以及需要改动不熟悉代码库的开发者 他们不再需要花时间配本地环境了。 那家创业公司花了几个月才把这套集成做出来，这里面集成才是核心难题，未来会有更多厂商跟进这个模式，因为“云端开发环境 + agent + 集成 + Slack 入口”这个组合才是真正的解锁点。 Claude Tag 并非没有竞争对手。GitHub Copilot 已经支持在 Slack 里 @ GitHub 触发 coding agent，OpenAI Codex 也在做云端异步执行，Salesforce 更是凭借 Slack 东家的身份天然占据入口。Claude Tag 的差异化在于频道级共享身份、持久记忆和异步执行的组合，但“集成”这两个字说起来容易，做到“just works”是另一回事。 这家创业公司花几个月才搞定的事，Anthropic 能不能让企业客户开箱即用，才是这个产品能不能兑现 Karpathy 那番愿景的关键。",
+      "url": "https://nitter.net/dotey/status/2071356525570924563#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 28 Jun 2026 22:14:14 GMT",
+      "summary": "<p>Anthropic 上周发布了 Claude Tag，目前以 beta 形式面向 Claude Team 和 Enterprise 用户开放。<br>\n<br>\n简单说，Claude Tag 让团队可以在 Slack 频道里 @ Claude，像 @ 同事一样给它派活。管理员事先配置好 Claude 能访问哪些频道、工具、数据源和代码库，之后频道里的任何人都能直接给它布置任务，Claude 会在后台拆解、执行，完成后在 Slack 线程里回复结果。<br>\n<br>\nClaude Tag 发布当天，Andrej Karpathy 发了一条长帖，称这是 LLM 交互方式的第三次重大重新设计",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RepoPrompt 已经开源了，社区版（Community Edition）已上线 GitHub。 背后的故事是这样的：几个月前，OpenAI 开发者体验负责人 Romain Huet 找到 Provencher，邀请他加入 OpenAI 团队。Provencher 答应之前提了一个条件，要先安排好现有付费用户。于是 Repo Prompt 先免费开放，现在彻底开源。 Repo Prompt 最初只做一件事：帮开发者从代码仓库里挑选文件，拼成一段高质量的 prompt，然后复制粘贴到 ChatGPT 或 Claude 里。听起来很简单，但它切中了一个真实痛点：把整个代码库丢给 AI 模型，效果往往很差，超过 32K token 的 prompt 甚至会让模型变笨，你需要精挑细选，只给模型看它真正需要的代码。这种做法现在有个正式名字叫上下文工程。 开源版本的变化很大。Provencher 把架构做了一个反转：不再让应用本身去调度 agent，而是让内置的 MCP server 成为主控，底层的命令行工具（Claude Code、Codex、OpenCode、Gemini CLI）变成可以随时替换的执行层。这意味着你可以用一个推理模型做规划和任务分解，然后把子任务分发给不同的 agent 并行执行，每个 agent 只看自己负责的那部分文件。 为了适应开源协作，很多老版本的手工拼 prompt功能被砍掉了，项目结构也从 Xcode 依赖中解耦出来，不需要装 Xcode 就能编译。贡献者管理借鉴了 libgdx 作者 Mario Zechner 的做法，维护一个白名单，之前的付费用户只要同意就自动成为认证贡献者。 目前只支持 macOS，跨平台版本还在开发中，可以通过 Homebrew 安装（brew install --cask repoprompt-ce）。 社区版：https://github.com/repoprompt/repoprompt-ce 老版本：https://github.com/repoprompt/repoprompt-classic",
+      "url": "https://nitter.net/dotey/status/2071348102263378085#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 28 Jun 2026 21:40:46 GMT",
+      "summary": "<p>RepoPrompt 已经开源了，社区版（Community Edition）已上线 GitHub。<br>\n<br>\n背后的故事是这样的：几个月前，OpenAI 开发者体验负责人 Romain Huet 找到 Provencher，邀请他加入 OpenAI 团队。Provencher 答应之前提了一个条件，要先安排好现有付费用户。于是 Repo Prompt 先免费开放，现在彻底开源。<br>\n<br>\nRepo Prompt 最初只做一件事：帮开发者从代码仓库里挑选文件，拼成一段高质量的 prompt，然后复制粘贴到 ChatGPT 或 Claude 里。听起来很简单，但它切中了一个",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "好多 Vue & Vite 大神",
+      "url": "https://nitter.net/dotey/status/2071076395300663438#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 28 Jun 2026 03:41:06 GMT",
+      "summary": "<p>好多 Vue &amp; Vite 大神</p>\n<hr/>\n<blockquote>\n<b>裕波 (@lovevfp)</b>\n<p>\n<p>来看看今年的 Vue&amp;ViteConf 都有哪些演讲嘉宾和演讲主题？倒计时 20 天！</p>\n<img src=\"https://nitter.net/pic/media%2FHL3twAZbIAAwpVy.jpg\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/lovevfp/status/2071073316065222",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Ends Tuesday. Top winners each get $ + DGX Spark + Stripe credits.",
+      "url": "https://nitter.net/NVIDIAAI/status/2071226846805659716#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 28 Jun 2026 13:38:56 GMT",
+      "summary": "<p>Ends Tuesday. Top winners each get $ + DGX Spark + Stripe credits.</p>\n<hr/>\n<blockquote>\n<b>Nous Research (@NousResearch)</b>\n<p>\n<p>The Hermes Agent Accelerated Business Hackathon presented by <a href=\"https://nitter.net/NVIDIAAI\" title=\"NVIDIA AI\">@NVIDIAAI</a> × <a href=\"https://nitter.net/st",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Librepods: AirPods liberated (229pts)",
+      "url": "https://github.com/librepods-org/librepods",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T18:48:53Z",
+      "summary": "HN热度: 229分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Professor denounces mass AI fraud on an exam at Brown (149pts)",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T16:41:12Z",
+      "summary": "HN热度: 149分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Reflections on software engineering in the age of AI (80pts)",
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T16:17:38Z",
+      "summary": "HN热度: 80分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google limits Meta's use of its Gemini AI models (137pts)",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T13:30:06Z",
+      "summary": "HN热度: 137分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks (312pts)",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T17:50:47Z",
+      "summary": "HN热度: 312分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD (87pts)",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T16:58:59Z",
+      "summary": "HN热度: 87分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM (108pts)",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T04:31:18Z",
+      "summary": "HN热度: 108分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide (222pts)",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T00:46:52Z",
+      "summary": "HN热度: 222分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI (300pts)",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "Hacker News (API)",
+      "published": "2026-06-28T16:35:19Z",
+      "summary": "HN热度: 300分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}

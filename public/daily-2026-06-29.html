@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · Claude Tag开启第三代LLM交互范式，GLM-5.2网络安全基准超越Claude</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-06-29</div>
+        <h1 class="report-title">Claude Tag开启第三代LLM交互范式，GLM-5.2网络安全基准超越Claude</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>Anthropic发布Claude Tag beta，Karpathy称其为第三代LLM交互范式</strong></p>
+            <p>Anthropic推出企业级Slack集成Claude Tag，支持在频道中@Claude异步派单。Karpathy称其为LLM第三代范式：从网站进化为嵌入工作流的持久Agent。其真正价值在于开箱即用的云端执行环境与企业系统集成，有望改变团队协作方式。</p>
+            <a href="https://nitter.net/dotey/status/2071356525570924563#m" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/" target="_blank" class="news-title-link">智谱GLM-5.2网络安全基准超越Claude，被指可与Mythos匹敌</a></h3>
+            <div class="report-section-body"><p>智谱开源模型GLM-5.2在Semgrep网络安全基准中超越Claude，被指可与Mythos匹敌。这标志着中国开源模型在特定垂直领域已具备国际顶尖竞争力，但在通用任务上仍存差距，显示开源权重策略正在快速缩小技术代差。</p></div>
+            <div class="entity-tags"><span class="entity-tag">智谱AI</span> <span class="entity-tag">GLM-5.2</span> <span class="entity-tag">Claude</span> <span class="entity-tag">Mythos</span></div>
+            <a href="https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/" target="_blank" class="source-link">📎 Hacker News (API)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html" target="_blank" class="news-title-link">Google限制Meta使用Gemini模型，巨头竞争加剧</a></h3>
+            <div class="report-section-body"><p>谷歌限制Meta使用Gemini模型。这反映科技巨头在基础模型层竞争加剧，Google正严格管控核心AI资产的客户准入，防止竞争对手过度依赖其基础设施，标志着AI大模型从开放合作转向策略性封锁的新阶段。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Google</span> <span class="entity-tag">Meta</span> <span class="entity-tag">Gemini</span></div>
+            <a href="https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html" target="_blank" class="source-link">📎 Hacker News (API)</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://nitter.net/dotey/status/2071348102263378085#m" target="_blank" class="news-title-link">RepoPrompt正式开源，采用MCP架构反转设计</a></h3>
+            <div class="report-section-body"><p>RepoPrompt正式开源。作者Provencher赴OpenAI前将项目开源，新版本以MCP server主控架构反转设计，支持Claude Code、Codex等作为可替换执行层。该工具聚焦上下文工程，解决大代码库精准投喂AI的痛点，目前仅支持macOS。</p></div>
+            <div class="entity-tags"><span class="entity-tag">RepoPrompt</span> <span class="entity-tag">OpenAI</span> <span class="entity-tag">MCP</span></div>
+            <a href="https://nitter.net/dotey/status/2071348102263378085#m" target="_blank" class="source-link">📎 宝玉 (@dotey) (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything" target="_blank" class="news-title-link">Jon Udell与Simon Willison警示AI Agent代码审查风险</a></h3>
+            <div class="report-section-body"><p>Jon Udell批评&quot;human in the loop&quot;将权威让渡给机器，主张翻转叙事。Simon Willison转发指出AI Agent自动创建未经审查的PR存在风险。这反映了AI编程Agent普及后，代码审查流程与安全治理亟待升级的行业共识。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Jon Udell</span> <span class="entity-tag">Simon Willison</span></div>
+            <a href="https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything" target="_blank" class="source-link">📎 Simon Willison (RSS)</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://antoine.fi/mri-analysis-using-claude-code-opus" target="_blank" class="news-title-link">用户用Claude Code获取MRI影像第二意见</a></h3>
+            <div class="report-section-body"><p>用户分享使用Claude Code分析自身MRI影像并获取第二意见的经历。这一非典型用例展示AI编程助手在医疗数据处理中的潜力，同时引发关于AI医疗诊断边界、责任归属及监管合规的深层讨论。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Claude Code</span> <span class="entity-tag">Anthropic</span></div>
+            <a href="https://antoine.fi/mri-analysis-using-claude-code-opus" target="_blank" class="source-link">📎 Hacker News (API)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine" target="_blank" class="news-title-link">Suno推出Spark孵化器，绑定真人艺术家转型平台</a></h3>
+            <div class="report-section-body"><p>AI音乐平台Suno推出Spark孵化器，为未签约艺人提供资金与营销支持。Suno试图从AI生成工具转型为流媒体平台和艺人孵化渠道，通过绑定真人艺术家构建差异化内容生态，探索AI与原创音乐共存的商业模式。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Suno</span></div>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine" target="_blank" class="source-link">📎 The Verge AI (RSS)</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3869884559332356?f=rss" target="_blank" class="news-title-link">智元灵巧手估值10亿美元，DeepSeek计划翻倍扩张</a></h3>
+            <div class="report-section-body"><p>36氪报道智元旗下灵巧手公司成立5个月估值达10亿美元并盈利，同时DeepSeek计划将所有部门规模扩大至少一倍。这显示中国AI硬科技与大模型赛道正高速扩张，资本与人才向头部企业加速集聚。</p></div>
+            <div class="entity-tags"><span class="entity-tag">智元机器人</span> <span class="entity-tag">DeepSeek</span></div>
+            <a href="https://36kr.com/p/3869884559332356?f=rss" target="_blank" class="source-link">📎 36氪 AI (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3869622921041156?f=rss" target="_blank" class="news-title-link">中科闻歌港交所上市开盘暴涨81%</a></h3>
+            <div class="report-section-body"><p>中科院背景的中科闻歌港交所上市，开盘暴涨81%，市值近200亿港元。作为北京又一家硬科技IPO，其表现显示资本市场对具备深厚技术背景的AI企业仍保持高度热情，尽管整体AI投资面临估值理性回调。</p></div>
+            <div class="entity-tags"><span class="entity-tag">中科闻歌</span></div>
+            <a href="https://36kr.com/p/3869622921041156?f=rss" target="_blank" class="source-link">📎 36氪 AI (RSS)</a>
+        </div>
+    <div class="postit-box orange" style="background: #fff3e0;">
+        <div class="postit-title">🏢 企业AI转型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://nitter.net/dotey/status/2071356525570924563#m" target="_blank" class="news-title-link">Anthropic发布Claude Tag，定位企业级异步AI协作者</a></h3>
+            <div class="report-section-body"><p>Anthropic发布Claude Tag beta，支持在Slack中@Claude异步派单。Karpathy称其为LLM第三代范式：从网站进化为嵌入工作流的持久Agent。核心价值在于开箱即用的云端执行环境与企业集成，使非技术人员无需配置即可调用AI。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Anthropic</span> <span class="entity-tag">Andrej Karpathy</span> <span class="entity-tag">Claude Tag</span></div>
+            <a href="https://nitter.net/dotey/status/2071356525570924563#m" target="_blank" class="source-link">📎 宝玉 (@dotey) (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/" target="_blank" class="news-title-link">福特因AI未达预期重聘资深工程师，警示技术万能论</a></h3>
+            <div class="report-section-body"><p>福特汽车因AI未达预期重新雇佣资深工程师。公司曾误以为引入AI即可自动产出高质量产品，但现实证明复杂工程仍需人类经验。这成为企业AI转型中&quot;技术万能论&quot;的警示，强调人机协作而非替代的传统行业智能化路径。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Ford</span></div>
+            <a href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/" target="_blank" class="source-link">📎 TechCrunch AI (RSS)</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>
