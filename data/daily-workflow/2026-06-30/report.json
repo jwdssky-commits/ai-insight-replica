@@ -1,0 +1,163 @@
+{
+  "title": "DeepSeek梁文锋受Claude竞争压力决定融资，Anthropic与加州达成政企合作",
+  "date": "2026-06-30",
+  "summary": "今日AI领域两大焦点：一是DeepSeek创始人梁文锋因Claude Mythos竞争压力决定启动融资，反映大模型军备竞赛白热化；二是Anthropic与加州政府达成半价供Claude协议，凸显AI企业与地方政府的深度绑定。此外，Cursor推出移动端Coding Agent管理应用，智平方以200亿估值成为大湾区具身智能独角兽。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "融资",
+    "Agent",
+    "机器人"
+  ],
+  "highlight": {
+    "title": "Claude Mythos让梁文锋决定融资",
+    "body": "DeepSeek创始人梁文锋受Anthropic Claude Mythos刺激，认为'不储备弹药根本没法打下去'，决定启动融资。这标志着中国最具独立性的开源大模型实验室之一被迫卷入资本消耗战，中美顶级AI实验室的竞争进入新阶段。",
+    "source_url": "https://www.qbitai.com/2026/06/439863.html"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Claude Mythos让梁文锋决定融资",
+          "body": "量子位报道指出，DeepSeek创始人梁文锋受Anthropic Claude Mythos影响，认为不储备弹药将无法持续竞争，从而决定启动融资。这反映出中美顶尖大模型实验室间竞争已进入资本与人才双重消耗阶段，DeepSeek被迫调整此前相对独立的资金策略。",
+          "source_url": "https://www.qbitai.com/2026/06/439863.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "梁文锋",
+            "DeepSeek",
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "全球首个隐空间世界模型打通长时序双向物理因果链",
+          "body": "报道披露一家具身智能公司刚完成2亿美元融资，其发布的隐空间世界模型实现长时序双向物理因果链，在具身智能榜单登顶。该技术打通了物理世界的长程预测与因果推理，有望显著提升机器人在复杂环境中的决策与行动能力。",
+          "source_url": "https://www.qbitai.com/2026/06/439891.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "世界模型",
+            "具身智能"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Cursor发布移动端应用支持远程管理Coding Agent",
+          "body": "Cursor正式推出移动端应用，允许用户在移动设备上远程监督和指导Coding Agent的工作。这一扩展意味着AI编程不再局限于桌面环境，开发者可随时介入Agent流程，标志着AI Coding工具向全场景、高移动性迈出关键一步。",
+          "source_url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Cursor",
+            "Anysphere"
+          ]
+        },
+        {
+          "headline": "Ornith-1.0开源模型专为Agentic Coding推出自脚手架机制",
+          "body": "DeepReinforce发布首个开源权重模型Ornith-1.0，采用MIT许可证，包含9B Dense等变体，专为Agentic Coding设计。其核心创新在于Self-Scaffolding机制，使LLM能自主构建代码脚手架，有望降低复杂软件开发中的人工干预频率。",
+          "source_url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "high",
+          "related_entities": [
+            "DeepReinforce",
+            "Ornith-1.0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Gemini个性化AI图像生成对美国免费用户开放",
+          "body": "Google宣布向美国符合条件的免费用户开放Gemini个性化AI图像生成功能。该功能可基于用户兴趣及连接的Google应用数据生成定制图像，此举将加速AI图像生成在消费端的渗透，并强化Gemini与Google生态的数据联动优势。",
+          "source_url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "Moxy摸喜发布首款纯触觉交互AI陪伴机器人",
+          "body": "奥感微旗下品牌Moxy摸喜发布首款AI陪伴机器人，以'无对话、无摄像头、纯触觉交互'为特色，首次将离电型柔性传感技术完整应用于消费级产品。该产品通过抚摸、按压等触觉反馈实现情感陪伴，开辟了AI硬件交互的新维度。",
+          "source_url": "https://36kr.com/p/3874015941645570?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Moxy摸喜",
+            "奥感微"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic与加州政府达成半价供Claude协议",
+          "body": "Anthropic与加州州长Newsom达成协议，加州政府可以半价使用Claude。此举深化了Anthropic与州级政府的合作关系，但也凸显其与联邦政府的紧张关系，反映出AI巨头在监管与政治博弈中寻求地方盟友的新趋势。",
+          "source_url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "加州政府"
+          ]
+        },
+        {
+          "headline": "智平方完成50亿融资估值200亿成大湾区具身智能独角兽",
+          "body": "具身智能公司智平方宣布完成50亿元融资，估值达200亿元，成为大湾区首个具身智能独角兽。本轮由国家队、千亿产业基金及头部财投集体入局，显示顶级资本对具身智能赛道的高度看好及区域产业竞争的加剧。",
+          "source_url": "https://www.qbitai.com/2026/06/439861.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "智平方"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OceanBase发布AI数据库融合湖仓与多模态数据",
+          "body": "OceanBase正式发布AI数据库，通过一套引擎融合湖仓一体与多模态数据处理能力。该产品旨在解决企业AI应用中数据分散、格式异构的痛点，让AI真正'读懂'企业内部数据，属于数据基础设施面向AI时代的关键升级。",
+          "source_url": "https://www.qbitai.com/2026/06/439876.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "OceanBase"
+          ]
+        },
+        {
+          "headline": "Sand.ai获超亿美元融资押注视频世界模型",
+          "body": "视频生成创业公司Sand.ai获超亿美元融资，创始人曹越表示视频是通往世界模型最重要的路径。公司坚持每代模型押注非共识策略，此次融资将加速其在视频生成与世界模型构建方面的技术探索与商业落地。",
+          "source_url": "https://36kr.com/p/3873965241931014?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Sand.ai",
+            "曹越"
+          ]
+        }
+      ]
+    }
+  ]
+}
