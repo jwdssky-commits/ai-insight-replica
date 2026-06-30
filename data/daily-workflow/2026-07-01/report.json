@@ -1,0 +1,158 @@
+{
+  "title": "Claude Sonnet 5发布与Kimi估值飙升至315亿美元",
+  "date": "2026-07-01",
+  "summary": "Anthropic发布Claude Sonnet 5，以更低价格和更强agent能力挑战竞品；OpenAI推出科学基准GeneBench-Pro。国内Kimi估值升至315亿美元、ARR破3亿美元，马斯克宣布Grok4.5启动内部私测，百度昆仑芯计划赴港IPO。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "融资",
+    "Agent",
+    "评测"
+  ],
+  "highlight": {
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "body": "Anthropic发布Claude Sonnet 5，以更低成本和更强agent能力直接对标Opus、GPT-5.5与Gemini Pro，标志着大模型竞争进入高性价比agent专用模型新阶段，可能重塑企业级AI Agent部署成本结构。",
+    "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic发布Claude Sonnet 5，以低价agent能力挑战头部模型",
+          "body": "Anthropic发布Claude Sonnet 5，强化agentic能力并降低定价，定位比Opus、GPT-5.5和Gemini Pro更具成本效益的选择。该模型在安全性上亦有改进，显示出头部实验室正通过差异化定价和垂直能力争夺企业agent市场。",
+          "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "source_name": "TechCrunch AI",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude Sonnet 5",
+            "Barry Zhang"
+          ]
+        },
+        {
+          "headline": "OpenAI推出GeneBench-Pro基准，评估AI基因组学与科研能力",
+          "body": "OpenAI推出GeneBench-Pro基准测试，用于评估AI在基因组学、生物学及科学研究中的表现，采用复杂真实数据集。此举标志着大模型评测正从通用能力向垂直科学领域深化，对AI for Science赛道具有风向标意义。",
+          "source_url": "https://openai.com/index/introducing-genebench-pro",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "GeneBench-Pro"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "IBM与Hugging Face发布ScarfBench，评测企业Java框架迁移Agent",
+          "body": "IBM Research联合Hugging Face发布ScarfBench，专门评测AI Agent在企业Java框架迁移任务中的表现。该基准填补了enterprise legacy code迁移场景下的评测空白，对推动AI Coding从代码补全走向复杂系统重构具有实践价值。",
+          "source_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "IBM Research",
+            "Hugging Face"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic推出Claude Science工作平台，以workflow而非新模型赢得科学家",
+          "body": "Anthropic推出Claude Science工作平台，为科学家提供统一计算研究环境，整合数据库、分析pipeline与工具链。该产品不依赖新模型，而是通过workflow集成切入科研场景，体现AI应用层从通用对话向垂直工作流整合演进。",
+          "source_url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "source_name": "TechCrunch AI",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude Science"
+          ]
+        },
+        {
+          "headline": "X平台发布托管MCP服务器，降低AI工具接入门槛",
+          "body": "X平台正式发布托管MCP服务器，便于开发者将AI应用与X API对接。MCP协议正成为AI Agent连接外部系统的标准接口，X此举将提升其平台在AI生态中的可编程性与数据可及性。",
+          "source_url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+          "source_name": "TechCrunch AI",
+          "importance": "medium",
+          "related_entities": [
+            "X",
+            "MCP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Kimi估值升至315亿美元，ARR突破3亿美元",
+          "body": "Moonshot AI旗下Kimi估值攀升至315亿美元，年化经常性收入突破3亿美元，同时优艾智合发布具身智能新品并计划三年赋能10000个工业现场。国内AI独角兽在资本化和产业落地两端同步加速。",
+          "source_url": "https://36kr.com/p/3873626697470985?f=rss",
+          "source_name": "36氪 AI",
+          "importance": "high",
+          "related_entities": [
+            "杨植麟",
+            "Moonshot AI",
+            "Kimi",
+            "优艾智合"
+          ]
+        },
+        {
+          "headline": "马斯克宣布Grok4.5内部私测，百度昆仑芯拟赴港IPO",
+          "body": "马斯克宣布Grok4.5已在SpaceX与特斯拉内部启动私测，性能或超越Claude Opus；百度昆仑芯计划赴港IPO。xAI新模型进展与国产AI芯片资本化动作同日曝光，反映中美AI产业在模型迭代与算力自主两条主线持续角力。",
+          "source_url": "https://36kr.com/p/3874911939482880?f=rss",
+          "source_name": "36氪 AI",
+          "importance": "high",
+          "related_entities": [
+            "马斯克",
+            "xAI",
+            "Grok4.5",
+            "百度",
+            "昆仑芯"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "亚马逊成立10亿美元FDE组织，贴身服务企业AI Agent部署",
+          "body": "亚马逊宣布成立新的10亿美元前沿部署工程组织，派遣工程师入驻企业客户现场部署定制AI Agent，对标OpenAI与Anthropic的类似团队。此举显示云巨头正通过重资产贴身服务加速企业AI落地。",
+          "source_url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "source_name": "TechCrunch AI",
+          "importance": "high",
+          "related_entities": [
+            "Amazon",
+            "Andy Jassy"
+          ]
+        },
+        {
+          "headline": "Google UK发布经济影响报告，推动英国AI生产力转型",
+          "body": "Google UK发布最新经济影响报告，阐述如何通过AI技术提升英国生产力并培养AI人才。国家级AI转型战略与科技巨头的本地化投入相结合，为传统产业智能化提供了政策与生态层面的参考框架。",
+          "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "source_name": "Google AI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "Sundar Pichai"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "date": "2026-07-01",
+  "collected_at": "2026-06-30T23:40:45.627254+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp\">Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 16:02:40 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nano Banana 2 Lite",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-30T22:15:35+00:00",
+      "summary": "<p><strong><a href=\"https://deepmind.google/models/gemini-image/flash-lite/\">Nano Banana 2 Lite</a></strong></p>\nAlso known as Gemini 3.1 Flash Lite Image (<code>gemini-3.1-flash-lite-image</code> <a href=\"https://ai.google.dev/gemini-api/docs/image-generation\">in their API</a>), this is the \"fastes",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What's new in Claude Sonnet 5",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-30T21:23:02+00:00",
+      "summary": "<p><strong><a href=\"https://platform.claude.com/docs/en/about-claude/models/whats-new-sonnet-5\">What&#x27;s new in Claude Sonnet 5</a></strong></p>\nClaude Sonnet 5 came out <a href=\"https://www.anthropic.com/news/claude-sonnet-5\">this morning</a>. I always head straight for the \"what's new\" develope",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The AI Compass",
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-30T17:39:23+00:00",
+      "summary": "<p><strong><a href=\"https://bambamramfan.github.io/ai-compass/\">The AI Compass</a></strong></p>\nThis political compass style quiz <a href=\"https://bambamramfan.tumblr.com/post/820505178072580096/the-ai-compass\">by bambamramfan</a> is pretty neat - answer 29 questions about AI and AI ethics to see wh",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-30T16:54:26+00:00",
+      "summary": "<p><a href=\"https://shot-scraper.datasette.io/en/stable/video.html\">shot-scraper video</a> is a new command introduced in today's <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a> release which accepts a <code>storyboard.yml</code> file defining a routine to ru",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "shot-scraper 1.10",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-30T15:10:14+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a></p>\n        <p>The big new feature is <code>shot-scraper video storyboard.yml</code>, described in detail in <a href=\"https://simonwillison.net/2026/Jun/30/shot-scraper-video/\">Have ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "HTML table extractor",
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-29T23:38:21+00:00",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/html-table-extractor\">HTML table extractor</a></p>\n        <p>Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected tab",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 21:53:28 +0000",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 20:33:48 +0000",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 19:02:38 +0000",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 17:52:46 +0000",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 17:00:00 +0000",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 15:08:42 +0000",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-30T15:24:51-04:00",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-30T13:19:15-04:00",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Libby will filter out AI content, kind of",
+      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-30T11:30:00-04:00",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-30T08:00:00-04:00",
+      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to tric",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How GitHub maintains compliance for open source dependencies",
+      "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 17:28:16 +0000",
+      "summary": "<p>Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale.</p>\n<p>The post <a href=\"https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/\">How GitHub",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic Batch Changes is now in public beta",
+      "url": "http://localhost:5174/blog/agentic-batch-changes-public-beta",
+      "source": "Sourcegraph Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "Agentic Batch Changes is now in public beta: an AI agent that scopes, executes, and ships large-scale code migrations across hundreds of repositories until every PR is mergeable.",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Together AI at ICML 2026: frontier research across the full stack",
+      "url": "https://www.together.ai/blog/icml-2026",
+      "source": "Together AI (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "Nine papers at ICML 2026 across the full stack. The research that becomes the Together platform. Find us at booth B714 in Seoul.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 17:00:38 +0000",
+      "summary": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterat",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+      "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 15:00:57 +0000",
+      "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 15:00:49 +0000",
+      "summary": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a rob",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+      "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 13:00:27 +0000",
+      "summary": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from t",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Run any Dockerfile on Vercel",
+      "url": "https://vercel.com/blog/dockerfile-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Ship 2026 recap",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel and Shopify are rebuilding Hydrogen",
+      "url": "https://vercel.com/blog/vercel-and-shopify-are-rebuilding-hydrogen",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Services: Run full stack on Vercel",
+      "url": "https://vercel.com/blog/vercel-services-run-full-stack-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Agent has updated pricing",
+      "url": "https://vercel.com/changelog/vercel-agent-has-updated-pricing",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Sonnet 5 now available on Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/claude-sonnet-5-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Private Blob is now generally available",
+      "url": "https://vercel.com/changelog/vercel-private-blob-is-now-generally-available",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "An expanded Vercel Agent: chat, investigations, and approved actions, now in public beta",
+      "url": "https://vercel.com/changelog/an-expanded-vercel-agent-chat-investigations-and-approved-actions-now-in-public-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image) now on AI Gateway",
+      "url": "https://vercel.com/changelog/nano-banana-2-lite-gemini-3-1-flash-lite-image-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Sandbox now support Custom Images",
+      "url": "https://vercel.com/changelog/vercel-sandbox-now-support-custom-images",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 30 Jun 2026 21:50:04 +0000",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 30 Jun 2026 17:36:48 +0000",
+      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 30 Jun 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Building tech in the world’s secret R&D hub",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 30 Jun 2026 10:23:30 +0000",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "百亿估值只是起点，跨维智能的物理AGI之路",
+      "url": "https://www.qbitai.com/2026/06/440949.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 11:04:47 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+      "url": "https://www.qbitai.com/2026/06/440818.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 10:20:04 +0000",
+      "summary": "谁能把这个空间高质量地数字化，谁就掌握了下一阶段机器智能的入口。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
+      "url": "https://www.qbitai.com/2026/06/440630.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 10:09:56 +0000",
+      "summary": "AI进入生物制造，真正缺的不是更聪明的大脑，而是连接数字与物理世界的接口。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
+      "url": "https://www.qbitai.com/2026/06/440599.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 09:34:05 +0000",
+      "summary": "未来是属于这5种职业的",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
+      "url": "https://www.qbitai.com/2026/06/440478.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 08:46:19 +0000",
+      "summary": "真·有求必应·阿拉丁",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "中国信通院发布AI Infra运维领域首个评测基准",
+      "url": "https://www.qbitai.com/2026/06/440454.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 07:20:26 +0000",
+      "summary": "覆盖 5 款主流国产芯片",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
+      "url": "https://www.qbitai.com/2026/06/440332.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 06:51:05 +0000",
+      "summary": "内存涨疯了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
+      "url": "https://www.qbitai.com/2026/06/440236.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 05:53:21 +0000",
+      "summary": "能聊、能唱跳、能陪你玩游戏",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Agent之间，有互联网了！",
+      "url": "https://www.qbitai.com/2026/06/440199.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 05:23:36 +0000",
+      "summary": "明略科技开源发布Octo",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
+      "url": "https://www.qbitai.com/2026/06/440162.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 30 Jun 2026 04:08:11 +0000",
+      "summary": "好消息是V4正式版能力有升级",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+      "url": "https://36kr.com/p/3873626697470985?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-30 19:56:34  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3875287553224707\"><strong>保时捷中国回应取消多门店销售授权</strong></a></p>\n  <p>近日，有媒体报道称，安徽芜湖、山东济宁、江苏淮安及广西南宁部分保时捷中心，将于6月30日终止经销业务，这意味着上述门店将失去保时捷官方独立销售授权，此事引起广泛关注。6月30日，保时捷中国向记者表示，山东济宁、江苏淮安、广西南宁兴宁保时捷",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科氪 | 小尺寸大满足！全球首款水冷RGB平板发布，185HzOLED屏幕+PC模拟器平板秒变台式主机",
+      "url": "https://36kr.com/p/3875513946206216?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-30 18:16:47  +0800",
+      "summary": "<p>2025年6月30日，继红魔电竞平板 3 Pro 开创OLED 小平板赛道后，红魔再度突破技术边界，正式发布红魔游戏平板 5 Pro。作为行业首款搭载主动水冷散热+RGB 可视化水冷灯效的游戏平板，红魔游戏平板 5 Pro以「水冷散热、透明美学、跨端 3A、全能 AI 生产力」四大核心革新，实现小尺寸机身、PC级散热、极致电竞视效、全场景多设备融合，重新定义游戏平板的性能与体验上限。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1266,685\" src=\"https://img.36krcdn.com/hsossms/2",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+      "url": "https://36kr.com/p/3875120747942913?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-30 11:39:04  +0800",
+      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>光谱定量遥感赛道跑出一匹黑马。</p>\n  <p>36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”）<strong>已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。</strong></p>\n  <p>Pre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。</p>\n  <p><strong>谱星航天是我们长期关注的企业，成立9个月内，共完成3轮融资，累计资金规模",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+      "url": "https://36kr.com/p/3875047283659777?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-30 11:24:49  +0800",
+      "summary": "<p>过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。&nbsp;</p>\n  <p>年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。</p>\n  <p>就在2026年上半年，全球物理A",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "url": "https://36kr.com/p/3875059110221064?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-30 10:35:33  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。</p>\n  <p>纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+      "url": "https://36kr.com/p/3874911939482880?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-06-30 08:05:46  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus</li>\n   <li>美的回应空调产品在欧洲被疯抢</li>\n   <li>蔚来回应车漆洗车时被冲掉：高压水枪操作不规范</li>\n   <li>滚石唱片就屠颖去世追责万豪喜来登</li>\n   <li>百度昆仑芯拟赴港IPO</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼</strong></p>\n  <p>随着全球内存短缺危机加剧，美国当地消费",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 18:32:50 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 14:39:11 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Generating in the Limit with Infinitely Many Hallucinations",
+      "url": "https://arxiv.org/abs/2606.28354",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28354v1 Announce Type: new \nAbstract: The classic paradigm of language identification in the limit models learning as a game between an adversary, who reveals strings from an unknown target language, and a learner tasked with identifying that language. The recently introduced framework of",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Extracting Knowledge from an Arabic-English Machine-Readable Dictionary Using Information Extraction",
+      "url": "https://arxiv.org/abs/2606.28457",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28457v1 Announce Type: new \nAbstract: Natural language processing (NLP) applications need large and rich amount of linguistic knowledge. Furthermore, electronic language sources such as dictionaries, encyclopedia, and corpora became available. So, automatic methods are emerged to extract ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Developmental Trajectories of Situation Modeling and Mentalizing in Transformer Language Models",
+      "url": "https://arxiv.org/abs/2606.28524",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28524v1 Announce Type: new \nAbstract: Recent work suggests that Large Language Models (LLMs) are sensitive to the belief states of agents described by text, as measured by the false belief task (FBT), yet persistent concerns of construct validity remain. We adopt a **developmental perspec",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A French OSCE Dialogue Dataset and Controllable Virtual Patient System for Clinical Training",
+      "url": "https://arxiv.org/abs/2606.28526",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28526v1 Announce Type: new \nAbstract: The clinical and communication skills of medical students are commonly assessed through Objective Structured Clinical Examinations (OSCEs), which consist of brief scenario-driven simulations of doctor-patient interactions. However, training is often l",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Legal Domain Adaptation of Modern BERT Models",
+      "url": "https://arxiv.org/abs/2606.28538",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28538v1 Announce Type: new \nAbstract: We investigate domain adaptation of modern BERT models in the legal domain. We further pre-train ModernBERT on all US court opinions using the masked language modeling objective. Although ModernBERT has been trained on roughly 500x more data than orig",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Turn-Averaged SAEs for Feature Discovery and Long-Context Attribution",
+      "url": "https://arxiv.org/abs/2606.28548",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28548v1 Announce Type: new \nAbstract: Sparse autoencoders (SAEs) have become a useful tool for extracting interpretable features in language models. However, standard SAE architectures operate on individual token activations, meaning that the number of active features scales linearly with",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Depth-Staggered Fibonacci Spacing for Sparse Attention: Static Schedules Beat Learned Dilation and Extrapolate Where Dense Attention Fails",
+      "url": "https://arxiv.org/abs/2606.28560",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28560v1 Announce Type: new \nAbstract: We study sparse self-attention in which each query attends to a dense local window plus a set of Fibonacci-spaced offsets, with a per-layer scalar alpha that compresses or expands the spacing. Across 21 language models trained under one matched recipe",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SEAD: Competence-Aware On-Policy Distillation via Entropy-Guided Supervision",
+      "url": "https://arxiv.org/abs/2606.28562",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28562v1 Announce Type: new \nAbstract: On-policy distillation (OPD) has a property absent in offline distillation and RL: teacher supervision quality depends on student competence. Incoherent rollouts yield noisy gradients; already-mastered tokens yield redundant ones. This creates waste a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Correct codes for the wrong reasons? validating LLMs as measurement instruments for theoretical constructs",
+      "url": "https://arxiv.org/abs/2606.28574",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28574v1 Announce Type: new \nAbstract: When a large language model (LLM) codes a construct in text as a human annotator would, that agreement makes the LLM a reliable coder. Yet reliability leaves construct validity untouched. The instrument may be theory-naive, reaching the code through a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Phonological Perception of Sign Language Models",
+      "url": "https://arxiv.org/abs/2606.28667",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28667v1 Announce Type: new \nAbstract: Sign languages are compositional systems where meaning arises by combining sublexical phonological parameters, such as handshape, location, and movement. While deep learning models for Sign Language Recognition (SLR) have achieved increased performanc",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic 今天发布了 Claude Science，一个面向科学研究者的 AI 工作台。它的定位很明确：做科学研究领域的 Claude Code。 去年 Claude Code 改变了程序员的工作方式，Anthropic CEO Dario Amodei 认为 Claude Science 能在生命科学领域复制同样的事。考虑到 Anthropic 目前年化收入已达 420 亿美元、估值 9650 亿美元，这个野心至少有财力支撑。 Claude Science 不是新模型。它用的还是现有的 Claude 模型（包括 Opus 4.8），没有专门训练过生物学能力。它做的事情是把科研工作流程整合到了一个环境里。 【1】解决什么问题 做过计算生物学的人都知道，日常工作是在一堆工具之间反复横跳：查文献用 PubMed，写代码用 Jupyter，跑分析用 R，提交计算任务要登录集群终端，看蛋白结构又得换个软件。每个数据库还有自己的格式和查询方式。 Claude Science 把这些东西塞进了同一个界面。一个主 AI Agent 充当“项目经理”，连接了 60 多个科学数据库，涵盖基因组学、单细胞分析、蛋白质组学、结构生物学、化学信息学等领域。用自然语言提问，它就会调用相应的专业 Agent 去不同数据库查询和汇总。 它还能往下分派任务，生成子 Agent 来处理具体工作，或者把任务交给用户自己创建的专家 Agent。另外有一个专门的审查 Agent，负责检查引用和计算结果是否正确。 【2】两个比较实际的特性 第一个是可复现性。Claude Science 生成的每张图表都附带生成它的完整代码、运行环境、创建过程的自然语言描述，以及完整对话记录。几个月后回头看，还能还原当时的整个分析过程。想调整图表也简单，用自然语言说“把 Y 轴改成对数刻度”或者“去掉网格线”，Agent会自动修改对应代码。 第二个是本地运算。它可以装在 macOS 或 Linux 上，也可以通过 SSH 连接到实验室的高性能计算集群。数据不用全部传到云端，敏感数据可以留在本地基础设施上，只有分析每一步需要的上下文信息才会发送给 Claude。如果计算量大，它还能调用 Modal 账户按需扩展到上百个 GPU。 【3】早期用户怎么说 Gladstone 研究所的 Sean Whalen 用它几天之内从零搭了一个基因组浏览器。UCSF 的 Stephen Francis 说，Claude Science 在他们的 RNA-seq 数据里发现了一个实验室病毒污染物，他们团队在这个问题上卡了将近一年。Allen 研究所的 Jérôme Lecoq 用它搭了一套多 Agent 文献综述系统，让多个子 Agent 读几千篇论文、提取核心发现，然后按叙事结构生成综述，以前他的团队写这样一篇综述要两年。 MIT 的 Iain Cheeseman 的评价可能最直观，他说这个工具让他作为一个非计算生物学背景的人能做以前根本做不了的分析，他发现自己会把积攒多年的研究问题拿去用 Claude Science 试。 【4】竞争格局 Anthropic 并不是唯一盯上这个方向的公司。OpenAI 在今年 4 月推出了 GPT-Rosalind，一个专门针对生命科学的推理模型，6 月初又做了一轮能力升级。两者的思路不太一样：GPT-Rosalind 是专门训练的领域模型，侧重生物推理能力本身；Claude Science 不改模型，改的是工作流程，把现有模型包装成一个集成了数据库、计算资源和协作 Agent 的科研平台。 GPT-Rosalind 目前只对签了企业协议的美国客户开放研究预览。Claude Science 的门槛低一些，Pro（20 美元/月）以上的付费用户就能用。 这反映了 Anthropic 的策略转变，从单纯卖模型能力，转向拥有特定行业的操作层，就像 Claude Code 成了软件开发的操作层一样。 【5】怎么用 Claude Science 今天开始公测，macOS 和 Linux 可用，需要 Pro、Max、Team 或 Enterprise 订阅。Team 和 Enterprise 用户需要管理员开启权限。学术机构和非营利研究组织的活跃实验室可以申请 Team 计划的折扣席位。 Anthropic 还会资助最多 50 个 Claude Science 研究项目，每个项目最高 3 万美元额度，Modal 另外提供最多 2000 美元的计算资源。申请截止 7 月 15 日，结果 7 月 31 日前通知，项目运行时间为 9 月 1 日到 12 月 1 日。",
+      "url": "https://nitter.net/dotey/status/2072086962190884947#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 30 Jun 2026 22:36:43 GMT",
+      "summary": "<p>Anthropic 今天发布了 Claude Science，一个面向科学研究者的 AI 工作台。它的定位很明确：做科学研究领域的 Claude Code。<br>\n<br>\n去年 Claude Code 改变了程序员的工作方式，Anthropic CEO Dario Amodei 认为 Claude Science 能在生命科学领域复制同样的事。考虑到 Anthropic 目前年化收入已达 420 亿美元、估值 9650 亿美元，这个野心至少有财力支撑。<br>\n<br>\nClaude Science 不是新模型。它用的还是现有的 Claude 模型（包括 Opus 4.8），没有专门",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 今天发布 Claude Sonnet 5，替代 Sonnet 4.6 成为免费版和 Pro 版的默认模型。Anthropic 的定位很明确：Agent 能力接近自家最贵的 Opus 4.8，API 价格只有后者的 40%。 Sonnet 系列是开发者用量最大的一档。但过去几个月，AI Agent 能力（让模型自主规划、调用工具完成多步骤任务）的主要进步集中在更贵的 Opus 系列，两者差距越来越明显。Sonnet 5 把差距缩了回来。在 Agent 编程基准上，Sonnet 5 得分 63.2%，Sonnet 4.6 是 58.1%，Opus 4.8 是 69.2%。在知识工作基准上，Sonnet 5 甚至略微超过了 Opus 4.8。 早期测试者的反馈比较一致：以前 Sonnet 做到一半会停的复杂任务，现在能跑完，还会主动检查自己的输出。Zapier 的工程师说，让 Sonnet 5 连续执行“更新 Salesforce 账户等级，再给企业客户发公告邮件”，模型一口气做完了，“以前会卡在半路”。 API 定价分两阶段：8 月 31 日前的推广价是输入 2 美元/百万 Token、输出 10 美元/百万 Token，之后涨到 3 美元和 15 美元。据 TechCrunch 报道，这个价格低于 OpenAI 的 GPT-5.5 和 Google 的 Gemini 3.1 Pro，但仍高于 Gemini 3.5 Flash。 有个容易忽略的细节：Sonnet 5 换了新的分词器，同样的文本可能消耗 1.0 到 1.35 倍的 Token。Anthropic 说推广期的定价已经把这个涨幅对冲掉了，过渡期总成本大致不变。但推广价结束后，实际花费会比官方标价的涨幅更大。 安全方面，Sonnet 5 的幻觉率和迎合倾向低于前代，Agent 场景下抵御提示注入和恶意请求的能力更强。因为网络安全能力有所提升，模型默认开启了实时安全防护（和 Opus 4.7、4.8 相同的机制）。 Sonnet 5 今天起在 Claude 所有套餐、Claude Code 和 API 上可用，模型代号 claude-sonnet-5。",
+      "url": "https://nitter.net/dotey/status/2072025716913262957#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 30 Jun 2026 18:33:21 GMT",
+      "summary": "<p>Anthropic 今天发布 Claude Sonnet 5，替代 Sonnet 4.6 成为免费版和 Pro 版的默认模型。Anthropic 的定位很明确：Agent 能力接近自家最贵的 Opus 4.8，API 价格只有后者的 40%。<br>\n<br>\nSonnet 系列是开发者用量最大的一档。但过去几个月，AI Agent 能力（让模型自主规划、调用工具完成多步骤任务）的主要进步集中在更贵的 Opus 系列，两者差距越来越明显。Sonnet 5 把差距缩了回来。在 Agent 编程基准上，Sonnet 5 得分 63.2%，Sonnet 4.6 是 58.1%，Opus 4.8",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "帮转招人信息，Kimi Code 招人",
+      "url": "https://nitter.net/dotey/status/2072000613580239234#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 30 Jun 2026 16:53:36 GMT",
+      "summary": "<p>帮转招人信息，Kimi Code 招人</p>\n<hr/>\n<blockquote>\n<b>Kai (@real_kai42)</b>\n<p>\n<p>🤠 <br>\nKimi Code也在招人，感兴趣直接发我邮箱 me@kaiyi.cool<br>\n<br>\n感谢大佬们帮忙扩散 捧场</p>\n<img src=\"https://nitter.net/pic/media%2FHMDx-v4XwAASpol.jpg\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/real_kai4",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    }
+  ]
+}
