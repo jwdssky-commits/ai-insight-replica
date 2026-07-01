@@ -1,0 +1,940 @@
+{
+  "date": "2026-07-02",
+  "collected_at": "2026-07-01T23:48:55.077335+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Wed, 01 Jul 2026 18:15:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from June 2026.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\">Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-06-30T23:58:15+00:00",
+      "summary": "<blockquote cite=\"https://twitter.com/anthropicai/status/2072106151890809341\"><p>We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.</p>\n<p>We'll begin restoring access tomorrow, and will share an update soon.</p></blockquote>\n<p class=\"ci",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 18:47:22 +0000",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 17:48:37 +0000",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 14:25:23 +0000",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 14:20:19 +0000",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 14:00:00 +0000",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 13:43:07 +0000",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 03:15:37 +0000",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 02:16:06 +0000",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 01 Jul 2026 02:04:40 +0000",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-01T08:00:00-04:00",
+      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fal",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-06-30T20:03:55-04:00",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Wed, 01 Jul 2026 15:59:29 +0000",
+      "summary": "<p>These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before.</p>\n<p>The post <a href=\"https://github.blog/security/6-security-settings-every-github-",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Announcing our $800M Series C to accelerate the shift to open-source AI",
+      "url": "https://www.together.ai/blog/announcing-our-series-c",
+      "source": "Together AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "summary": "We raised $800M to accelerate the shift to open-source AI. Here's why the economics of closed models don't scale, and what we're building next.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA and Partners Build in America, for America",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Wed, 01 Jul 2026 13:00:47 +0000",
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Secure internal communication between services",
+      "url": "https://vercel.com/changelog/secure-internal-communication-between-services",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-01T19:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Fable 5 access restored on AI Gateway",
+      "url": "https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-01T07:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Enforce consistent code for agents and humans with konsistent",
+      "url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-01T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dry-run deployments with Vercel CLI",
+      "url": "https://vercel.com/changelog/dry-run-deployments-with-vercel-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-01T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Security Dashboard is in private beta",
+      "url": "https://vercel.com/changelog/vercel-security-dashboard-is-in-private-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-01T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Resend joins the Vercel Marketplace",
+      "url": "https://vercel.com/changelog/resend-vercel-marketplace",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-01T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 01 Jul 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
+      "url": "https://www.qbitai.com/2026/07/441396.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 09:33:05 +0000",
+      "summary": "全新的持续学习范式",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OceanBase湖库一体，重新定义AI数据库",
+      "url": "https://www.qbitai.com/2026/07/441386.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 09:05:10 +0000",
+      "summary": "一套技术栈实现离在线统一",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+      "url": "https://www.qbitai.com/2026/07/441246.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 07:41:42 +0000",
+      "summary": "Taste，决定天花板。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+      "url": "https://www.qbitai.com/2026/07/441240.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 07:32:23 +0000",
+      "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "url": "https://www.qbitai.com/2026/07/441237.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 07:29:32 +0000",
+      "summary": "共同推进物理AI前沿技术探索。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+      "url": "https://www.qbitai.com/2026/07/441225.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 07:24:48 +0000",
+      "summary": "重写“AI如何反复推演世界”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+      "url": "https://www.qbitai.com/2026/07/441183.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 07:15:29 +0000",
+      "summary": "已流片",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+      "url": "https://www.qbitai.com/2026/07/441140.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 06:26:06 +0000",
+      "summary": "四大互联网分别领投",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "卖Token也不是稳赚不赔！硅基流动招股书来了",
+      "url": "https://www.qbitai.com/2026/07/441127.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 05:52:09 +0000",
+      "summary": "AI推理时代的Token工厂",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+      "url": "https://www.qbitai.com/2026/07/441124.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 01 Jul 2026 03:46:20 +0000",
+      "summary": "物理世界AI的下一步",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 21:21:17  +0800",
+      "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。</p>\n  <p>故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。</p>\n  <p>这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：</p>\n  <p>Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同样需要构建一整",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+      "url": "https://36kr.com/p/3877060559433984?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:30:37  +0800",
+      "summary": "<p><strong>硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。</strong></p>\n  <p>航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级智能外骨骼的研发落地的高科技公司，核心技术来源于北京航空航天大学机器人所重点研发计划项目。</p>\n  <p>公司创始人代万辉是北航机器人所硕士、清华大学MBA，曾任北航机器人所863项目负责人，曾负责家用康复器械新零售业务，打造的“械药联动”新模式用户数过千万。CTO栾胜是北航博士及博士后，意大利博",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+      "url": "https://36kr.com/p/3877057215393793?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:27:18  +0800",
+      "summary": "<p>硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。</p>\n  <p>此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。</p>\n  <p>灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联网领域，关注分布式光纤传感、FMCW激光雷达及光I/O方向。</p>\n  <p>其创始人陈教授是清华大学电子工程系教授，曾担任清华大学信息光电子研究所副所长。2009年，陈",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注",
+      "url": "https://36kr.com/p/3877054691930118?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:24:41  +0800",
+      "summary": "<p>硬氪获悉，智能眼镜企业「众见科技」已完成数千万元三轮融资，投资方为韶音、高秉强教授旗下高锋耐心基金、昊辰资本、SEEFund、上市公司光峰科技、高秉强教授个人等，此次融资主要用于研发推进，目前初代产品已完成落地。奇域资本将担任独家财务顾问。</p>\n  <p>众见科技成立于2023年，是一家从事先进光学技术及智能眼镜产品研发的科技创新企业，针对视光需求，致力于帮助用户解决相关问题。</p>\n  <p>创始人赵鹏是26届全国物理竞赛金牌，本科和博士均毕业于清华大学电子工程系，对新型显示和微纳光学光电子技术应用有深入研究，著有多篇SCI文章。毕业后，赵鹏曾就职光峰科技(688007)，任研究",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪前线 | 东昇聚变获数亿元融资，国内唯一布局“氘-氦3”路线核聚变企业",
+      "url": "https://36kr.com/p/3877051217047816?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:21:08  +0800",
+      "summary": "<p>硬氪获悉，核聚变企业东昇聚变近日完成新一轮数亿元融资，由CMC资本旗下华文清能基金及多个一线市场化基金及产业资本等联合领投。</p>\n  <p>东昇聚变成立于2025年7月，总部位于上海，致力于发展以“氘-氦3”为燃料的强磁场紧凑型聚变电站技术。公司集结大批国内聚变产业资深工程与科研骨干全职加盟，核心团队均具备十年以上聚变大装置研发及工程落地从业积淀。同时，公司汇聚众多国际高端科研人才，吸纳来自全球顶尖高校及科研院所的行业精英加盟。</p>\n  <p>可控核聚变是重构全球能源体系的终极解决方案，全球聚变已完成科学原理验证，正加速迈入工程化落地关键窗口期。中国“十五五”规划建议将核聚变列为",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "宠物科技品牌宠爱友家，既要做AI硬件也要做食品｜涌现新栏目",
+      "url": "https://36kr.com/p/3827530174862208?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:18:18  +0800",
+      "summary": "<p>文｜梁键强</p>\n  <p>编辑｜王毓婵</p>\n  <p><strong>一句话介绍</strong></p>\n  <p>宠爱友家核心产品包括AI鲜食料理机、AI智能项圈、AI伴宠机器人，以及猫砂盆、饮水机、喂食器等智能用品，致力于用AI连接宠物喂养、健康监测和陪伴多场景。</p>\n  <p>公司围绕智能硬件、功能性食品和营销服务三大业务布局，试图打造宠物健康管理与科学喂养解决方案。</p>\n  <p><strong>团队介绍</strong></p>\n  <p>宠爱友家负责人曹勇，目前全面负责宠爱友家整体运营管理。其拥有5年宠物赛道创业经验，曾将业务做到单月营收峰值800万元；此前",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 牛津博士创业抗衰老药物，Monolith领投，同步研究宠物药和人药",
+      "url": "https://36kr.com/p/3877047915475200?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:17:44  +0800",
+      "summary": "<p><strong>硬氪获悉，AI抗衰药物研发公司「无尽方舟」已完成数千万元种子轮融资，Monolith领投，九合创投跟投。此次融资将主要用于加速核心药物的工程化生产与猫狗临床验证，并同时推进H2P跨物种平台及干湿结合药物研发平台两大AI系统的建设。</strong></p>\n  <p>无尽方舟成立于2026年5月，切入的是一个在长寿产业中足够前沿、但验证路径更短的方向：先在犬、猫等宠物身上建立衰老干预药效模型，再反向推动人类抗衰药物管线。</p>\n  <p>其创始人赵思邈本科就读于爱丁堡大学人工智能专业，硕士和博士均在牛津大学系统进入衰老研究领域，曾加入Longevity Biotech ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮",
+      "url": "https://36kr.com/p/3877043321237504?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:14:02  +0800",
+      "summary": "<p><strong>今年夏天，作为一家基金的投资人，你难保不会接到老板的狠话：2026，必须下注一家核聚变企业！</strong></p>\n  <p>可惜他们手里的TS，大概率递不出去。<strong>一个2025年刚成立的核聚变企业，起初估值5亿，关完一轮涨到30亿，几个月之后可以再涨两三倍。</strong>公司创始人是业界大佬，普通投资人根本见不到本人，最多和其他机构一起拼桌见见CFO。这位CFO私下告诉硬氪，TA入行时觉得3年能做到100亿估值，没想到半年就快完成这一目标。</p>\n  <p>只带着钱来的投资人，根本上不了牌桌。所以他们得“找各种小学同学、初中同桌、高中同桌、大学上铺",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 全尺寸全重量国内率先首飞，北航系全倾转eVTOL企业再获数千万融资",
+      "url": "https://36kr.com/p/3877039462150409?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:09:13  +0800",
+      "summary": "<p>硬氪获悉，eVTOL企业蜻蜓翼行近日完成Pre-A轮数千万元融资，资方为梅花创投。此次融资金额主要用于研发队伍的扩充、样机研制和适航取证。在此之前，已获得普华资本和祥峰投资两轮领投。</p>\n  <p>蜻蜓翼行成立于2024年8月，是一家聚焦未来空中立体交通赛道，以全倾转构型eVTOL 飞行器为核心业务的航空科技企业，创始团队在2010年就开始倾转路线研发，至今已有16年，是国内少有的具备全倾转构型设计能力的团队。公司成立之前已经完成全倾转缩比样机全流程试飞。公司成立后很快实现了全尺寸全重量飞行样机的下线和首飞。</p>\n  <p>蜻蜓翼行创始人陶国权是北京航空航天大学副教授，曾担任国家",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 前存储上市公司老将带队做AI超算设备，年营收已达数千万",
+      "url": "https://36kr.com/p/3877035735740673?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-01 20:05:36  +0800",
+      "summary": "<p>硬氪获悉，算力基础设施企业华弘数科近日完成数千万Pre-A轮融资，领投方为吴中金控，此次融资将主要用来发展AI应用和算力落地的生态建设、工厂产能的进一步扩大和基地的建设与推进。</p>\n  <p>华弘数科成立于2021年，总部位于北京，后迁至苏州，专注全液冷边端侧超级计算机研发，是跨界全液冷散热与IT算力的一体化平台。</p>\n  <p>其创始人罗华曾任同有科技（300302）董事兼副总经理，是前10大股东，曾在同有科技主管产品及销售工作，拥有近20年数据存储、高性能计算行业经验。联合创始人凌铭曾主导研发设计业界多款液冷服务器和工作站，曾获得上汽、某国家级超算中心等客户液冷产品订单。</",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What Drives Interactive Improvement from Feedback?",
+      "url": "https://arxiv.org/abs/2606.30774",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise from resampling, form",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Contrastive Reflection for Iterative Prompt Optimization",
+      "url": "https://arxiv.org/abs/2606.30840",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+      "url": "https://arxiv.org/abs/2606.30846",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+      "url": "https://arxiv.org/abs/2606.30850",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30850v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that should reduce epistemic uncertainty about their environment. Acting rationally then requires inferring the unobserved quantitie",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.30852",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30852v1 Announce Type: new \nAbstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping rule improves over simple confidence or convergence thresholds. We study this question with LearnStop, a hidden-state-free ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
+      "url": "https://arxiv.org/abs/2606.30863",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30863v1 Announce Type: new \nAbstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying questions whenever the task is underspecified. We argue this assumption is unrealistic. Users often lack the domain knowledge ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Investigating Multi-Agent Deliberation in Law",
+      "url": "https://arxiv.org/abs/2606.30906",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30906v1 Announce Type: new \nAbstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One particular movement that is gaining traction is that of agentic AI, wherein AI agents, based on Large Language Models (LLMs) ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+      "url": "https://arxiv.org/abs/2606.30911",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30911v1 Announce Type: new \nAbstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (global, domain, and co",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RoPoLL: Robust Panel of LLM Judges",
+      "url": "https://arxiv.org/abs/2606.30931",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30931v1 Announce Type: new \nAbstract: The LLM Jury, a Panel of LLM Evaluators (PoLL) reporting consensus scores, has become a practical alternative to single-judge LLM evaluation, yet its statistical behavior remains poorly understood. We formalize the LLM Jury under the Huber contaminati",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+      "url": "https://arxiv.org/abs/2606.30949",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30949v1 Announce Type: new \nAbstract: High-Level Synthesis (HLS) provides a fast path from concepts to silicon, but converting real-world software into synthesizable HLS code remains challenging due to restrictive language support and the gap between software and hardware programming prac",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+      "url": "https://arxiv.org/abs/2606.30775",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30775v1 Announce Type: new \nAbstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As age",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Indi-RomCoM: Code-Mixed Benchmark for Evaluating LLMs on Romanized Indic-English Instructions",
+      "url": "https://arxiv.org/abs/2606.30790",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30790v1 Announce Type: new \nAbstract: Romanized Code Mixing (RCM), where bilingual speakers fluidly blend local languages with English in Roman script, has emerged as the dominant form of communication across multilingual communities. While Large Language Models (LLMs) perform strongly on",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+      "url": "https://arxiv.org/abs/2606.30801",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30801v1 Announce Type: new \nAbstract: Personalization algorithms determine what content users encounter on online platforms. Auditing these systems is difficult because independent auditors have only black-box access to the algorithms, while personalization depends on users' attributes, b",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Calibration Rankings Reverse: Accuracy-Controlled Evaluation for Fair Comparison of LLMs",
+      "url": "https://arxiv.org/abs/2606.30814",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30814v1 Announce Type: new \nAbstract: Calibration evaluates whether a model confidence aligns with its empirical accuracy. Existing studies often compare the calibration of different large language models using global calibration metrics such as Expected Calibration Error and Brier Score.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When transformers learn \"impossible\" languages, what do they learn?",
+      "url": "https://arxiv.org/abs/2606.30815",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30815v1 Announce Type: new \nAbstract: Recent work suggests that transformer language models show a bias towards human languages over unnatural (\"impossible\") languages argued to be unacquirable by humans. However, this literature has largely based these claims on differences in sample eff",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+      "url": "https://arxiv.org/abs/2606.30851",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30851v1 Announce Type: new \nAbstract: Improving the reliability of large language models (LLMs) at inference time is a central challenge in structured reasoning tasks such as Text-to-SQL. Common test-time inference strategies, including Best-of-N sampling and Majority Voting, rely on heur",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Multilingual Polarization Detection Using Transformer-Based Models with Class Weighting and Threshold Tuning",
+      "url": "https://arxiv.org/abs/2606.30857",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30857v1 Announce Type: new \nAbstract: This paper describes our submission to SemEval-2026 Task 9 on detecting multilingual, multicultural, and multievent online polarization. We address all three subtasks: binary polarization detection, polarization type classification, and manifestation ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+      "url": "https://arxiv.org/abs/2606.30887",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30887v1 Announce Type: new \nAbstract: Large language models show promise for mental health support, yet therapeutic quality improves only when evaluation functions as an actionable control signal rather than a passive metric. We introduce a framework that formulates therapeutic response g",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond Clean Text: Evaluating Encoder and Decoder Robustness for Bangla Event Detection in Noisy Text",
+      "url": "https://arxiv.org/abs/2606.30914",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30914v1 Announce Type: new \nAbstract: Event detection (ED) systems are typically evaluated on clean, curated text, leaving their robustness to real-world noise largely unexplored, particularly for low-resource languages such as Bangla. We introduce a generalized Bangla news event ontology",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bridging Scientific Heritage: An Arabic--Russian Parallel Corpus and LLM Benchmark for Sustainable Knowledge Transfer",
+      "url": "https://arxiv.org/abs/2606.30943",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.30943v1 Announce Type: new \nAbstract: Russian and Arabic are among the major languages of scientific communication. Language barriers impede the exchange of research results between these communities, which affects international collaboration and the progress of sustainability-related res",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "这个账号跟我没任何关系，望周知",
+      "url": "https://nitter.net/dotey/status/2072435591359221959#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 21:42:03 GMT",
+      "summary": "<p>这个账号跟我没任何关系，望周知</p>\n<img src=\"https://nitter.net/pic/media%2FHMLFKRjWMAECahA.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Code 重置额度了，但是我亏死了，本来就要重置的",
+      "url": "https://nitter.net/dotey/status/2072432452400820387#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 21:29:35 GMT",
+      "summary": "<p>Claude Code 重置额度了，但是我亏死了，本来就要重置的</p>\n<img src=\"https://nitter.net/pic/media%2FHMLCQzKWwAAvGTE.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>ClaudeDevs (@ClaudeDevs)</b>\n<p>\n<p>Now that Fable 5 is ready to build (again), we've reset everyone's 5-hour and weekly rate limits.</p>\n\n</p>\n<fo",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Seedance 2.0 4K做的短片，用的 CapCut Video Studio",
+      "url": "https://nitter.net/dotey/status/2072416133462765806#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 20:24:44 GMT",
+      "summary": "<p>Seedance 2.0 4K做的短片，用的 CapCut Video Studio</p>\n<a href=\"https://nitter.net/dotey/status/2072416133462765806#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072206677009743872%2Fimg%2FG6fW5ENnMiF9nfpK.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Fable 5 终于回归了",
+      "url": "https://nitter.net/dotey/status/2072403220861718827#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 19:33:25 GMT",
+      "summary": "<p>Fable 5 终于回归了</p>\n<img src=\"https://nitter.net/pic/media%2FHMKnuw2WYAAC-dP.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>Claude (@claudeai)</b>\n<p>\n<p>Fable 5 is back.</p>\n<a href=\"https://nitter.net/claudeai/status/2072402636813607381#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pi",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "\"Make it Work. Make it Right. Make it Fast.\"",
+      "url": "https://nitter.net/dotey/status/2072360872920375547#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 16:45:09 GMT",
+      "summary": "<p>\"Make it Work. Make it Right. Make it Fast.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHMKBHefWoAA15iR.png\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>FENG DONG (@middlefeng)</b>\n<p>\n<p>即使很多时候写文件是最优解，软件工程的正确实践是：先无脑上 sqlite，然后把局部 hotspot 改成文件。而不是反过来，先把上来就用 sqlite 批判一番。</p>\n\n</p>\n<footer",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Science System Prompt and Skills https://github.com/JimLiu/science-skills",
+      "url": "https://nitter.net/dotey/status/2072352618676953539#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 16:12:21 GMT",
+      "summary": "<p>Claude Science System Prompt and Skills<br>\n<br>\n<a href=\"https://github.com/JimLiu/science-skills\">github.com/JimLiu/science-sk…</a></p>\n<img src=\"https://nitter.net/pic/media%2FHMJ5pdFXIAA8P5Q.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>宝玉 (@dotey)</b>\n<p>\n<p>Anthropic 今天发布了 Claude ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Fable 5 从 7 月 1 日起恢复上线。Pro、Max、Team 和部分 Enterprise 用户在 7 月 7 日之前，每周使用量限额的 50% 可以用 Fable 5；7 月 7 日之后改为按使用积分（usage credits）计费。标准 Enterprise 席位没有免费额度，全部按积分计费。 AWS、Google Cloud 和 Microsoft Foundry 上的接入还在恢复中。Mythos 5 目前仅对经美国政府批准的美国机构开放。",
+      "url": "https://nitter.net/dotey/status/2072165623539421681#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 03:49:18 GMT",
+      "summary": "<p>Fable 5 从 7 月 1 日起恢复上线。Pro、Max、Team 和部分 Enterprise 用户在 7 月 7 日之前，每周使用量限额的 50% 可以用 Fable 5；7 月 7 日之后改为按使用积分（usage credits）计费。标准 Enterprise 席位没有免费额度，全部按积分计费。<br>\n<br>\nAWS、Google Cloud 和 Microsoft Foundry 上的接入还在恢复中。Mythos 5 目前仅对经美国政府批准的美国机构开放。</p>\n<img src=\"https://nitter.net/pic/media%2FHMHPpqiWQAA",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 推荐一期播客 42章经 × 魏小康。前字节招聘负责人（2017-2020，经历抖音爆发），前美团招聘负责人+AI产品经理（2020-2024）。国内极少数同时深度参与过两家公司组织建设的人。 聊了三件事：字节和美团完全不同的组织逻辑（为什么一家学 Google 一家学亚马逊）、创业公司招聘到底该怎么做（80% 时间花在哪）、AI 时代组织在发生什么变化。 下面是我的笔记 1. 文化 = 创始人做事方式。 魏小康原话：创业公司不需要搞文化，所有头部公司文化本质差不多。创始人怎么干活，公司就怎么干活。塑造一个好氛围就够了。 2. 721：选择不是不培养。 美团 721 理念：人的成长 70% 靠打仗，20% 靠跟好手学，10% 靠培训。「最重要的事情是给大家战场。好的人自动杀出来。」——不是不培养，是战场本身就是培养方式。 3. 薪资阶段：溢价买的是更快的时间。 字节的逻辑：市场价 100，跳槽给 120-130。字节给 140-150 加大小周。拼多多给 170-180 加单休。从时薪看是划算的。而且「招一个最强的人解决业务问题，花的代价比招一堆人小。」 4. 十个人最少搞错 10% 的信息。 三个人干活，理解的东西就不一样。十个人，问每个人公司在做什么，答案全不同。字节花时间把 OKR 讨论清楚，不是大公司病，是止损。 5. 扩供给不靠猎头，靠圈子。 创业公司影响力不够，熟人内推才是主要渠道。把最好的人做 CRM——魏小康为挖一个高管，从对方入职对手公司那天起，每三个月见一次，两年半后才等到。 6. 今年之后的每一天都是你最好招人的时候。 供需越来越紧张。今天给多少钱都是赚的。不是「现在贵」，是「以后更贵」。 7. 你周围有靠谱的人，把他周围靠谱的人给弄完。 反向操作。不是只挖一个人，是顺着靠谱的人把整个圈子端过来。 8. 做苦活累活是另一套组织逻辑。 Google/字节是精英大力出奇迹。美团/亚马逊是精密协作干苦活。AI 应用层要做交付，「你一定要把它做苦、做累、做重」。",
+      "url": "https://nitter.net/yan5xu/status/2072146139999264940#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 02:31:53 GMT",
+      "summary": "<p>推荐一期播客 42章经 × 魏小康。前字节招聘负责人（2017-2020，经历抖音爆发），前美团招聘负责人+AI产品经理（2020-2024）。国内极少数同时深度参与过两家公司组织建设的人。<br>\n<br>\n聊了三件事：字节和美团完全不同的组织逻辑（为什么一家学 Google 一家学亚马逊）、创业公司招聘到底该怎么做（80% 时间花在哪）、AI 时代组织在发生什么变化。<br>\n<br>\n下面是我的笔记<br>\n<br>\n1. 文化 = 创始人做事方式。 魏小康原话：创业公司不需要搞文化，所有头部公司文化本质差不多。创始人怎么干活，公司就怎么干活。塑造一个好氛围就够了。<br>\n<br",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 要回滚了",
+      "url": "https://nitter.net/dotey/status/2072121480297472032#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 00:53:53 GMT",
+      "summary": "<p>要回滚了</p>\n<hr/>\n<blockquote>\n<b>Thariq (@trq212)</b>\n<p>\n<p>Hi, this is an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation. <br>\n<br>\nThe team has landed stronger mitigations since then and we’ve actually been mea",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 的 Fable 5 和 Mythos 5 终于解禁了。 美国商务部长 Howard Lutnick 周二致信 Anthropic，确认撤销此前对这两款模型的出口管制。Anthropic 随即宣布将从周三开始恢复用户访问。 解禁是有条件的。根据 Lutnick 的信，Anthropic 需要主动检测和处理模型的安全风险，与政府合作制定未来的发布流程，并上报发现的任何恶意使用行为。双方还在讨论建立一套标准化的技术评估体系，用于评估未来模型的风险等级。 这件事的影响不止于 Anthropic 一家。上周，OpenAI 也在白宫要求下，将新发布的 GPT-5.6 系列（包括旗舰模型 Sol）限制在一小批政府认可的合作伙伴中。OpenAI 虽然照做了，但明确表态这种政府审批模式不应成为长期常态，“它让最好的工具远离了需要它们的用户、开发者、企业和网络防御者”。 这场管制还引发了一个意外的竞争后果：在美国限制自家公司最强模型部署的同时，中国的开源模型正在快速追赶，多位科技高管和投资者担忧，管制等于白白送给对手宝贵的追赶时间。 前白宫 AI 顾问、即将加入 OpenAI 的 Dean Ball 说得更直接：Trump 的行政令实际上创造了一个事实上的强制许可制度，而政府连清晰的安全标准都没定义出来。一个没有标准的许可制度，能让每一次模型发布都变成一场即兴谈判。",
+      "url": "https://nitter.net/dotey/status/2072117950438662420#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 01 Jul 2026 00:39:52 GMT",
+      "summary": "<p>Anthropic 的 Fable 5 和 Mythos 5 终于解禁了。<br>\n<br>\n美国商务部长 Howard Lutnick 周二致信 Anthropic，确认撤销此前对这两款模型的出口管制。Anthropic 随即宣布将从周三开始恢复用户访问。<br>\n<br>\n解禁是有条件的。根据 Lutnick 的信，Anthropic 需要主动检测和处理模型的安全风险，与政府合作制定未来的发布流程，并上报发现的任何恶意使用行为。双方还在讨论建立一套标准化的技术评估体系，用于评估未来模型的风险等级。<br>\n<br>\n这件事的影响不止于 Anthropic 一家。上周，OpenAI 也",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @NousResearch: Full Release Notes: http://github.com/NousResearch/hermes-agent/releases#release-v2026.7.1 To update, run: 'hermes update'",
+      "url": "https://nitter.net/NousResearch/status/2072413439683649846#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 01 Jul 2026 20:14:02 GMT",
+      "summary": "<p>Full Release Notes:  <a href=\"http://github.com/NousResearch/hermes-agent/releases#release-v2026.7.1\">github.com/NousResearch/herm…</a><br>\n<br>\nTo update, run: 'hermes update'</p>\n<img src=\"https://nitter.net/pic/media%2FHMKxBvAWgAAEHDf.png\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hermes Agent v0.18.0 - The Judgement Release Changelog below:",
+      "url": "https://nitter.net/NousResearch/status/2072413332665962617#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 01 Jul 2026 20:13:36 GMT",
+      "summary": "<p>Hermes Agent v0.18.0 - The Judgement Release<br>\n<br>\nChangelog below:</p>\n<a href=\"https://nitter.net/NousResearch/status/2072413332665962617#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/media%2FHMKwvHxWYAAyJSH.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Super proud to say that the team and I put almost all our effort into resolving every P0 and P1 issue and PR in the entire Hermes Agent repo over the last week and a half, and as of 5 minutes ago, after an all-nighter, we've resolved 100% of them all! Extremely special shoutout to @Kshitijjkapoor who's been burning them away with me day and night! We aim to keep all of them 0 forever from here 🫡🫡",
+      "url": "https://nitter.net/Teknium/status/2072303021154013642#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 01 Jul 2026 12:55:16 GMT",
+      "summary": "<p>Super proud to say that the team and I put almost all our effort into resolving every P0 and P1 issue and PR in the entire Hermes Agent repo over the last week and a half, and as of 5 minutes ago, after an all-nighter, we've resolved 100% of them all!<br>\n<br>\nExtremely special shoutout to <a hre",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
