@@ -1,0 +1,164 @@
+{
+  "title": "宇树硅基流动双冲刺IPO，Anthropic进军AI制药与Wiola新架构现身",
+  "date": "2026-07-04",
+  "summary": "宇树科技科创板IPO注册获批，即将成为全球“具身智能第一股”；AI基础设施公司硅基流动递交港股上市申请。Anthropic发布Claude Science工作台正式进军AI药物研发。arXiv出现完全原创的小型语言模型架构Wiola，宣称与GPT、LLaMA等现有家族无结构关联。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "产品发布",
+    "融资",
+    "Agent",
+    "机器人",
+    "热点"
+  ],
+  "highlight": {
+    "title": "证监会同意宇树科技科创板IPO注册，“具身智能第一股”即将诞生",
+    "body": "7月2日，证监会同意宇树科技首次公开发行股票注册。作为全球首家在IPO的具身智能企业，宇树科技即将登陆科创板。这一里程碑标志着硬科技与AI物理化赛道获得资本市场关键认可，对机器人产业链具有风向标意义。",
+    "source_url": "https://36kr.com/p/3879158039834629?f=rss"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "全新小型语言模型架构Wiola发布，宣称与现有主流模型无结构关联",
+          "body": "arXiv论文提出Wiola架构，号称从零构建，与GPT、LLaMA、Mistral、Falcon等现有模型家族无结构渊源。该架构针对高效小型语言模型设计，包含五项独立新颖贡献，为大模型架构创新提供了区别于Transformer传统脉络的新思路。",
+          "source_url": "https://arxiv.org/abs/2607.01394",
+          "source_name": "ArXiv CS.AI",
+          "importance": "high",
+          "related_entities": [
+            "Wiola"
+          ]
+        },
+        {
+          "headline": "中国团队将Physical AI引入生命科学实验室，第三方测评超越GPT-5.6 Sol",
+          "body": "据量子位报道，一家中国跨界公司把黄仁勋提出的Physical AI概念落地到生命科学场景，其模型在第三方测评中超越OpenAI最强旗舰GPT-5.6 Sol。这标志着物理世界模型与生物计算交叉领域取得突破，为AI for Science提供了新的中国方案。",
+          "source_url": "https://www.qbitai.com/2026/07/442311.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "黄仁勋",
+            "Jensen Huang",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "开发者通过代码转图片OCR策略实现Fable成本降低60%",
+          "body": "GitHub项目pxpipe展示了一种极端但有效的成本优化方案：将代码转换为图片后让模型进行OCR识别，从而使Fable运行成本降低60%。该方法揭示了多模态交互在AI编程Agent中的成本结构特点，为开发者提供了降本新思路。",
+          "source_url": "https://github.com/teamchong/pxpipe",
+          "source_name": "Hacker News",
+          "importance": "high",
+          "related_entities": [
+            "Fable",
+            "Claude Code"
+          ]
+        },
+        {
+          "headline": "Simon Willison分享Anthropic团队Fable使用技巧",
+          "body": "Simon Willison在与Claude Code团队交流后分享了Fable工具的使用经验，其中最关键的技巧是“让Fable做判断”。这反映了当前AI编程Agent从简单代码生成向复杂决策代理演进的产品趋势，提示工程正在转向代理设计。",
+          "source_url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "Anthropic",
+            "Claude Code",
+            "Fable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic推出Claude Science工作台，正式进军AI药物研发",
+          "body": "Anthropic在“The Briefing: AI for Science”活动上发布Claude Science，一个面向科学家的AI工作台，整合碎片化工具与数据集，并自动生成图表与可视化。这标志着Anthropic从通用对话模型向垂直科学应用拓展，直接与制药研发流程结合。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "source_name": "The Verge AI",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "headline": "Midjourney超声扫描仪幕后视频曝光，实际效果仍存疑",
+          "body": "Midjourney发布了其沉浸式超声扫描仪的幕后视频，计划将该设备部署在水疗中心并推动医学变革。然而外界对其技术有效性提出诸多质疑，显示AI图像生成公司跨界医疗硬件面临严峻的临床验证与监管挑战。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+          "source_name": "The Verge AI",
+          "importance": "medium",
+          "related_entities": [
+            "Midjourney"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "宇树科技科创板IPO注册获批，“具身智能第一股”即将上市",
+          "body": "证监会同意宇树科技首次公开发行股票注册，意味着这家全球领先的具身智能企业即将登陆科创板。作为“具身智能第一股”，宇树科技的IPO将成为硬科技领域标志性事件，对整个机器人产业链和AI物理化进程具有风向标意义。",
+          "source_url": "https://36kr.com/p/3879158039834629?f=rss",
+          "source_name": "36氪 AI",
+          "importance": "high",
+          "related_entities": [
+            "王兴兴",
+            "宇树科技"
+          ]
+        },
+        {
+          "headline": "硅基流动向港交所递交上市申请，成立不足三年冲刺IPO",
+          "body": "AI基础设施公司硅基流动在Q2末向港交所递交上市申请。该公司由OneFlow创始人袁进辉创立，专注于大模型推理与部署基础设施。成立不到三年即启动港股IPO，反映出资本市场对AI算力与中间层工具的持续热情。",
+          "source_url": "https://36kr.com/p/3879814941437956?f=rss",
+          "source_name": "36氪 AI",
+          "importance": "high",
+          "related_entities": [
+            "袁进辉",
+            "硅基流动"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "智能出行企业OMOWAY获宁德时代领投数千万美元融资",
+          "body": "智能两轮出行企业OMOWAY完成A轮及A+轮融资，单轮均为数千万美元，A+轮由宁德时代旗下Lochpine Capital领投。公司成立不到两年已成为印尼电摩品类订单第一，显示AI驱动的智能出行方案在东南亚新兴市场快速落地。",
+          "source_url": "https://36kr.com/p/3877990989819909?f=rss",
+          "source_name": "36氪 AI",
+          "importance": "medium",
+          "related_entities": [
+            "OMOWAY",
+            "宁德时代"
+          ]
+        },
+        {
+          "headline": "研究显示AI仅节省约3%工作时间且难以转化为经济收益",
+          "body": "一项研究指出，当前AI工具在工作场景中仅帮助用户节省约3%的时间，且这些效率提升几乎未能转化为实际经济收益。这一发现对企业AI转型的投资回报预期构成挑战，提示业界需重新评估生产力工具的落地价值。",
+          "source_url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+          "source_name": "Hacker News",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    }
+  ]
+}
