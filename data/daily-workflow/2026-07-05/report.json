@@ -1,0 +1,145 @@
+{
+  "title": "阿里全面禁用Claude Code，微软25亿美元组建AI新公司",
+  "date": "2026-07-05",
+  "summary": "阿里巴巴因安全担忧全面禁用Claude Code，凸显企业级AI部署中的供应链焦虑；微软宣布投资25亿美元组建约6000人独立AI新公司，加码基础模型与企业应用布局。同时，OpenAI Codex被曝推理token聚类导致性能退化，Dan Luu等持续反思AI Coding工具链稳定性与Agent边界。",
+  "tags": [
+    "AI行业",
+    "企业AI转型",
+    "AI Coding",
+    "安全",
+    "融资",
+    "热点"
+  ],
+  "highlight": {
+    "title": "阿里内部全面禁用Claude Code",
+    "body": "阿里巴巴 reportedly 将Claude Code列为高风险软件并禁止员工使用，报道称源于植入后门的安全担忧。在大型科技企业纷纷接入AI编程工具的背景下，此举凸显企业级AI部署中安全合规优先于效率提升的审慎态度，也反映出地缘政治下的供应链焦虑。",
+    "source_url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GPT-5.5 Codex被曝推理token聚类致性能退化",
+          "body": "OpenAI Codex被曝存在推理token聚类问题，GitHub issue显示GPT-5.5 Codex在特定场景下因reasoning token异常聚类导致性能退化。这提示顶级推理模型在规模化部署中仍面临稳定性挑战，对开发者依赖AI编程工具的可靠性提出警示。",
+          "source_url": "https://github.com/openai/codex/issues/30364",
+          "source_name": "OpenAI GitHub / Hacker News",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Better Models: Worse Tools——新模型反而破坏工具调用",
+          "body": "Armin Ronacher发现新版Claude模型调用Pi编辑工具时频繁传入多余参数，导致工具调用失败。Simon Willison指出模型能力增强不等于工具集成体验提升，揭示了模型迭代与工具接口稳定性之间的错位，影响开发者对AI Coding工具的信任。",
+          "source_url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "high",
+          "related_entities": [
+            "Armin Ronacher",
+            "Simon Willison",
+            "Anthropic"
+          ]
+        },
+        {
+          "headline": "Dan Luu发布Agentic coding实践观察",
+          "body": "Dan Luu系统梳理了Agentic coding实践，分析AI Agent在编程循环中的有效介入边界，探讨任务分解、上下文维护和错误恢复等关键问题。该文为AI Coding从自动补全向自主代理演进提供了务实方法论，获HN社区高度关注。",
+          "source_url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+          "source_name": "Dan Luu / Hacker News",
+          "importance": "medium",
+          "related_entities": [
+            "Dan Luu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "同人小说社区AO3掀起反AI生成内容运动",
+          "body": "同人小说社区AO3掀起抵制AI生成内容运动，试图检测并揪出使用Claude、ChatGPT创作的作者，但检测方法可靠性存疑，可能误伤普通创作者。这场冲突折射出生成式AI在创意领域引发的信任危机，以及社区在检测伦理与准确性间的艰难平衡。",
+          "source_url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Anthropic",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Midjourney要求好莱坞制片厂披露AI使用细节",
+          "body": "Midjourney在与好莱坞制片厂的法律纠纷中，要求对方披露内部AI使用细节。此举将AI版权争议从训练数据延伸至应用场景，可能为行业建立AI使用透明度先例。好莱坞如何在创作中合规使用AI，正成为法律与商业交叉的核心议题。",
+          "source_url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Midjourney"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微软砸25亿美元组建6000人AI新公司",
+          "body": "据36氪报道，微软计划投入25亿美元组建约6000人的独立AI新公司。这一超大规模投资反映科技巨头正通过组织架构重组加速AI战略落地，也意味着其可能在基础模型与企业应用进行全栈布局，加剧头部企业在AI人才和市场份额的竞争。",
+          "source_url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Microsoft"
+          ]
+        },
+        {
+          "headline": "光象科技完成数亿元天使轮，布局物理原生基座模型",
+          "body": "光象科技完成数亿元天使轮融资，专注研发物理原生基座模型。该公司试图将物理世界规律深度融入模型架构，服务科学计算与产业仿真。此轮融资显示资本市场对AI+物理方向的高度认可，也可能为工业AI和具身智能提供更底层的模型支撑。",
+          "source_url": "https://www.qbitai.com/2026/07/442958.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "光象科技"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "阿里内部全面禁用Claude Code",
+          "body": "阿里巴巴已将Claude Code列为高风险软件并禁止员工使用，报道称源于植入后门担忧。在科技企业纷纷接入AI编程工具的背景下，阿里基于数据安全采取的禁用措施，凸显企业级AI部署中安全合规优先于效率的审慎态度。",
+          "source_url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "source_name": "TechCrunch / 36氪",
+          "importance": "high",
+          "related_entities": [
+            "Alibaba",
+            "Anthropic"
+          ]
+        },
+        {
+          "headline": "傲鲨智能推出消费级外骨骼机器人",
+          "body": "傲鲨智能联合户外平台推出增程动力外骨骼机器人，将工业机甲技术转化为消费级户外装备。该设备通过实时学习用户步态提供助力，使长距离徒步更轻松。这标志着具身智能正从工厂向大众消费市场渗透，为传统户外行业的智能化转型提供全新范式。",
+          "source_url": "https://36kr.com/p/3880770270425089?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "傲鲨智能",
+            "徐振华"
+          ]
+        }
+      ]
+    }
+  ]
+}

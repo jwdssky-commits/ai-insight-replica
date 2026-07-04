@@ -1,0 +1,341 @@
+{
+  "date": "2026-07-05",
+  "collected_at": "2026-07-04T23:26:55.476246+00:00",
+  "item_count": 27,
+  "items": [
+    {
+      "title": "Building a World Map with only 500 bytes",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-04T23:09:02+00:00",
+      "summary": "<p><strong><a href=\"https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes\">Building a World Map with only 500 bytes</a></strong></p>\nIwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data:</p>\n<p><img alt=\"A map of the ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-04T22:53:52+00:00",
+      "summary": "<p><strong><a href=\"https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\">Better Models: Worse Tools</a></strong></p>\nArmin reports on a weird problem he ran into while hacking on Pi:</p>\n<blockquote>\n<p>The short version is that newer Claude models sometimes call Pi’s edit tool with extra, ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 04 Jul 2026 16:32:08 +0000",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-04T08:00:00-04:00",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Routing rules now available on AI Gateway",
+      "url": "https://vercel.com/changelog/ai-gateway-routing-rules",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-02T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 04 Jul 2026 05:52:21 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+      "url": "https://36kr.com/p/3880770270425089?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-04 11:25:22  +0800",
+      "summary": "<p>《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。</p>\n  <p>7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。</p>\n  <p>当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技、户外美学与湖岸风光融为一体，让参与者沉浸式解锁人机协同的徒步方式，感受徒步的",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-04 09:03:44  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>三部门：调整节能汽车、新能源汽车车船税优惠政策</li>\n   <li>三星传获Meta超10万亿韩元AI芯片代工订单</li>\n   <li>茉莉奶白小程序更换彩色Logo</li>\n   <li>Meta打算出售富余算力引发科技股回落</li>\n   <li>英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>因存在植入后门风险，阿里内部全面禁用Claude Code</strong></p>\n  <p>36氪从阿里内部人士处获",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-04 09:00:00  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"956,895\" src=\"https://img.36krcdn.com/hsossms/20260703/v2_7bba92fd871f49ea8ca5e3fcabde20c7@6221844_oswg1504240oswg956oswg895_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "作者号称借助 Fable 5 把 2003 年的《命令与征服：将军》移植到了 iPhone 和 iPad 上，还能用触屏玩即时战略。 有人翻了 commit 记录，发现 Reshi 自己的提交只有最近 19 个（不到 19 小时前开始），整个仓库 2000 个 commit 绝大多数来自上游 GeneralsX。换句话说，大部分活社区几个月前就干完的，Fable 做的是最后一段 iOS 移植。 当然 iOS 移植本身也确实不简单，涉及 DXVK 的 iOS 适配、MoltenVK 框架集成、触控系统的重新设计。 注：EA 在之前把《命令与征服：将军》的源代码以 GPL v3 协议开源了，开源项目 GeneralsX 从 2025 年 2 月就开始做跨平台移植，已经积累了约 2000 个 commit。",
+      "url": "https://nitter.net/dotey/status/2073541964318883941#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 04 Jul 2026 22:58:23 GMT",
+      "summary": "<p>作者号称借助 Fable 5 把 2003 年的《命令与征服：将军》移植到了 iPhone 和 iPad 上，还能用触屏玩即时战略。<br>\n<br>\n有人翻了 commit 记录，发现 Reshi 自己的提交只有最近 19 个（不到 19 小时前开始），整个仓库 2000 个 commit 绝大多数来自上游 GeneralsX。换句话说，大部分活社区几个月前就干完的，Fable 做的是最后一段 iOS 移植。<br>\n<br>\n当然 iOS 移植本身也确实不简单，涉及 DXVK 的 iOS 适配、MoltenVK 框架集成、触控系统的重新设计。<br>\n<br>\n注：EA 在之前把《命",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "baoyu-design skill 更新： 支持 PPT 动画了 现在有很多朋友用这个 Skill 做 PPT 了，我自己也用，真的挺好用的。有朋友问能不能支持 PPT 动画，但当前这个skill生成的是 HTML 格式的 PPT，然后借助 PptxGenJS 导出为 PPTX，这个库有个局限就是不支持 PPT 的动画。 之前借助 Opus 4.8 确实没搞定，但现在有 Fable 5 了，这时候就体现出 Fable 5 的价值了，它对于 PPTX 的 XML 格式了如指掌，迭代了几轮就搞定了。 视频前半部分是 HTML 页面的动画效果，后半部分是在 KeyNote 中预览播放的效果。动画细节上还是有点小出入，但常用的几个动画应该没什么问题。 推荐去试试看： baoyu-design Skill：https://github.com/jimliu/baoyu-design",
+      "url": "https://nitter.net/dotey/status/2073286406558949828#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 04 Jul 2026 06:02:53 GMT",
+      "summary": "<p>baoyu-design skill 更新： 支持 PPT 动画了<br>\n<br>\n现在有很多朋友用这个 Skill 做 PPT 了，我自己也用，真的挺好用的。有朋友问能不能支持 PPT 动画，但当前这个skill生成的是 HTML 格式的 PPT，然后借助 PptxGenJS 导出为 PPTX，这个库有个局限就是不支持 PPT 的动画。<br>\n<br>\n之前借助 Opus 4.8 确实没搞定，但现在有 Fable 5 了，这时候就体现出 Fable 5 的价值了，它对于 PPTX 的 XML 格式了如指掌，迭代了几轮就搞定了。<br>\n<br>\n视频前半部分是 HTML 页面的动画",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude 又挂了",
+      "url": "https://nitter.net/dotey/status/2073194561946439881#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 03 Jul 2026 23:57:56 GMT",
+      "summary": "<p>Claude 又挂了</p>\n<img src=\"https://nitter.net/pic/media%2FHMV3dIGWIAAK0A5.png\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Happy Fourth of July! We want to expand the plugin interface of Hermes Agent so that many developers who have PRs waiting for very long periods can implement stable changes that they can share and publish without having to worry about getting their feature etc merged and want your suggestions on where to expand the interfaces. With plugins, you can implement features, fixes, security layers, whatever you can think, so long as the interface for those plugins exists. If you have ideas for an expanded plugin interface that should be implemented, please reply in the thread of this post! We will see what we can do on that front over the next week!",
+      "url": "https://nitter.net/Teknium/status/2073521617146438093#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 04 Jul 2026 21:37:32 GMT",
+      "summary": "<p>Happy Fourth of July! <br>\n<br>\nWe want to expand the plugin interface of Hermes Agent so that many developers who have PRs waiting for very long periods can implement stable changes that they can share and publish without having to worry about getting their feature etc merged and want your sugge",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Hermes Agent is built for sovereignty and constructing your AI stack how you want and need it to be. No vendor lockins, no model limitations, and most importantly, your IP is built through the self improvement loop, automatically. Hermes sets you free 🪽",
+      "url": "https://nitter.net/Teknium/status/2073201424054562859#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 04 Jul 2026 00:25:12 GMT",
+      "summary": "<p>Hermes Agent is built for sovereignty and constructing your AI stack how you want and need it to be.<br>\n<br>\nNo vendor lockins, no model limitations, and most importantly, your IP is built through the self improvement loop, automatically.<br>\n<br>\nHermes sets you free 🪽</p>\n<hr/>\n<blockquote>\n<b",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI has torched the market for junior programmers (84pts)",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T19:50:08Z",
+      "summary": "HN热度: 84分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Plein Air (52pts)",
+      "url": "https://art.joonas.wtf/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T16:55:29Z",
+      "summary": "HN热度: 52分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The bottleneck might be the air in the room (739pts)",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T06:32:28Z",
+      "summary": "HN热度: 739分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026 Unslop AI-Written Fiction Contest Results (59pts)",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T05:37:25Z",
+      "summary": "HN热度: 59分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic coding notes from Galapagos Island (160pts)",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T04:37:15Z",
+      "summary": "HN热度: 160分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Performance per dollar is getting faster and cheaper (347pts)",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "source": "Hacker News (API)",
+      "published": "2026-07-03T21:49:06Z",
+      "summary": "HN热度: 347分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance (79pts)",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T21:51:09Z",
+      "summary": "HN热度: 79分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable (276pts)",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T19:41:10Z",
+      "summary": "HN热度: 276分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fable created novel 4D splat format (82pts)",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T15:49:08Z",
+      "summary": "HN热度: 82分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Windows CE Dreamcast Community Edition (wince-dc) (84pts)",
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "source": "Hacker News (API)",
+      "published": "2026-07-04T14:52:25Z",
+      "summary": "HN热度: 84分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
