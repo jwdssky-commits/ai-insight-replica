@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · AI Agent架构分化与产业震荡：Vercel倡导模型与Agent解耦，微软再裁5000人</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-07-07</div>
+        <h1 class="report-title">AI Agent架构分化与产业震荡：Vercel倡导模型与Agent解耦，微软再裁5000人</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>Vercel CEO Guillermo Rauch on the fight to split off models from agents</strong></p>
+            <p>Guillermo Rauch提出将模型与Agent分离的架构理念，认为生产环境中应按价格/性能优化选择模型，而非绑定单一模型。这一观点反映了AI基础设施层正在从&quot;模型中心化&quot;向&quot;任务中心化&quot;演进，对Agent工程架构设计具有范式意义。</p>
+            <a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/07/443863.html" target="_blank" class="news-title-link">OpenSquilla 0.5.0 Preview发布，多模型集成登顶DRACO双榜</a></h3>
+            <div class="report-section-body"><p>OpenSquilla发布0.5.0 Preview版本，其多模型集成方案在DRACO评测双榜上登顶。值得关注的是，对比名单中出现了Anthropic最新旗舰模型Claude Fable 5，表明OpenSquilla在模型路由与集成策略上具备与顶级闭源模型竞争的能力。这一进展反映了开源/开放权重社区在模型编排层的技术追赶，也暗示多模型协作正成为提升系统能力的核心路径，而非依赖单一超大模型。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenSquilla</span> <span class="entity-tag">Claude Fable 5</span> <span class="entity-tag">Anthropic</span></div>
+            <a href="https://www.qbitai.com/2026/07/443863.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3884024701874183?f=rss" target="_blank" class="news-title-link">千问大模型升级实时语音识别大模型Fun-ASR-Realtime</a></h3>
+            <div class="report-section-body"><p>阿里云千问大模型团队发布Fun-ASR-Realtime实时语音识别大模型，标志着语音交互延迟进一步降低。实时ASR是AI Agent语音交互、实时翻译、智能客服等场景的基础设施，此次升级将强化千问在端侧语音应用中的竞争力，与OpenAI的Realtime API形成直接对标。</p></div>
+            <div class="entity-tags"><span class="entity-tag">阿里云</span> <span class="entity-tag">千问大模型</span></div>
+            <a href="https://36kr.com/p/3884024701874183?f=rss" target="_blank" class="source-link">📎 36氪 AI</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything" target="_blank" class="news-title-link">Simon Willison借助Claude Fable 5推进sqlite-utils 4.0开发</a></h3>
+            <div class="report-section-body"><p>知名开发者Simon Willison在sqlite-utils 4.0rc3版本开发中大量采用Claude Fable 5辅助处理issue和PR。这一案例展示了顶级AI Coding工具已深度嵌入成熟开源项目的日常维护流程，而非仅用于原型开发。Willison作为数据 journalism 和开源工具领域的标杆人物，其工作流选择具有行业示范效应。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Simon Willison</span> <span class="entity-tag">Claude Fable 5</span> <span class="entity-tag">Anthropic</span></div>
+            <a href="https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything" target="_blank" class="source-link">📎 Simon Willison (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://huggingface.co/blog/lerobot-release-v060" target="_blank" class="news-title-link">Hugging Face发布LeRobot v0.6.0机器人学习框架</a></h3>
+            <div class="report-section-body"><p>Hugging Face发布LeRobot v0.6.0版本，主题聚焦&quot;Imagine, Evaluate, Improve&quot;，强化机器人学习中的仿真到现实(sim-to-real)闭环。LeRobot作为开源机器人学习生态的核心基础设施，其迭代速度反映了物理AI领域的工具链成熟度提升，与Jim Fan在NVIDIA推动的Physical AI战略形成生态呼应。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Hugging Face</span> <span class="entity-tag">Jim Fan</span> <span class="entity-tag">NVIDIA</span></div>
+            <a href="https://huggingface.co/blog/lerobot-release-v060" target="_blank" class="source-link">📎 Hugging Face Blog</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/" target="_blank" class="news-title-link">Vercel CEO倡导模型与Agent分离架构</a></h3>
+            <div class="report-section-body"><p>Guillermo Rauch在TechCrunch采访中明确提出将模型(model)与Agent分离的架构理念，强调生产环境中应按价格/性能比灵活选择模型，而非将Agent绑定至单一模型。这一观点与LangChain Harrison Chase倡导的&quot;Deep Agents&quot;形成技术路线对话，也预示AI基础设施层可能出现专门的Agent编排与模型路由中间件。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Guillermo Rauch</span> <span class="entity-tag">Vercel</span> <span class="entity-tag">Harrison Chase</span> <span class="entity-tag">LangChain</span></div>
+            <a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/" target="_blank" class="source-link">📎 TechCrunch AI</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" target="_blank" class="news-title-link">苹果iOS 27 beta允许自定义Siri语速和表现力</a></h3>
+            <div class="report-section-body"><p>苹果在最新iOS 27 beta中引入Siri语速和表现力自定义功能，这是其围绕生成式AI重建Siri助手体验的一部分。该功能仅限iPhone 15 Pro及以上机型，显示苹果正通过硬件分层推动AI功能差异化，与此前Apple Intelligence的设备限制策略一致。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Apple</span> <span class="entity-tag">Siri</span></div>
+            <a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/" target="_blank" class="source-link">📎 TechCrunch AI</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/" target="_blank" class="news-title-link">微软裁员约4800人，AI替代焦虑持续升温</a></h3>
+            <div class="report-section-body"><p>微软宣布裁员约4800人，占全球员工2.1%，主要波及Xbox和商业销售部门。这是2026年科技巨头以AI为名进行的多轮裁员之一，TechCrunch同日发布专题追踪各公司AI相关裁员。尽管微软未明确将所有裁员归因于AI，但&quot;AI效率提升&quot;已成为科技业人力调整的标准叙事，引发广泛的就业替代担忧。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Microsoft</span> <span class="entity-tag">Satya Nadella</span></div>
+            <a href="https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/" target="_blank" class="source-link">📎 TechCrunch AI</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/" target="_blank" class="news-title-link">SK Hynix赴美IPO，AI内存需求持续高涨</a></h3>
+            <div class="report-section-body"><p>韩国存储芯片巨头SK Hynix即将在美国进行数十亿美元IPO，成为又一家借AI东风登陆美股的内存厂商。作为HBM高带宽内存的核心供应商，SK Hynix直接受益于AI训练对内存带宽的爆发式需求，其IPO时机选择反映了管理层对AI基础设施投资周期持续性的判断。</p></div>
+            <div class="entity-tags"><span class="entity-tag">SK Hynix</span> <span class="entity-tag">HBM</span> <span class="entity-tag">NVIDIA</span></div>
+            <a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/" target="_blank" class="source-link">📎 TechCrunch AI</a>
+        </div>
+    <div class="postit-box orange" style="background: #fff3e0;">
+        <div class="postit-title">🏢 企业AI转型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3883591654895873?f=rss" target="_blank" class="news-title-link">APTSell获DCM Ventures数百万美元种子轮融资，定位AI版首席销售官</a></h3>
+            <div class="report-section-body"><p>APTSell完成DCM Ventures独家投资的数百万美元种子轮融资，其产品定位为&quot;AI版CSO&quot;，通过组合式Agent整合销售全流程数据，生成管理决策和执行建议。这一模式直接对标Salesforce Einstein和Gong等销售智能平台，但强调从&quot;辅助工具&quot;向&quot;决策代理&quot;的跃迁，反映企业AI从Copilot向Agent的演进趋势。</p></div>
+            <div class="entity-tags"><span class="entity-tag">APTSell</span> <span class="entity-tag">DCM Ventures</span> <span class="entity-tag">Bret Taylor</span> <span class="entity-tag">Salesforce</span></div>
+            <a href="https://36kr.com/p/3883591654895873?f=rss" target="_blank" class="source-link">📎 36氪 AI</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📝 速览</div>
+            <h3 class="report-section-title"><a href="https://36kr.com/p/3880060701388809?f=rss" target="_blank" class="news-title-link">贻如科技完成超亿元A轮融资，AI驱动生物基皮革技术迭代</a></h3>
+            <div class="report-section-body"><p>生物基皮革公司贻如科技获鄂尔多斯、和达金服超亿元A轮融资，资金将用于依托AI技术加速生物基皮革技术革新与产品迭代。该案例显示AI正渗透至传统制造业的材料研发环节，合成生物学与AI的结合成为ESG导向企业的技术升级路径。</p></div>
+            <div class="entity-tags"><span class="entity-tag">贻如科技</span> <span class="entity-tag">鄂尔多斯</span></div>
+            <a href="https://36kr.com/p/3880060701388809?f=rss" target="_blank" class="source-link">📎 36氪 AI</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>
