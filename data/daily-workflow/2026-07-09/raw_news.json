@@ -1,0 +1,936 @@
+{
+  "date": "2026-07-09",
+  "collected_at": "2026-07-08T23:33:53.361180+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing GPT‑Live",
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-08T23:20:48+00:00",
+      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-live/\">Introducing GPT‑Live</a></strong></p>\nOpenAI <em>finally</em> upgraded the model used by ChatGPT voice mode!</p>\n<p>I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the abi",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Kenton Varda",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-08T20:03:34+00:00",
+      "summary": "<blockquote cite=\"https://twitter.com/kentonvarda/status/2074924213983740233\"><p>I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team.</p>\n<p>AI was writing change descriptions that were worse than useless to me as I trie",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 22:41:33 +0000",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 20:37:03 +0000",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 19:30:16 +0000",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 19:19:15 +0000",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 18:30:08 +0000",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 17:11:18 +0000",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 16:22:38 +0000",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 08 Jul 2026 15:41:06 +0000",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-08T13:00:00-04:00",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 21:11:56 +0000",
+      "summary": "<p>Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/\">Automating cr",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub availability report: June 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 19:35:51 +0000",
+      "summary": "<p>In June, we experienced six incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-june-2026/\">GitHub availability report: June 2026</a> appeared first on <a href=\"https://github.bl",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/\">How GitHub Copilot enables z",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Open, convenient and predictable: Introducing Provisioned Throughput",
+      "url": "https://www.together.ai/blog/provisioned-throughput",
+      "source": "Together AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "summary": "Provisioned Throughput gives you reserved inference capacity for frontier open models like MiniMax M3 and GLM-5.2. Token-based pricing, a 99% uptime SLA, and up to 90% lower cost than proprietary APIs. No GPU-hour math, no infrastructure to manage.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 15:00:27 +0000",
+      "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while complet",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Agent: An agent you can let near production",
+      "url": "https://vercel.com/blog/vercel-agent",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T06:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Grok 4.5 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Update Project Settings from the Vercel CLI",
+      "url": "https://vercel.com/changelog/update-project-settings-from-the-vercel-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Microfrontends checks for missing configuration",
+      "url": "https://vercel.com/changelog/vercel-microfrontends-checks-for-missing-configuration",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Flags SDK now evaluates flags 10x faster",
+      "url": "https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Use any Chat SDK adapter with eve",
+      "url": "https://vercel.com/changelog/eve-chat-sdk-channel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK now supports Vercel Connect",
+      "url": "https://vercel.com/changelog/chat-sdk-vercel-connect",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds Dial support",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-dial-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds Photon support",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-photon-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 08 Jul 2026 16:26:10 +0000",
+      "summary": "",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 08 Jul 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+      "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+      "source": "Stratechery (RSS)",
+      "published": "Wed, 08 Jul 2026 10:00:00 +0000",
+      "summary": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "url": "https://www.qbitai.com/2026/07/446411.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 13:29:44 +0000",
+      "summary": "华为联想都投了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
+      "url": "https://www.qbitai.com/2026/07/446363.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 13:07:30 +0000",
+      "summary": "具身测评界的珠峰来了：RoboDojo",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
+      "url": "https://www.qbitai.com/2026/07/446356.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 10:15:43 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
+      "url": "https://www.qbitai.com/2026/07/446226.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 10:04:39 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
+      "url": "https://www.qbitai.com/2026/07/446075.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 09:08:31 +0000",
+      "summary": "Hugging Face论文月榜第一",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
+      "url": "https://www.qbitai.com/2026/07/446076.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 08:55:30 +0000",
+      "summary": "崔添翼：这个方向很容易出成果",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
+      "url": "https://www.qbitai.com/2026/07/446069.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 07:51:26 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
+      "url": "https://www.qbitai.com/2026/07/445946.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 07:42:27 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "智能伙伴 共创未来！WAIC 2026即将举行并首发主题片",
+      "url": "https://www.qbitai.com/2026/07/445904.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 07:33:50 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+      "url": "https://www.qbitai.com/2026/07/445883.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 08 Jul 2026 04:47:04 +0000",
+      "summary": "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "eVTOL 走向商业化，难点不只在“飞起来”",
+      "url": "https://36kr.com/p/3886750049808389?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 17:36:57  +0800",
+      "summary": "<p>低空经济的热度，很多时候是从一架飞行器开始的。</p>\n  <p>过去几年，eVTOL真机亮相、飞行汽车概念升温、低空航线试点、地方产业基金入场，让这个行业快速成为新兴产业里的高频词。相比传统无人机，eVTOL为代表的载人载货飞行器，显然承载了更大的想象力：它不仅指向低空物流、应急救援、城市治理，也指向未来城市空中交通、城际运输和立体出行。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1920,1080\" src=\"https://img.36krcdn.com/hsossms/20260708/v2_7b2303c9ce",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+      "url": "https://36kr.com/p/3886574096265481?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 17:33:33  +0800",
+      "summary": "<p>20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。</p>\n  <p>从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品从来不是固定的，会跟着国家的产业能力变迁。</p>\n  <p>这种变迁的剧本也正在今天中国出海人的身上重演。2015年，李露薇从宁波赴法留学。彼时国内大厂刚开始试水跨境电商业务，中国商品开始借助亚马逊、速卖通、eB",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "地产AI进入落地战，深度智联又甩出一张牌",
+      "url": "https://36kr.com/p/3886709249241349?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 16:05:55  +0800",
+      "summary": "<p>7月7日，易居（中国）控股有限公司董事局主席、总裁周忻再一次来到台前，给公司的AI产品站台，推出其核心战略产品“地产模数通——企业专属大模型一体机”。同时，克而瑞地产AI分析师“小瑞”正式上岗。</p>\n  <p>不到两个月前，易居旗下的深度智联刚刚发布了全球首个房地产经纪人智能体“易居·小新”，用中立无佣模式替代传统中介。迹象显示，深度智联在加速AI产品落地。</p>\n  <p>周忻说，地产模数通“是第一个开箱即用的硬软件结合的AI应用，我把它称之为DEEPLINK IN-HOUSE MODEL，它是一台机器，里面有芯片、API，有企业的各种数据、知识、knowhow，还有最上层的Co",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于��日向公众开放Grok4.5",
+      "url": "https://36kr.com/p/3886678879727880?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 16:01:28  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3886665407623173\"><strong>雷军回应SkyNomad上市时间</strong></a></p>\n  <p>36氪��悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。</p>\n  <p><a target=\"_blank\" rel=\"noop",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+      "url": "https://36kr.com/p/3886403765596418?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 11:03:34  +0800",
+      "summary": "<h2>2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期，Seedance 2.0 的出圈更是让AI视频变成一场“全民狂欢”。</h2>\n  <p>短短两年间，AI视频从最初几秒的碎片化模糊画面，到如今分钟级长视频的连贯叙事、真实物理世界的精准还原，AI视频工具的迭代速度远超预期，AI视频工具完成了从“能用”到“好用”再到“专业”的三级跳，让创意落地的门槛降至新低——专业团队能用它预演大片，普通用户也能一键生成爆款短视频。</p>\n  <p>在这场全球竞速中，每一款工具都在以独特的优势，定义着下一代视频创作的未来。</p>\n  <p>为了让不同需求的读者都能选到适配的工具，我们耗时两周实",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 五粮液基金领投，国产高端机床企业获数亿元融资，加速海外市场布局",
+      "url": "https://36kr.com/p/3886400975040520?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 10:52:31  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，高端机床企业上海星合近日完成数亿元融资。本轮融资由五粮液基金领投，上市公司麦格米特跟投，深蓝资本担任长期独家财务顾问。融资资金将主要用于高端磨齿机、磨床、铣床等产品的研发投入，并推动新产品及海外市场的商业化。</p>\n  <p><strong>成立于2009年的星合机电长期聚焦高端机床研发制造，目前产品覆盖高端磨齿机、磨床、铣床等精密加工设备，主要应用于汽车制造、机器人、航空航天、精密减速机等领域。</strong></p>\n  <p>公司早期业务以齿轮刀具研发和技术",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等",
+      "url": "https://36kr.com/p/3886301334630407?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 09:10:36  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"804,535\" src=\"https://img.36krcdn.com/hsossms/20260708/v2_7d290a69b7d74c58a7ac5cdb3d51b253@6221844_oswg529905oswg804oswg535_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+      "url": "https://36kr.com/p/3885728813691145?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 08:50:00  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。</p>\n  <p><strong>这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D打印最大规模的单笔融资。</strong></p>\n  <p class=\"image-wrapper\"><img data-img-size",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+      "url": "https://36kr.com/p/3886238403129353?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 08:09:01  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言</p>\n  <p>商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿</p>\n  <p>国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元</p>\n  <p>汇丰暂停向风险较高的私募信贷客户提供贷款</p>\n  <p>SpaceX公布AI数据中心计划，同步推进星链卫星脱轨</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭</strong></p>\n  <p>7月6日，前华为“",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+      "url": "https://36kr.com/p/3885479689465858?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-08 08:00:00  +0800",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药管线。</p>\n  <p>德睿智药的愿景是成为AI Native生物制药公司，创始人兼CEO牛张明拥有多年德国AI医疗",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+      "url": "https://arxiv.org/abs/2607.05456",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05456v1 Announce Type: new \nAbstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not deterministically grounded in verifiable literature, (ii) ex",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+      "url": "https://arxiv.org/abs/2607.05563",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05563v1 Announce Type: new \nAbstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a deeper understanding of why a system behaves in a certain way under different inputs. Unlike traditional explainability met",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+      "url": "https://arxiv.org/abs/2607.05571",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05571v1 Announce Type: new \nAbstract: Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the r",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Foundation Models for Automatic CAD Generation",
+      "url": "https://arxiv.org/abs/2607.05573",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05573v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric 3D designs from natural-language specifications. This chapter presents an empirical study of foundation models for automati",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+      "url": "https://arxiv.org/abs/2607.05577",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05577v1 Announce Type: new \nAbstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when they learned it, whether an event preceded the narration that revealed it, whether a setup paid off, and how a relationship ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+      "url": "https://arxiv.org/abs/2607.05682",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05682v1 Announce Type: new \nAbstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound plausible without exposi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+      "url": "https://arxiv.org/abs/2607.05690",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05690v1 Announce Type: new \nAbstract: Language agents run a loop - observe, reason, act - but the memory they reason over sits outside it: a store queried at most once per turn. We study the regime where memory moves inside the loop, read and written on every step. The obstacle has always",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+      "url": "https://arxiv.org/abs/2607.05708",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05708v1 Announce Type: new \nAbstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-session workflows. Replaying the full history for every request quickly becomes impractical: long contexts increase prefill cost",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2607.05750",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05750v1 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geometry, and production-grade B-Rep execution. Existing text-to-CAD methods have made promising progress",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Synthetic Consumer Insight Generation with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.05761",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05761v1 Announce Type: new \nAbstract: Modern data-driven marketing relies on large amounts of consumer data, yet collecting such data can be costly, time-consuming, and difficult to scale. This research examines whether large language models (LLMs) can be used to generate synthetic consum",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Personas Can Influence Agents to Play Split or Steal",
+      "url": "https://arxiv.org/abs/2607.05398",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05398v1 Announce Type: new \nAbstract: Personas are often employed to guide large language model agents, yet their effectiveness in shaping strategic behavior in social dilemma settings remains uncertain. To address this, we examined the impact of persona prompts in an iterated Split or St",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Benchmarking KV-Cache Optimizations across Task Quality and System Performance for Long-Context Serving",
+      "url": "https://arxiv.org/abs/2607.05399",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05399v1 Announce Type: new \nAbstract: Large language model serving is increasingly limited by KV-cache growth under long-context workloads, yet existing KV-cache compression techniques are difficult to compare because they were evaluated on different models, tasks, budgets, and serving st",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective",
+      "url": "https://arxiv.org/abs/2607.05416",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05416v1 Announce Type: new \nAbstract: We present a new method for structural sequence analysis grounded in Algorithmic Information Theory (AIT). At its core is the Ladderpath approach, which extracts nested and hierarchical relationships among repeated substructures in linguistic sequence",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks",
+      "url": "https://arxiv.org/abs/2607.05545",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05545v1 Announce Type: new \nAbstract: LLM conformity is often used to describe cases where a model changes a correct answer toward a peer or group response. We show that most of this apparent conformity survives even after the peer is removed. The reason is a confound: standard conformity",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment",
+      "url": "https://arxiv.org/abs/2607.05552",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05552v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly issue judgments read as binary verdicts, and a growing literature reports such judgments shifting under logically irrelevant changes of wording - among them an amplified yes-no bias on moral dilemmas, absent i",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation",
+      "url": "https://arxiv.org/abs/2607.05554",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05554v1 Announce Type: new \nAbstract: Survey-style evaluations of large language models often treat a prompted response as a measure of a model's values or beliefs. This assumption is particularly fragile when responses are read as evidence of political values, social attitudes, or belief",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ResonatorLM: Causal Resonant Field Mixing for Efficient Long-Context Language Modelin",
+      "url": "https://arxiv.org/abs/2607.05583",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05583v1 Announce Type: new \nAbstract: Contemporary language models are dominated by the transformer architecture, which leverages self-attention mechanisms to enable more efficient, parallelized training across a wide set of documents and corpora. This has allowed transformers to effectiv",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Revisiting the Relation Between Language Model Perplexity and ASR Word Error Rate for Modern End-to-End Speech Recognition",
+      "url": "https://arxiv.org/abs/2607.05612",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05612v1 Announce Type: new \nAbstract: Language model (LM) perplexity (PPL) has historically been used as a proxy for automatic speech recognition (ASR) word error rate (WER), with prior work reporting an approximately linear relation in log-log space. Modern end-to-end ASR systems challen",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension",
+      "url": "https://arxiv.org/abs/2607.05614",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05614v1 Announce Type: new \nAbstract: Document comprehension is a challenging yet impactful task for Multimodal Large Language Models, especially as these systems see growing adoption in real-world, human-centric applications. However, this adoption is limited for low-resource languages s",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NAVER LABS System Re-implementation for the IWSLT 2026 Instruction-Following Task",
+      "url": "https://arxiv.org/abs/2607.05623",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.05623v1 Announce Type: new \nAbstract: We re-implement the NAVER LABS IWSLT 2025 instruction-following pipeline for the IWSLT 2026 Shared Task (constrained condition, short audio track), adapting it to the mandated components: SeamlessM4T-v2-large as the speech encoder and Qwen3-4B-Instruc",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @dotey: 创业经历.mp4",
+      "url": "https://nitter.net/dontbesilent/status/2074707167438123336#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 08 Jul 2026 04:08:29 GMT",
+      "summary": "<p>创业经历.mp4</p>\n<a href=\"https://nitter.net/dontbesilent/status/2074707167438123336#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074705762937659392%2Fimg%2FtrrVTf6GOcbyaNOq.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Mitchell 的评测，这个比喻很有画面感： “GPT 5.6 Sol 就像一个魅力十足、高效能干、才华横溢的同事，让你有点嫉妒。Fable 则是个天才隐士，它在自己的痴迷领域里无比出色，但不爱出门、不谈恋爱，你也不太想和它多相处！” 另外这点总结很重要： Fable 在高度针对性的调试/安全/性能目标上最强，其他方面 Sol 更好或者差不多。",
+      "url": "https://nitter.net/dotey/status/2074878817500328286#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 08 Jul 2026 15:30:34 GMT",
+      "summary": "<p>Mitchell 的评测，这个比喻很有画面感：<br>\n“GPT 5.6 Sol 就像一个魅力十足、高效能干、才华横溢的同事，让你有点嫉妒。Fable 则是个天才隐士，它在自己的痴迷领域里无比出色，但不爱出门、不谈恋爱，你也不太想和它多相处！”<br>\n<br>\n另外这点总结很重要：<br>\nFable 在高度针对性的调试/安全/性能目标上最强，其他方面 Sol 更好或者差不多。</p>\n<hr/>\n<blockquote>\n<b>Mitchell Hashimoto (@mitchellh)</b>\n<p>\n<p>I had early access to 5.6/Sol for ~m",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 如果，我是说如果。 假如我的 followers 里有相对年轻的求职者，正好在找工程方向的工作。 我相信你的简历里一定有一些自己做过或者正在做的项目，不管是不是 vibe 的，当下这个时间节点大概率做的可能靠 agent 方向多一点。 或者是个 workflow，或者是之前的 dify 二开等。 概率比较大。 每个面试官可能角度不一样，有的也许就爱看你做出几十个应用，洋洋洒洒。 但从偏向技术和工程的角度，我建议你不要贪多。 这个时代多没什么用，花点钱买点 token 的事。 做了什么爆款，也许有人会看重一些，但相信我，价值优先。 毕竟小猫补光灯都能上榜一。 我还是建议你打磨好一个项目。越是这个容易 vibe 出东西的时代，你在一个项目上打磨，投入的心血，对这个方向的理解，都价值连城。 哪怕方向在当下看起来也许是错的或者不受欢迎——比如简历上我看的每个人都碰过 RAG，一问为什么今天看起来有点日渐式微，很多人答不上来。 也不是说 RAG 就是错，如果你坚定的在这个方向上打磨，尝试过各种策略，把你的经验，踩过的坑，benchmark，结论，你做过的尝试——这些能和人描述出来—— 你知道你在一个真正想招工程师的面试官眼里有多发光吗？ （以上不是说 RAG 不行，RAG 是个涵盖超广的概念，其实 grep 也算 RAG 的手段，狭义广义的我就不展开了） 真的干过，思考过，一个方向折腾过——哪怕一路都是借助 AI，都是你的加分项。 巨大的加分项。",
+      "url": "https://nitter.net/wwwgoubuli/status/2074853972310155575#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 08 Jul 2026 13:51:50 GMT",
+      "summary": "<p>如果，我是说如果。<br>\n<br>\n假如我的 followers 里有相对年轻的求职者，正好在找工程方向的工作。<br>\n<br>\n我相信你的简历里一定有一些自己做过或者正在做的项目，不管是不是 vibe 的，当下这个时间节点大概率做的可能靠 agent 方向多一点。<br>\n<br>\n或者是个 workflow，或者是之前的 dify 二开等。<br>\n<br>\n概率比较大。<br>\n<br>\n每个面试官可能角度不一样，有的也许就爱看你做出几十个应用，洋洋洒洒。<br>\n<br>\n但从偏向技术和工程的角度，我建议你不要贪多。<br>\n<br>\n这个时代多没什么用，花点钱买点 toke",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "这篇关于如何写出好的 Skill 的文章，大部分还是不错的，也有些不严谨之处。 1. 不要让模型自己写自己的 Skill ❓ 文章意思是人类专家写的技能比 AI 写的更好，应该人来写技能而不是让 AI 写 Skill。 > 让智能体自己给自己写 Skill，这个想法非常诱人。SkillsBench 专门测试了这一点：每个任务都在三种条件下运行，无 Skill、专家策划的 Skill、模型自生成的 Skill。专家策划的 Skill 显著提升了通过率。模型自生成的 Skill 完全没有帮助，平均还比无 Skill 基线低 1.3 个点。作者的结论是：模型无法可靠地产出那些它在使用时会受益的流程性知识。 这条其实不够严谨，AI 是能写 Skill 的，只要人提供好上下文就可以，而不是简单的说别让模型写 Skill。而且就算是 AI 训练过的知识，让 AI 把一些操作路径、输出风格格式固化下来都是有价值的。 也不是说是错的，完全指望 Agent 帮你写 Skill、进化 Skill 还是不太够，还是需要人去引导会更好。 最佳组合是人指挥 AI 写 Skill。 2. 面面俱到，反而糟糕 ✅ 聚焦于核心内容、仅包含两三个文件的技能，其表现要远好于一大堆文件的集合，也胜过长篇大论的文档。那些试图把所有东西都写进去的“全面型技能”，反而会把任务通过率拉低到不如不用技能的水平。“细节丰富且范围明确”的做法，每次都能完胜“百科全书式”的做法。 确实如此，Skill 不要追求大而全，小而精更好。 3. 加载的技能越多，智能体反而越笨 ✅ 技能虽然是按需加载，但也是占用上下文的。不是越多越好。 4. 必须在要支持的每个 Harness 中进行测试 ✅ Skill 虽然是通用，但是不同 Agent 或模型还是有差异，比如 Codex 有自带画图工具，Claude Code 没有；比如 Claude 是多模态的能看图片，GLM 不能看图；这些都需要测试，并且针对性的写一些兼容性的说明。 5. 瞄准模型最薄弱的领域出击 ✅ > SkillsBench 按照不同领域测量了技能带来的提升效果。结果差异巨大：在软件工程领域只提升了 4.5 分，而在医疗保健领域则飙升了 51.9 分，制造业紧随其后。技能对软件开发领域的帮助最小，因为模型早就被海量的代码预训练数据“喂饱”了；而技能帮助最大的，恰恰是那些训练数据覆盖薄弱的领域。 说的挺对的，我几乎不用软件工程相关的 Skill 正是因为这个原因，像 superpower 这种 skill 对于好的模型真的提升很有限。 6. 不测试，你永远不知道技能好不好用 ✅ > 找一组任务，运行两次：一次加载技能，一次不加载，保持其他所有变量绝对一致。用同一种标准给两次结果打分，然后看看差异。 技能是需要测试的，但有些技能的测试结果是不好量化的，这时候还是需要依赖专业人士的判断。",
+      "url": "https://nitter.net/dotey/status/2074732405743624650#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 08 Jul 2026 05:48:46 GMT",
+      "summary": "<p>这篇关于如何写出好的 Skill 的文章，大部分还是不错的，也有些不严谨之处。<br>\n<br>\n1. 不要让模型自己写自己的 Skill ❓<br>\n<br>\n文章意思是人类专家写的技能比 AI 写的更好，应该人来写技能而不是让 AI 写 Skill。<br>\n<br>\n&gt; 让智能体自己给自己写 Skill，这个想法非常诱人。SkillsBench 专门测试了这一点：每个任务都在三种条件下运行，无 Skill、专家策划的 Skill、模型自生成的 Skill。专家策划的 Skill 显著提升了通过率。模型自生成的 Skill 完全没有帮助，平均还比无 Skill 基线低 1.3 ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    }
+  ]
+}
