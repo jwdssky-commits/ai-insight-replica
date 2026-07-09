@@ -1,0 +1,145 @@
+{
+  "title": "OpenAI发布GPT-5.6家族与ChatGPT Work，AI Agent时代加速到来",
+  "date": "2026-07-10",
+  "summary": "OpenAI今日密集发布GPT-5.6系列模型（Luna/Terra/Sol三档）及ChatGPT Work Agent功能，将ChatGPT与Codex合并为统一桌面应用，标志着从聊天助手向自主执行Agent的战略转型。同时Meta发布Muse Spark 1.1 API切入AI Coding赛道，Anthropic推出Claude Wrapped功能。国内蚂蚁灵波开源具身智能视频模型，具身智能领域持续活跃。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "Agent",
+    "产品发布"
+  ],
+  "highlight": {
+    "title": "OpenAI发布GPT-5.6家族与ChatGPT Work，AI从聊天助手升级为自主Agent",
+    "body": "OpenAI发布GPT-5.6三档模型（Luna/$1、Terra/$2.5、Sol/$5每百万输入token），Sol新增max深度推理和ultra多Agent并行模式。更关键的是ChatGPT Work功能，可跨应用连接Google Drive、Slack等工具，自主拆解复杂项目并分步执行，还能设定定时任务。同时ChatGPT与Codex合并为统一桌面应用，Codex周活达500万，非开发者用户超100万。",
+    "source_url": "https://nitter.net/dotey/status/2075288698585809214#m"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GPT-5.6正式发布：三档定价覆盖从边缘到旗舰全场景",
+          "body": "OpenAI正式发布GPT-5.6家族，包含Luna（轻量/$1/$6）、Terra（性价比/$2.5/$15）、Sol（旗舰/$5/$30）三个级别。Sol作为旗舰新增max和ultra两个推理档位：max支持深度思考，ultra可调用多个子Agent并行处理任务，目前限Pro和Enterprise用户。Terra性能接近GPT-5.5但价格减半，成为ChatGPT免费用户默认模型。这一分级策略明显针对企业客户分层需求，同时通过Luna低价抢占边缘计算市场。API定价显示OpenAI正积极扩大开发者生态覆盖范围。",
+          "source_url": "https://openai.com/index/gpt-5-6",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman",
+            "OpenAI",
+            "GPT-5.6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "ChatGPT与Codex合并为统一桌面应用，Codex周活达500万",
+          "body": "OpenAI将ChatGPT与Codex整合为单一桌面应用，提供Chat、Work、Codex三种模式共享能力与任务历史。Codex模式保留代码差异和PR展示，Work模式隐藏技术细节面向非开发者。数据显示Codex周活跃用户已达500万，其中超100万用于非开发工作。此次合并反映OpenAI发现大量非开发者涌入Codex，产品分散拖慢迭代速度。新增功能包括文件直接编辑、Ultra模式处理高难度编码任务，以及从Claude Code迁移配置的导入功能，明显针对Anthropic开发者用户进行争夺。",
+          "source_url": "https://nitter.net/dotey/status/2075288698585809214#m",
+          "source_name": "宝玉 (@dotey) (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Codex",
+            "Fidji Simo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "ChatGPT Work发布：AI从对话助手进化为自主执行Agent",
+          "body": "OpenAI发布ChatGPT Work功能，标志着AI从被动回答转向主动执行。Work可连接Google Drive、Slack、邮箱等工具，自主拆解复杂项目并分步独立完成，仅在需要时询问用户。支持定时任务如每周自动汇总Slack消息更新会议议程。同时推出的Sites功能可将对话中生成的可视化内容一键转为可分享网站。配合升级后的浏览器能力（支持登录态网站、多标签页、文件下载）和Chrome扩展，Computer Use能力获得实际落地场景。该功能将登陆网页和移动端，是OpenAI构建AI时代生产力平台的核心一步。",
+          "source_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Sam Altman",
+            "ChatGPT Work"
+          ]
+        },
+        {
+          "headline": "Anthropic推出Claude Wrapped，AI使用数据可视化成新趋势",
+          "body": "Anthropic跟随Spotify Wrapped模式，为Claude推出'reflect'年度回顾功能，允许用户查看AI使用数据分析。这一趋势显示AI产品正从功能竞争转向用户粘性和情感连接建设。与OpenAI密集发布新功能不同，Anthropic选择通过轻量级功能增强用户归属感，可能是在企业市场差异化竞争的策略。该功能也引发关于AI平台收集和使用用户数据范围的隐私讨论。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Anthropic",
+            "Claude",
+            "Dario Amodei"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "蚂蚁灵波开源具身智能视频模型，世界模型迎来小时级生成",
+          "body": "蚂蚁灵波今日开源LingBot-Video，宣称是全球首个面向具身的视频基模型，同时发布LingBot-World 2.0支持'小时级'生成和AI原生多人交互。这是世界模型首次实现小时级视频生成能力，标志着具身智能从单点突破向系统级能力演进。蚂蚁选择开源策略，与OpenAI形成封闭生态与开放生态的对比。该模型将直接服务于机器人'大脑'训练，降低具身智能研发门槛。",
+          "source_url": "https://www.qbitai.com/2026/07/446548.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "蚂蚁集团",
+            "蚂蚁灵波",
+            "LingBot"
+          ]
+        },
+        {
+          "headline": "Fidji Simo卸任OpenAI二号职位，领导层真空恰逢IPO关键期",
+          "body": "OpenAI应用业务CEO Fidji Simo因医疗休假延长而辞去全职职务，此时正值公司向SEC提交上市文件、企业收入占比达40%的关键阶段。Simo此前主导ChatGPT与Codex合并决策，其离职暴露OpenAI快速扩张中的管理挑战。公司正全力追赶Anthropic在企业市场的份额，领导层变动可能延缓相关战略执行。",
+          "source_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Fidji Simo",
+            "OpenAI",
+            "Sam Altman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GPT-5.6成为Microsoft 365 Copilot首选模型，OpenAI企业生态深化",
+          "body": "OpenAI宣布GPT-5.6已成为Microsoft 365 Copilot的首选模型，覆盖Word、Excel、PowerPoint、Chat和Cowork等核心办公场景。这一部署标志着OpenAI与微软的合作从API供应进入更深度的模型定制阶段。GPT-5.6针对企业工作流优化，强调'更强AI能力、更快产出、更高质量'。结合ChatGPT Work的发布，OpenAI正构建从消费端到企业端的完整Agent生态，直接对标Google Workspace和Microsoft 365的生产力平台地位。",
+          "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Microsoft",
+            "Satya Nadella"
+          ]
+        },
+        {
+          "headline": "昇视唯盛完成数亿元B轮融资，工业焊接具身智能获资本认可",
+          "body": "聚焦工业制造的具身智能机器人企业昇视唯盛宣布完成数亿元B轮融资，由上海半导体产投、金桥基金领投。公司自研焊接具身大脑模型和自主小脑运动控制系统，以'智能焊工'切入工业制造赛道。本轮资金将用于迭代升级控制系统、扩大自有智造工厂产能。该融资显示工业场景成为具身智能落地的重要方向，'自主大脑+自主小脑+自研硬件'的全栈模式受到产业资本青睐。",
+          "source_url": "https://36kr.com/p/3887871679347208?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "昇视唯盛",
+            "具身智能"
+          ]
+        }
+      ]
+    }
+  ]
+}
