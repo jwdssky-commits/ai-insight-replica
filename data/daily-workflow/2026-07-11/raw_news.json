@@ -1,0 +1,874 @@
+{
+  "date": "2026-07-11",
+  "collected_at": "2026-07-10T23:17:26.304359+00:00",
+  "item_count": 73,
+  "items": [
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-10T17:05:26+00:00",
+      "summary": "<blockquote cite=\"https://youtu.be/v4vkwUf4AMw?t=2427\"><p>The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it.</p>\n<p>There is not another way around it. And ther",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting OpenAI",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-10T01:05:57+00:00",
+      "summary": "<blockquote cite=\"https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\"><p>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 10 Jul 2026 17:17:12 +0000",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-10T17:36:51-04:00",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Prod",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-10T09:45:02-04:00",
+      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let y",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Would you host part of an AI data center in your home?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-10T09:20:25-04:00",
+      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute n",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-09T20:04:13-04:00",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Micro",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Fri, 10 Jul 2026 15:57:47 +0000",
+      "summary": "<p>How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-impr",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Detection in one repo isn't a security posture",
+      "url": "http://localhost:5174/blog/detection-in-one-repo-isnt-a-security-posture",
+      "source": "Sourcegraph Blog (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "summary": "A finding in one repo is a fact. A security posture means knowing whether that same problem exists everywhere else, and fixing it before it spreads.",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Traces now support Tree and Waterfall views",
+      "url": "https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-10T15:40:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "You can now deploy Lovable apps to Vercel",
+      "url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Agent: An agent you can let near production",
+      "url": "https://vercel.com/blog/vercel-agent",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T06:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Grok 4.5 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Update Project Settings from the Vercel CLI",
+      "url": "https://vercel.com/changelog/update-project-settings-from-the-vercel-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Microfrontends checks for missing configuration",
+      "url": "https://vercel.com/changelog/vercel-microfrontends-checks-for-missing-configuration",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Flags SDK now evaluates flags 10x faster",
+      "url": "https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 10 Jul 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sperm donors need limits, says a European fertility group",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 10 Jul 2026 09:00:00 +0000",
+      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.28: XBOX On the Rocks",
+      "url": "https://stratechery.com/2026/xbox-on-the-rocks/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 10 Jul 2026 17:00:00 +0000",
+      "summary": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+      "url": "https://www.qbitai.com/2026/07/447846.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 17:18:11 +0000",
+      "summary": "四大方向，奖金直给",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "url": "https://www.qbitai.com/2026/07/447832.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 14:13:37 +0000",
+      "summary": "AI变为研发流程的“组织者”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+      "url": "https://www.qbitai.com/2026/07/447796.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 09:45:01 +0000",
+      "summary": "把数据闭环搬进卧室",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "url": "https://www.qbitai.com/2026/07/447691.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 09:41:25 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+      "url": "https://www.qbitai.com/2026/07/447682.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 09:32:09 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+      "url": "https://www.qbitai.com/2026/07/447681.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 09:27:52 +0000",
+      "summary": "agent时代来了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+      "url": "https://www.qbitai.com/2026/07/447627.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 08:01:00 +0000",
+      "summary": "开源第四弹：LingBot-VA 2.0",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+      "url": "https://www.qbitai.com/2026/07/447602.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 04:44:38 +0000",
+      "summary": "字节也入局了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+      "url": "https://www.qbitai.com/2026/07/447597.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 10 Jul 2026 03:28:59 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+      "url": "https://36kr.com/p/3889551814916614?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-10 18:23:02  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.36kr.com/newsflashes/3889116670016000\"><strong>SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元</strong></a></p>\n  <p>参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
+      "url": "https://36kr.com/p/3889524008303363?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-10 15:49:14  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"2226,1426\" src=\"https://img.36krcdn.com/hsossms/20260710/v2_df085fd87c51435797d88ce8cac144ac@6221844_oswg3271346oswg2226oswg1426_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">徕芬珠海超级工厂（图源/企业）</p>\n  <p>作者丨欧雪",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
+      "url": "https://36kr.com/p/3888284244720131?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-10 11:26:25  +0800",
+      "summary": "<p>文 | 胡香赟</p>\n  <p>编辑 | 海若镜</p>\n  <p>36氪获悉，前传奇生物创始人/首席科学家范晓��创办的生物科技公司深圳湾岛细胞，近日完成1.4亿���民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。</p>\n  <p>过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。</p>\n  <p>在中国细胞与基因治疗（CGT）领域，“范晓虎”这个名字很难被绕开。2022年3月，他主导的传奇生物细胞药物西达基奥仑赛在",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
+      "url": "https://36kr.com/p/3883780969083137?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-10 11:03:33  +0800",
+      "summary": "<p>先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？</p>\n  <p>一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。</p>\n  <p>更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让人分不清是真心还是广告。</p>\n  <p>这也是我们做 36 氪 AI 测评的初衷：<strong>我们希望搭建一套标准化、客观公正的评测平台，不仅是AI行业的大众点评，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+      "url": "https://36kr.com/p/3889141540370949?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-10 09:19:37  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1268,714\" src=\"https://img.36krcdn.com/hsossms/20260710/v2_27f38c78baa0435ebc1c560de3f3bb69@6221844_oswg1150800oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
+      "url": "https://36kr.com/p/3889047503354625?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-10 07:43:55  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>花呗就还款页面无法正常打开致歉</li>\n   <li>中芯国际市值超越贵州茅台</li>\n   <li>iPhone 18 Pro Max成本大涨，起步价或维持在9999元</li>\n   <li>英伟达将与Hugging Face合作开发机器人开源模型</li>\n   <li>美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>老乡鸡五年五次冲击上市失败</strong></p>\n  <p>LXJ International Holdings ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Unveiling Public Opinion: A Study of Sentiment Analysis Using LSTM and Traditional Models",
+      "url": "https://arxiv.org/abs/2607.07772",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07772v1 Announce Type: new \nAbstract: In this age of social media, sites like Twitter have become meeting places for people to share their views and feelings on a wide range of issues and current events as they unfold in real time. Sentiment analysis, a critical application of NLP, has be",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier",
+      "url": "https://arxiv.org/abs/2607.07779",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07779v1 Announce Type: new \nAbstract: Recent developments in AI for Mathematics (AI4Math), especially Large Language Model (LLM)-driven theorem provers, has achieved remarkable success in formal proof generation for well-defined mathematical problems through Interactive Theorem Proving (I",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
+      "url": "https://arxiv.org/abs/2607.07820",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07820v1 Announce Type: new \nAbstract: Training tool-use agents to improve from their own experience remains challenging, as supervised fine-tuning relies on fixed teacher-distilled trajectories, while sparse-reward reinforcement learning provides weak supervision for long-horizon interact",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Do I Know What to Say Next? Barenholtz's Autogenerative Theory as an Enrichment of Harrisean Integrationism",
+      "url": "https://arxiv.org/abs/2607.07891",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07891v1 Announce Type: new \nAbstract: Roy Harris's Integrationist linguistics offers a compelling critique of the referentialist tradition embedded deep at the heart of computational approaches to language, arguing that language is not a code that maps onto a pre-given world but a situate",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Scalable and Culturally Specific Stereotype Dataset Construction via Human-LLM Collaboration",
+      "url": "https://arxiv.org/abs/2607.07895",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07895v1 Announce Type: new \nAbstract: Research on stereotypes in large language models (LLMs) has largely focused on English-speaking contexts, due to the lack of datasets in other languages and the high cost of manual annotation in underrepresented cultures. To address this gap, we intro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Debiasing Backfires: Counterintuitive Side Effects of Preprocessing-Based Stereotype Mitigation",
+      "url": "https://arxiv.org/abs/2607.07937",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07937v1 Announce Type: new \nAbstract: Preprocessing-based methods for stereotype mitigation, such as pre-/post-training on debiased corpora, are widely used in NLP. While these approaches reduce measurable stereotypes for targeted groups, we find they often induce unintended shifts-side e",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Multi-cluster Boundary Learning Method for Out-of-Scope Intent Detection via MiniLM Embedding",
+      "url": "https://arxiv.org/abs/2607.07974",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07974v1 Announce Type: new \nAbstract: Intent detection is a critical task that bridges human intents and system actions in human-machine interaction systems. However, there still exist challenges for detecting out-of-scope (OOS) intents. (i) The traditional methods view the OOS intent det",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.07976",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07976v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has achieved remarkable success in enhancing the reasoning capabilities of large language models (LLMs). However, widely used critic-free RL methods rely on uniform credit assignment, broadcasting the same advantage to all ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents",
+      "url": "https://arxiv.org/abs/2607.07985",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07985v1 Announce Type: new \nAbstract: We report the empirical reliability of Gemini models as audio judges that score full-duplex agent conversations directly from the raw stereo waveform, tested across three models in the Gemini family: 2.5 Flash, 3.5 Flash, and 3.1 Pro. Our primary evid",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+      "url": "https://arxiv.org/abs/2607.07993",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07993v1 Announce Type: new \nAbstract: Identifying faithfulness hallucinations in LLM-generated outputs remains challenging due to the scarcity of high-quality annotated data. Recent work relies on advanced LLMs to synthesize training data, including rationales, labels, and hallucinated cl",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "吃瓜：Apple 把 OpenAI 告上了法庭，指控 OpenAI 系统性地窃取苹果商业机密，用来开发自己的 AI 硬件设备。 诉状今天提交至加州北区联邦地方法院，被告包括 OpenAI、OpenAI 硬件负责人 Tang Tan（前苹果 iPhone 和 Apple Watch 产品设计副总裁，在苹果工作了 24 年）、前苹果高级系统电气工程师 Chang Liu，以及 Jony Ive 联合创立的 io Products。Jony Ive 本人不在被告之列。 来源：https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "url": "https://nitter.net/dotey/status/2075712647723397452#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 10 Jul 2026 22:43:54 GMT",
+      "summary": "<p>吃瓜：Apple 把 OpenAI 告上了法庭，指控 OpenAI 系统性地窃取苹果商业机密，用来开发自己的 AI 硬件设备。<br>\n<br>\n诉状今天提交至加州北区联邦地方法院，被告包括 OpenAI、OpenAI 硬件负责人 Tang Tan（前苹果 iPhone 和 Apple Watch 产品设计副总裁，在苹果工作了 24 年）、前苹果高级系统电气工程师 Chang Liu，以及 Jony Ive 联合创立的 io Products。Jony Ive 本人不在被告之列。<br>\n<br>\n来源：<a href=\"https://www.nytimes.com/2026/07/1",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: Q：ChatGPT Work 桌面端和 Claude Cowork 桌面端有什么区别？ 两者现在都是桌面端智能体，都能操作本地文件，都能用 Computer Use 控制你的电脑，都支持定时任务。但实际用起来，路径和体验差别不小。 1. 执行架构不同。 Cowork 在你的电脑上运行一个隔离的 Linux 虚拟机作为沙箱，所有文件操作都在这个本地沙箱里完成，生成的文件（.docx、.xlsx、.pptx、.pdf）直接保存到你指定的文件夹。 ChatGPT Work 的桌面端继承了 Codex 的沙箱和权限控制体系，用操作系统原生隔离机制（macOS 上是 Seatbelt，Windows 上是 Windows Sandbox），同时还有一个内置浏览器，不需要额外装扩展就能上网查资料、操作网页工具。 2. 操作电脑的方式不同。 ChatGPT Work 桌面端的 Computer Use 可以在后台操作你的其他应用，点击、打字、移动文件，你会看到屏幕上出现一个\"不是你在动\"的第二个光标。 Cowork 也有 Computer Use（目前仍是研究预览阶段），通过 Claude in Chrome 扩展操作浏览器，通过桌面端直接操作应用。 3. 应用连接方式不同。 ChatGPT Work 用统一的 plugins 目录，60 多个连接器对接 Slack、Teams、Google Drive、SharePoint、Salesforce 等。你在提示词里用 @ 指定应用名就能拉数据。 Cowork 用 MCP（Model Context Protocol，模型上下文协议）连接器，对接 Slack、Notion、HubSpot、Jira、Linear 等，还有 11 个官方行业插件（销售、法务、营销、财务等），也支持自建插件。 4. 产品结构相似但不同。 ChatGPT 桌面端现在是三合一：Chat、Work、Codex 在同一个 App 里通过模式切换器选择。 Claude 桌面端最近也改版了，从原来的三个标签（Chat、Cowork、Code）合并成了两个标签：Home 和 Code。 Home 里 Chat 和 Cowork 共享同一个首页，对话、Cowork 任务、项目和文件都在同一个侧边栏里，你在消息框左下角切换 Chat 和 Cowork 模式。 Code 标签是 Claude Code 的桌面界面，专门用于软件开发。 结构上，两家现在很像：都是把日常对话、知识工作、编程三种模式塞进了同一个桌面 App。 5. 跨设备能力不同。 Claude Cowork 从 7 月 7 日开始向网页和手机端扩展（Beta，Max 用户优先，其他付费计划陆续开放）。 Cowork 任务现在可以远程跑在 Anthropic 的服务器上，关掉电脑也能继续执行，你可以在手机上查看进度、回复 Claude 的问题、或在另一台设备上接着干。定时任务也能在后台跑了。但有一个限制：如果任务需要读写本地文件、用浏览器、或用 Computer Use，你的桌面端 App 必须保持打开状态，远程会话通过桌面端去够这些本地资源。 ChatGPT 这边，Chat 对话可以在网页和桌面端之间同步。但 Work 对话目前不互通：网页/手机端创建的 Work 对话留在云端，不会出现在桌面端的 Work 里；桌面端的 Work 线程和本地文件也留在那台电脑上。Codex 桌面端任务不会出现在网页端，但可以通过手机 App 的 Remote 标签远程查看。 Claude Cowork 的跨设备同步走得更前面一步，同一个会话可以在桌面、网页、手机端之间流转。ChatGPT Work 目前云端和桌面端是割裂的，这是 OpenAI 明确说了\"at launch\"的限制，后续大概率会补上。 【来源：https://openai.com/index/chatgpt-for-your-most-ambitious-work/ https://www.eigent.ai/blog/chatgpt-work-vs-claude-cowork-which-agentic-workspace-fits-your-team https://www.leadwithai.co/article/chatgpt-work-is-here-openais-answer-to-claude-cowork https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile https://claude.com/resources/tutorials/navigating-the-claude-desktop-app】",
+      "url": "https://nitter.net/dotey/status/2075654589022437728#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 10 Jul 2026 18:53:12 GMT",
+      "summary": "<p>Q：ChatGPT Work 桌面端和 Claude Cowork 桌面端有什么区别？<br>\n<br>\n两者现在都是桌面端智能体，都能操作本地文件，都能用 Computer Use 控制你的电脑，都支持定时任务。但实际用起来，路径和体验差别不小。<br>\n<br>\n1. 执行架构不同。<br>\n<br>\nCowork 在你的电脑上运行一个隔离的 Linux 虚拟机作为沙箱，所有文件操作都在这个本地沙箱里完成，生成的文件（.docx、.xlsx、.pptx、.pdf）直接保存到你指定的文件夹。<br>\n<br>\nChatGPT Work 的桌面端继承了 Codex 的沙箱和权限控制体系，",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "很多人搞不清楚 ChatGPT、Codex、Work 什么差别，以及额度是独立的还是共享的，根据官方文档整理了一个简单的 Q & A。 Q：Chat、Work、Codex，一句话说清区别？ Chat 回答问题，Work 帮你干活，Codex 帮你写代码。 Chat 就是你熟悉的 ChatGPT，你问它答，快进快出。 Work 是一个能跨应用收集信息、然后交付完整成品的智能体（Agent），交付物是文档、表格、幻灯片、网页应用这些拿到手就能用的东西。 Codex 也是智能体，但它主要操作的是代码仓库，能读你的项目文件、改代码、跑测试、提交 PR。 打个比方： Chat 是你问\"番茄炒蛋怎么做\"，它告诉你步骤。 Work 是你说\"帮我准备一桌晚餐\"，它自己去冰箱找食材、炒菜、摆盘。 Codex 是你说\"这个菜谱 App 有 bug\"，它打开代码自己修。 【来源：https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex】 Q：Work 到底能做什么？跟直接在 Chat 里说“帮我写个报告”有什么不同？ 在 Chat 里你说“帮我写个报告”，它给你一段文字，你自己复制粘贴到 Word 里排版。 Work 完全不同。你先把日常工具接进去，Slack、Gmail、Google Drive、SharePoint、Teams、日历、CRM、项目管理工具都行，OpenAI 叫它 plugins。接好之后告诉它你要什么结果，它会自己去这些应用里拉数据、整合信息、生成一份可以直接交付的成品。你在提示词里用 @ 加应用名就能指定它去哪儿找数据。 举个例子，Zapier 的企业营销负责人用 Work 搭了一个系统，每月审查数千条线索，追踪 CRM 和邮件中的客户触点，找出跟进断裂的地方，生成管理层周报。Virgin Atlantic 的数字产品负责人用它做竞品对标分析，让 ChatGPT 调研各家航空公司的服务水平，生成可供团队审查的数据集，把原本需要数周的分析缩短到几小时。 另一个区别是 Work 能长时间跟进。一个复杂项目，它可以跟好几个小时，自己拆步骤、自己推进。中间有拿不准的会来问你，你也可以随时调整方向、审批关键动作。 【来源：https://openai.com/index/chatgpt-for-your-most-ambitious-work/】 Q：Work 能定时跑任务？ 能。这个功能叫 Scheduled Tasks（定时任务），可以设成一次性、定时重复、事件触发或持续监控。 比如你设一个任务：每天早上检查 Slack 和邮件里的新消息，整理成简报发给你。或者：每当有新的客户反馈进来，自动归类主题、整理成产品改进建议。这些都能在后台跑。它还能用桌面端的内置浏览器上网查信息，甚至通过 Computer Use 功能操作你电脑上的其他应用。 定时任务面向 Plus、Pro、Business 和 Enterprise 用户开放，各档计划的并发任务数量上限不同。任务不能每小时跑超过一次，长时间无人理会的任务可能会自动暂停。 【来源：https://openai.com/index/chatgpt-for-your-most-ambitious-work/ https://help.openai.com/en/articles/6825453-chatgpt-release-notes】 Q：那 Codex 跟 Work 的区别到底在哪？ 这两其实是同一套底层 Agent（Codex）和 UI，但是应用在不同的场景，配合不同的插件。读的东西不同，交付的东西也不同。 Work 读的是你的业务上下文，邮件、文档、聊天记录、日历，交付的是商务成品，幻灯片、电子表格、文档、网站。Codex 读的是你的代码仓库，交付的是代码变更，diff、测试结果、PR。 【来源：https://openai.com/index/chatgpt-for-your-most-ambitious-work/】 Q：Codex 每周有 500 万人用，为什么还要再出一个 Work？ OpenAI 在博文里提到，虽然 Codex 最初是为开发者设计的编程智能体，但已经有超过 100 万人在用它做软件开发以外的工作。Work 的推出，某种程度上是把这些非编程用途正式化了，给了它一个专门的界面和工作流，用 plugins 连接业务应用，输出文档和幻灯片而不是代码。 OpenAI 自己内部也在大量使用：销售团队用 Work 把一次客户探索对话在 24 小时内变成了定制 POC（概念验证），以前这个流程需要几周。财务团队用 Work 把月末结账和预测流程从几天压缩到几小时。 我觉得 Codex 这么做呢，目的是为了吸引办公人群，原本这些人看到 Codex 的名字会以为是写代码用的，但是改名呢又会影响原本的 Codex 用户，结果就搞成这样一套产品两个名字。 简单来说就是一套产品，两个名字，两种主要场景，同时吸引不同用户群。 【来源：https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex https://www.developersdigest.tech/blog/chatgpt-work-codex-desktop-app】 Q：我在哪儿能用这三个模式？ Chat 最简单，网页、手机、桌面端都有，所有平台通用。 Work 在网页和手机上已经开始上线（Pro、Enterprise、Edu 优先，Plus 和 Business 未来几天陆续开放）。桌面端也有，而且桌面端更强，能用本地文件，还有内置浏览器上网抓取信息。 Codex 只在桌面端能选。手机上不能直接用 Codex 模式，但可以通过 ChatGPT App 里的 Remote 标签远程查看桌面上正在跑的 Codex 任务。 一个要注意的点：网页/手机端的 Work 对话和桌面端的 Work 对话目前不互通，云端是云端，本地是本地。Chat 对话则可以跨网页和桌面端同步。 原来独立的 Codex App 已经合并进了新版 ChatGPT 桌面端。一个 App 里切换 Chat、Work、Codex 就行。开发者可以把 Codex 设为默认打开视图，App 图标也能换成 Codex 的 logo。原来的 ChatGPT 桌面端会更名为 ChatGPT Classic。 【来源：https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex https://openai.com/index/chatgpt-for-your-most-ambitious-work/】 Q：Chat 聊天和 Work/Codex 的额度是共享的吗？ 不共享。Chat 对话有自己独立的消息限额，图片生成和语音也各有各自的独立限额和重置周期。 Work 和 Codex 用的是另一个池子，OpenAI 叫它\"智能体用量\"（agentic usage）。帮助中心原文说：Codex、ChatGPT Work、ChatGPT for Excel 和 Workspace Agents 的用量从同一个智能体额度池中扣减。 所以你在 Chat 里聊天聊得再多，不会影响 Work 和 Codex 的额度。但 Work 和 Codex 之间会互相挤占。白天用 Work 跑了一堆复杂任务，晚上想用 Codex 写代码，可能会发现额度已经不多了。 【来源：https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan https://developers.openai.com/codex/pricing】 Q：要花多少钱？ Work 不是独立付费产品。它跟 Codex 共用同一个额度池，包含在你现有的 ChatGPT 订阅里。所有计划都能用，从免费到企业版，区别在于额度多少。 Free（免费）：能试用 Work 和 Codex，额度非常有限，试试味道可以。美国地区有广告。 Go（$8/月）：额度比免费多约 10 倍，桌面端可有限地用 GPT-5.6 Terra 跑 Work 和 Codex。没有 Deep Research 和 Agent Mode。有广告。 Plus（$20/月）：第一个去掉广告、功能完整的档位。包含 Deep Research（每月 10 次）、Codex、Agent Mode。三年没涨价，性价比最高。 Pro（$100 或 $200/月）：$100 档额度是 Plus 的 5 倍，$200 档是 20 倍。面向重度用户。 Business（$20/月/人起，年付；月付 $25）：至少 2 人，多了 SSO 和合规控制，数据默认不用于训练。 Enterprise（定制报价）：150 人起。 额度计费从今年 4 月开始改成按 Token 消耗计算。用更强的模型或开 Fast 模式，消耗更多。Plus 和 Pro 用户额度用完后可以购买额外 credits 继续使用。 【来源：https://chatgpt.com/pricing/ https://developers.openai.com/codex/pricing】 Q：GPT-5.6 的 Sol、Terra、Luna 是什么？我该用哪个？ 这是 GPT-5.6 的三个子型号。 Sol 最强，适合复杂推理和高难度编程，也最贵（API 价格 $5/$30 每百万 Token 输入/输出）。 Terra 居中，日常工作默认选它（$2.50/$15）。 Luna 最快最便宜，对速度敏感或任务简单时用（$1/$6）。 Free 和 Go 用户只能用 Terra。 Plus 及以上可以三个都选，还能调节 effort 级别。 ultra effort 在 Work 中仅限 Pro 和 Enterprise 用户，在 Codex 中 Plus 及以上可用。 【来源：https://www.developersdigest.tech/blog/chatgpt-work-codex-desktop-app https://chatgpt.com/pricing/】 Q：Work 上线后，原来的 ChatGPT 还在吗？ 在。Chat 模式就是原来的 ChatGPT，一切照旧。桌面端点\"Quick chat\"按钮就能开新对话，手机端在顶部下拉菜单选\"Chat\"。你可以完全无视 Work 和 Codex，继续像以前一样用。 【来源：https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex】",
+      "url": "https://nitter.net/dotey/status/2075652538058109385#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 10 Jul 2026 18:45:03 GMT",
+      "summary": "<p>很多人搞不清楚 ChatGPT、Codex、Work 什么差别，以及额度是独立的还是共享的，根据官方文档整理了一个简单的 Q & A。<br>\n<br>\nQ：Chat、Work、Codex，一句话说清区别？<br>\n<br>\nChat 回答问题，Work 帮你干活，Codex 帮你写代码。<br>\n<br>\nChat 就是你熟悉的 ChatGPT，你问它答，快进快出。<br>\n<br>\nWork 是一个能跨应用收集信息、然后交付完整成品的智能体（Agent），交付物是文档、表格、幻灯片、网页应用这些拿到手就能用的东西。<br>\n<br>\nCodex 也是智能体，但它主要操作的是代码仓库，",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 可以下载 ChatGPT classic",
+      "url": "https://nitter.net/avenger/status/2075370816032911431#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 10 Jul 2026 00:05:35 GMT",
+      "summary": "<p>可以下载 ChatGPT classic</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Hermes Agent now comes preinstalled on rabbitOS",
+      "url": "https://nitter.net/NousResearch/status/2075698031844818990#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 10 Jul 2026 21:45:50 GMT",
+      "summary": "<p>Hermes Agent now comes preinstalled on rabbitOS</p>\n<hr/>\n<blockquote>\n<b>rabbit inc. (@rabbit_hmi)</b>\n<p>\n<p>rabbitOS 2.3 is here, with hermes agent 🥕🪽<br>\n<br>\na fresh OTA is rolling out to r1 now, and this one’s packed: hermes agent, proactive rabbit, openclaw v4, creations gallery 1.5, DLAM ",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Hermes Desktop app can now discover and connect to your Hermes Cloud agents. Sign in with Nous Portal and any active Cloud instances are auto-discovered. http://portal.nousresearch.com/cloud",
+      "url": "https://nitter.net/NousResearch/status/2075675120442486931#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 10 Jul 2026 20:14:47 GMT",
+      "summary": "<p>The Hermes Desktop app can now discover and connect to your Hermes Cloud agents.<br>\n<br>\nSign in with Nous Portal and any active Cloud instances are auto-discovered.<br>\n<br>\n<a href=\"http://portal.nousresearch.com/cloud\">portal.nousresearch.com/clou…</a></p>\n<a href=\"https://nitter.net/NousRese",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: Already a cloud user? Try Hermes Desktop: https://hermes-agent.nousresearch.com/",
+      "url": "https://nitter.net/NousResearch/status/2075675708567793664#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 10 Jul 2026 20:17:07 GMT",
+      "summary": "<p>Already a cloud user? Try Hermes Desktop:<br>\n<br>\n<a href=\"https://hermes-agent.nousresearch.com/\">hermes-agent.nousresearch.co…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://hermes-agent.nousresearch.com/\">\n<img src=\"https://nitter.net/pic/card_img%2F2075110839963803648%2FnJHFmSas%3Fformat%3Dj",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: THE COUNTDOWN BEGINS 🥕 + 🪽",
+      "url": "https://nitter.net/rabbit_hmi/status/2075671611747811796#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 10 Jul 2026 20:00:51 GMT",
+      "summary": "<p>THE COUNTDOWN BEGINS<br>\n🥕 + 🪽</p>\n<img src=\"https://nitter.net/pic/media%2FHM4-l7SXEAAeEl2.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Video",
+      "url": "https://nitter.net/NousResearch/status/2075656082886697381#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 10 Jul 2026 18:59:08 GMT",
+      "summary": "<a href=\"https://nitter.net/NousResearch/status/2075656082886697381#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075655990117076993%2Fimg%2FUGgYof8QsZaxTxxV.jpg\" style=\"max-width:250px;\" />\n</a>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Please don't discontinue Gemini 2.5 Flash (96pts)",
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T20:00:28Z",
+      "summary": "HN热度: 96分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How the terrorist group Boko Haram uses frontier AI (150pts)",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T18:49:26Z",
+      "summary": "HN热度: 150分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI-generated videos to maximally drive a target brain region (258pts)",
+      "url": "https://nevo-project.epfl.ch/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T07:39:11Z",
+      "summary": "HN热度: 258分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds (138pts)",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "source": "Hacker News (API)",
+      "published": "2026-07-09T20:51:06Z",
+      "summary": "HN热度: 138分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps (120pts)",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T20:52:28Z",
+      "summary": "HN热度: 120分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Clojure FFI layer for libgdx-core (63pts)",
+      "url": "https://github.com/damn/com.badlogic.gdx/tree/main",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T20:23:09Z",
+      "summary": "HN热度: 63分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf] (273pts)",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T18:29:19Z",
+      "summary": "HN热度: 273分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Punk, or why I don't stream anymore (130pts)",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T13:30:19Z",
+      "summary": "HN热度: 130分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't (67pts)",
+      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T10:40:26Z",
+      "summary": "HN热度: 67分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust (75pts)",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "Hacker News (API)",
+      "published": "2026-07-10T02:39:07Z",
+      "summary": "HN热度: 75分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain==1.3.13",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.13",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-07-10T23:06:20Z",
+      "summary": "Changes since langchain==1.3.12\n\nrelease(langchain): 1.3.13 (#38787)\nfeat(langchain): add `meta` extra and support langchain-meta in init_chat_model (#38786)\nfeat(openai): support explicit prompt caching (#38762)\nchore(deps): refresh lockfiles (#38746)",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openai==1.3.5",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.3.5",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-07-10T18:58:46Z",
+      "summary": "Changes since langchain-openai==1.3.4\n\nrelease(openai): 1.3.5 (#38785)\nfeat(openai): support explicit prompt caching (#38762)\nchore(model-profiles): refresh model profile data (#38774)",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[All-Hands-AI/OpenHands] cloud: 1.46.0",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/cloud-1.46.0",
+      "source": "GitHub (All-Hands-AI/OpenHands)",
+      "published": "2026-07-10T19:51:59Z",
+      "summary": "## 1.46.0 (2026-07-10)\n\n<!-- Release notes generated using configuration in .github/release.yml at main -->\n\n## What's Changed\n### Features\n* feat(app-server): enrich final archive manifests and remove initial snapshots by @simonrosenberg in https://github.com/OpenHands/OpenHands/pull/15058\n* feat(e",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[All-Hands-AI/OpenHands] cloud: 1.45.1",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/cloud-1.45.1",
+      "source": "GitHub (All-Hands-AI/OpenHands)",
+      "published": "2026-07-09T20:07:45Z",
+      "summary": "## 1.45.1 (2026-07-09)\n\n<!-- Release notes generated using configuration in .github/release.yml at main -->\n\n## What's Changed\n### Maintenance\n* chore(main): release 1.11.0 by @openhands-release-bot[bot] in https://github.com/OpenHands/OpenHands/pull/15202\n\n\n**Full Changelog**: https://github.com/Op",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
