@@ -1,0 +1,446 @@
+{
+  "date": "2026-07-12",
+  "collected_at": "2026-07-11T23:14:20.034149+00:00",
+  "item_count": 37,
+  "items": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-10T19:49:50-04:00",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI c",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Build logs now redact Sensitive Environment Variable values",
+      "url": "https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Muse Spark 1.1 is now available on AI Gateway",
+      "url": "https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT 5.6 Sol, Luna, and Terra now available on AI Gateway",
+      "url": "https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-09T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 11 Jul 2026 10:07:17 +0000",
+      "summary": "已跑通300余项应用",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 11 Jul 2026 06:26:46 +0000",
+      "summary": "从FP64到INT8，全精度覆盖。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 11 Jul 2026 05:30:11 +0000",
+      "summary": "神话级大模型驾驭宝典",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
+      "url": "https://36kr.com/p/3891132709206784?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-11 19:28:29  +0800",
+      "summary": "<p>文 | 周鑫雨</p>\n  <p>编辑 | 张雨忻</p>\n  <p>《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。</p>\n  <p>过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，是百度市值的近 3 倍，并且超过了小米。7 月 8 日，首批股票解禁后，智谱依然稳住了股价。</p>\n  <p>这也是当下 AI 大模型赛道，最性感的故事：押注对的技术方向，换来斐然市场口碑和商业化成绩。</p>\n  <p>抽丝剥茧，智谱起飞的根源，离",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "url": "https://36kr.com/p/3890553690192384?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-11 09:24:06  +0800",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>“全球首款智能体手机”已备货8万至10万台？知情人士：假的</p>\n  <p>百亿私募数量达142家，再次刷新历史纪录</p>\n  <p>三星李在镕拟于7月底赴美会晤英伟达黄仁勋</p>\n  <p>德国大众拟大裁员，最高或裁减12万个岗位</p>\n  <p>OpenAI高管层再现变动，首席运营官因病离职</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>长鑫科技，承销团阵容公布&nbsp;</strong></p>\n  <p>长鑫科技IPO进入发行倒计时，这家“国",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "url": "https://36kr.com/p/3889516712065799?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-11 09:00:00  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1269,715\" src=\"https://img.36krcdn.com/hsossms/20260710/v2_65133adab2b0471884c9250eef7228ae@6221844_oswg362165oswg1269oswg715_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
+      "url": "https://36kr.com/p/3888567864851204?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-09 23:36:08  +0800",
+      "summary": "<p>7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正式为行业带来彻底击穿自动充电各场景规模商用核心困局的通用解法。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1850,1011\" src=\"https://img.36krcdn.com/hsossms/20260709/v2_",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "url": "https://arxiv.org/abs/2607.07721",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains req",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "url": "https://arxiv.org/abs/2607.07759",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07759v1 Announce Type: new \nAbstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling pol",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.07760",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07760v1 Announce Type: new \nAbstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "url": "https://arxiv.org/abs/2607.07761",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. W",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "url": "https://arxiv.org/abs/2607.07766",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07766v1 Announce Type: new \nAbstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychologic",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+      "url": "https://arxiv.org/abs/2607.07775",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07775v1 Announce Type: new \nAbstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic prostheses are a representative example of this tight coupling. Also referred to as bionic limbs, r",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Infinity-Parser2 Technical Report",
+      "url": "https://arxiv.org/abs/2607.07836",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07836v1 Announce Type: new \nAbstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for end-to-end document parsing, addressing the persistent scarcity of faithfully annotated parsing corpor",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+      "url": "https://arxiv.org/abs/2607.07846",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07846v1 Announce Type: new \nAbstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and differential equation",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+      "url": "https://arxiv.org/abs/2607.07850",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07850v1 Announce Type: new \nAbstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for this purpose. In this pa",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+      "url": "https://arxiv.org/abs/2607.07858",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 11 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.07858v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face a design space that r",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "UI 是面子，代码是里子 没几个人在乎衣服是什么棉花做的，但是在乎穿的衣服好不好看、有没有撞衫🤪",
+      "url": "https://nitter.net/dotey/status/2076054180251218197#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 11 Jul 2026 21:21:02 GMT",
+      "summary": "<p>UI 是面子，代码是里子<br>\n<br>\n没几个人在乎衣服是什么棉花做的，但是在乎穿的衣服好不好看、有没有撞衫🤪</p>\n<hr/>\n<blockquote>\n<b>响马 (@xicilion)</b>\n<p>\n<p>为什么你们对 AI 味的 ui 设计嗤之以鼻，反而对 AI 味的代码甘之若饴呢？</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/xicilion/status/2076043130240106998#m\">https://nitter.net/xicilion/status/20760431302401069",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Code 桌面版右边 Panel 是相当糟糕的设计，经常让浏览器只看得见一点点（图1） 还有个很糟糕的设计是当任务完成后，生成的结果是不能点击的（图2），需要复制文件名去搜索，对比 Codex 的生成结果就很清晰，点击下就可以预览或者 VSCode 打开。",
+      "url": "https://nitter.net/dotey/status/2075729483026305070#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 10 Jul 2026 23:50:48 GMT",
+      "summary": "<p>Claude Code 桌面版右边 Panel 是相当糟糕的设计，经常让浏览器只看得见一点点（图1）<br>\n<br>\n还有个很糟糕的设计是当任务完成后，生成的结果是不能点击的（图2），需要复制文件名去搜索，对比 Codex 的生成结果就很清晰，点击下就可以预览或者 VSCode 打开。</p>\n<img src=\"https://nitter.net/pic/media%2FHM54N0NX0AAPEJG.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHM54ksiX0AA_xKL.",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI 2040 and the cult of intelligence (167pts)",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T18:04:01Z",
+      "summary": "HN热度: 167分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Who manages the agents? (66pts)",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T18:02:33Z",
+      "summary": "HN热度: 66分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Reverse centaurs are the answer to the AI paradox (2025) (83pts)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T17:23:52Z",
+      "summary": "HN热度: 83分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom (118pts)",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T17:21:49Z",
+      "summary": "HN热度: 118分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ghost Font: A font that humans can read but AI cannot (186pts)",
+      "url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T09:36:53Z",
+      "summary": "HN热度: 186分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch (62pts)",
+      "url": "https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T14:51:25Z",
+      "summary": "HN热度: 62分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch (104pts)",
+      "url": "https://shipthatcode.com",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T13:40:27Z",
+      "summary": "HN热度: 104分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "FCC approves test of space mirror to light night sky (112pts)",
+      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+      "source": "Hacker News (API)",
+      "published": "2026-07-11T12:12:34Z",
+      "summary": "HN热度: 112分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[huggingface/transformers] Patch release v5.13.1",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.1",
+      "source": "GitHub (huggingface/transformers)",
+      "published": "2026-07-11T09:15:36Z",
+      "summary": "# Patch release v5.13.1 \r\n\r\nThis patch is focused on enabling `transformers` for the latest release of vllm! \r\n\r\n- Be more defensive with remap_legacy_layer_types for custom models (#47245) from @hmellor \r\n- Fix custom code which doesn't know about the new linear layer type names (#47174) from @hmel",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[vllm-project/vllm] v0.25.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0",
+      "source": "GitHub (vllm-project/vllm)",
+      "published": "2026-07-11T20:06:44Z",
+      "summary": "# vLLM v0.25.0 Release Notes\r\n\r\n## Highlights\r\n\r\nThis release features 558 commits from 232 contributors (64 new)!\r\n\r\n* **Model Runner V2 is now the default for all dense models** (#44443). Building on quantized-model support from the previous release, MRv2 is now the standard execution path, with n",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[ollama/ollama] v0.32.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.0-rc0",
+      "source": "GitHub (ollama/ollama)",
+      "published": "2026-07-11T01:03:46Z",
+      "summary": "## What's Changed\r\n* create: select the qwen3.5 parser and renderer for Qwen3.5/Next by @jessegross in https://github.com/ollama/ollama/pull/17078\r\n* launch: warn before old agent models by @ParthSareen in https://github.com/ollama/ollama/pull/17063\r\n* cmd: agent UI by @ParthSareen in https://github",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[browser-use/browser-use] 0.13.4",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.4",
+      "source": "GitHub (browser-use/browser-use)",
+      "published": "2026-07-11T18:50:05Z",
+      "summary": "## What's Changed\n- MCP server for CLI 3.0: shared MCP runner, `max_dim` guard.\n- Fix navigation readiness detection: per-target lifecycle event storage, and handle same-document navigations without burning the readiness timeout.\n- Fix markdown extraction destroying URLs and dropping long link lines",
+      "board_hints": [
+        "AI应用"
+      ],
+      "lang": "en"
+    }
+  ]
+}
