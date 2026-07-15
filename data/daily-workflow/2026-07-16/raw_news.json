@@ -1,0 +1,948 @@
+{
+  "date": "2026-07-16",
+  "collected_at": "2026-07-15T23:17:55.547130+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-15T14:21:54+00:00",
+      "summary": "<p><strong><a href=\"https://www.ayush.digital/blog/the-memory-heist\">How I tricked Claude into leaking your deepest, darkest secrets</a></strong></p>\nI've <a href=\"https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/\">been impressed</a> by the way the Claude <code>web_fetch</code> tool is de",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 18:06:05 +0000",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 17:00:34 +0000",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 16:20:18 +0000",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 15:00:00 +0000",
+      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-15T17:33:20-04:00",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonco",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-15T16:00:00-04:00",
+      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-15T13:48:01-04:00",
+      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-15T12:00:00-04:00",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 17:29:31 +0000",
+      "summary": "<p>New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essen",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Together AI brings Thinking Machines Lab’s new model Inkling on day 0",
+      "url": "https://www.together.ai/blog/together-ai-brings-thinking-machines-labs-new-model-inkling-on-day-0",
+      "source": "Together AI (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New in Together GPU Clusters: Reliability and control for production GPU clusters",
+      "url": "https://www.together.ai/blog/new-in-together-gpu-clusters-reliability-and-control-for-production-gpu-clusters",
+      "source": "Together AI (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "summary": "See how Together AI is improving production GPU clusters with passive health checks, node repair, stronger Slurm reliability, OIDC, and startup scripts.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 23:00:54 +0000",
+      "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new mod",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 10:51:37 +0000",
+      "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest a",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Speechify serves 500,000 dynamic pages to 60 million users on Vercel",
+      "url": "https://vercel.com/blog/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-15T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Faster, predictable project linking in the Vercel CLI",
+      "url": "https://vercel.com/changelog/faster-predictable-project-linking-in-the-vercel-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-15T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inkling from Thinking Machines is now available on AI Gateway",
+      "url": "https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-15T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Workflows trace viewer now has a minimap",
+      "url": "https://vercel.com/changelog/vercel-workflows-trace-viewer-now-has-a-minimap",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-15T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds Discord Components V2 support",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-15T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 15 Jul 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+      "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "source": "Stratechery (RSS)",
+      "published": "Wed, 15 Jul 2026 10:00:19 +0000",
+      "summary": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
+      "url": "https://www.qbitai.com/2026/07/450841.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 09:45:53 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+      "url": "https://www.qbitai.com/2026/07/450831.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 09:18:03 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
+      "url": "https://www.qbitai.com/2026/07/450709.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 09:03:58 +0000",
+      "summary": "26名员工正在集体起诉Meta",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
+      "url": "https://www.qbitai.com/2026/07/450130.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 08:09:57 +0000",
+      "summary": "世界就是你的画布",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
+      "url": "https://www.qbitai.com/2026/07/450657.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 07:22:26 +0000",
+      "summary": "FSD、Robotaxi共用一套模型",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+      "url": "https://www.qbitai.com/2026/07/450652.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 06:43:37 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "url": "https://www.qbitai.com/2026/07/436498.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 05:33:28 +0000",
+      "summary": "180家企业携成果入驻",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
+      "url": "https://www.qbitai.com/2026/07/450385.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 04:46:18 +0000",
+      "summary": "难怪苹果急眼了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+      "url": "https://www.qbitai.com/2026/07/450250.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 03:48:46 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
+      "url": "https://www.qbitai.com/2026/07/450101.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 15 Jul 2026 00:54:59 +0000",
+      "summary": "距首轮估值上涨37%",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "url": "https://36kr.com/p/3896830362601351?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 19:47:14  +0800",
+      "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻 杨轩</strong></p>\n  <p>《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。</p>\n  <p>就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。</p>\n  <p>公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。</",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "url": "https://36kr.com/p/3896563671222147?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 19:37:31  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3896551911556744\"><strong>美团、青桔、哈啰共享单车调价</strong></a></p>\n  <p>近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "url": "https://36kr.com/p/3896755010963333?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 18:36:56  +0800",
+      "summary": "<p>2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。</p>\n  <p>但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。</p>\n  <p>AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&nbsp;UGC&nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。</p>\n  <p>只不过，过去的",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "支付宝不想做AI时代的配角",
+      "url": "https://36kr.com/p/3896720584738435?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 17:50:30  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。</p>\n  <p>最近，支付宝完成了上线22年来最大一次改版。</p>\n  <p>本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中落地。</p>\n  <p>进入2026年以来，从头部平台到各家支付机构密集亮出AI底牌，支付行业的智能体竞争悄然开场。</p>\n  <h3><s",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+      "url": "https://36kr.com/p/3896639400183687?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 16:30:35  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1080,721\" src=\"https://img.36krcdn.com/hsossms/20260715/v2_ff327a59564e4aabba6f26d61cd4d748@6108898_oswg167386oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p>7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。</p>\n  <p cla",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "四大一线城市房价继续修复上涨",
+      "url": "https://36kr.com/p/3896544104793993?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 14:49:46  +0800",
+      "summary": "<p>7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。</p>\n  <p>自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的城市，降幅为0.3%，上海、广州和深圳分别上涨0.3%、0.2%和0.3%。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1055,1209\" ",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "优衣库再失一枚棋子",
+      "url": "https://36kr.com/p/3885699885445122?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 13:25:41  +0800",
+      "summary": "<p>上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。</p>\n  <p>资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。</p>\n  <p>她同时透露，迅销集团对Lemaire同名品牌的持股已经下调。迅销内部曾讨论U系列能否在没有两位设计师的情况下独立存续，但这一提议被柳井正本人否决了。截至发稿，Lemaire与迅销均拒绝置评。Sh",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "耐克中国，壮士断腕",
+      "url": "https://36kr.com/p/3876646017216516?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 13:25:28  +0800",
+      "summary": "<p>上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。</p>\n  <p>消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告，但并未直接否认，仅表示\"尚未接获耐克正式通知\"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。</p>\n  <p><strong>如果最终全面实施，这项改革可能影响耐克中国约10亿美元规模的批发业务，是上一财年大中华区总营收的17%。</strong></p>\n  <p>几天后的2026财年第四季度财报电话会上，面对分析师追问，耐克全球CEO Elliott Hill没有正面回应这一传闻，只表示：",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+      "url": "https://36kr.com/p/3889213745543687?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 13:25:18  +0800",
+      "summary": "<p>文｜贺哲馨、任彩茹</p>\n  <p>编辑｜乔芊</p>\n  <p>36氪独家获悉，安踏品牌CEO徐阳将离职。</p>\n  <p>安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳全球的优秀人才，赋能安踏品牌持续深耕大众运动，为消费者创造更大价值。</p>\n  <p>在徐阳之前，安踏品牌CEO先后由丁世忠、郑捷、吴永华担任，三人均为销售出身。徐阳是这一职位历史上第一位市场营销背景的掌舵者：2006年，他以",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+      "url": "https://36kr.com/p/3896298534520705?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-15 10:40:40  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。</p>\n  <p>追知工科成立于2024年2月，是一家<strong>聚焦垂域工业智能体</strong>的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化和智能化水平，重点解决制造业柔",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 17:27:01 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Scaling Point-in-Time Language Models",
+      "url": "https://arxiv.org/abs/2607.11889",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11889v1 Announce Type: new \nAbstract: Large language models trained on unrestricted internet corpora inevitably embed information from the future, introducing lookahead bias that compromises the validity of backtests and causal inference in finance and the social sciences. Point-in-time l",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CANDI: Contextual Alignment for Niche Domains Question Answering",
+      "url": "https://arxiv.org/abs/2607.11891",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11891v1 Announce Type: new \nAbstract: The deployment of large language models (LLMs) in specialized domains like medical diagnostics and financial advisory necessitates evaluating capabilities beyond general knowledge. Traditional question-answering benchmarks often fail to capture the nu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "G-SHARE: A Guideline-Based Structured Reasoning Framework for Human-Factor Event Diagnosis",
+      "url": "https://arxiv.org/abs/2607.11892",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11892v1 Announce Type: new \nAbstract: Human-factor event diagnosis is essential for learning from operational events in nuclear power plants, yet its quality depends strongly on expert interpretation of narrative reports and guideline-based reasoning.Existing data-driven or one-shot large",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I'm Sorry, but I Can't Help with Braille: Revealing Accessibility Failures in State-of-the-Art LLMs",
+      "url": "https://arxiv.org/abs/2607.11893",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11893v1 Announce Type: new \nAbstract: Large Language Models (LLMs) perform strongly on many language tasks, but their capability in structurally constrained, accessibility-critical modalities such as Braille remains unclear. We evaluate state-of-the-art LLMs on bidirectional Korean-Braill",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Graph-Based Detection of Disinformation Narrative Diffusion between Russian and Ukrainian Telegram Channels",
+      "url": "https://arxiv.org/abs/2607.11894",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11894v1 Announce Type: new \nAbstract: Detecting disinformation narratives on social media is challenging due to the scale of amplification, rapid evolution, and linguistic variability of online content. We propose a graph-based framework for identifying and analyzing disinformation narrat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TAKE: Trajectory-Aware Knowledge Estimation for Text Dataset Distillation",
+      "url": "https://arxiv.org/abs/2607.11898",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11898v1 Announce Type: new \nAbstract: Large-scale text corpora have become a quiet bottleneck in modern NLP, not just in storage, but in the accumulated cost of training, fine-tuning, and continual learning. We propose a text dataset distillation framework that reduces corpora to as littl",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Transforming LLMs into Efficient Cross-Encoders via Knowledge Distillation for RAG Reranking",
+      "url": "https://arxiv.org/abs/2607.11933",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11933v1 Announce Type: new \nAbstract: Cross-encoders achieve high reranking accuracy in Retrieval-Augmented Generation (RAG) pipelines but impose quadratic inference costs that limit real-time deployment. We address this by fine-tuning LLaMA 3 (8B) as a drop-in reranker using a two-stage ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MAGE: Understanding Stability-Performance Trade-offs in Multi-component Prompt Optimization",
+      "url": "https://arxiv.org/abs/2607.11944",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11944v1 Announce Type: new \nAbstract: How do different components of iterative prompt optimization interact, and what happens when they are combined? We investigate this through MAGE (Memory-Augmented Goal-directed Prompt Evolution), a controlled analysis framework for studying component ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Belief-reality separation lives in routing over a shared value slot in language models",
+      "url": "https://arxiv.org/abs/2607.11945",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11945v1 Announce Type: new \nAbstract: Capable language models hold what a character believes apart from what is true: told \"Anna believes the cup is blue; in reality it is red,\" they answer blue about Anna and red about the world. Where in the computation does that separation live? We sho",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hybrid Continual Learning for Low-Resource Australian Aboriginal Language Identification",
+      "url": "https://arxiv.org/abs/2607.11946",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.11946v1 Announce Type: new \nAbstract: Language identification is an important step toward integrating endangered Australian Aboriginal languages (AALs) into speech technologies supporting language revitalisation and digital inclusion. However, extreme data scarcity limits model performanc",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Codex 键盘看着还挺酷的，要是支持 Claude Code 我就买一个了😂 另外官方做的很炫酷：https://openai.com/supply/co-lab/work-louder/",
+      "url": "https://nitter.net/dotey/status/2077480706972754167#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 19:49:32 GMT",
+      "summary": "<p>Codex 键盘看着还挺酷的，要是支持 Claude Code 我就买一个了😂<br>\n<br>\n另外官方做的很炫酷：<a href=\"https://openai.com/supply/co-lab/work-louder/\">openai.com/supply/co-lab/wor…</a></p>\n<a href=\"https://nitter.net/dotey/status/2077480706972754167#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F20774804",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "转发招人，Kimi Code 的 Agent 开发岗位",
+      "url": "https://nitter.net/dotey/status/2077466036815769888#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 18:51:15 GMT",
+      "summary": "<p>转发招人，Kimi Code 的 Agent 开发岗位</p>\n<hr/>\n<blockquote>\n<b>Kai (@real_kai42)</b>\n<p>\n<p>🤠  Kimi Code也在招人，感兴趣直接发我邮箱 me@kaiyi.cool  感谢大佬们帮忙扩散 捧场</p>\n<img src=\"https://nitter.net/pic/media%2FHNSCriibkAEibXz.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNSCsZxaYAAZ-qb.jpg\" st",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "帮转招聘",
+      "url": "https://nitter.net/dotey/status/2077465512364089532#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 18:49:10 GMT",
+      "summary": "<p>帮转招聘</p>\n<hr/>\n<blockquote>\n<b>AlexZ 🦀 (@blackanger)</b>\n<p>\n<p>友情帮转，上海 KONG 放出 Rust 系统开发职位，群里小伙伴问，为什么不写薪资范围？<br>\n<br>\n我心想，这难道不是好事吗？<br>\n<br>\n你把自己的期望薪资递过去，他们给不起，那是他们的损失🤭<br>\n<br>\n—- 👇岗位要求，转需<br>\n<br>\n【友情帮转】 Rust 系统开发专家· 上海· KONG<br>\n<br>\n— <br>\n<br>\n🚀【上海·极客团队】Kong 核心团队诚招 Rust 系统级开发专家（求扩散/求推荐）<br>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: BaoCut：是宝玉老师 @dotey 开发的转录+粗剪的Skill，对创作者，省掉的是逐句抠字幕的时间。安装到 Claude Code / Codex 上，即可用自然语言驱动 BaoCut 这个 skill 剪辑 app 的命令行。 适用场景：对于喜欢将国外的演讲搬到国内的朋友来说简直就是福音，用baocut把视频/youtube的url导入即可完成翻译转录，对于搬运侠来说省了不少事。对于做跨境电商的朋友也很有价值，多语言转录也很有价值。 昨天介绍的三家接 agent 都走 MCP——ChatCut 给闭源编辑器外挂 MCP 插件、OpenCut 把 MCP 写进重写路线图、Palmier 原生 MCP。BaoCut 换了个更轻的姿势：把 app 自带的 baocut CLI 包成一个 http://skills.sh Agent Skill，agent 直接跑命令cli： · baocut --json auto talk.mp4 --lang zh # 转写 → 润色 → 翻译，一条命令 · baocut export <id> --srt --translated --lang zh BaoCut 解决的问题很垂直很精准：口播视频的转写、加字幕、翻译字幕、说话人复核、清理 talking-head、导出——这些正是知识博主/口播号最费时的机械活。以前逐句对字幕、手动翻译的活，现在跟 Claude Code 说句人话就跑完了。 我测试baocut使用了下，字幕识别转录上，要比剪映的自动字幕识别要好，帮我把相关的语气词拿掉了、很多重复的语句也直接剪掉了，也可以直接将字幕翻译为十几种其他语言。 #BaoCut #AI剪辑 #字幕翻译 #ClaudeCode #AgentSkill",
+      "url": "https://nitter.net/aigclink/status/2077335633274745263#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 10:13:04 GMT",
+      "summary": "<p>BaoCut：是宝玉老师 <a href=\"https://nitter.net/dotey\" title=\"宝玉\">@dotey</a> 开发的转录+粗剪的Skill，对创作者，省掉的是逐句抠字幕的时间。安装到 Claude Code / Codex 上，即可用自然语言驱动 BaoCut 这个 skill 剪辑 app 的命令行。<br>\n<br>\n适用场景：对于喜欢将国外的演讲搬到国内的朋友来说简直就是福音，用baocut把视频/youtube的url导入即可完成翻译转录，对于搬运侠来说省了不少事。对于做跨境电商的朋友也很有价值，多语言转录也很有价值。<br>\n<br>\n昨天介绍的三",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "今天在 ChatGPT 里面找 Codex 没找到，原来改名叫 Remote 了",
+      "url": "https://nitter.net/dotey/status/2077294450645107051#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 07:29:25 GMT",
+      "summary": "<p>今天在 ChatGPT 里面找 Codex 没找到，原来改名叫 Remote 了</p>\n<hr/>\n<blockquote>\n<b>Thomas Ricouard (@Dimillian)</b>\n<p>\n<p>Here is the latest update to Codex Remote on iOS! <br>\n<br>\nAs I posted, we now support the new visualisation feature, but there is also a ton of other improvements and fixes! <br>\n<br>\n<a h",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我在开发 BaoCut 这个 App 的时候，是基于一个 Loop 来的： 1. 在开发新功能之前先设计原型（参考图1），借助的是 baoyu-design skill （https://github.com/jimliu/baoyu-design ），配合 Claude Code App 内置的浏览器实施预览调整，模型 Opus 4.8 就很好了，都不需要 Fable 5. GPT 5.6 Sol 设计能力还是不如 Opus 4.8 2. 原型打磨好了后，只需要在同一会话内，让 Claude Code 基于新的 UI 设计去实现功能即可，这块 Claude 做的很好，Fable 5 效果最好，能将设计稿几乎 1:1 还原，如果修改不多 Opus 4.8 也能胜任。 这些 UI 的打磨我还是更放心让 Fable 和 Opus 而不是 GPT，但其他一些不涉及 UI 部分的 GPT 5.6 Sol 就做的很好。 3. 更新好了后测试没问题，就可以通过发布的 skill 发布新版本。 这里可以放心让 Codex 去做了，尤其是它的 CloudFlare Plugin 很好用，直接帮助发布更新安装包到 CF。 这个 loop 的每一个迭代的起点是自己的想法，让 AI 提供设计方案，和 AI 反复讨论后确定方案，然后 AI 实施，AI 实施完成后人再去验证和当初想要的是否一致，如果不一致再让 AI 调整甚至推翻重来。",
+      "url": "https://nitter.net/dotey/status/2077281462433223043#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 06:37:49 GMT",
+      "summary": "<p>我在开发 BaoCut 这个 App 的时候，是基于一个 Loop 来的：<br>\n<br>\n1. 在开发新功能之前先设计原型（参考图1），借助的是 baoyu-design skill （<a href=\"https://github.com/jimliu/baoyu-design\">github.com/jimliu/baoyu-desi…</a> ），配合 Claude Code App 内置的浏览器实施预览调整，模型 Opus 4.8 就很好了，都不需要 Fable 5.<br>\n<br>\nGPT 5.6 Sol 设计能力还是不如 Opus 4.8<br>\n<br>\n2. 原型打",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "这个 App 最开始是自己用的，是走的 LLM 方案，先整体翻译，然后按句子配对，再 LLM 拆分，但是拆分效果总是不理想。 另外走 LLM 还有一个问题，就是要配置 API Key，这其实对普通人不友好，另外就是成本其实不低，Gemini 3.5 Flash 一部长一点视频都几美元。 最后发现还是 Agent + Skill 路线最好： 1. Agent 有很好的纠错能力，哪怕你不给它这样的工具，它自己都能一边翻译一边纠错，质量不错。 2. 把 App 的能力封装成 cli，让 Agent 可以通过命令行调用 App 的功能 3. 配合一个 Skill 把常用的工作流比如像转录、润色、翻译、对齐、剪辑都固化下来，这样 Agent 就知道最佳实践是什么，不需要每次都自己摸索 4. App 解决的是人工预览、校对的部分。 Agent 操作完，如果你是人肉看文本字幕，或者你每次修改一点都要重新 ffmpeg 生成一遍视频，那效率太低了。最好的方式其实不是完全交给 Agent，而是可以有一个图形化的工具快速的预览、二次编辑。 5. Agent 相对比较通用和便宜，现在大家都有 Agent，包月的 Token 经常花不完，用来干这种活正合适",
+      "url": "https://nitter.net/dotey/status/2077225080027775206#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 02:53:46 GMT",
+      "summary": "<p>这个 App 最开始是自己用的，是走的 LLM 方案，先整体翻译，然后按句子配对，再 LLM 拆分，但是拆分效果总是不理想。<br>\n<br>\n另外走 LLM 还有一个问题，就是要配置 API Key，这其实对普通人不友好，另外就是成本其实不低，Gemini 3.5 Flash 一部长一点视频都几美元。<br>\n<br>\n最后发现还是 Agent + Skill 路线最好：<br>\n<br>\n1. Agent 有很好的纠错能力，哪怕你不给它这样的工具，它自己都能一边翻译一边纠错，质量不错。<br>\n<br>\n2. 把 App 的能力封装成 cli，让 Agent 可以通过命令行调用 Ap",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Codex 最新动态： 从 GPT‑5.6 与 Ultra 模式，到多智能体并行协作、计算机与浏览器操作、应用截图理解、行内代码和文档修改，再到一键发布 Sites、跨项目管理以及完整的 PR 工作流。 Codex 已不只是一个“帮你写代码”的工具，而是能够拆解复杂任务、操作和测试应用、协调多个项目、处理 Bug 与代码审查，并协助完成发布的开发伙伴。 无论你想提高日常开发效率，还是探索更自动化的 AI 编程方式，这支视频都能帮你快速掌握 Codex 的新能力和实际应用场景。 本视频由 baocut 翻译",
+      "url": "https://nitter.net/dotey/status/2077216164103487986#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 02:18:20 GMT",
+      "summary": "<p>Codex 最新动态：<br>\n<br>\n从 GPT‑5.6 与 Ultra 模式，到多智能体并行协作、计算机与浏览器操作、应用截图理解、行内代码和文档修改，再到一键发布 Sites、跨项目管理以及完整的 PR 工作流。<br>\n<br>\nCodex 已不只是一个“帮你写代码”的工具，而是能够拆解复杂任务、操作和测试应用、协调多个项目、处理 Bug 与代码审查，并协助完成发布的开发伙伴。<br>\n<br>\n无论你想提高日常开发效率，还是探索更自动化的 AI 编程方式，这支视频都能帮你快速掌握 Codex 的新能力和实际应用场景。<br>\n<br>\n本视频由 baocut 翻译</p>\n<",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: Cognition 收购 Windsurf 一周年？！ 时间过得真快，总觉得还是前几个月的事。这么说，WIndsurf 创始人加入 Google 也有一年了，可 Antigravity 好像真的没什么声音了。。。 跑题了！看看 @ScottWu46 分享的 72 小时火速收购 Windsurf 的惊心动魄的过程，和收购后这一年都发什么什么变化，不得不说，判断力、执行力，太强！ 为什么收购？ Cognition 缺 GTM，Windsurf 缺工程组织；Cognition 做云端 Agent，Windsurf 做 IDE——双方短板与长板恰好对位，产品不重叠。72 小时签约的本质，是用并购一次性补齐\"市场 + 本地开发入口\"两块拼图，把分散的 AI 编程能力收拢为一个完整栈。 收购后一年的自研模型 + 品牌统一 + 商业跃迁 · 模型：SWE-1.5 → 1.7 自研迭代，主打高效与开放评测 · 产品：Devin 从初级工程师进化为可调度其他 Devin 的中高级工程师，并以 Devin Desktop 统一所有入口，形成\"任意 Agent + 任意模型 + 任意终端\"的平台 · 商业：团队 44 → 350 人，收入 run rate $73M → $500M +，进入政府、汽车等新行业，战略定位升级为\"自动驾驶式软件开发\" https://cognition.com/blog/one-year-of-building-together",
+      "url": "https://nitter.net/shao__meng/status/2077208695893832156#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 15 Jul 2026 01:48:40 GMT",
+      "summary": "<p>Cognition 收购 Windsurf 一周年？！<br>\n<br>\n时间过得真快，总觉得还是前几个月的事。这么说，WIndsurf 创始人加入 Google 也有一年了，可 Antigravity 好像真的没什么声音了。。。<br>\n<br>\n跑题了！看看 <a href=\"https://nitter.net/ScottWu46\" title=\"Scott Wu\">@ScottWu46</a> 分享的 72 小时火速收购 Windsurf 的惊心动魄的过程，和收购后这一年都发什么什么变化，不得不说，判断力、执行力，太强！<br>\n<br>\n为什么收购？<br>\nCognition",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @NousResearch: Congratulations to all three winners, and thank you to everyone who built and submitted a project. These are exactly the kinds of agents we hoped people would build, and they showcase what we want Hermes Agent to be: a powerful, practical tool for running and growing a real business, whether you run a one-person shop or a global enterprise. If these projects inspire you to build your own, you can get started at http://hermes-agent.nousresearch.com or connect with like-minded builders in our Discord at http://discord.gg/nousresearch. Thank you to @NVIDIAAI and @stripe for sponsoring and judging with us.",
+      "url": "https://nitter.net/NousResearch/status/2077517430457602471#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 15 Jul 2026 22:15:28 GMT",
+      "summary": "<p>Congratulations to all three winners, and thank you to everyone who built and submitted a project.<br>\n<br>\nThese are exactly the kinds of agents we hoped people would build, and they showcase what we want Hermes Agent to be: a powerful, practical tool for running and growing a real business, whe",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: 🥉 3rd place: CashFromChaos, by David Diaz (@davddiazm) CashFromChaos starts from a single seller input and automates everything up until a completed sale. You send a photo and a one-line clue, and Hermes runs the whole recommerce operation: it identifies the item, asks only the critical questions, routes it to the right marketplace, sets a price, drafts the listing, negotiates with buyers, collects a Stripe-held payment, guides fulfillment, and releases the payout after delivery. Every decision stays inside an explicit CommercePolicy that defines the floor price, counter rules, and spend limits, so the agent runs the sale within bounds the seller sets. It is built on Hermes with Nemotron through Nous Portal in a Next.js app. 🏆 $2,500 cash, an NVIDIA DGX Spark, and $1,000 in Stripe credits Code: https://github.com/DavidDiazMerino/cashfromchaos https://x.com/davddiazm/status/2071613972717965775",
+      "url": "https://nitter.net/NousResearch/status/2077517426980176223#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 15 Jul 2026 22:15:27 GMT",
+      "summary": "<p>🥉 3rd place: CashFromChaos, by David Diaz (<a href=\"https://nitter.net/davddiazm\" title=\"david diaz\">@davddiazm</a>)<br>\n<br>\nCashFromChaos starts from a single seller input and automates everything up until a completed sale. You send a photo and a one-line clue, and Hermes runs the whole recomme",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: 🥈 2nd place: Mom-n-Pop Skills, by Scott Hewitson (@Hewi333) Scott built this for his mom and stepdad, who are in their 60s and run a service business with no CRM and hours of manual paperwork every day. He gave them a Hermes Agent that runs the business through Telegram, the same app they already use for messaging. The agent reads their inbox and identifies leads, runs a real pricing engine to draft estimates, and creates Stripe payment links to collect payment. The owner approves every action before anything goes out. Scott shipped a full small-business skill library covering CRM, marketing, financial analysis, and owner onboarding in about 10 days. 🏆 $5,000 cash, an NVIDIA DGX Spark, and $3,000 in Stripe credits Code: https://github.com/hewi333/Mom-n-Pop-Skills https://x.com/Hewi333/status/2072001412528034164",
+      "url": "https://nitter.net/NousResearch/status/2077517421150118214#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 15 Jul 2026 22:15:26 GMT",
+      "summary": "<p>🥈 2nd place: Mom-n-Pop Skills, by Scott Hewitson (<a href=\"https://nitter.net/Hewi333\" title=\"Hewi\">@Hewi333</a>)<br>\n<br>\nScott built this for his mom and stepdad, who are in their 60s and run a service business with no CRM and hours of manual paperwork every day. He gave them a Hermes Agent tha",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: 🥇 1st place: Custodian, by Daniel LaForce (@MHArgonaut) When an agent can spend money, something external to the agent has to decide what it is allowed to do. Custodian is a kernel that runs between the agent and real payments. The model proposes an action, the kernel approves or denies it, an operator kill switch can halt everything, and a cryptographic receipt records each decision. Custodian enforces this from outside the agent's own process, so every action an agent proposes has to clear the kernel before it runs. In the live demo it detected an agent that could rewrite its own policy file to grant itself payment authority, and it escalated that case to a human. It runs on real Stripe payments and Nemotron inference. 🏆 $10,000 cash, an NVIDIA DGX Spark, and $5,000 in Stripe credits Code: https://github.com/KeyArgo/custodian-kernel https://x.com/MHArgonaut/status/2072211648065204242",
+      "url": "https://nitter.net/NousResearch/status/2077517417425543632#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 15 Jul 2026 22:15:25 GMT",
+      "summary": "<p>🥇 1st place: Custodian, by Daniel LaForce (<a href=\"https://nitter.net/MHArgonaut\" title=\"Argonaut\">@MHArgonaut</a>)<br>\n<br>\nWhen an agent can spend money, something external to the agent has to decide what it is allowed to do. Custodian is a kernel that runs between the agent and real payments.",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "For our Accelerated Business Hackathon with @NVIDIAAI and @stripe, we asked builders to make agents that can earn, spend, and run real operations at any scale. We judged 292 excellent submissions alongside NVIDIA and Stripe, and now have our winners.",
+      "url": "https://nitter.net/NousResearch/status/2077517414464410091#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 15 Jul 2026 22:15:24 GMT",
+      "summary": "<p>For our Accelerated Business Hackathon with <a href=\"https://nitter.net/NVIDIAAI\" title=\"NVIDIA AI\">@NVIDIAAI</a> and <a href=\"https://nitter.net/stripe\" title=\"Stripe\">@stripe</a>, we asked builders to make agents that can earn, spend, and run real operations at any scale.<br>\n<br>\nWe judged 292",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: The Blender MCP is now part of the Hermes Agent MCP Catalog! Easily activate and install the Blender MCP by running `hermes mcp install blender` and ask your agent to start using blender. Hermes will then install and setup Blender with the paired skill and get you all setup! It'll also set you up more efficiently, by disabling paid extra tools the MCP comes with by default. Enjoy!",
+      "url": "https://nitter.net/Teknium/status/2077424392892731396#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Wed, 15 Jul 2026 16:05:46 GMT",
+      "summary": "<p>The Blender MCP is now part of the Hermes Agent MCP Catalog! <br>\n<br>\nEasily activate and install the Blender MCP by running `hermes mcp install blender` and ask your agent to start using blender. <br>\n<br>\nHermes will then install and setup Blender with the paired skill and get you all setup! <",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Prior to today, tool calls would work in parallel only if all were safe to parallelize. Now you gain big speedups for parallel tool calls so long as any subset are parallelizable. Check it out",
+      "url": "https://nitter.net/Teknium/status/2077132644979200150#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Tue, 14 Jul 2026 20:46:28 GMT",
+      "summary": "<p>Prior to today, tool calls would work in parallel only if all were safe to parallelize. Now you gain big speedups for parallel tool calls so long as any subset are parallelizable.<br>\n<br>\nCheck it out</p>\n<img src=\"https://nitter.net/pic/media%2FHNN02sXaEAAmxEi.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
