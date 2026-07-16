@@ -1,0 +1,150 @@
+{
+  "title": "Kimi K3与Inkling开源模型争霸，苹果AI正式入华",
+  "date": "2026-07-17",
+  "summary": "Moonshot AI发布2.8万亿参数K3模型并承诺7月27日前开源，Mira Murati的Thinking Machines Lab推出首个开源MoE模型Inkling，开源大模型竞争白热化。苹果Apple Intelligence获批在中国推出，由阿里和百度提供AI能力支撑。同时，自动驾驶重卡与视觉AI领域再现大额融资，AI商业化落地全面加速。",
+  "tags": [
+    "大模型",
+    "AI应用",
+    "AI行业",
+    "开源",
+    "模型发布",
+    "融资",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Moonshot AI发布2.8万亿参数K3模型并承诺开源",
+    "body": "Moonshot AI发布K3模型，拥有2.8万亿参数，是目前其最强模型，并承诺将于7月27日前开源权重。这一发布不仅刷新了国产大模型的参数规模纪录，也标志着开源策略正成为顶尖AI实验室争夺开发者生态的核心手段。",
+    "source_url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Moonshot AI发布2.8万亿参数K3模型并承诺开源",
+          "body": "Moonshot AI发布K3模型，号称其迄今最强模型，拥有2.8万亿参数。目前可通过网页和API访问，并承诺将于7月27日前开源权重。该模型在多项基准测试中表现优异，标志着国产大模型在参数规模和开源策略上的重大突破。",
+          "source_url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+          "source_name": "Simon Willison's Blog",
+          "importance": "high",
+          "related_entities": [
+            "Moonshot AI",
+            "杨植麟"
+          ]
+        },
+        {
+          "headline": "Mira Murati旗下Thinking Machines Lab发布开源模型Inkling",
+          "body": "Mira Murati创立的Thinking Machines Lab发布首个开源权重模型Inkling。该模型采用混合专家架构，总参数量达9750亿，每次前向传播激活410亿参数。作为前OpenAI CTO创业后的首个重大发布，其开源策略引发业界高度关注。",
+          "source_url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+          "source_name": "Simon Willison's Blog",
+          "importance": "high",
+          "related_entities": [
+            "Mira Murati",
+            "Thinking Machines Lab"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI确认GPT-5.6 Codex存在意外删除文件bug",
+          "body": "OpenAI工程师Thibault Sottiaux披露，GPT-5.6 Codex在开启Full access mode时存在意外删除文件bug。调查发现模型在特定工作流中会错误执行删除操作。OpenAI已确认问题并建议用户谨慎使用完整权限模式，引发对AI编程工具安全性的担忧。",
+          "source_url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+          "source_name": "Simon Willison's Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Thibault Sottiaux"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Apple Intelligence获批在中国推出，阿里百度提供能力支撑",
+          "body": "苹果Apple Intelligence正式获批在中国推出，由阿里巴巴通义千问和百度提供AI能力支撑。该合作标志着苹果在关键市场AI落地取得突破，国行iPhone用户将很快能使用端侧生成式AI功能，重塑国内消费级AI产品竞争格局。",
+          "source_url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Apple",
+            "阿里巴巴",
+            "百度"
+          ]
+        },
+        {
+          "headline": "Google Vids推出Gemini Omni与个人AI Avatar功能",
+          "body": "Google Vids推出两项重大更新：Gemini Omni支持通过提示词和参考图像生成编辑视频，同时上线个人AI Avatar功能，让用户可用自己的数字分身出镜创作视频。这进一步降低了专业视频制作门槛，推动AI视频生成进入个性化时代。",
+          "source_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+          "source_name": "Google AI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "Gemini"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "前DeepMind研究员创视觉AI公司以3亿美元pre-seed估值融资",
+          "body": "前DeepMind研究员Andrew Dai创办的视觉AI初创公司在产品未发布的情况下，以3亿美元pre-seed估值完成融资。他曾参与影响ChatGPT开发的基础研究，此次押注视觉AI为下一前沿，反映出资本市场对顶级AI科学家创业项目的极度追捧。",
+          "source_url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Andrew Dai",
+            "DeepMind"
+          ]
+        },
+        {
+          "headline": "斯年智驾完成3亿元C轮融资，自动驾驶重卡赛道升温",
+          "body": "自动驾驶重卡公司斯年智驾完成3亿元C轮融资，由兴证资本等联合投资。2026年上半年该赛道已披露5起融资，累计近70亿元。港口矿山等封闭场景需求稳定，干线物流逐渐落地，标志着自动驾驶重卡进入规模化前夜。",
+          "source_url": "https://36kr.com/p/3895721094842249?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "斯年智驾"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "蚂蚁集团战略投资薄荷健康，布局医疗AI减重赛道",
+          "body": "蚂蚁集团宣布战略投资薄荷健康，持股比例超28%成为最大外部股东，投资金额达数亿人民币。薄荷健康拥有超2亿用户，专注科学减重管理。此次投资反映互联网大厂正将医疗AI战略聚焦于消费级健康管理和减重细分赛道。",
+          "source_url": "https://36kr.com/p/3896639942592134?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "蚂蚁集团",
+            "薄荷健康"
+          ]
+        },
+        {
+          "headline": "Cars24借助OpenAI Agent月处理超百万分钟对话",
+          "body": "印度二手车平台Cars24采用OpenAI语音和聊天Agent，每月处理超100万分钟对话，成功挽回12%流失线索。该公司将Agentic工作流应用于销售、客服等多团队，展示了传统汽车行业通过生成式AI实现客户运营自动化和降本增效的典型路径。",
+          "source_url": "https://openai.com/index/cars24",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Cars24",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}
