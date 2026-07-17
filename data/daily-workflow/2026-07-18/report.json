@@ -1,0 +1,137 @@
+{
+  "title": "OpenAI推出AI ROI评分卡，Databricks估值达1880亿美元",
+  "date": "2026-07-18",
+  "summary": "今日AI领域两大焦点：OpenAI CFO Sarah Friar发布实用AI评分卡，帮助企业衡量AI投资回报率；Databricks完成新一轮融资，估值飙升至1880亿美元，成为AI基础设施领域最受瞩目的独角兽。同时，苹果对OpenAI提起商业秘密诉讼，指控其挖角超400名前员工，可能波及OpenAI IPO计划。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "企业AI转型",
+    "融资",
+    "开源",
+    "芯片",
+    "机器人"
+  ],
+  "highlight": {
+    "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+    "body": "Databricks估值达到1880亿美元，成功从数据平台转型为AI公司，并发布了关于开源权重AI模型在编码场景下成本节约的研究。这一估值反映了企业级AI基础设施市场的强劲需求，以及开源模型在企业部署中的经济优势。",
+    "source_url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布AI时代评分卡，定义企业AI投资回报率衡量标准",
+          "body": "OpenAI CFO Sarah Friar发布了一套实用AI评分卡，从四个维度衡量AI价值：有用工作量、单次成功任务成本、可靠性以及计算投资回报率。这是OpenAI首次系统化回应企业客户关于AI ROI的诉求，标志着大模型商业化从\"技术展示\"进入\"价值验证\"阶段。该框架可能成为全球企业AI采购和内部评估的基准参考。",
+          "source_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sarah Friar",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Hugging Face与NVIDIA联合推出NeMo Automodel，支持大规模视频图像模型微调",
+          "body": "Hugging Face与NVIDIA合作发布NeMo Automodel工具，结合Diffusers库实现大规模视频和图像模型的高效微调。这一技术方案降低了多模态模型定制化的门槛，使企业能够基于自有数据快速构建垂直领域视觉AI应用，反映了AI基础设施层持续向\"易用性\"和\"规模化\"演进。",
+          "source_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "NVIDIA",
+            "Hugging Face",
+            "Diffusers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": false,
+      "items": []
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "苹果起诉OpenAI窃取商业秘密，或 disrupt IPO计划",
+          "body": "苹果上周五对OpenAI提起商业秘密诉讼，指控其系统性不当行为，涉及OpenAI首席硬件官，并声称超过400名前苹果员工现就职于OpenAI。此案可能严重干扰OpenAI的IPO计划，也反映了AI人才战中巨头间的激烈竞争和法律风险。",
+          "source_url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "source_name": "TechCrunch AI",
+          "importance": "high",
+          "related_entities": [
+            "Apple",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Vertu推出6880美元高端AI Agent手机，瞄准企业高管市场",
+          "body": "奢侈手机品牌Vertu发布定价6880美元的折叠AI Agent手机，试图以\"奢侈品+AI\"的差异化定位切入企业高管市场。TechCrunch实测显示其在AI工作流、电池续航和安全性方面表现参差不齐，折射出消费级AI硬件在高端市场的探索与困境。",
+          "source_url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "source_name": "TechCrunch AI",
+          "importance": "medium",
+          "related_entities": [
+            "Vertu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Databricks估值达1880亿美元，开源AI模型成本优势获验证",
+          "body": "Databricks完成新一轮融资，估值飙升至1880亿美元。公司成功从数据平台转型为AI企业，并发布研究证明开源权重AI模型在编码场景下的显著成本节约。这一定价反映了企业级AI基础设施的强劲需求，也标志着开源模型商业化路径的成熟。",
+          "source_url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source_name": "TechCrunch AI",
+          "importance": "high",
+          "related_entities": [
+            "Databricks"
+          ]
+        },
+        {
+          "headline": "4亿美元芯片支持贷款指向推理芯片新赛道，GPU金融家转向AI基础设施下一阶段",
+          "body": "一笔4亿美元的芯片支持贷款揭示了AI基础设施投资的新趋势：早期GPU金融家正转向推理芯片领域。这标志着AI算力投资从训练阶段向推理阶段转移，推理优化和专用芯片将成为下一阶段基础设施竞争的核心战场。",
+          "source_url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+          "source_name": "TechCrunch AI",
+          "importance": "high",
+          "related_entities": [
+            "NVIDIA",
+            "推理芯片"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
+          "body": "WAIC 2026上，商汤大装置发布算电协同Agent，通过智能调度和能源优化，实现单位电力成本下Token产出提升80%。这一创新直击AI算力成本与能耗痛点，为大模型规模化部署提供了可持续的能效解决方案，也体现了中国AI企业在绿色计算领域的探索。",
+          "source_url": "https://www.qbitai.com/2026/07/453211.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "商汤科技",
+            "WAIC"
+          ]
+        },
+        {
+          "headline": "阿里1688将推出AI时代B2B交易互联互通开放标准",
+          "body": "阿里1688宣布将推出AI时代B2B交易互联互通开放标准，旨在打通产业链上下游的AI化协作。这一举措有望降低中小企业接入AI工具的门槛，推动B2B电商从信息撮合向智能交易转型，是阿里巴巴在企业服务领域AI战略的重要落子。",
+          "source_url": "https://36kr.com/p/3896564485572489?f=rss",
+          "source_name": "36氪 AI",
+          "importance": "medium",
+          "related_entities": [
+            "阿里巴巴",
+            "1688"
+          ]
+        }
+      ]
+    }
+  ]
+}
