@@ -1,0 +1,160 @@
+{
+  "title": "GPT-5.6破解凸优化30年难题，智谱ARR破10亿美元，WAIC密集发布产业动态",
+  "date": "2026-07-19",
+  "summary": "今日，GPT-5.6被曝通过单一prompt攻克凸优化30年难题，彰显大模型数学推理能力再突破；国产大模型商业化提速，智谱AI年化收入达10亿美元，DeepSeek估值高达3500亿元。同时，WAIC 2026在上海密集发布机器人、智算集群与端侧芯片等多项产业动态，AI落地进入规模化阶段。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "融资",
+    "开源",
+    "Agent",
+    "芯片",
+    "机器人",
+    "热点"
+  ],
+  "highlight": {
+    "title": "GPT-5.6用单一prompt关闭凸优化30年理论缺口",
+    "body": "GPT-5.6通过单一prompt在凸优化领域实现突破，延续了OpenAI近期在数学证明方面的进展。这代表大模型高级抽象推理能力边界再次被拓宽，对学术研究和工程优化具有深远意义。",
+    "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GPT-5.6凭单一prompt攻克凸优化30年难题",
+          "body": "GPT-5.6通过单一提示词在凸优化领域实现突破，关闭了长达30年的理论缺口。此前OpenAI刚宣布CDC证明进展，此次再次展示大模型在高级数学推理上的潜力，引发学术与工程社区对模型能力边界的激烈讨论。",
+          "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "source_name": "Hacker News (API)",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "DeepSeek 3500亿元估值被安徽箱包公司关联交易披露",
+          "body": "量子位报道，一家安徽箱包公司披露文件意外暴露DeepSeek高达3500亿元估值。该数字折射国产大模型头部企业在资本市场上的极高认可度，也让外界得以窥见AI独角兽Pre-IPO阶段的估值逻辑与关联方交易细节。",
+          "source_url": "https://www.qbitai.com/2026/07/453641.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "DeepSeek",
+            "梁文锋"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic将Claude Fable 5永久纳入付费订阅计划",
+          "body": "Simon Willison援引Anthropic官方称，自7月20日起Claude Fable 5将永久纳入Max和Team Premium计划，并以五折优惠提供。这标志着Anthropic将实验性编程Agent正式产品化，进一步加码AI Coding赛道商业化。",
+          "source_url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+          "source_name": "Simon Willison (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        {
+          "headline": "开发者发布Claude Code控制备用Mac的详细指南",
+          "body": "开发者ykdojo发布教程，介绍如何将闲置Mac配置为受Claude Code控制的开发环境。该指南在Hacker News获158点热度，反映社区对AI Agent直接操控本地硬件、实现端到端自主编程工作流的高度兴趣。",
+          "source_url": "https://ykdojo.github.io/claude-controls-mac/",
+          "source_name": "Hacker News (API)",
+          "importance": "medium",
+          "related_entities": [
+            "Claude Code",
+            "Anthropic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "万兴科技Filmora.AI与Virbo AI亮相WAIC 2026",
+          "body": "量子位报道，万兴科技在WAIC 2026首次展示万兴剧厂“无限画布”、Filmora.AI及Virbo AI等新品。公司在视频生成与数字人领域的密集发布，显示AIGC工具正从单点功能向完整创意工作流快速演进。",
+          "source_url": "https://www.qbitai.com/2026/07/454015.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "万兴科技"
+          ]
+        },
+        {
+          "headline": "TechCrunch称Moonshot AI新版Kimi引发“AI共产主义”担忧",
+          "body": "TechCrunch报道，Moonshot AI发布新版Kimi后，部分评论以“full AI communism”形容中国AI模型的开源与低价策略。该报道折射出国际市场对中国大模型快速迭代及全球竞争格局变化的敏感与焦虑。",
+          "source_url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "source_name": "TechCrunch AI (RSS)",
+          "importance": "medium",
+          "related_entities": [
+            "Moonshot AI",
+            "Kimi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "智谱AI年化收入达10亿美元，半年增长15倍",
+          "body": "36氪报道，智谱AI年化收入（ARR）达10亿美元，半年增长15倍；同篇报道还提及月之暗面推出开源模型Kimi K3。智谱商业化跃迁标志国产大模型从技术竞赛进入规模化营收阶段。",
+          "source_url": "https://36kr.com/p/3900449325287305?f=rss",
+          "source_name": "36氪 AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "智谱AI",
+            "月之暗面"
+          ]
+        },
+        {
+          "headline": "商汤发起“银河计划”共建5个万卡级国产智算集群",
+          "body": "量子位报道，商汤大装置联合近20家伙伴发起“银河计划”，拟共建5个万卡级国产智算集群。该计划旨在加速国产算力从“落地可用”到“规模化盈利”的跨越，对缓解训练算力紧缺具有战略意义。",
+          "source_url": "https://www.qbitai.com/2026/07/453697.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "商汤科技"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "滴滴在WAIC展示AI升级出行服务实践",
+          "body": "据量子位报道，滴滴在WAIC 2026分享利用AI升级出行体验的经验。作为传统出行平台数字化转型代表，滴滴案例显示AI正渗透调度、客服、安全等核心运营环节，推动线下服务行业智能化重构。",
+          "source_url": "https://www.qbitai.com/2026/07/454003.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "滴滴"
+          ]
+        },
+        {
+          "headline": "海亮科服入选WAIC AI商业落地产业图谱Top50",
+          "body": "量子位报道，WAIC 2026发布AI商业落地报告，海亮科服同时入选产业图谱与Top50榜单。该评选聚焦AI在实体经济中的商业闭环能力，反映教育等传统行业借助AI实现服务升级的趋势正在加速。",
+          "source_url": "https://www.qbitai.com/2026/07/453889.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "海亮科服"
+          ]
+        }
+      ]
+    }
+  ]
+}
