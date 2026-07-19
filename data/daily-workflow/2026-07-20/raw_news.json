@@ -1,0 +1,581 @@
+{
+  "date": "2026-07-20",
+  "collected_at": "2026-07-19T23:15:27.792666+00:00",
+  "item_count": 47,
+  "items": [
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-19T05:06:21+00:00",
+      "summary": "<p><strong><a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/\">AI Mania Is Eviscerating Global Decision-Making</a></strong></p>\nHere's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-19T03:54:09+00:00",
+      "summary": "<p>In <a href=\"https://bun.com/blog/bun-in-rust\">Rewriting Bun in Rust</a> Jarred Sumner made the following claim:</p>\n<blockquote>\n<p>Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good.</",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-19T13:35:54-04:00",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.2 is 35% off via Novita on AI Gateway",
+      "url": "https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-17T00:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Optimized CDN caching and deploying of immutable static assets",
+      "url": "https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Plugin now available in Kimi Code CLI",
+      "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds native Slack agent support",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Speechify serves 500,000 dynamic pages to 60 million users on Vercel",
+      "url": "https://vercel.com/blog/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-15T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "冷门的哲学，成了“治”AI的热门",
+      "url": "https://www.qbitai.com/2026/07/455041.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 12:34:01 +0000",
+      "summary": "智能进了社会，治理不能慢半拍",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "围观WAIC模型「读心术」！现场火火火火火",
+      "url": "https://www.qbitai.com/2026/07/455031.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 11:55:52 +0000",
+      "summary": "主观世界模型",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
+      "url": "https://www.qbitai.com/2026/07/454932.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 11:50:28 +0000",
+      "summary": "奇异摩尔首次亮相WAIC 2026",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
+      "url": "https://www.qbitai.com/2026/07/454802.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 11:43:25 +0000",
+      "summary": "还得是AI圈春晚",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
+      "url": "https://www.qbitai.com/2026/07/454791.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 11:24:04 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
+      "url": "https://www.qbitai.com/2026/07/454774.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 11:01:00 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "商汤大装置与国信数算达成战略合作，共建全国一体化算力网试验场",
+      "url": "https://www.qbitai.com/2026/07/454771.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 09:40:18 +0000",
+      "summary": "极响应全国一体化算力网建设部署",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac",
+      "url": "https://www.qbitai.com/2026/07/454689.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 09:39:02 +0000",
+      "summary": "黎曼动力正式发布Rienmann-1.0",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "看了20万小时「人类干活实录」，机器人悟了",
+      "url": "https://www.qbitai.com/2026/07/454592.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 08:32:36 +0000",
+      "summary": "黎曼动力正式发布Riemann-1.0",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
+      "url": "https://www.qbitai.com/2026/07/454441.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 19 Jul 2026 07:00:47 +0000",
+      "summary": "Harness本身也可以被搜索、验证和迭代",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+      "url": "https://36kr.com/p/3902428274427525?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-19 18:35:30  +0800",
+      "summary": "<p>在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"3004,1684\" src=\"https://img.36krcdn.com/hsossms/20260719/v2_85bdc624ce684fc98a9d450b4b2090e5@517825446_oswg7073557oswg3004oswg1684_img_png?x-oss-process=image/qua",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+      "url": "https://36kr.com/p/3896564485572489?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 21:01:42  +0800",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3899467569104512\"><strong>成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验</strong></a></p>\n  <p>36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+      "url": "https://36kr.com/p/3899556701128578?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 18:51:22  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1212,810\" src=\"https://img.36krcdn.com/hsossms/20260717/v2_605a8a8a4b8640158de83a7aa88b025f@6381723_oswg84170oswg1212oswg810_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p><strong>7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+      "url": "https://36kr.com/p/3899597215745664?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 18:45:58  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,480\" src=\"https://img.36krcdn.com/hsossms/20260717/v2_11cad3dae776450b9505ddcb5be2a14b@5889148_oswg528857oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>人工智能正在进入一个新的产业周期。</p>\n  <p>过去一年，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+      "url": "https://36kr.com/p/3899439565325953?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 15:55:26  +0800",
+      "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试平台，可同步完",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我们有多久，没长久地喜欢过一个东西了？",
+      "url": "https://36kr.com/p/3899428949132932?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 15:46:38  +0800",
+      "summary": "<p>我们有多久没有长久地喜欢过一个东西了？</p>\n  <p>在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。</p>\n  <p>但在这个热闹又健忘的环境里，却存在着反常的例外——<strong>一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。 &nbsp;</strong></p>\n  <p>为什么不同年龄、不同背景的人，都愿意和她建立情感链接？为什么每个人眼里的她，好像都不太一样，却又都觉得她始终陪伴着自己？</p>\n  <p><strong",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
+      "url": "https://36kr.com/p/3899398088509319?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 15:13:05  +0800",
+      "summary": "<p>[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（&lt;20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已经从5G-A全城点亮迈向全域大上行的发展新阶段。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1990,660\" src=\"htt",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发",
+      "url": "https://36kr.com/p/3898476192941697?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-17 13:41:21  +0800",
+      "summary": "<p>36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。</p>\n  <p>本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。</p>\n  <p>震业新材告诉36氪：“在ADI行业，1200MPa抗拉强度、4%延伸率是行业通用性能标准。延伸率达到5%~6%以上，才算真正意义的高韧性结构材料，这也是行业关键技术分水岭，高强韧性可满足齿轮、底盘、重载传动等核心安全件的抗冲击、抗疲劳、不断裂要求。”</p>\n  <p>而行业主流厂商的技术水",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 我不认同，这是典型的唯参数论。忽略了模型厂商的战略眼光、模型训练对用户体验的供给以及模型使用人口变迁。 Kimi K3 标注是 Opus 4.8 级别，我个人体验下来其实是基于它的木桶短板标的，而它的长板完全可及 Fable 5。Kimi K3 在长尾数据的训练上面并没有 Fable 5 训练得那么全，会导致在多轮对话的任务中失败一次，然后次次修补，进入一个很差的体验。这和 Opus 4.8 的体验完全一致。 而 2026 年中的顶规模型可以保证状态一直在线。首先 Fable 5 的长尾数据训练非常全面。然后 Fable 5 的急剧性能衰减需要到达上下文长度的 80% 到 90% 才会出现。而 Kimi K3 基本在 40-50% 时就能感受到性能衰减。 上述 Fable 5 的优势对于整体体验来说提升的不只是一点两点，而是四五倍的提升——因为每一步有 5% 的任务失败概率，那么 10 步都成功的概率仅为 60%；而把每一步的失败概率消除一半，那么 10 步都成功的概率将提升至 78%。这个提升对于长程任务来说只会更夸张，比如放大到 50 步则可以将成功率提升接近 4 倍。 这就是 Fable 5 对于从事从 0 到 1 创新的工作者来说体验非常棒的原因——因为从 0 到 1 不可能 one-shot、也极有可能进入数据训练盲区。 那为什么大家会觉得 Kimi K3 好？是因为它的 one-shot 能力真的很强。而 one shot 成功自然会带来成就感。 而早在移动互联网开始时，很多人争相阅读的 Emotional Design 中就强调过「成就感」对用户体验带来的提升。Frog Design 的创始人 Hartmut Esslinger 也提出过 \"Forms follow emotion（形式追随情绪）\" 的设计原则。 所谓「形式追随情绪」就是让情绪成为恰到好处的功能装置。而大部分用户想用最快的速度搞点东西出来，那极高的 one shot 成功率带来的极高情绪满足就是最好的功能装置。 但 one shot 很多 AI IDE 在 2025 年就能做到，为什么 2025 年它的传播效应没有这么高，而 2026 年可以？ 这是因为用户人群发生了改变。在 2025 年的主要适用人群——专业开发者看来，one-shot 能力是非常鸡肋的，因为我们要对工程细节进行打磨。但是 2026 年更多非程序员群体以办公人群的身份加入，导致评价标准发生了变化。 就像在移动互联网时代我们不能说：对于普通人来说想处理照片 Lightroom 足够了，没有必要购入 Photoshop。因为对于普通人来说真正合适的是美图秀秀、醒图、各种风格化相机。 可以说月之暗面在模型训练方面押注前端 one-shot 能力确实是一手好棋。 当然，这些用户会成长，会想做一些个性化的改动、会有创造新东西的需求。最后还是会碰到长 K3 上下文性能衰减和长尾数据不全面的短板。不过我想国产开源大模型应该已经有了第一批国内原住民——这些人没有用过美国头部两家的模型，在他们眼里，Kimi 就是最好的。",
+      "url": "https://nitter.net/realWeZZard/status/2078818071549260005#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 19 Jul 2026 12:23:45 GMT",
+      "summary": "<p>我不认同，这是典型的唯参数论。忽略了模型厂商的战略眼光、模型训练对用户体验的供给以及模型使用人口变迁。<br>\n<br>\nKimi K3 标注是 Opus 4.8 级别，我个人体验下来其实是基于它的木桶短板标的，而它的长板完全可及 Fable 5。Kimi K3 在长尾数据的训练上面并没有 Fable 5 训练得那么全，会导致在多轮对话的任务中失败一次，然后次次修补，进入一个很差的体验。这和 Opus 4.8 的体验完全一致。<br>\n<br>\n而 2026 年中的顶规模型可以保证状态一直在线。首先 Fable 5 的长尾数据训练非常全面。然后 Fable 5 的急剧性能衰减需要到达上下",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "FDE 就是模型公司的阳谋：先让人去帮企业落地 Agent 卖 Token，把企业知识沉淀成 Skills，然后把这些 Skills 内化到模型。 接下来企业就不需要那么多人了，如果因为效率提升带来了业务的拓展，那皆大欢喜，如果业务并没有拓展，那就只有财源广进降本增效了。 未来各行各业都要被 AI 卷了，懂 AI 的软件工程师反而因为 FDE 还能苟延残喘一段。 AI 能力越强竟然越来越有些悲观，虽然未来是美好的，但转型过程中是残酷的。",
+      "url": "https://nitter.net/dotey/status/2078869237796352062#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 19 Jul 2026 15:47:04 GMT",
+      "summary": "<p>FDE 就是模型公司的阳谋：先让人去帮企业落地 Agent 卖 Token，把企业知识沉淀成 Skills，然后把这些 Skills 内化到模型。<br>\n<br>\n接下来企业就不需要那么多人了，如果因为效率提升带来了业务的拓展，那皆大欢喜，如果业务并没有拓展，那就只有财源广进降本增效了。<br>\n<br>\n未来各行各业都要被 AI 卷了，懂 AI 的软件工程师反而因为 FDE 还能苟延残喘一段。<br>\n<br>\nAI 能力越强竟然越来越有些悲观，虽然未来是美好的，但转型过程中是残酷的。</p>\n<hr/>\n<blockquote>\n<b>泊舟 (@bozhou_ai)</b>\n<p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 想看阿拉伯语区的 AI/BI/独立开发者/跨境人在讨论什么热点，想知道他们为什么动不动会有千万阅读的爆品 来嘛，一条Youtube URL发给 BaoCut Skill, Codex / Claude 愉快地帮你把视频转录成亲切的中文。想怎么拉片就怎么拉 借助 BaoCut 我已经把视野锚向了星辰大海，德语，西语，阿根廷语。。。 这特么才叫“出海”啊",
+      "url": "https://nitter.net/huangyun_122/status/2078811915401547998#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 19 Jul 2026 11:59:17 GMT",
+      "summary": "<p>想看阿拉伯语区的 AI/BI/独立开发者/跨境人在讨论什么热点，想知道他们为什么动不动会有千万阅读的爆品<br>\n<br>\n来嘛，一条Youtube URL发给 BaoCut Skill, Codex / Claude 愉快地帮你把视频转录成亲切的中文。想怎么拉片就怎么拉<br>\n<br>\n借助 BaoCut 我已经把视野锚向了星辰大海，德语，西语，阿根廷语。。。 <br>\n<br>\n这特么才叫“出海”啊</p>\n<a href=\"https://nitter.net/huangyun_122/status/2078811915401547998#m\">\n<br>Video<br>\n  ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 更多细节介绍",
+      "url": "https://nitter.net/dotey/status/2078734362447581477#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 19 Jul 2026 06:51:07 GMT",
+      "summary": "<p>更多细节介绍</p>\n<hr/>\n<blockquote>\n<b>Feiteng (@FeitengLi)</b>\n<p>\n<p>OpenMOSS 开源 MOSS-Transcribe-Diarize-0.9B，多人长音频转写一次搞定「说了什么、谁说的、何时说的」。<br>\n<br>\n0.9B 参数，128K 上下文，最长约 90 分钟音频一次喂进去，不切片不拼接。<br>\n<br>\n4090 单卡，RTF 0.017，5–10 分钟录音 30 秒转完。<br>\n<br>\n架构是 Whisper-Medium 编码器 + Qwen3-0.6B 风格 decoder，端到端一个自回归任务全",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "今天给 BaoCut 集成了 OpenMOSS 开源的 MOSS-Transcribe-Diarize-0.9B，能够一次性将长音频转换为结构化、带说话人标注的转写结果。 它有点好就是不需要专门的发言人识别模型，直接输出带精确时间戳、发言人的时间对齐文本。 转录速度比 qwen3-asr-0.6b 要慢些，不支持标点符号，似乎自定义 Prompt 与热词没有起作用。 项目地址：https://github.com/OpenMOSS/MOSS-Transcribe-Diarize/blob/main/README_zh.md",
+      "url": "https://nitter.net/dotey/status/2078733650770715130#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 19 Jul 2026 06:48:18 GMT",
+      "summary": "<p>今天给 BaoCut 集成了 OpenMOSS 开源的 MOSS-Transcribe-Diarize-0.9B，能够一次性将长音频转换为结构化、带说话人标注的转写结果。<br>\n<br>\n它有点好就是不需要专门的发言人识别模型，直接输出带精确时间戳、发言人的时间对齐文本。<br>\n<br>\n转录速度比 qwen3-asr-0.6b 要慢些，不支持标点符号，似乎自定义 Prompt 与热词没有起作用。<br>\n<br>\n项目地址：<a href=\"https://github.com/OpenMOSS/MOSS-Transcribe-Diarize/blob/main/README_zh",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Hermes Agent spawns async subagents, but there isn't a lot of access to know whats going on with them while they are detached. Hermes can now probe and read whatever it is doing with timestamps at any time to check in on it, make sure its still going in the right direction, and shut it down if things go wrong. Super useful for long running subagent tasks and likely a lot more!",
+      "url": "https://nitter.net/Teknium/status/2078919600746660173#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 19 Jul 2026 19:07:11 GMT",
+      "summary": "<p>Hermes Agent spawns async subagents, but there isn't a lot of access to know whats going on with them while they are detached.<br>\n<br>\nHermes can now probe and read whatever it is doing with timestamps at any time to check in on it, make sure its still going in the right direction, and shut it d",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Markdown streaming in @NousResearch TUI never drops a frame now!",
+      "url": "https://nitter.net/imbabybrooklyn/status/2078686371573571817#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 19 Jul 2026 03:40:25 GMT",
+      "summary": "<p>Markdown streaming in <a href=\"https://nitter.net/NousResearch\" title=\"Nous Research\">@NousResearch</a> TUI never drops a frame now!</p>\n<video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHNj2omDWoAA1YrD.jpg\" autoplay muted loop style=\"max-width:250px;\">\n  <source src=\"https://nitter.net/p",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found (135pts)",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T21:18:10Z",
+      "summary": "HN热度: 135分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand (179pts)",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T16:02:25Z",
+      "summary": "HN热度: 179分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated (52pts)",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T08:00:24Z",
+      "summary": "HN热度: 52分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making (376pts)",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T01:29:19Z",
+      "summary": "HN热度: 376分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings (560pts)",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-18T22:13:39Z",
+      "summary": "HN热度: 560分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves (61pts)",
+      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T05:07:08Z",
+      "summary": "HN热度: 61分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV (58pts)",
+      "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T19:27:16Z",
+      "summary": "HN热度: 58分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s (1175pts)",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T14:41:16Z",
+      "summary": "HN热度: 1175分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k (284pts)",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T07:54:39Z",
+      "summary": "HN热度: 284分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV (321pts)",
+      "url": "https://github.com/stupside/castor",
+      "source": "Hacker News (API)",
+      "published": "2026-07-19T00:59:55Z",
+      "summary": "HN热度: 321分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
