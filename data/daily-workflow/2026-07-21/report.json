@@ -1,0 +1,161 @@
+{
+  "title": "中国AI模型密集发布冲击硅谷，OpenAI与Google加速布局安全与芯片",
+  "date": "2026-07-21",
+  "summary": "今日AI领域两大主线：一是中国AI力量集中爆发，Moonshot Kimi K3与阿里巴巴Qwen新模型以极低成本对标OpenAI和Anthropic，引发\"中国模型威胁论\"与开源策略大讨论；二是OpenAI发布长周期模型安全报告，Google自研AI芯片提升Gemini效率，头部厂商在模型能力与安全基础设施上同步加码。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "AI应用",
+    "开源",
+    "安全",
+    "芯片",
+    "Agent"
+  ],
+  "highlight": {
+    "title": "China delivers a one-two punch to America's AI dominance",
+    "body": "Moonshot与阿里巴巴同日发布新模型，声称以远低于美国对手的成本实现同等性能，直接挑战OpenAI和Anthropic的技术领导地位。The Verge将此定义为对美国AI主导权的\"双重打击\"，标志着全球AI竞争进入新阶段。",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布长周期模型安全与对齐研究报告",
+          "body": "OpenAI发布《Safety and alignment in an era of long-horizon models》报告，系统总结长期运行AI模型的部署经验，揭示新型安全风险、已观察到的故障模式，并通过迭代部署改进防护措施。这标志着OpenAI将安全研究从理论转向实践验证，为行业提供长周期模型治理参考框架。",
+          "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Jan Leike"
+          ]
+        },
+        {
+          "headline": "NVIDIA发布Cosmos 3 Edge边缘世界模型",
+          "body": "NVIDIA在Hugging Face发布Cosmos 3 Edge，专为边缘计算优化的世界模型，支持实时物理仿真与视觉理解。该模型延续Jim Fan主导的Physical AI战略，将世界模型能力从云端下沉到终端设备，为自动驾驶、机器人等场景提供低延迟推理基础。",
+          "source_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source_name": "Hugging Face Blog",
+          "importance": "high",
+          "related_entities": [
+            "NVIDIA",
+            "Jim Fan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simon Willison：逆向工程因AI Agent变得极其廉价",
+          "body": "Simon Willison观察到，编程Agent正大幅降低逆向工程成本——用户无需深入理解协议细节即可自动化控制家用设备。这一趋势印证了Kent Beck提出的\"AI让编程从专业技能变为通用工具\"判断，同时也引发对安全边界模糊化的担忧。",
+          "source_url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+          "source_name": "Simon Willison Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "Kent Beck"
+          ]
+        },
+        {
+          "headline": "Sam Altman透露OpenAI开源策略新动向",
+          "body": "Sam Altman在内部沟通中透露，OpenAI计划发布一个\"能力约等于o3-mini\"的开源模型，并将在董事会讨论开源战略。Simon Willison转载此消息时指出，这与OpenAI近期呼吁限制中国开源模型的立场形成微妙反差。",
+          "source_url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+          "source_name": "Simon Willison Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Sam Altman",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Adobe Indigo相机应用全面拥抱生成式AI",
+          "body": "Adobe实验性相机应用Indigo从\"自然单反风格\"转向集成生成式AI工具，新增AI照片点评、背景移除等功能。这标志着Adobe将Firefly技术从专业软件向消费级场景渗透，与苹果、谷歌的手机摄影AI形成直接竞争。",
+          "source_url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Adobe"
+          ]
+        },
+        {
+          "headline": "腾讯云ADP 4.0海外版发布，企业级Agent平台出海",
+          "body": "腾讯云在世界人工智能大会发布智能体开发平台ADP 4.0海外版，升级智能工作台、Claw模式、Skill广场三大模块，面向全球市场提供AgentOps全生命周期管理。这是中国企业级Agent平台首次系统性出海，与微软Copilot Studio、Salesforce Agentforce形成竞争。",
+          "source_url": "https://36kr.com/p/3901396207584902?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "腾讯云",
+            "Bret Taylor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google自研AI芯片提升Gemini运行效率",
+          "body": "Alphabet正开发专为Gemini优化的新一代AI芯片，目标大幅提升模型运行效率。此举延续Google TPU自研路线，在NVIDIA GPU供应紧张背景下，强化垂直整合能力以降低推理成本，与亚马逊Trainium、微软Maia形成云厂商芯片军备竞赛。",
+          "source_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Jeff Dean",
+            "Jensen Huang"
+          ]
+        },
+        {
+          "headline": "中国AI模型密集发布冲击美国技术领导地位",
+          "body": "Moonshot Kimi K3与阿里巴巴Qwen同日发布，声称以极低成本实现与OpenAI、Anthropic顶级模型同等性能。The Verge分析指出，中国开源策略正加速技术扩散，使美国AI前沿优势\"日益收紧\"，引发关于是否限制中国开源模型的政策争论。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Moonshot",
+            "阿里巴巴",
+            "杨植麟"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "天基通算融合初创公司获数千万元首轮融资",
+          "body": "聚焦低轨卫星与无人系统融合的天基通算公司完成首轮融资，中国星网第一代组网完成、垣信卫星在轨超200颗的背景下，产业链焦点从\"发射能力\"转向\"应用场景落地\"，卫星AI计算成为新赛道。",
+          "source_url": "https://36kr.com/p/3903365398185857?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "垣信卫星"
+          ]
+        },
+        {
+          "headline": "青心意创发布80cm毛绒人形机器人Amoo",
+          "body": "前Cruise核心模型科学家曾俊创立的青心意创推出首款产品Amoo，80cm高、毛绒全包覆设计，搭载自研OS系统与全套传感器。差异化定位消费级情感交互机器人，区别于宇树科技等工业/服务机器人路线。",
+          "source_url": "https://36kr.com/p/3903761449617027?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "青心意创",
+            "曾俊"
+          ]
+        }
+      ]
+    }
+  ]
+}
