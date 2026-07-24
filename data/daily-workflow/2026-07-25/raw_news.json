@@ -1,0 +1,944 @@
+{
+  "date": "2026-07-25",
+  "collected_at": "2026-07-24T23:29:19.928211+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 18:07:32 +0000",
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 17:00:00 +0000",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 15:51:49 +0000",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 15:13:57 +0000",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 15:09:55 +0000",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 14:00:00 +0000",
+      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 13:36:42 +0000",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 24 Jul 2026 01:00:00 +0000",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-24T15:06:58-04:00",
+      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "You can’t ignore Google Zero anymore",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-24T13:29:48-04:00",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-24T13:00:00-04:00",
+      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-24T13:00:00-04:00",
+      "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as i",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-24T10:43:55-04:00",
+      "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Kimi K3 vs Claude Fable 5 on DeepSWE: Cost and Coding",
+      "url": "https://www.together.ai/blog/kimi-k3-vs-claude-fable-5-on-deepswe-cost-and-coding",
+      "source": "Together AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "summary": "We ran 452 DeepSWE rollouts on Kimi K3 and Claude Fable 5. Fable leads pass@1 by 1.4 points; Kimi K3 wins pass@4 and delivers 2.8x the solves per dollar.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Fri, 24 Jul 2026 04:34:27 +0000",
+      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, thi",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel WAF for Blob is now in beta",
+      "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-24T17:48:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Workflow steps now support extended function durations",
+      "url": "https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-24T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Opus 5 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-24T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway now supports streaming transcription",
+      "url": "https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-22T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 24 Jul 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.30: The Copium Wars",
+      "url": "https://stratechery.com/2026/the-copium-wars/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 24 Jul 2026 17:00:00 +0000",
+      "summary": "The best Stratechery content from the week of July 20, 2026 including Chinese models and frontier futures, what happened to Hugging Face, and the NBA and its second apron bet.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+      "url": "https://www.qbitai.com/2026/07/460154.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 14:42:32 +0000",
+      "summary": "跑出原生全模态新路径",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+      "url": "https://www.qbitai.com/2026/07/460041.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 14:19:06 +0000",
+      "summary": "给它一张图，还你整个世界",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+      "url": "https://www.qbitai.com/2026/07/460042.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 11:10:26 +0000",
+      "summary": "王虹主页唯一没挂链接的论文",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+      "url": "https://www.qbitai.com/2026/07/459432.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 09:57:35 +0000",
+      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
+      "url": "https://www.qbitai.com/2026/07/459402.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 08:50:26 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "url": "https://www.qbitai.com/2026/07/459262.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 07:49:44 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
+      "url": "https://www.qbitai.com/2026/07/458617.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 07:29:57 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限",
+      "url": "https://www.qbitai.com/2026/07/458864.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 05:50:48 +0000",
+      "summary": "\"看得懂、定得准\"的智能运维底座",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
+      "url": "https://www.qbitai.com/2026/07/458687.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 05:41:17 +0000",
+      "summary": "再长的上下文也救不了长内容任务",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OPC创业者看过来，最高10万美元云资源等你拿",
+      "url": "https://www.qbitai.com/2026/07/458622.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 24 Jul 2026 05:05:38 +0000",
+      "summary": "还有明星导师阵容",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
+      "url": "https://36kr.com/p/3909565569324163?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 19:36:12  +0800",
+      "summary": "<p>7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“<strong>AnySearch 学生与开发者成长计划”（AnySearch Student &amp; Developer Program）</strong>。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"828,463\" src=\"https://img.36krcdn",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+      "url": "https://36kr.com/p/3909160840451465?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 19:00:26  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>字节跳动在中卫成立朔方星河科技公司，注册资本24亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。</p>\n  <p><strong>周生生、老凤祥等品牌金饰价格集体下调</strong></p>\n  <p>当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌1.96%，报4049美元；现货白银跌3.60%，报57.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "你的下一位面试官，可能不是人",
+      "url": "https://36kr.com/p/3909499179767169?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 18:34:07  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,1030\" src=\"https://img.36krcdn.com/hsossms/20260724/v2_9351a356135b4be2b1b32f9d9a06d2f9@6314151_oswg1197231oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>谁能保证超级数字员工不是下一个AI落地的窗",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+      "url": "https://36kr.com/p/3909358392988806?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 16:06:05  +0800",
+      "summary": "<p>7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。</p>\n  <p>本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加关注一个核心问题：AI",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+      "url": "https://36kr.com/p/3909084356433025?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 12:26:38  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,1030\" src=\"https://img.36krcdn.com/hsossms/20260724/v2_c75ed5fe57204a49aa1df4e0ae18c89b@6314151_oswg595807oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>DeepSeek的答案，不是只仰望星空，也不",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+      "url": "https://36kr.com/p/3909033052722310?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 10:37:12  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1124,576\" src=\"https://img.36krcdn.com/hsossms/20260724/v2_a0337e21c3484b939472cf87ffcfe860@6381723_oswg1386357oswg1124oswg576_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p>7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
+      "url": "https://36kr.com/p/3908881985901959?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 08:00:48  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型</li>\n   <li>极氪回应“海外锁车”事件</li>\n   <li>客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知</li>\n   <li>哈兰德和亚马尔2.2亿欧元身价破纪录</li>\n   <li>张雪峰女儿再接手三家公司股份</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>段永平：10年内大概率不会卖泡泡玛特</strong></p>\n  <p>7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "url": "https://arxiv.org/abs/2607.20452",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic A",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "url": "https://arxiv.org/abs/2607.20462",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domai",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20463",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transforme",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "url": "https://arxiv.org/abs/2607.20464",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20464v1 Announce Type: new \nAbstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "url": "https://arxiv.org/abs/2607.20466",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20466v1 Announce Type: new \nAbstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel op",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "url": "https://arxiv.org/abs/2607.20467",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20467v1 Announce Type: new \nAbstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Err",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "url": "https://arxiv.org/abs/2607.20468",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20468v1 Announce Type: new \nAbstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "url": "https://arxiv.org/abs/2607.20469",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20469v1 Announce Type: new \nAbstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during prefill. We propose DecodeShare, a protocol that iden",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "url": "https://arxiv.org/abs/2607.20470",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20470v1 Announce Type: new \nAbstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of optimization methods for ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20471",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20471v1 Announce Type: new \nAbstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and receiver have independen",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
+      "url": "https://arxiv.org/abs/2607.20425",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20425v1 Announce Type: new \nAbstract: What makes writing \"good\" remains a persistent question in literary studies and computational linguistics. We present a two-study investigation of how reasoning-enabled LLMs evaluate literary quality.\n  In Study 1, we construct a benchmark of 30 real ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs'Hallucinations",
+      "url": "https://arxiv.org/abs/2607.20426",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20426v1 Announce Type: new \nAbstract: Existing LLM hallucination mitigation methods, including prompt engineering and model optimization, either hardly alter models'internal knowledge or have poor cross-domain generalization. Contrastive decoding mitigates hallucinations by using layer-wi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2607.20427",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20427v1 Announce Type: new \nAbstract: Mixture-of-Experts architectures have revolutionized scaling, yet the underlying logic of their routing remains a black box. In this paper, we uncover a fundamental governing principle: MoE routing is not merely selection, but a manifestation of Huffm",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+      "url": "https://arxiv.org/abs/2607.20428",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20428v1 Announce Type: new \nAbstract: This study evaluated a retrieval-augmented, multi-agent large language model (LLM)-driven, human-in-the-loop framework for detecting cutaneous immune-related adverse events (cirAEs) from clinical notes. Compared with unassisted manual review, the LLM-",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "More Is Not More: What Matters for Diversity in LLM Opinions?",
+      "url": "https://arxiv.org/abs/2607.20429",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20429v1 Announce Type: new \nAbstract: Large language models are increasingly used to simulate diverse human opinions in open-ended tasks such as synthetic surveys, focus group modeling, and public opinion prediction. However, LLM outputs exhibit systematic opinion homogenization. Practiti",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "LLM-INSTRUCT at UZH Shared Task 2026: Constraint-Aware Retrieval and Selective Debate for Paragraph-Level Argument Mining",
+      "url": "https://arxiv.org/abs/2607.20430",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20430v1 Announce Type: new \nAbstract: We present LLM-INSTRUCT, the winning system for the UZH Shared Task at ArgMining 2026 on paragraph-level argument mining in UN and UNESCO resolutions. The task requires paragraph-type classification, prediction of a subset of 141 official tags, and di",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Skill-Contracted Agents for Evidence-Aware Materials Literature Analysis",
+      "url": "https://arxiv.org/abs/2607.20431",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20431v1 Announce Type: new \nAbstract: Materials science literature analysis requires simultaneous attention to composition, processing, characterization, and property relationships, yet conventional retrieval-augmented generation pipelines struggle to reconcile heterogeneous tasks within ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: Natural Language Should Not Fully Replace Formal Languages",
+      "url": "https://arxiv.org/abs/2607.20432",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20432v1 Announce Type: new \nAbstract: Recent advances in large language models and their widespread adoption have prompted claims that natural language could entirely replace formal languages, such as programming languages for software design. In this position paper, we argue that this pe",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Moir: Let the Model Direct Its Own Story for Robust Cross-Domain Knowledge Editing",
+      "url": "https://arxiv.org/abs/2607.20433",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20433v1 Announce Type: new \nAbstract: While language models remain frozen at their training state, the world evolves continuously. Knowledge editing has emerged as a key alternative to full retraining, but its deployment is bottlenecked by the erosion of core capabilities: mathematical an",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Break Through the Compression Bottleneck: From Theory to Practice",
+      "url": "https://arxiv.org/abs/2607.20434",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.20434v1 Announce Type: new \nAbstract: As the parameter size of language models continues to grow, effective model compression is required to reduce their computational and memory overhead. Existing compression methods suffer from bottleneck issues: when the compression ratio is increased,",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "这两天终于把 BaoCut 的视频画面翻译功能做了，这功能技术实现不复杂，但是交互比较麻烦，也没有同类产品借鉴参考，迭代了好几个版本终于觉得还不错了。 亮点是可以 Agent（推荐 Codex）自动化操作，不用人工干预，另外翻译好的结果，可以直接导出到剪映（CapCut）二次处理。 用起来倒是很简单： 一种是自己去 Agent 那边，让 Agent 自己找出来需要翻译的画面帧，然后翻译后把翻译后的文字加到 OCR 出来的位置。 参考提示词： > 帮我转录翻译 <视频地址>，并为所有全屏的 slides （不是背景中的）也添加翻译 一种是自己从 GUI 主动在要翻译的位置暂停，然后点击播放器下面的 Screen Text 按钮，就能对当前画面进行 OCR，找出来所有文字位置，当然人工可以勾选哪些需要翻译的。 最开始的版本是一次翻译一张，后来发现太慢，现在改成了添加到队列，批量翻译，效率就快多了。 之所以没有做成图片翻译替换画面，是因为视频画面是动态的，如果只是替代一帧或者几帧，效果并不好，就折衷了一下，做成了字幕叠加在原始文字上，人工可以二次调整。 如果你还不是最新版本需要升级到最新版本（v0.8.2）。 下载地址：https://baocut.app/",
+      "url": "https://nitter.net/dotey/status/2080770347977113983#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 21:41:24 GMT",
+      "summary": "<p>这两天终于把 BaoCut 的视频画面翻译功能做了，这功能技术实现不复杂，但是交互比较麻烦，也没有同类产品借鉴参考，迭代了好几个版本终于觉得还不错了。<br>\n<br>\n亮点是可以 Agent（推荐 Codex）自动化操作，不用人工干预，另外翻译好的结果，可以直接导出到剪映（CapCut）二次处理。<br>\n<br>\n用起来倒是很简单：<br>\n<br>\n一种是自己去 Agent 那边，让 Agent 自己找出来需要翻译的画面帧，然后翻译后把翻译后的文字加到 OCR 出来的位置。<br>\n<br>\n参考提示词：<br>\n&gt; 帮我转录翻译 &lt;视频地址&gt;，并为所有全屏的 s",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 2015年我出版了《中国电竞幕后史》 写了三年，走访上百位电竞人，从街机格斗、星际争霸时代写到移动电竞前夜（1996-2014） 今天我把它全文25万字开源到GitHub，免费，比纸书还多出十几篇未收录章节（2015-2017） 甚至有几章是《中国游戏幕后史》的开篇，可惜后来我去做游戏纪录片了 不知道什么时候还有机会把这本书也写完... #Esports #Gaming",
+      "url": "https://nitter.net/bkingfilm/status/2080629975938748875#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 12:23:37 GMT",
+      "summary": "<p>2015年我出版了《中国电竞幕后史》<br>\n<br>\n写了三年，走访上百位电竞人，从街机格斗、星际争霸时代写到移动电竞前夜（1996-2014）<br>\n<br>\n今天我把它全文25万字开源到GitHub，免费，比纸书还多出十几篇未收录章节（2015-2017）<br>\n<br>\n甚至有几章是《中国游戏幕后史》的开篇，可惜后来我去做游戏纪录片了<br>\n<br>\n不知道什么时候还有机会把这本书也写完...<br>\n<br>\n<a href=\"https://nitter.net/search?f=tweets&q=%23Esports\">#Esports</a> <a href=\"ht",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 很多人还没理解，大模型的发展必然是需要与产品创新协同进行的。 整个世界处在一个大的自然选择过程中。对产品而言，人就是自然；对大模型而言，人+产品就是自然。当然，对人而言，自然就是自然。更进一步说，产品本质是人的生产和生活方式，而生活方式是在自然对人的选择过程之中被人选择的。当我们把大模型看作产品的智能驱动力，那么大模型的能力也就在产品被选择的过程中被选择。 没有翻译产品就不会有 Transformer 被选择；没有产品尝试用 LLM 补全 tool 指令，就不会有 tool use 能力被选择；没有 Manus，就不会有 agentic 任务能力被选择；没有 Claude Code 不会有 coding 能力被选择；没有 Anthropic 内部尚未发布的 Agent Teams 和 Claude Tag 雏形，就不会有 Opus 4.5 到 4.8 不断加强的 team working 能力被选择。当然反之亦然，没有 coding 能力的加强，Claude Code 不会像现在这样成功。 研究员们可以像数学家一样，从已经有的知识，以推理的方式得出所有可能的模型能力并构造数据进行训练，但最终被留下来的、在商业上被选择的能力一定是能与具备更好的人机交互体验的产品相适应的能力。 人们似乎总是因为大模型能力越来越强而对软件产品持有悲观态度，但我相信更强大的智能将会驱动更强大的产品和人机交互形态的诞生。不要低估人的适应力和创造力，尤其在 AI 的加持下。 人会很快适应 AGI 在现有产品形态中的表现，而随后创造新的产品形态来进一步释放人机交互的潜力，进一步地，模型被反哺加强，人们再次适应新的产品形态，继续创造更新的产品形态。 没错，我说了 AGI。我认为 AGI 早就来了，AGI 在渐进式地来。并没有一天会被称为「AGI 真的来了的那天」。大模型 agentic 能力和多步多轮交互界面协同发展，长程无监督任务能力和多会话管理界面协同发展，自迭代记忆+团队协作+长上下文+长期自我身份感知和所谓 agent-native IM 界面协同发展。 我们会看着一种新的智能持续演化，我们自身也会在这个过程中提高认知、不断升维，改进我们与世界的互动方式。这种黑格尔式的对立统一让我感到极度兴奋，你呢？",
+      "url": "https://nitter.net/istdrc/status/2080713146080383107#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 17:54:06 GMT",
+      "summary": "<p>很多人还没理解，大模型的发展必然是需要与产品创新协同进行的。<br>\n<br>\n整个世界处在一个大的自然选择过程中。对产品而言，人就是自然；对大模型而言，人+产品就是自然。当然，对人而言，自然就是自然。更进一步说，产品本质是人的生产和生活方式，而生活方式是在自然对人的选择过程之中被人选择的。当我们把大模型看作产品的智能驱动力，那么大模型的能力也就在产品被选择的过程中被选择。<br>\n<br>\n没有翻译产品就不会有 Transformer 被选择；没有产品尝试用 LLM 补全 tool 指令，就不会有 tool use 能力被选择；没有 Manus，就不会有 agentic 任务能力被选择",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "猜猜今天哪家会重置额度？ 我估计 Codex 和 Claude Code 都会重置",
+      "url": "https://nitter.net/dotey/status/2080704247495029208#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 17:18:44 GMT",
+      "summary": "<p>猜猜今天哪家会重置额度？<br>\n我估计 Codex 和 Claude Code 都会重置</p>\n<hr/>\n<blockquote>\n<b>宝玉 (@dotey)</b>\n<p>\n<p>Anthropic 今天发布了 Claude Opus 5。API 价格为每百万输入 Token 5 美元、输出 Token 25 美元，与上一代 Opus 4.8 完全相同，但只有 Fable 5 的一半。官方给出的定位是：以一半的价格，提供接近 Fable 5 的前沿智能。<br>\n<br>\nFable 5 是 Anthropic 于 6 月 9 日发布的最强公开模型，输入、输出价格分别为每百万 ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 今天发布了 Claude Opus 5。API 价格为每百万输入 Token 5 美元、输出 Token 25 美元，与上一代 Opus 4.8 完全相同，但只有 Fable 5 的一半。官方给出的定位是：以一半的价格，提供接近 Fable 5 的前沿智能。 Fable 5 是 Anthropic 于 6 月 9 日发布的最强公开模型，输入、输出价格分别为每百万 Token 10 美元和 50 美元，是史上最昂贵的通用模型。同一底座的 Mythos 5 则只向 Project Glasswing 的少数合作伙伴开放。 【1】性能 在 Frontier-Bench v0.1 上，Opus 5 的成绩是 Opus 4.8 的两倍多，单任务成本反而更低。在 CursorBench 3.2 上，使用最高 Effort 档时，它与 Fable 5 峰值成绩的差距不到 0.5%，每项任务的成本却只有后者的一半。 【注：Effort 是可调节的思考强度档位。档位越高，模型思考得越多，价格也越高。】 ARC-AGI 3 测试的是模型解决未见过的新题的能力，Opus 5 的得分达到第二名模型的三倍。Zapier AutomationBench 测试的是模型能否将一项业务从头到尾完整执行；在成本相同的情况下，Opus 5 的任务通过率约为第二名的 1.5 倍。即使使用最低 Effort 档，它完成的任务也比其他所有模型更多。在电脑操作评测 OSWorld 2.0 上，它仅用 Fable 5 三分之一出头的成本，就超过了后者的最佳成绩。 在有机化学任务上，Opus 5 比 Opus 4.8 高出 10.2 个百分点；在蛋白质相关任务上，则高出 7.7 个百分点。 【2】几个比分数更能说明问题的例子 有一道题给了 Opus 5 一张机械零件图纸，要求它编写代码，在 FreeCAD 中重建三维模型，但故意不让模型直接“看”图。Opus 5 自己编写了一套计算机视觉流程，从原始像素中提取几何形状，再还原出整个零件，而且能够反复成功。同样配置下，其他模型尝试五次都没能完成。 在一个开源包管理器的真实 Bug 中，社区补丁遗漏了一个边界情况。Opus 5 找到了根因，并补上了这个缺口；对照模型则只修复了表面症状，随后便宣布 Bug 已解决。 一位交易公司的工程师使用 Opus 5，在一个会话中完成了新交易所的行情数据接入。由于找不到实时数据进行验证，Opus 5 便自行搭建了一套测试框架，用来检查解析结果是否正确。 【3】谁现在就能用 Claude Max 的默认模型已经切换为 Opus 5，Pro 用户目前能够使用的最强模型也是它。开发者可以通过 `claude-opus-5` 调用 API。Fast 模式的速度约为普通模式的 2.5 倍，价格则翻倍。 此次上线的两个 Beta 功能，对开发 Agent 的人很有实际价值。 一是对话进行到一半时，即使更换工具，也不会导致 Prompt 缓存失效。过去只要修改一次工具列表，整段缓存就会作废，成本随即上升。 二是 API 可以启用自动降级功能。被安全分类器拦截的请求会自动转交给其他模型处理，而不是直接失败。 【4】安全与拦截 Anthropic 表示，Opus 5 是其迄今为止对齐程度最高的模型。在自动化行为审计中，它的综合失准得分为 2.3，低于 Opus 4.8、Sonnet 5 和 Fable 5，欺骗行为所占比例也是最低的。 网络安全部分有一个值得注意的细节：Anthropic 刻意没有使用网络攻防任务训练 Opus 5，但随着通用能力提升，它发现漏洞的水平已经接近 Mythos 5。不过，在将漏洞转化为可用攻击代码方面，两者仍有很大差距。 安全分类器允许 Opus 5 在源代码中寻找漏洞，但会拦截二进制层面的漏洞扫描、渗透测试和 Exploit 生成。它的拦截频率比 Fable 5 低约 85%。在 http://Claude.ai、Claude Code 和 Cowork 中，被拦截的请求默认会回退至 Opus 4.8。 生物领域的限制则有所放宽：原本在 Fable 5 上被拦截的生物类请求，现在会转交给 Opus 5，而不是此前的 Opus 4.8。Anthropic 称，Opus 5 是目前面向科研场景能力最强的公开模型，但它在长时间自主研究任务上仍存在明显限制。",
+      "url": "https://nitter.net/dotey/status/2080701514402730046#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 17:07:53 GMT",
+      "summary": "<p>Anthropic 今天发布了 Claude Opus 5。API 价格为每百万输入 Token 5 美元、输出 Token 25 美元，与上一代 Opus 4.8 完全相同，但只有 Fable 5 的一半。官方给出的定位是：以一半的价格，提供接近 Fable 5 的前沿智能。<br>\n<br>\nFable 5 是 Anthropic 于 6 月 9 日发布的最强公开模型，输入、输出价格分别为每百万 Token 10 美元和 50 美元，是史上最昂贵的通用模型。同一底座的 Mythos 5 则只向 Project Glasswing 的少数合作伙伴开放。<br>\n<br>\n【1】性能<b",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 大模型是一个专利期十个月的制药生意",
+      "url": "https://nitter.net/xleaps/status/2080660249145459052#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 14:23:54 GMT",
+      "summary": "<p>大模型是一个专利期十个月的制药生意</p>\n<hr/>\n<b>Article</b><br>\n<a href=\"https://nitter.net/i/article/2080660249145459052\">\n<img src=\"https://nitter.net/pic/media%2FHN_usfXXQAA-4Qz.jpg\" style=\"max-width:250px;\" />\n<br>\n<b>大模型是专利期十个月的制药生意</b>\n</a>\n<p>这几天流传的 DeepSeek 梁文锋讲话里有一个有意思的数据点，正好和我最近的思考交汇，因此写下一些关于整个大模型产业的一些预",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "且不说他早年看不上 Coding Agent（现在已经变了），但到现在 DeepSeek 居然还不支持多模态，确实理解不了",
+      "url": "https://nitter.net/dotey/status/2080568327504642119#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 08:18:39 GMT",
+      "summary": "<p>且不说他早年看不上 Coding Agent（现在已经变了），但到现在 DeepSeek 居然还不支持多模态，确实理解不了</p>\n<hr/>\n<blockquote>\n<b>刘江/LIU Jiang (@turingbook)</b>\n<p>\n<p>说实话，昨天看了梁文锋的长篇讲话，对他的印象是减分的。如果大家关心的话，我可以再展开讲讲哈哈。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/turingbook/status/2080562981163921469#m\">https://nitter.net/turingbo",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "以前玩游戏时间长了点有负罪感，觉得虚度光阴了，现在一边玩游戏一边等 Agent 干活，居然有点心安理得。 可能从砍柴变成了放羊？",
+      "url": "https://nitter.net/dotey/status/2080519708189560839#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 05:05:27 GMT",
+      "summary": "<p>以前玩游戏时间长了点有负罪感，觉得虚度光阴了，现在一边玩游戏一边等 Agent 干活，居然有点心安理得。<br>\n<br>\n可能从砍柴变成了放羊？</p>\n<img src=\"https://nitter.net/pic/media%2FHN99S11XkAAYCIE.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 宝玉さんのプロンプトをお借りして、切り絵作品のような葉っぱアート画像を作ってみたなも🍃🍂 記事では、こちらのプロンプトの使い方やアレンジ方法を紹介しているから、ぜひ覗いてみてなも👀 ✨Thank you for the wonderful prompt.✨ https://ai-workstudio.site/archives/11555 #AIart #AI画像生成 #GoogleGemini",
+      "url": "https://nitter.net/shinnamo_ai/status/2080505842907123867#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 04:10:21 GMT",
+      "summary": "<p>宝玉さんのプロンプトをお借りして、切り絵作品のような葉っぱアート画像を作ってみたなも🍃🍂<br>\n記事では、こちらのプロンプトの使い方やアレンジ方法を紹介しているから、ぜひ覗いてみてなも👀<br>\n✨Thank you for the wonderful prompt.✨<br>\n<a href=\"https://ai-workstudio.site/archives/11555\">ai-workstudio.site/archives/…</a><br>\n<a href=\"https://nitter.net/search?f=tweets&q=%23AIart\">#AIart</a>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 传统的岗位就是类似于你还想找前端工程师、后端工程师、大数据工程师之类的。 你应该重点关注的是AI产品经理、企业FDE， AI Agent 工程师 。 我大胆的顾测一下， 科技行业的岗位变化， 会导致传统研发的产品岗位消失， 被AI产品经理、企业FDE这样的职位所替代。 当然不可避免的是， 企业不会像以前那样大量的招聘人类工程师了。",
+      "url": "https://nitter.net/PandaTalk8/status/2080485209750036724#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 24 Jul 2026 02:48:22 GMT",
+      "summary": "<p>传统的岗位就是类似于你还想找前端工程师、后端工程师、大数据工程师之类的。  <br>\n<br>\n你应该重点关注的是AI产品经理、企业FDE， AI Agent 工程师 。  <br>\n<br>\n我大胆的顾测一下， 科技行业的岗位变化， 会导致传统研发的产品岗位消失， 被AI产品经理、企业FDE这样的职位所替代。  <br>\n当然不可避免的是， 企业不会像以前那样大量的招聘人类工程师了。</p>\n<hr/>\n<blockquote>\n<b>Mr Panda (@PandaTalk8)</b>\n<p>\n<p>我最近关注到程序员的就业有所改善，大家如果找工作， 不要盯着那种传统的职位，那一定是",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Opus 5 now available in Hermes Agent",
+      "url": "https://nitter.net/NousResearch/status/2080745634710139113#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 20:03:12 GMT",
+      "summary": "<p>Opus 5 now available in Hermes Agent</p>\n<hr/>\n<blockquote>\n<b>Teknium 🪽 (@Teknium)</b>\n<p>\n<p>Claude Opus 5 is now available in Hermes Agent through Nous Portal, OpenRouter, and Anthropic Direct!</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/Teknium/status/2080745099789738119#m\">https:/",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: And it's 20% off!",
+      "url": "https://nitter.net/NousResearch/status/2080771491050783031#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 21:45:56 GMT",
+      "summary": "<p>And it's 20% off!</p>\n<hr/>\n<blockquote>\n<b>Nous Research (@NousResearch)</b>\n<p>\n<p>All models are now 20% off for a limited time at Nous Portal, the best way to power your Hermes Agent.<br>\n<br>\nYes, even the expensive frontier models.<br>\n<br>\n<a href=\"http://portal.nousresearch.com/signup\">po",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: A reminder this is 20% off via the Nous Portal <3",
+      "url": "https://nitter.net/mr_r0b0t/status/2080747028552774120#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 20:08:44 GMT",
+      "summary": "<p>A reminder this is 20% off via the Nous Portal &lt;3</p>\n<img src=\"https://nitter.net/pic/media%2FHOBMVQnXUAARYTR.png\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>Teknium 🪽 (@Teknium)</b>\n<p>\n<p>Claude Opus 5 is now available in Hermes Agent through Nous Portal, OpenRouter, and Anthropic D",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New in Hermes Agent: a credential firewall for Docker sandboxes. Your real keys never enter the sandbox. It runs on stand-in tokens, and a local proxy swaps in the real keys at the network boundary. Tokens from a compromised sandbox are useless elsewhere. > hermes egress setup",
+      "url": "https://nitter.net/NousResearch/status/2080728699100406042#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 18:55:54 GMT",
+      "summary": "<p>New in Hermes Agent: a credential firewall for Docker sandboxes.<br>\n<br>\nYour real keys never enter the sandbox. It runs on stand-in tokens, and a local proxy swaps in the real keys at the network boundary. Tokens from a compromised sandbox are useless elsewhere.<br>\n<br>\n&gt; hermes egress setu",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: hermes-agent.nousresearch.co…",
+      "url": "https://nitter.net/NousResearch/status/2080728700727791701#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 18:55:54 GMT",
+      "summary": "<p><a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/egress/iron-proxy\">hermes-agent.nousresearch.co…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/egress/iron-proxy\">\n<img src=\"https://nitter.net/pic/card_img%2F2079016399565930496%2FbSUNyi",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: hermes agent",
+      "url": "https://nitter.net/jack/status/2080692739671220519#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 16:33:01 GMT",
+      "summary": "<p>hermes agent</p>\n<hr/>\n<blockquote>\n<b>mr-r0b0t (@mr_r0b0t)</b>\n<p>\n<p><a href=\"https://nitter.net/jack\" title=\"jack\">@jack</a> I upgrade Buzz for us 😀</p>\n<img src=\"https://nitter.net/pic/media%2FHN7VRrvXYAEc-6V.jpg\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Just gave Hermes' skills an overhaul - all the built in and optional skills we support with some qol improvements, enhancements, reorgs, cleanup, and more. Enjoy!",
+      "url": "https://nitter.net/Teknium/status/2080691556806439198#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 16:28:19 GMT",
+      "summary": "<p>Just gave Hermes' skills an overhaul - all the built in and optional skills we support with some qol improvements, enhancements, reorgs, cleanup, and more.<br>\n<br>\nEnjoy!</p>\n<img src=\"https://nitter.net/pic/media%2FHOAZ5yGbAAIgwdc.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "You're not gonna believe this http://shop.nousresearch.com/products/nous-girl-neon",
+      "url": "https://nitter.net/NousResearch/status/2080469733984420030#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 01:46:52 GMT",
+      "summary": "<p>You're not gonna believe this<br>\n<br>\n<a href=\"http://shop.nousresearch.com/products/nous-girl-neon\">shop.nousresearch.com/produc…</a></p>\n<img src=\"https://nitter.net/pic/media%2FHN9QIjJXMAAmioJ.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>sshell (@sshell_)</b>\n<p>\n<p>spotted <a href",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: It is approx 36x26 inches, highly rugged, and extremely bright in person",
+      "url": "https://nitter.net/NousResearch/status/2080470002155528458#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 24 Jul 2026 01:47:56 GMT",
+      "summary": "<p>It is approx 36x26 inches, highly rugged, and extremely bright in person</p>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard (55pts)",
+      "url": "https://artificialanalysis.ai/models",
+      "source": "Hacker News (API)",
+      "published": "2026-07-24T19:45:10Z",
+      "summary": "HN热度: 55分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
