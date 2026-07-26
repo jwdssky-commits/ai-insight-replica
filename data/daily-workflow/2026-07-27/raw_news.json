@@ -1,0 +1,400 @@
+{
+  "date": "2026-07-27",
+  "collected_at": "2026-07-26T23:17:12.484754+00:00",
+  "item_count": 32,
+  "items": [
+    {
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-26T19:30:54+00:00",
+      "summary": "<p><strong><a href=\"https://vectoral.com/blog/token-relay-market\">An Inside Look at the Relay Market Powering Token Resellers and Fraud</a></strong></p>\nFascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from vari",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 26 Jul 2026 19:40:57 +0000",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 26 Jul 2026 01:30:00 +0000",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel WAF for Blob is now in beta",
+      "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-24T17:48:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Workflow steps now support extended function durations",
+      "url": "https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-24T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Opus 5 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-24T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway now supports streaming transcription",
+      "url": "https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-22T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "url": "https://www.qbitai.com/2026/07/460962.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 26 Jul 2026 05:30:21 +0000",
+      "summary": "项目数据模型均开源",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+      "url": "https://36kr.com/p/3911162147640456?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-26 09:00:00  +0800",
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。</p>\n  <p>这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。</p>\n  <p>「眸深智",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
+      "url": "https://36kr.com/p/3909565569324163?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 19:36:12  +0800",
+      "summary": "<p>7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“<strong>AnySearch 学生与开发者成长计划”（AnySearch Student &amp; Developer Program）</strong>。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"828,463\" src=\"https://img.36krcdn",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+      "url": "https://36kr.com/p/3909160840451465?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 19:00:26  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>字节跳动在中卫成立朔方星河科技公司，注册资本24亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。</p>\n  <p><strong>周生生、老凤祥等品牌金饰价格集体下调</strong></p>\n  <p>当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌1.96%，报4049美元；现货白银跌3.60%，报57.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "你的下一位面试官，可能不是人",
+      "url": "https://36kr.com/p/3909499179767169?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 18:34:07  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,1030\" src=\"https://img.36krcdn.com/hsossms/20260724/v2_9351a356135b4be2b1b32f9d9a06d2f9@6314151_oswg1197231oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>谁能保证超级数字员工不是下一个AI落地的窗",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+      "url": "https://36kr.com/p/3909358392988806?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 16:06:05  +0800",
+      "summary": "<p>7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。</p>\n  <p>本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加关注一个核心问题：AI",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+      "url": "https://36kr.com/p/3909084356433025?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 12:26:38  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,1030\" src=\"https://img.36krcdn.com/hsossms/20260724/v2_c75ed5fe57204a49aa1df4e0ae18c89b@6314151_oswg595807oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>DeepSeek的答案，不是只仰望星空，也不",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+      "url": "https://36kr.com/p/3909033052722310?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 10:37:12  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1124,576\" src=\"https://img.36krcdn.com/hsossms/20260724/v2_a0337e21c3484b939472cf87ffcfe860@6381723_oswg1386357oswg1124oswg576_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p>7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
+      "url": "https://36kr.com/p/3908881985901959?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-24 08:00:48  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型</li>\n   <li>极氪回应“海外锁车”事件</li>\n   <li>客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知</li>\n   <li>哈兰德和亚马尔2.2亿欧元身价破纪录</li>\n   <li>张雪峰女儿再接手三家公司股份</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>段永平：10年内大概率不会卖泡泡玛特</strong></p>\n  <p>7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "一图“看懂”各种 AI 名词：《AGI 就在下一圈》 马不知道自己在转圈。它吃进去的叫 Input，磨出来的叫 Output，中间差的五倍价钱，叫智能。天上有一座城，马每圈都看见一次，每次都觉得更近了。只有圈外那匹不拉磨的马看得明白：城是磨盘的热气蒸出来的。但没人问它，因为它也按 Token 收费。",
+      "url": "https://nitter.net/dotey/status/2081172491796402566#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 26 Jul 2026 00:19:23 GMT",
+      "summary": "<p>一图“看懂”各种 AI 名词：《AGI 就在下一圈》<br>\n<br>\n马不知道自己在转圈。它吃进去的叫 Input，磨出来的叫 Output，中间差的五倍价钱，叫智能。天上有一座城，马每圈都看见一次，每次都觉得更近了。只有圈外那匹不拉磨的马看得明白：城是磨盘的热气蒸出来的。但没人问它，因为它也按 Token 收费。</p>\n<img src=\"https://nitter.net/pic/media%2FHOHPVgwWAAAYIIt.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>海拉鲁编程客 (@hylarucoder",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: advisor 来自这里😅",
+      "url": "https://nitter.net/dotey/status/2081287225027809575#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 26 Jul 2026 07:55:17 GMT",
+      "summary": "<p>advisor 来自这里😅</p>\n<hr/>\n<blockquote>\n<b>宝玉 (@dotey)</b>\n<p>\n<p>我有个疑惑，如果让弱一些的模型设计，聪明的模型当顾问，那么有几种可能：<br>\n1. 它设计就是很糟糕的，问的问题也问不到点子上，那再聪明的顾问也给不了好的建议<br>\n2. 它很自负，不觉得自己的有问题，明明该去问聪明模型而不去问<br>\n3. 它很不自信，一点小问题就去问聪明模型<br>\n<br>\n这些可能都让所谓的 /advisor 模式没有什么用。<br>\n<br>\n为什么不让聪明的模型去设计，让弱一点的模型去执行，最后聪明的模型去验收？这样应该才是性价比",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Q：Agent 用 Skills 的时候，是不是要先调一次大模型选 Skill，再调一次大模型执行工具，总共调了两次？ A：不是的。Skills 的元信息（每个 Skill 的 name 和 description）在对话一开始就作为系统提示词（System Prompt）的一部分，统一加载进了上下文窗口。所以大模型在处理你的第一条消息时，已经知道了所有可用 Skills 的描述，不需要单独调用一次大模型来做选择。 实际流程是：大模型在一次调用中，一边读你的问题，一边对照上下文里的 Skill 描述，判断该用哪个 Skill，然后读取对应的 SKILL.md 获取详细指令，接着决定是否调用工具——这些都可以在同一轮对话中连贯完成，并不是\"选 Skill 一次、用工具又一次\"的两段式调用。 你可能会担心：每次对话都把所有 Skill 描述塞进上下文，是不是很浪费 token？这就是 Prompt Caching 发挥作用的地方。系统提示词（包括所有 Skill 描述）在多轮对话中会被缓存，后续每一轮不需要重新处理这些内容，既省了时间也省了成本。",
+      "url": "https://nitter.net/dotey/status/2081225771473879226#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 26 Jul 2026 03:51:05 GMT",
+      "summary": "<p>Q：Agent 用 Skills 的时候，是不是要先调一次大模型选 Skill，再调一次大模型执行工具，总共调了两次？<br>\n<br>\nA：不是的。Skills 的元信息（每个 Skill 的 name 和 description）在对话一开始就作为系统提示词（System Prompt）的一部分，统一加载进了上下文窗口。所以大模型在处理你的第一条消息时，已经知道了所有可用 Skills 的描述，不需要单独调用一次大模型来做选择。<br>\n<br>\n实际流程是：大模型在一次调用中，一边读你的问题，一边对照上下文里的 Skill 描述，判断该用哪个 Skill，然后读取对应的 SKILL",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "这阴阳怪气的 Member of Technical Staff at Anthropic",
+      "url": "https://nitter.net/dotey/status/2081131024021352623#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 25 Jul 2026 21:34:36 GMT",
+      "summary": "<p>这阴阳怪气的<br>\nMember of Technical Staff at Anthropic</p>\n<img src=\"https://nitter.net/pic/media%2FHOGpXB5W0AAErNd.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOGpc4rXcAA3HPO.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOGpn5FWsAA5Gch.png\"",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Hermes Agent now scales to a near infinite number of MCP and plugin tools with high accuracy. You save a ton of money on input tokens and lose almost no accuracy in our internal testing. We've implemented progressive disclosure for tools, so they behave much more like skills. All MCP tools now sit behind a single search-and-execute tool. When your MCP tools use little context, their names and descriptions are shown to the model directly. If that would use more than 5% of your available context, the agent is instead told it has tools from X MCP behind tool search, so it always knows they're available.",
+      "url": "https://nitter.net/Teknium/status/2081450522608107816#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 26 Jul 2026 18:44:10 GMT",
+      "summary": "<p>Hermes Agent now scales to a near infinite number of MCP and plugin tools with high accuracy. You save a ton of money on input tokens and lose almost no accuracy in our internal testing.<br>\n    <br>\nWe've implemented progressive disclosure for tools, so they behave much more like skills. All MCP",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "London Gatwick has launched a robotic airport parking service (263pts)",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T14:40:27Z",
+      "summary": "HN热度: 263分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough (115pts)",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T13:13:03Z",
+      "summary": "HN热度: 115分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf] (99pts)",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T10:32:35Z",
+      "summary": "HN热度: 99分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality (239pts)",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "source": "Hacker News (API)",
+      "published": "2026-07-25T22:51:10Z",
+      "summary": "HN热度: 239分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cloudflare's new AI traffic options for customers (187pts)",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-25T22:50:49Z",
+      "summary": "HN热度: 187分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What does GitHub's security team even do? (81pts)",
+      "url": "https://orchidfiles.com/github-security-team/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T19:51:05Z",
+      "summary": "HN热度: 81分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs (93pts)",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T15:53:55Z",
+      "summary": "HN热度: 93分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: I mapped every US golf course (200pts)",
+      "url": "https://golfcoursebrowser.com/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T02:22:26Z",
+      "summary": "HN热度: 200分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elevated Errors for Opus 5 (91pts)",
+      "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+      "source": "Hacker News (API)",
+      "published": "2026-07-26T09:18:34Z",
+      "summary": "HN热度: 91分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "一图看懂各种 AI 名词:《AGI 就在下一圈》",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4vp-QJYzNUowYsQE2fboiXbKkIaY1oG61qXa8Fplpd93LNYwgrvZY15xn9xzrQY0Fb_4ISVlB31Gw1SgQ5Pn2_SGraT9bMZ9_C2JNpcfOJP5d_toNB1vKcgvMvGi2Q89BTQlRFmNygGvckjPq7FbljdJcugeSxDtTn6s-xtdc1VewJoiabkFX-3MYMIUxTV4n1AD_Ar7DJFzhHXSjJX3KdCy6umSSPEsg..&amp;type=2&amp;query=%E5%AE%9D%E7%8E%89 AI&amp;token=B269BBB7721671D6515706DA9CC225E051A14F326A66956D",
+      "source": "宝玉 (微信)",
+      "published": "2026-07-26T00:23:28+00:00",
+      "summary": "来源: 宝玉公众号",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    }
+  ]
+}

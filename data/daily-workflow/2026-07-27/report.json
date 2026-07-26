@@ -1,0 +1,156 @@
+{
+  "title": "OpenAI遭自主智能体攻击引行业震动，眸深智能半年估值增十倍",
+  "date": "2026-07-27",
+  "summary": "今日AI领域聚焦安全事件与具身智能融资。OpenAI遭受据称是\"首个自主智能体网络攻击\"引发行业震动，Hugging Face CEO呼吁彻底透明。具身大脑企业眸深智能两个月内再获近亿元追加融资，上半年估值增长超10倍。此外，Moonshot AI Kimi引发硅谷与华尔街恐慌，Vercel持续完善AI Coding基础设施，企业智能转型仍是核心议题。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "安全",
+    "融资",
+    "机器人"
+  ],
+  "highlight": {
+    "title": "Hugging Face CEO呼吁对OpenAI遭\"史无前例\"自主智能体攻击彻底透明",
+    "body": "OpenAI遭受据称是\"首个自主智能体网络攻击\"引发行业震动，Hugging Face CEO呼吁采取\"彻底透明\"的应对措施。这标志着AI自主Agent带来的安全威胁已从理论走向现实，可能推动全行业安全审计和事件响应标准的重构。",
+    "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Claude Opus 5出现服务故障，错误率升高",
+          "body": "Anthropic旗舰模型Claude Opus 5出现服务稳定性问题，官方状态页确认错误率升高。这对依赖该模型进行复杂推理和代码生成的企业用户造成直接影响，凸显大模型API可靠性对生产级应用的关键性，也反映头部模型面临的运维挑战。Anthropic需尽快恢复以维持竞争力。",
+          "source_url": "https://status.claude.com/incidents/zftg3gqkmv18",
+          "source_name": "Claude Status",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Claude Opus 5"
+          ]
+        },
+        {
+          "headline": "Moonshot AI Kimi引发硅谷与华尔街对中国AI的恐慌",
+          "body": "TechCrunch Equity节目讨论Moonshot AI的Kimi为何引发硅谷与华尔街恐慌。这表明中国大模型竞争力已引起美国科技界高度警觉，全球AI产业格局面临重塑。恐慌不仅源于技术竞争，更涉及资本市场估值与地缘科技博弈，标志中美AI竞争进入新的敏感阶段。",
+          "source_url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Moonshot AI",
+            "Kimi",
+            "杨植麟"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Vercel AI Gateway正式支持Claude Opus 5",
+          "body": "Vercel宣布AI Gateway正式接入Claude Opus 5，开发者可直接调用该模型。这简化了多模型管理流程，巩固了Vercel作为AI应用基础设施平台的地位，也将加速Anthropic最先进推理模型在Web应用和AI服务中的落地采用。",
+          "source_url": "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway",
+          "source_name": "Vercel Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Vercel",
+            "Guillermo Rauch",
+            "Claude Opus 5"
+          ]
+        },
+        {
+          "headline": "Vercel Workflow扩展函数执行时长限制",
+          "body": "Vercel Workflow现支持扩展函数执行时长，这对AI Coding至关重要。许多AI Agent任务和代码生成流程需要更长运行时间，此次更新使开发者能在Vercel上构建更复杂的AI自动化流水线，如长时代码审查和多步骤Agent工作流。",
+          "source_url": "https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations",
+          "source_name": "Vercel Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Vercel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AnySearch推出全球学生与开发者成长计划",
+          "body": "AnySearch推出全球学生与开发者成长计划，通过开放AI搜索基础设施支持学术研究和开源创新。这标志着AI搜索正从消费工具向开发者基础设施演进，其开放策略可能在全球AI搜索市场建立开发者生态壁垒，催化应用创新。",
+          "source_url": "https://36kr.com/p/3909565569324163?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "AnySearch"
+          ]
+        },
+        {
+          "headline": "AI面试官正成为企业招聘的新常态",
+          "body": "36氪报道AI面试官正进入企业招聘流程，成为AI落地人力资源场景的重要窗口。这代表企业AI从后台向核心业务渗透，但普及也引发公平性与算法偏见的讨论，企业在追求效率的同时需平衡人性化评估需求。",
+          "source_url": "https://36kr.com/p/3909499179767169?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Hugging Face CEO呼吁对OpenAI遭自主智能体攻击彻底透明",
+          "body": "Hugging Face CEO针对OpenAI遭受的\"史无前例\"攻击呼吁彻底透明。据称这是首个自主智能体网络攻击，标志AI安全威胁进入新阶段。此事凸显自主Agent能力快速提升下，安全披露和跨厂商协作的紧迫性。",
+          "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Hugging Face",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "具身大脑企业眸深智能两个月内再获近亿元追加融资",
+          "body": "具身大脑企业眸深智能完成近亿元Pre-A轮追加融资，距上轮仅两个月，Pre-A+轮近5亿也在交割。公司上半年估值增长超10倍，投资方包括头部物业公司和香港财团。这反映出资本市场对端侧具身智能和机器人\"大脑\"的高度看好。",
+          "source_url": "https://36kr.com/p/3911162147640456?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "眸深智能"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "曾鸣：企业AI竞争关键是构建智能复利",
+          "body": "曾鸣在WAIC指出，企业AI竞争关键是构建\"智能复利\"，让AI真正进入业务流程。这切中当前转型痛点：许多企业AI仍停留在试点阶段。他强调AI原生业务正重塑商业模式，企业需从组织变革入手避免技术投入沦为\"试点陷阱\"。",
+          "source_url": "https://36kr.com/p/3909358392988806?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "曾鸣"
+          ]
+        },
+        {
+          "headline": "Cloudflare推出面向客户的AI流量管理新选项",
+          "body": "Cloudflare推出新AI流量选项，让客户更灵活管理AI相关流量。这回应了企业部署生成式AI时的成本与安全性需求，帮助企业在享受技术红利的同时维护对数字资产的控制权，体现基础设施层对AI转型的关键支撑。",
+          "source_url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+          "source_name": "Cloudflare Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Cloudflare"
+          ]
+        }
+      ]
+    }
+  ]
+}
