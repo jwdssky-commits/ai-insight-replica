@@ -1,0 +1,137 @@
+{
+  "title": "AI安全联盟成立与模型商业化提速：2026-07-28 AI日报",
+  "date": "2026-07-28",
+  "summary": "今日AI领域两大主线：一是Nvidia、微软等数十家企业成立Open Secure AI Alliance，推动开源AI安全工具；二是AI应用商业化逻辑转变，从追求DAU转向可持续盈利模式。同时，微软发布首个网络安全模型MAI-Cyber-1-Flash，蚂蚁百灵推出Ling-3.0-Flash混合推理模型，多家企业AI转型动作频繁。",
+  "tags": [
+    "AI行业",
+    "大模型",
+    "AI应用",
+    "安全",
+    "企业AI转型"
+  ],
+  "highlight": {
+    "title": "Nvidia、微软等成立Open Secure AI Alliance，推动开源AI安全工具",
+    "body": "Nvidia联合微软、SpaceX、IBM等成立Open Secure AI Alliance，旨在构建和共享开源AI安全工具。该联盟认为开放工具是防御前沿模型攻击的必要手段，但OpenAI、Google、Anthropic未参与。这标志着AI安全领域出现分化：一派主张开源协作，另一派坚持封闭研发。",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "蚂蚁百灵发布Ling-3.0-Flash：原生混合推理模型新进展",
+          "body": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash。该模型采用混合推理架构，旨在平衡推理深度与响应速度。蚂蚁集团在金融AI领域的布局持续深化，此前已推出百灵系列模型。这一发布标志着国内大模型在推理效率优化方向的持续探索，与企业级金融AI应用场景深度结合。",
+          "source_url": "https://www.qbitai.com/2026/07/461149.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "蚂蚁百灵",
+            "王晓云"
+          ]
+        },
+        {
+          "headline": "OpenAI研究工作揭示AI如何扩展职场工作边界",
+          "body": "OpenAI发布新研究，显示ChatGPT用户正在跨角色承担任务，重塑工作边界。研究表明AI不仅替代部分工作，更在扩展劳动者能力范围，使其能够处理原本属于其他岗位的职责。这为理解大模型对劳动市场的深层影响提供了实证数据，也引发关于工作性质演变的讨论。",
+          "source_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source_name": "OpenAI Blog",
+          "importance": "medium",
+          "related_entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": false,
+      "items": []
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微软发布首个网络安全模型MAI-Cyber-1-Flash及Agentic安全系统",
+          "body": "微软推出首个AI安全模型MAI-Cyber-1-Flash及全新Agentic网络安全系统。该系统将AI代理技术应用于网络安全防御，实现自动化威胁检测与响应。这是微软在AI安全领域的重大布局，也是其将大模型能力垂直应用于企业安全场景的典型案例，直接回应了日益复杂的网络攻击态势。",
+          "source_url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "微软",
+            "Satya Nadella"
+          ]
+        },
+        {
+          "headline": "Google AI搜索快速成为默认：AI Overviews覆盖43%搜索",
+          "body": "数据显示Google AI Overviews现已出现在43%的搜索中，AI生成答案正迅速成为用户在线发现信息的主要方式。这一渗透率标志着搜索引擎范式的重要转变，从传统链接列表向直接答案生成演进，对内容生态、广告投放及SEO行业产生深远影响。",
+          "source_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Sundar Pichai"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Open Secure AI Alliance成立：Nvidia微软牵头，OpenAI等缺席",
+          "body": "Nvidia联合微软、SpaceX、IBM等成立Open Secure AI Alliance，旨在开发共享开源AI安全工具。该联盟认为开放工具是防御前沿模型攻击的必要手段，但OpenAI、Google、Anthropic未参与。这一分化反映了AI安全领域的路线之争：开源协作 vs. 封闭管控，可能影响未来AI安全标准的制定权。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Nvidia",
+            "Jensen Huang",
+            "微软"
+          ]
+        },
+        {
+          "headline": "DeepSeek被曝主动叫停第二轮融资签约，原计划募资超100亿元",
+          "body": "DeepSeek被曝主动叫停了计划募资至少100亿元的第二轮融资签约。这一举动引发市场关注，可能反映公司在估值预期、战略方向或市场环境上的重新考量。作为国内知名开源大模型团队，DeepSeek的融资动态被视为观察AI投资热度的重要风向标。",
+          "source_url": "https://www.qbitai.com/2026/07/461220.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "DeepSeek",
+            "梁文锋"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AI应用估值逻辑转变：从DAU到可持续商业化",
+          "body": "月之暗面发布Kimi K3后估值半年翻6倍至300亿美元，但创始人杨植麟明确提出2026年聚焦Agent、不以绝对用户数量为目标。这标志着AI应用估值逻辑从追求DAU转向可持续商业化能力，资本市场对AI公司的评估标准正在发生根本性变化。",
+          "source_url": "https://36kr.com/p/3913706151400583?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "月之暗面",
+            "杨植麟",
+            "Kimi"
+          ]
+        },
+        {
+          "headline": "Satya Nadella警告：依赖单一AI的企业恐难生存",
+          "body": "微软CEO Satya Nadella表示，没有自研模型或AI网关基础设施层来隔离提示词与模型本身的企业将面临困境。这一观点强调了企业在AI应用中的基础设施自主性的重要性，也反映了微软推动Azure AI服务的战略意图，为企业AI部署提供关键参考。",
+          "source_url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Satya Nadella",
+            "微软"
+          ]
+        }
+      ]
+    }
+  ]
+}
