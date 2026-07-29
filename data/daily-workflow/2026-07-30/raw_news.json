@@ -1,0 +1,937 @@
+{
+  "date": "2026-07-30",
+  "collected_at": "2026-07-29T23:26:50.593038+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Wed, 29 Jul 2026 16:02:10 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting D. Richard Hipp",
+      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-29T21:15:21+00:00",
+      "summary": "<blockquote cite=\"https://www.youtube.com/watch?v=R57nUGzo7CA&amp;t=848s\"><p>Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer.</p>\n<p>Then SQL comes along—I’m simplifying this only a little bit—",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Worming through Word",
+      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-29T18:43:03+00:00",
+      "summary": "<p><strong><a href=\"https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/\">AI Worming through Word</a></strong></p>\nNeat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms:</p>",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-29T18:18:15+00:00",
+      "summary": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\"><p>Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new <em>post-quantum</em> algorithms ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Adding a custom MCP server to Claude and ChatGPT",
+      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-29T00:13:18+00:00",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt\">Adding a custom MCP server to Claude and ChatGPT</a></p>\n        <p>Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps.</p>\n    \n  ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 22:23:12 +0000",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 21:16:39 +0000",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 18:45:27 +0000",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T18:17:38-04:00",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T17:48:07-04:00",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T17:06:52-04:00",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, t",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T14:15:02-04:00",
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T08:00:00-04:00",
+      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes t",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T07:54:29-04:00",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversi",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-29T07:00:00-04:00",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Ad",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.</p>\n<p>The post <a href=\"https://github.blog/security/supp",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Replit Design",
+      "url": "https://replit.com/blog/introducing-replit-design",
+      "source": "Replit Blog (RSS)",
+      "published": "Wed, 29 Jul 2026 16:00:00 GMT",
+      "summary": "A new creative class is rising: people who see an idea in their mind and refuse to wait to make it.\n\n\n\nToday, we’re launching Replit Design, a new creative suite where anyone can shape what they see as fast as they can think it.\n\n\n\nReplit Design is the fastest way to go from idea to design. Ambient ",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Together AI announces strategic partnership with Moonshot AI to natively serve Kimi models",
+      "url": "https://www.together.ai/blog/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models",
+      "source": "Together AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale",
+      "url": "https://www.together.ai/blog/thunderagent",
+      "source": "Together AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "ThunderAgent is a program-aware scheduler for agentic inference. By treating each agent workflow as a schedulable program, it eliminates KV cache thrashing to deliver more than 2x single-node throughput and near-linear multi-node scaling.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Edge Config is now Global Config",
+      "url": "https://vercel.com/changelog/edge-config-is-now-global-config",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway adds unified fast mode support",
+      "url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sign in with ChatGPT is now available on Vercel",
+      "url": "https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Additional custom environments can now be purchased",
+      "url": "https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Discover and install eve integrations from the CLI",
+      "url": "https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Regional inference now available on AI Gateway",
+      "url": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-27T19:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "eve adds new Slack event hooks and session controls",
+      "url": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-27T17:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 29 Jul 2026 17:58:44 +0000",
+      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 29 Jul 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Wed, 29 Jul 2026 08:42:57 +0000",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+      "url": "https://www.qbitai.com/2026/07/462943.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 11:25:21 +0000",
+      "summary": "中科院、北电数智等专家共探数学与AI边界",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+      "url": "https://www.qbitai.com/2026/07/462447.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 08:13:03 +0000",
+      "summary": "AI开始组团“挖漏洞”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
+      "url": "https://www.qbitai.com/2026/07/462384.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 08:04:50 +0000",
+      "summary": "百万网友已玩疯",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+      "url": "https://www.qbitai.com/2026/07/462380.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 06:39:43 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "空中具身操作：让蜘蛛侠们安全落地",
+      "url": "https://www.qbitai.com/2026/07/462301.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 06:29:26 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
+      "url": "https://www.qbitai.com/2026/07/462071.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 05:36:38 +0000",
+      "summary": "角逐全球最难右舵市场",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+      "url": "https://www.qbitai.com/2026/07/462065.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 03:29:59 +0000",
+      "summary": "让多智能体团队随时随地为你干活",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
+      "url": "https://www.qbitai.com/2026/07/462062.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 01:53:15 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+      "url": "https://www.qbitai.com/2026/07/462058.html",
+      "source": "量子位 (RSS)",
+      "published": "Wed, 29 Jul 2026 01:45:36 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "让AI先吃，这个国民级健康难题有解了",
+      "url": "https://36kr.com/p/3916800672656773?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 22:21:47  +0800",
+      "summary": "<p>在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。</p>\n  <p>7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"6106,4071\" src=\"https://img.36krcdn.com/hsossms/20260729/v2_f160e5f7d56e4cb0bd4c116828463",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿",
+      "url": "https://36kr.com/p/3916547493965442?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 19:04:52  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台</strong></p>\n  <p>36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。</p>\n  <p>&nbsp;<strong>新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0%</strong></p>\n  <p>36氪获悉，新",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+      "url": "https://36kr.com/p/3916187215408776?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 16:30:52  +0800",
+      "summary": "<h3><strong>导语：</strong></h3>\n  <p>凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。</p>\n  <p>2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。</p>\n  <p>母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+      "url": "https://36kr.com/p/3916108853521792?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 13:38:46  +0800",
+      "summary": "<p>文 | 张卓倩</p>\n  <p>编辑 | 袁斯来</p>\n  <p>近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。</p>\n  <p>华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+      "url": "https://36kr.com/p/3916202023660929?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 12:10:36  +0800",
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。</p>\n  <p>陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+      "url": "https://36kr.com/p/3915175290901889?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 09:30:00  +0800",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。</p>\n  <p>尧乐科技以柔性织物传感为硬件入口，面向具身智能与世界模型所需的真实物理交互数据采集与预处理。创始人兼CEO吕莉蕴曾任国际汽车电子头部企业Harman首席架构工程师，曾主导多模态传感器融合计算",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+      "url": "https://36kr.com/p/3878652674715905?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 08:15:00  +0800",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。</p>\n  <p>米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+      "url": "https://36kr.com/p/3915953688604296?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 07:54:15  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决</li>\n   <li>小米已注册澎程关联商标</li>\n   <li>泡泡玛特城市乐园涨价</li>\n   <li>英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议</li>\n   <li>“抱抱脸”向OpenAI索赔1亿美元算力</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>韩国考虑为“借钱炒股”封顶20%</strong></p>\n  <p>韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+      "url": "https://36kr.com/p/3915066350327176?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-29 07:30:00  +0800",
+      "summary": "<p>当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24758v1 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most dir",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24764v1 Announce Type: new \nAbstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommen",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "url": "https://arxiv.org/abs/2607.24766",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24766v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share data flows and cross-view interactions, remain out of reach. Tight field-level coupling among data transformations, visual",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PATHFinder Agent for Tailored Prenatal Care",
+      "url": "https://arxiv.org/abs/2607.24768",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "url": "https://arxiv.org/abs/2607.24769",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feig",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+      "url": "https://arxiv.org/abs/2607.24770",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Pri",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+      "url": "https://arxiv.org/abs/2607.24771",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24771v1 Announce Type: new \nAbstract: Knowledge injection updates pretrained MLLMs with new factual or domain-specific knowledge, but fitting full authoritative answers can cause drift in non-updated behavior. Online distillation mitigates this drift by training on model-generated rollout",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking",
+      "url": "https://arxiv.org/abs/2607.24750",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24750v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are temporally overexposed: trained on vast contemporary corpora, they encode present-day concepts that make them unreliable narrators of the past. We present TimeCapsule, a 1.2B-parameter LLaMA-style causal model trained ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement",
+      "url": "https://arxiv.org/abs/2607.24765",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24765v1 Announce Type: new \nAbstract: Large language models (LLMs) can give different answers to the same decision problem across runs, and reverse a decision when their own prior answer returns as context. We ask whether this instability can be measured and partially reduced without chan",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising",
+      "url": "https://arxiv.org/abs/2607.24841",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24841v1 Announce Type: new \nAbstract: Autoregressive (AR) large language models (LLMs) are inherently inefficient at inference time because each generated token requires accessing the full set of model parameters, leading to low operational intensity and high energy consumption. Masked di",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Research Report on Noise-Shaped One-Bit Coefficients in Discrete Polynomial Fourier Extension",
+      "url": "https://arxiv.org/abs/2607.24868",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24868v1 Announce Type: new \nAbstract: This report studies noise-shaped one-bit coefficients in normalized discrete polynomial Fourier extension. For first-order Sigma-Delta quantization, the error is written as $e_k=u_k-q_k=\\Delta v_k$ with a uniformly bounded state. Discrete summation by",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CogArena: A Multimethod Evaluation of Cognitive Ability Structure in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.24999",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.24999v1 Announce Type: new \nAbstract: LLM cognitive scores are increasingly summarized as per-ability profiles whose dimensions should converge across tasks, respond selectively to matched interventions, and generalize beyond the models used to define them. We introduce CogArena, a proced",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DS@GT ARC at CheckThat! 2026: LLM-Based Trace Ranking and Grouped Reward Modeling for Multilingual Numerical Claim Verification",
+      "url": "https://arxiv.org/abs/2607.25069",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.25069v1 Announce Type: new \nAbstract: Automated verification of numerical claims is a challenging problem, as it requires both language understanding and quantitative reasoning. This paper describes our system for CLEF 2026 CheckThat! Task 2, which focuses on ranking reasoning traces gene",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Evaluating Communicative Belief Updates in Large Language Models via Implicature Recognition and Cancellation",
+      "url": "https://arxiv.org/abs/2607.25094",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.25094v1 Announce Type: new \nAbstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken bel",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deep Label-Wise Attentive Temporal Convolutional Networks Improve Medical Coding",
+      "url": "https://arxiv.org/abs/2607.25129",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.25129v1 Announce Type: new \nAbstract: Medical coding is the task of assigning a set of diagnosis and procedure codes for a hospitalization using recorded notes. It requires aggregating information from different parts of the text and focus to different sections for each individual code, m",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TabRank: Chain-of-Thought Distillation for Table Re-Rankers",
+      "url": "https://arxiv.org/abs/2607.25182",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.25182v1 Announce Type: new \nAbstract: The ability to retrieve relevant tables for answering questions is a key task for structured information retrieval. Multi-stage retrieval systems rely heavily on rerankers to refine candidate lists produced by efficient first-stage retrievers. As a re",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A scaling law of contextual persistence in human language",
+      "url": "https://arxiv.org/abs/2607.25184",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.25184v1 Announce Type: new \nAbstract: Human language exhibits lawful structure at the level of words (frequency, vocabulary growth) and word pairs (co-occurrence across distance). Here we show that the arrangement of words in sequence -- a central determinant of meaning -- obeys a compara",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "微信公众号这届产品经理不行，对产品的理解力约等于零。🐶",
+      "url": "https://nitter.net/dotey/status/2082594341466354046#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 29 Jul 2026 22:29:18 GMT",
+      "summary": "<p>微信公众号这届产品经理不行，对产品的理解力约等于零。🐶</p>\n<hr/>\n<blockquote>\n<b>XCaptain (@XCaptaincc)</b>\n<p>\n<p>微信公众号支持了md格式,遥遥领先!<br>\n我记得之前哪个大儒为他不做md辩经来着?</p>\n<img src=\"https://nitter.net/pic/media%2FHOZL2fHaYAAEFQg.png\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/XCaptaincc/status/2",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: your agents, anywhere try Cursor on iOS today",
+      "url": "https://nitter.net/ryolu_/status/2082539893729972320#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 29 Jul 2026 18:52:57 GMT",
+      "summary": "<p>your agents, anywhere<br>\n<br>\ntry Cursor on iOS today</p>\n<hr/>\n<blockquote>\n<b>Cursor (@cursor_ai)</b>\n<p>\n<p>Cursor is now on iPad.<br>\n<br>\nAll the power of Cursor on iPhone, with more room to work with agents.</p>\n<a href=\"https://nitter.net/cursor_ai/status/2082532273421955513#m\">\n<br>Video",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我一直是践行费曼学习法： 写作 -> 为了写作去学习实践 -> 分享 -> 接收反馈 -> 写作",
+      "url": "https://nitter.net/dotey/status/2082342804827570500#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Wed, 29 Jul 2026 05:49:47 GMT",
+      "summary": "<p>我一直是践行费曼学习法：<br>\n<br>\n写作 -&gt; 为了写作去学习实践 -&gt; 分享 -&gt;  接收反馈 -&gt; 写作</p>\n<hr/>\n<blockquote>\n<b>Zara Zhang (@zarazhangrui)</b>\n<p>\n<p>How I get endless content ideas, in one picture</p>\n<img src=\"https://nitter.net/pic/media%2FHOSxKaMboAAeSbL.png\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <c",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    }
+  ]
+}

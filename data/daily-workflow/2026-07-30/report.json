@@ -1,0 +1,165 @@
+{
+  "title": "GPT-5.6效率突破与Kimi 35亿融资并举，中美AI基础设施竞赛升温",
+  "date": "2026-07-30",
+  "summary": "今日AI领域热点密集：OpenAI连发三篇博文详述GPT-5.6在效率与ARC-AGI-3推理上的突破；微软确认年内推出Copilot\"超级应用\"，Meta Zuckerberg预言五年内数十亿人将拥有个人AI Agent；月之暗面Kimi完成超35亿美元融资，估值达350亿美元；英伟达签署500亿美元数据中心协议。中美在模型层、应用层与基础设施层同步加速。",
+  "tags": [
+    "大模型",
+    "AI应用",
+    "AI行业",
+    "企业AI转型",
+    "模型发布",
+    "产品发布",
+    "融资",
+    "Agent",
+    "热点"
+  ],
+  "highlight": {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "body": "OpenAI正式发布GPT-5.6，首次将前沿智能与前沿效率深度融合，通过架构与Agent工作流优化提升每美元智能产出。这不仅是模型能力迭代，更标志着行业竞争从参数规模转向效率与实用性，可能重塑下游AI应用的开发与部署范式。",
+    "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI发布GPT-5.6，强调前沿智能与效率融合",
+          "body": "OpenAI发布GPT-5.6，官方称其在前沿智能与推理效率上实现双重突破，通过架构与Agent工作流优化提升\"每美元智能\"产出。这标志着大模型竞争从单纯堆叠参数转向效率与能力并重，对下游应用商业化部署影响深远。",
+          "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "Sam Altman",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "两个API设置让GPT-5.6在ARC-AGI-3基准分数提升三倍",
+          "body": "OpenAI披露仅通过\"retaining reasoning\"和\"compaction\"两项API设置，便让GPT-5.6在ARC-AGI-3基准上得分提升三倍。该评测由François Chollet创立，专为检验抽象推理能力。结果显示，轻量配置优化即可带来复杂推理的显著跃升。",
+          "source_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source_name": "OpenAI Blog",
+          "importance": "high",
+          "related_entities": [
+            "François Chollet",
+            "GPT-5.6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simon Willison演示向Claude与ChatGPT添加自定义MCP服务器",
+          "body": "Simon Willison撰文演示如何向Claude与ChatGPT添加自定义MCP服务器。MCP协议正成为AI Coding关键基础设施，让模型能安全调用外部工具。尽管配置仍显繁琐，但这标志着主流聊天产品向可扩展Agent架构演进的重要一步，对开发者集成工作流意义重大。",
+          "source_url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "Claude",
+            "ChatGPT"
+          ]
+        },
+        {
+          "headline": "新型提示注入攻击可实现Word文档AI蠕虫自我复制",
+          "body": "安全研究者发现针对Microsoft Word的新型prompt injection攻击，可形成自我复制的AI蠕虫。攻击利用隐藏指令诱导AI助手生成并传播恶意内容。这暴露了LLM在办公自动化场景中的深层安全缺陷，为AI Coding与企业文档自动化应用的安全防护敲响警钟。",
+          "source_url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微软确认年内推出Copilot\"超级应用\"",
+          "body": "微软CEO Satya Nadella确认年内推出Copilot\"超级应用\"，融合聊天、编程与Agent能力，同时覆盖消费者与商业场景。这标志着微软不再将Copilot局限于Office插件，而是试图以统一AI入口颠覆传统应用分发模式，对AI应用生态竞争格局影响深远。",
+          "source_url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Satya Nadella",
+            "Microsoft"
+          ]
+        },
+        {
+          "headline": "Meta Zuckerberg预测五年内数十亿人将拥有个人AI Agent",
+          "body": "Meta CEO Mark Zuckerberg预测未来五年内数十亿人将拥有个人AI Agent。Meta正为此投入数百亿美元建设基础设施。这一愿景将AI Agent从企业工具推向消费级个人助手，意味着Meta可能依托社交生态大规模分发个性化Agent，加剧消费AI入口的竞争。",
+          "source_url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Mark Zuckerberg",
+            "Meta"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "月之暗面Kimi完成超35亿美元F轮融资，估值达350亿美元",
+          "body": "据36氪报道，月之暗面Kimi完成超35亿美元F轮融资，投后估值涨至350亿美元。此轮巨额融资巩固了其在国内大模型创业阵营的头部地位，反映出资本对长上下文与消费级AI产品的高度认可，也显示中国基础模型厂商在全球AI融资趋缓背景下仍具强大吸金能力。",
+          "source_url": "https://36kr.com/p/3916547493965442?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "杨植麟",
+            "月之暗面",
+            "Kimi"
+          ]
+        },
+        {
+          "headline": "英伟达据悉签署高达500亿美元得州数据中心租赁协议",
+          "body": "据36氪报道，英伟达已签署价值高达500亿美元的得州数据中心租赁协议。这是全球AI基础设施领域迄今最重磅的硬件部署信号之一，直接反映北美云端算力需求仍在爆炸性增长，将进一步巩固英伟达在AI基础设施产业链中的核心地位并带动周边投资。",
+          "source_url": "https://36kr.com/p/3915953688604296?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "Jensen Huang",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "周鸿祎发布纳米Work：新一代企业智能体工作平台",
+          "body": "360创始人周鸿祎发布\"纳米Work\"，定位新一代企业智能体工作平台，专为企业场景设计，试图通过AI Agent重构办公与业务流程。这标志着传统互联网安全厂商正向企业AI转型纵深切入，意图在B端Agent生态竞争中占据一席之地。",
+          "source_url": "https://www.qbitai.com/2026/07/462062.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "周鸿祎",
+            "360"
+          ]
+        },
+        {
+          "headline": "蚂蚁阿福上线\"AI拍饮食\"功能，切入企业健康管理",
+          "body": "蚂蚁集团阿福升级\"AI拍饮食\"功能，用户拍摄食物照片即可自动估算营养热量并建立个人\"热量账户\"。此前蚂蚁已战略投资薄荷健康。该功能将AI视觉与健康管理结合，代表蚂蚁在企业级健康服务与个人健康数据管理领域的AI转型深化。",
+          "source_url": "https://36kr.com/p/3916800672656773?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "蚂蚁集团",
+            "支付宝"
+          ]
+        }
+      ]
+    }
+  ]
+}
