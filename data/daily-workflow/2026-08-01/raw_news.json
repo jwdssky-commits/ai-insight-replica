@@ -1,0 +1,952 @@
+{
+  "date": "2026-08-01",
+  "collected_at": "2026-07-31T23:27:16.037053+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-31T23:13:22+00:00",
+      "summary": "<p>Tuesday was <a href=\"https://x.com/ade_oshineye/status/2082129440943866149\">Stateless MCP day</a> - the rollout of MCP 2.0, or <a href=\"https://blog.modelcontextprotocol.io/posts/2026-07-28/\">the 2026-07-28 Model Context Protocol specification</a> to use the more formal but less memorable name. T",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-31T21:33:13+00:00",
+      "summary": "<p><strong><a href=\"https://oxide-and-friends.transistor.fm/episodes/the-open-weight-revolution-with-simon-willison\">Oxide and Friends: The Open Weight Revolution with Simon Willison</a></strong></p>\nOn Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the <em>w",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-31T21:15:23+00:00",
+      "summary": "<p><strong><a href=\"https://primeradiant.com/blog/2026/smevals.html\">smevals - a small eval suite for evaluating models, prompts, and harnesses</a></strong></p>\nI've been working with Jesse Vincent's <a href=\"https://primeradiant.com\">Prime Radiant</a> applied AI research lab building out this evals",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-30T23:58:42+00:00",
+      "summary": "<p><strong><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">Advancing the price-performance frontier with GPT‑5.6</a></strong></p>\nHuge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop.</p>\n<p>OpenAI cre",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-30T23:41:29+00:00",
+      "summary": "<p><strong><a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">Investigating three real-world incidents in our cybersecurity evaluations</a></strong></p>\nIt happened again! This is turning into something of a pattern.</p>\n<p>Last week <a href=\"https://simonwillison.n",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm 0.32rc2",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-30T22:52:06+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32rc2\">llm 0.32rc2</a></p>\n        <p>Hot on the heels of <a href=\"https://simonwillison.net/2026/Jul/30/llm-rc1/\">RC1</a>, this fixes a dependency issue and also adds two neat new features:</p>\n<blockquote>\n<ul>\n<li>",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 22:47:26 +0000",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 21:07:45 +0000",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 16:08:18 +0000",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 15:16:17 +0000",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 14:47:11 +0000",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 14:00:00 +0000",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-31T15:13:29-04:00",
+      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Here’s the problem with putting an AI image generator in Google Earth",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-31T13:05:46-04:00",
+      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in G",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The major labels propose rules to keep AI slop off the charts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-31T12:36:48-04:00",
+      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the Internation",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "It’s time to panic about AI safety",
+      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-31T10:03:04-04:00",
+      "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-07-31T09:41:17-04:00",
+      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "summary": "<p>How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/\">Don&#8217;t stop early: Case",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to evaluate Sourcegraph on your own codebase",
+      "url": "https://sourcegraph.com/blog/how-to-evaluate-sourcegraph-on-your-own-codebase",
+      "source": "Sourcegraph Blog (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "summary": "Better code retrieval does not automatically mean better task completion. Here is how to measure retrieval, agent performance, and cost without confusing one for another.",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Autoscaling endpoints for LLM inference",
+      "url": "https://www.together.ai/blog/autoscaling-endpoints-for-llm-inference",
+      "source": "Together AI (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "summary": "GPU utilization can read healthy while your queue backs up, and a new replica takes minutes to warm. Here's how to pick autoscaling metrics, tune scale-up/down windows, and budget for cold starts on dedicated inference.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway now supports team and project spend budgets",
+      "url": "https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T17:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Flash now runs updated weights on AI Gateway",
+      "url": "https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel MCP now supports the 2026-07-28 MCP specification",
+      "url": "https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Expanded search for workflow runs in Vercel Observability",
+      "url": "https://vercel.com/changelog/expanded-search-for-workflow-runs-in-vercel-observability",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "10x more capacity for Laguna S 2.1 on AI Gateway",
+      "url": "https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Passport is now generally available",
+      "url": "https://vercel.com/changelog/vercel-passport-generally-available",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway adds unified fast mode support",
+      "url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 31 Jul 2026 12:16:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 31 Jul 2026 09:00:00 +0000",
+      "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+      "url": "https://www.qbitai.com/2026/07/464328.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 09:11:32 +0000",
+      "summary": "开源项目GitHub狂揽8000+Star",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+      "url": "https://www.qbitai.com/2026/07/464329.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 08:48:22 +0000",
+      "summary": "行业独家的30s视频原生直出",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+      "url": "https://www.qbitai.com/2026/07/464277.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 08:28:30 +0000",
+      "summary": "尽显AGI黄金时代的奢华",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "米哈游蔡浩宇AI创业生变",
+      "url": "https://www.qbitai.com/2026/07/464169.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 07:22:37 +0000",
+      "summary": "多个项目暂停，九成资源押向Agent",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "姚顺雨拿50年数学难题成绩单，招人了",
+      "url": "https://www.qbitai.com/2026/07/464100.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 06:54:57 +0000",
+      "summary": "AI for Science方向",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "学习强国做了个AI社区，两周铺进68座城市",
+      "url": "https://www.qbitai.com/2026/07/463727.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 06:47:00 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "GPT-5.6今起大降价，最大幅度80%！",
+      "url": "https://www.qbitai.com/2026/07/463640.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 31 Jul 2026 03:01:21 +0000",
+      "summary": "Luna打骨折",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+      "url": "https://36kr.com/p/3919386961177985?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 23:23:43  +0800",
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p>国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。</p>\n  <p>主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。</p>\n  <h3><strong>融资情况</strong></h3>\n  <p>近日，丘脑智",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+      "url": "https://36kr.com/p/3910776673064073?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 18:27:38  +0800",
+      "summary": "<p>文｜王毓婵 兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。</p>\n  <p>36氪就此事向B站方面求证，对方暂无回应。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1404,1250\" src=\"https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg125",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+      "url": "https://36kr.com/p/3919378312670857?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 18:01:34  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>途牛：8月中上旬或将迎新一轮客流高峰</strong></p>\n  <p>36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。</p>\n  <p><strong>Prada集团上半年营收增长16%，Miu Miu增速显著放缓</strong></p>\n  <p>2026年上半年，Prada集团营收按固定汇率计同比增长16%",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "开云的转折：在中国，做一个AI乐观派",
+      "url": "https://36kr.com/p/3919225763540611?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:58:59  +0800",
+      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子 黄绎达</p>\n  <p><strong>编辑 |</strong>&nbsp;张帆</p>\n  <p>开云的转型初见成效。</p>\n  <p>7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。</p>\n  <p>更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。</p>\n  <p>其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+      "url": "https://36kr.com/p/3919301778288261?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:40:43  +0800",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。</p>\n  <p>前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。</p>\n  <p>Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+      "url": "https://36kr.com/p/3919112515956355?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:24:28  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1829,860\" src=\"https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">你的创业想法，值得被看见</p>\n  <p>有人在寻找新的增长机",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+      "url": "https://36kr.com/p/3919271016263303?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:12:09  +0800",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>低空经济正从飞行器制造走向城市治理。</p>\n  <p>7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。</p>\n  <p>据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成，依托高精度低空空域时空信息格网，可实现机场智能调度、航线自动生成、障碍物智能规避等能力，支持“一键直飞”“接力续飞”“临时转飞”等自动化飞行模",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+      "url": "https://36kr.com/p/3919137999957382?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 14:00:25  +0800",
+      "summary": "<p>AI在企业端的快速渗透正在被持续验证。</p>\n  <p>7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。</p>\n  <p>分业务来看，<strong>与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎</strong>。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+      "url": "https://36kr.com/p/3917874427555457?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 09:52:24  +0800",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。</p>\n  <p>昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。</p>\n  <p>目前具身智能赛道",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
+      "url": "https://36kr.com/p/3918250549931394?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 08:30:54  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,1030\" src=\"https://img.36krcdn.com/hsossms/20260730/v2_9d3d000f10844662a54a670276214ec8@6314151_oswg1303745oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>所有人都在尝试建立关于AI的判断，但所有共",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation",
+      "url": "https://arxiv.org/abs/2607.27210",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27210v1 Announce Type: new \nAbstract: The exponential growth of scholarly publications requires automated tools for effective information synthesis. However, simple, single-shot prompting methods often lack the reliability and quality required for complex synthesis tasks. This paper intro",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI-assisted pre-review of open-source software submissions: an experience report from BOSC 2026",
+      "url": "https://arxiv.org/abs/2607.27228",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27228v1 Announce Type: new \nAbstract: Most conferences rely on peer-review of submissions, but as generative AI makes it easier than ever to prepare submission materials, some conferences are seeing an overwhelming surge of submissions. We wanted to see if generative AI could help our con",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups",
+      "url": "https://arxiv.org/abs/2607.27232",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27232v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly shaping how we consume information and form our worldview. This raises concerns beyond bias in AI: do LLMs grasp the emotional nuances conveyed via textual framing? In this work, we empirically evaluate ho",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.27353",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27353v1 Announce Type: new \nAbstract: Agentic retrieval-augmented generation systems can produce answers that appear grounded while failing at the evidence, tool-contract, authorization, or session-state layer. We introduce LayerRAG-Bench, a controlled cross-layer reliability benchmark wi",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences",
+      "url": "https://arxiv.org/abs/2607.27366",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27366v1 Announce Type: new \nAbstract: While data synthesis for large language models (LLMs) is prevalent, it primarily targets domains with verifiable answers, overlooking open-ended humanities and social sciences (HSS), where nuanced quality judgments matter more than objective correctne",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs",
+      "url": "https://arxiv.org/abs/2607.27379",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27379v1 Announce Type: new \nAbstract: High-quality, diverse data are vital for large language models (LLMs) but remain scarce and costly. Data synthesis is a viable alternative and succeeds on closed tasks, yet the humanities and social sciences (HSS) are overlooked, and their open-ended ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Same Facts, Different Diagnosis: Measuring and Mitigating Narrative Anchoring in Clinical Language Models",
+      "url": "https://arxiv.org/abs/2607.27384",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27384v1 Announce Type: new \nAbstract: Large language models used for clinical diagnostic reasoning are sensitive to sociolinguistic register, not just clinical content. We term this failure mode Narrative Anchoring: identical clinical facts expressed in different registers cause diagnosti",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AHA-Memes: A Fine-Grained Multimodal Benchmark for Understanding Hate in Arabic Memes",
+      "url": "https://arxiv.org/abs/2607.27393",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27393v1 Announce Type: new \nAbstract: Hateful memes are a growing form of multimodal online harm, where hostile intent is often conveyed through the joint interpretation of images, text, cultural references, and implicit targets. While hateful meme detection has advanced in high-resource ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Benchmarking LLM Competence on Logical Inference over Probability Operators",
+      "url": "https://arxiv.org/abs/2607.27405",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27405v1 Announce Type: new \nAbstract: Both expressions of uncertainty and inferences are ubiquitous in natural language, and valid inferences over natural-language expressions of uncertainty are necessary for not only everyday conversations but also for high-stakes domains such as medicin",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Selecting Open-Weight Language Models for Zero-Shot Intent Classification: A Systematic Evaluation of 41 Models",
+      "url": "https://arxiv.org/abs/2607.27421",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 31 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.27421v1 Announce Type: new \nAbstract: Intent classification is a core component of task-oriented dialogue systems, yet practitioners have limited systematic guidance for selecting deployable open-weight language models under compute, latency, and robustness constraints. We present a syste",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4-Flash 正式版 API 上线，原生适配 Codex DeepSeek 今天把 V4-Flash 从预览版升级为正式版 API，版本号 0731。模型架构和参数规模没变，还是 284B 总参数、13B 激活的混合专家架构，改动集中在后训练上。 升级的核心是智能体（Agent）能力。DeepSeek 的说法是“多项 Agent 基准成绩大幅超过此前的 V4-Pro-Preview”。这句话的意思是，便宜的那个模型（Flash）经过后训练调优之后，在编程和工具调用任务上反超了贵的那个模型（Pro）的预览版。Pro 的正式版还没出，所以这个对比有时间差，但趋势本身值得关注：后训练对智能体场景的提升空间可能比很多人想的大。 另一个看点是 V4-Flash 现在原生支持 Responses API 格式，专门针对 OpenAI 的 Codex 做了适配。Codex 是 OpenAI 的 AI 编程助手，覆盖命令行工具（CLI）、ChatGPT 桌面端和 VS Code 扩展三个入口。之前 DeepSeek 的 API 只兼容 OpenAI ChatCompletions 和 Anthropic 两种格式，想接 Codex 得走代理转换。现在这个中间层不需要了，DeepSeek 甚至提供了一键配置脚本，跑完之后 Codex 所有客户端自动切换到 DeepSeek 模型。 你可以用每百万 Token 输入 0.14 美元、输出 0.28 美元的价格跑 AI 编程任务，同时享受 100 万 Token 的上下文窗口。做个对比，Codex 默认使用的 OpenAI 自家模型，同等量级的价格要贵上一个数量级。对于跑大量 Agent 循环的编程任务来说，Token 成本不是差个百分比的问题，是完全不同的成本结构。 有两点需要注意： 第一，这次只升级了 API 接口，DeepSeek 的 App 和网页端模型没有变化，普通用户暂时感知不到区别。 第二，V4-Pro 的正式版还没发布，官方只说\"尽快上线\"，具体时间未知。",
+      "url": "https://nitter.net/dotey/status/2083087254101086539#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 31 Jul 2026 07:07:57 GMT",
+      "summary": "<p>DeepSeek V4-Flash 正式版 API 上线，原生适配 Codex<br>\n<br>\nDeepSeek 今天把 V4-Flash 从预览版升级为正式版 API，版本号 0731。模型架构和参数规模没变，还是 284B 总参数、13B 激活的混合专家架构，改动集中在后训练上。<br>\n<br>\n升级的核心是智能体（Agent）能力。DeepSeek 的说法是“多项 Agent 基准成绩大幅超过此前的 V4-Pro-Preview”。这句话的意思是，便宜的那个模型（Flash）经过后训练调优之后，在编程和工具调用任务上反超了贵的那个模型（Pro）的预览版。Pro 的正式版还没出，",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "只要去山寨 Codex，体验就不会差；底层只要用 PI 或者 Claude Code 的 SDK，那功能就不会差；只要接聪明一点的模型，能力就不会差。大厂如果舍不得落下脸山寨、什么都要从头搭、还只能用有限的自家模型，那效果当然不会好，人也不会少。",
+      "url": "https://nitter.net/dotey/status/2083061899676061848#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 31 Jul 2026 05:27:12 GMT",
+      "summary": "<p>只要去山寨 Codex，体验就不会差；底层只要用 PI 或者 Claude Code 的 SDK，那功能就不会差；只要接聪明一点的模型，能力就不会差。大厂如果舍不得落下脸山寨、什么都要从头搭、还只能用有限的自家模型，那效果当然不会好，人也不会少。</p>\n<img src=\"https://nitter.net/pic/media%2FHOiFv-8XsAA_7SG.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "一位刚走 OpenAI 的软件工程师面试完全流程的候选人在 Reddit 上分享了详细经历。面试共五到六轮，整体偏向分布式系统能力，和传统大厂刷算法题的路子差别很大，面试加了一个新环节：考你指挥 AI 写代码的能力。 招聘电话先聊你对 AI 方向的判断，建议提前读 OpenAI 的公司章程。然后两轮各 60 分钟的技术面：一轮写代码（带版本管理的键值存储），一轮系统设计（有容错机制的任务调度器）。 接着是 48 小时的 take-home 项目，要交付一个能跑的系统。这位候选人拿到的题是分布式 webhook 投递，要实现重试逻辑和死信队列。做完后面试官逐行过代码，每个设计决策都得解释。 现场面试四轮：两轮编程（一轮渐进式多阶段题，一轮偏系统底层，考 Python 的生成器、异步和并发），一轮系统设计（题目是\"设计 ChatGPT\"，重点看 GPU 分配、自动扩缩容和分布式协调），一轮行为面。行为面不收软技能套话，要的是真实的技术领导力案例，在压力下怎么推动跨团队达成共识。 最有意思的是还在 beta 阶段的第六轮：Agentic Coding Round。给你一个现有代码库加一个靠手写搞不定的大问题，要求你用 AI Coding Agent 来完成。不是所有候选人都会遇到这一轮，但方向很明确。 但它的存在已经说明了方向：在 OpenAI 眼里，“会驾驭 AI 工具写代码”正在从一个加分项变成工程师的基本功。对于正在准备 AI 公司面试的工程师来说，光刷 LeetCode 可能不够用了，怎么跟 AI 编程工具协作、怎么拆解大型问题交给 Agent 去执行，这些能力可能很快会出现在更多公司的面试流程里。",
+      "url": "https://nitter.net/dotey/status/2083014693765984324#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 31 Jul 2026 02:19:38 GMT",
+      "summary": "<p>一位刚走 OpenAI 的软件工程师面试完全流程的候选人在 Reddit 上分享了详细经历。面试共五到六轮，整体偏向分布式系统能力，和传统大厂刷算法题的路子差别很大，面试加了一个新环节：考你指挥 AI 写代码的能力。<br>\n<br>\n招聘电话先聊你对 AI 方向的判断，建议提前读 OpenAI 的公司章程。然后两轮各 60 分钟的技术面：一轮写代码（带版本管理的键值存储），一轮系统设计（有容错机制的任务调度器）。<br>\n<br>\n接着是 48 小时的 take-home 项目，要交付一个能跑的系统。这位候选人拿到的题是分布式 webhook 投递，要实现重试逻辑和死信队列。做完后面试",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Proud parent moment: Helping my youngest son (14) install and set up Hermes Agent on his gaming rig today. Gotta get ‘em started early! 🪽",
+      "url": "https://nitter.net/tonysimons_/status/2083285397375693237#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 20:15:18 GMT",
+      "summary": "<p>Proud parent moment:<br>\n<br>\nHelping my youngest son (14) install and set up Hermes Agent on his gaming rig today.<br>\n<br>\nGotta get ‘em started early! 🪽</p>\n<img src=\"https://nitter.net/pic/media%2FHOlRBr0WIAAVhCV.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: One of the most meaningful milestones for Hermes Desktop: I’ve successfully replaced Cursor for myself. I was effectively a one-person, $20K–$40K/month Cursor enterprise customer for far too long. Now, Hermes’s parallelism and autonomy are genuinely better and faster for how I work. I think that’s because Hermes Desktop is built around a simple premise: coding is no longer about completing one or two tasks at a time. It empowers you to run multiple streams of work without getting in your way, losing the plot, or taking away control. What makes this especially exciting is how much room there still is to improve: context optimization, smarter built-in coding nudges, and so much more. There’s still a long way to go, but reaching the point where I genuinely prefer the product I built feels like a major milestone worth sharing. @NousResearch @Teknium",
+      "url": "https://nitter.net/imbabybrooklyn/status/2083305754396692501#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 21:36:12 GMT",
+      "summary": "<p>One of the most meaningful milestones for Hermes Desktop: I’ve successfully replaced Cursor for myself.<br>\n<br>\nI was effectively a one-person, $20K–$40K/month Cursor enterprise customer for far too long. Now, Hermes’s parallelism and autonomy are genuinely better and faster for how I work.<br>\n",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: The new DeepSeek v4 Flash is now available in Hermes Agent through Nous Portal and OpenRouter",
+      "url": "https://nitter.net/Teknium/status/2083232881342902562#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 16:46:38 GMT",
+      "summary": "<p>The new DeepSeek v4 Flash is now available in Hermes Agent through Nous Portal and OpenRouter</p>\n<img src=\"https://nitter.net/pic/media%2FHOkhQCJbYAEunBu.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>DeepSeek (@deepseek_ai)</b>\n<p>\n<p>🚀 DeepSeek-V4-Flash Official API is now LIVE in pub",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The first official Hermes Desktop plugin is Kanban, now desktop native by popular request and significantly upgraded. A plugin can add its own page, sidebar row, hotkeys, status bar actions, and backend endpoints. You can write your own plugin or import one using the SDK.",
+      "url": "https://nitter.net/NousResearch/status/2083257053338898730#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 18:22:41 GMT",
+      "summary": "<p>The first official Hermes Desktop plugin is Kanban, now desktop native by popular request and significantly upgraded.<br>\n<br>\nA plugin can add its own page, sidebar row, hotkeys, status bar actions, and backend endpoints. You can write your own plugin or import one using the SDK.</p>\n<a href=\"ht",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: hermes-agent.nousresearch.co…",
+      "url": "https://nitter.net/NousResearch/status/2083257097622315491#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 18:22:51 GMT",
+      "summary": "<p><a href=\"https://hermes-agent.nousresearch.com/docs/developer-guide/desktop-plugin-sdk\">hermes-agent.nousresearch.co…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/developer-guide/desktop-plugin-sdk\">\n<img src=\"https://nitter.net/pic/card_img%2F2081600934962946",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Hermes and Pi Agent led on the average cost per task, while Claude Code cost about 3.7x as much as Pi: - $0.39 Hermes Agent - $0.40 Pi Agent - $0.47 Codex - $0.51 OpenCode - $0.54 Kimi Code - $1.47 Claude Code The median cost tells the same story: $0.29 in Pi Agent and Hermes, $0.35 in OpenCode, $0.38 in Kimi Code, $0.39 in Codex and $0.72 in Claude Code, so the cost gap holds for a typical task and is not driven by a few expensive runs. We calculated these costs using Kimi K3’s list prices: $3/1M input tokens, $0.30/1M cached input tokens, and $15/1M output tokens.",
+      "url": "https://nitter.net/composio/status/2083161879489220722#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 12:04:30 GMT",
+      "summary": "<p>Hermes and Pi Agent led on the average cost per task, while Claude Code cost about 3.7x as much as Pi:<br>\n<br>\n- $0.39 Hermes Agent<br>\n- $0.40 Pi Agent<br>\n- $0.47 Codex<br>\n- $0.51 OpenCode<br>\n- $0.54 Kimi Code<br>\n- $1.47 Claude Code<br>\n<br>\nThe median cost tells the same story: $0.29 in Pi",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We have opened free FLUX 3 Preview usage to all Nous Portal users, including the free tier. No subscription required to test out the model! https://portal.nousresearch.com/signup",
+      "url": "https://nitter.net/NousResearch/status/2083204176268386493#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 14:52:34 GMT",
+      "summary": "<p>We have opened free FLUX 3 Preview usage to all Nous Portal users, including the free tier. <br>\n<br>\nNo subscription required to test out the model!<br>\n<br>\n<a href=\"https://portal.nousresearch.com/signup\">portal.nousresearch.com/sign…</a></p>\n<a href=\"https://nitter.net/NousResearch/status/208",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: May have found the highest and best use case of Flux 3 - generating GPU ASMR ✨ For everyone who has been asking for access, it’s available NOW in an early preview on @NousResearch Hermes Agent.",
+      "url": "https://nitter.net/venturetwins/status/2083018130255913366#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 02:33:17 GMT",
+      "summary": "<p>May have found the highest and best use case of Flux 3 - generating GPU ASMR ✨<br>\n<br>\nFor everyone who has been asking for access, it’s available NOW in an early preview on <a href=\"https://nitter.net/NousResearch\" title=\"Nous Research\">@NousResearch</a> Hermes Agent.</p>\n<a href=\"https://nitte",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: your Hermes Agent can make films now! FLUX 3 Preview is live, only on Hermes Agent, and free on every Nous Portal paid sub for the next 48 hours. we are running a short contest to launch it, see in the post below. first place takes a year of free FLUX 3 generation, $2,000 in Portal credits and a Nous hoodie. it is time to amaze us 📽️",
+      "url": "https://nitter.net/witcheer/status/2083014203741475259#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 31 Jul 2026 02:17:41 GMT",
+      "summary": "<p>your Hermes Agent can make films now!<br>\n<br>\nFLUX 3 Preview is live, only on Hermes Agent, and free on every Nous Portal paid sub for the next 48 hours.  <br>\n<br>\nwe are running a short contest to launch it, see in the post below. first place takes a year of free FLUX 3 generation, $2,000 in P",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is AI reasoning right for the wrong reasons? (101pts)",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-31T15:29:39Z",
+      "summary": "HN热度: 101分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Situational Awareness down 67% in July in AI stock rout (139pts)",
+      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+      "source": "Hacker News (API)",
+      "published": "2026-07-31T13:37:36Z",
+      "summary": "HN热度: 139分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis (506pts)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "source": "Hacker News (API)",
+      "published": "2026-07-31T07:59:11Z",
+      "summary": "HN热度: 506分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI (473pts)",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "source": "Hacker News (API)",
+      "published": "2026-07-31T07:29:22Z",
+      "summary": "HN热度: 473分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
