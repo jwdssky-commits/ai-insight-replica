@@ -1,0 +1,568 @@
+{
+  "date": "2026-08-02",
+  "collected_at": "2026-08-01T23:17:16.562302+00:00",
+  "item_count": 46,
+  "items": [
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Greg Brockman",
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-01T22:29:44+00:00",
+      "summary": "<blockquote cite=\"https://twitter.com/gdb/status/2083435180392673714\"><p>at openai, many people hook their chatgpt up to slack.</p>\n<p>people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by th",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "datasette-apps 0.2a0",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-01T21:23:56+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.2a0\">datasette-apps 0.2a0</a></p>\n        <blockquote>\n<p>Changes that improve Datasette Apps when created and edited using <a href=\"https://agent.datasette.io/\">Datasette Agent</a>:</p>\n<ul>\n<li>New <co",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-01T20:34:49+00:00",
+      "summary": "<p><strong><a href=\"https://openai.com/index/ten-advances-in-mathematics/\">Ten advances in mathematics and theoretical computer science</a></strong></p>\nA few days ago it was Anthropic <a href=\"https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/\">discovering crypt",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-31T23:59:44+00:00",
+      "summary": "<p><strong><a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\">deepseek-ai/DeepSeek-V4-Flash-0731</a></strong></p>\nThe latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to p",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm-mcp-client 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-31T23:03:47+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0\">llm-mcp-client 0.1a0</a></p>\n        <p>See <a href=\"https://simonwillison.net/2026/Jul/31/stateless-mcp/#llm-mcp-client\">this blog entry</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwilli",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Slack Emoji Maker",
+      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-07-31T20:18:05+00:00",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/slack-emoji-maker\">Slack Emoji Maker</a></p>\n        <p>I wanted to create a new Slack emoji, and their tool recommends a square that's 128x128 and has a transparent background... so I <a href=\"https://github.com/simonw/tools/pull/30",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 01 Aug 2026 15:58:17 +0000",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-01T14:20:00-04:00",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK now supports reactions and ephemeral messages on Teams",
+      "url": "https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway logs now have a dedicated page",
+      "url": "https://vercel.com/changelog/ai-gateway-logs",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Server-Timing response headers will pass through to the client",
+      "url": "https://vercel.com/changelog/server-timing-header",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-30T12:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "url": "https://www.qbitai.com/2026/08/464781.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 10:45:46 +0000",
+      "summary": "具身智能的τ（bushi）",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "获奖之后，王虹最想感谢的人",
+      "url": "https://www.qbitai.com/2026/08/464761.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 10:38:47 +0000",
+      "summary": "\"他真的给了我很大的帮助\"",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "url": "https://www.qbitai.com/2026/08/464713.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 10:33:18 +0000",
+      "summary": "狂刷3小时！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "url": "https://www.qbitai.com/2026/08/464693.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 05:02:49 +0000",
+      "summary": "对前沿实验室估值悲观",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 04:53:33 +0000",
+      "summary": "下一场竞争，是谁能造出更多“有用的世界”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+      "url": "https://www.qbitai.com/2026/08/464452.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 03:38:10 +0000",
+      "summary": "三本教科书，救活英伟达",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic模型，也失控了。。。",
+      "url": "https://www.qbitai.com/2026/08/464412.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 03:18:46 +0000",
+      "summary": "14万次测试翻旧账",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI顶会现场，见到了一家美妆巨头",
+      "url": "https://www.qbitai.com/2026/08/464364.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 01 Aug 2026 02:52:18 +0000",
+      "summary": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+      "url": "https://36kr.com/p/3920595518533250?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-08-01 14:37:32  +0800",
+      "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+      "url": "https://36kr.com/p/3920241240419720?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-08-01 08:38:59  +0800",
+      "summary": "<h2>今日热点导览</h2>\n  <p>字节跳动发布视频创作模型Seedance 2.5</p>\n  <p>长鑫科技市值突破4万亿</p>\n  <p>人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线</p>\n  <p>韩国KOSPI指数上涨18%</p>\n  <p>Anthropic称AI模型在测试期间误侵三家真实机构系统</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>马斯克回应特斯拉剥离中国业务</strong></p>\n  <p>7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 这种血的教训真的是得自己踩过坑之后才会发现有多痛。 我们团队也是3个月前买.io域名，但是没买.ai因为要美金五位数。当时的逻辑是先开始stealth开发，验证产品，把价值做到位再说。 但是2周前，我在停车场等队友来开门时刷手机突然刷到另一个团队的launch video。没错，撞名了，而且是竞品。人家买了.ai的域名并且上个月开始申请注册商标了。晴天霹雳。 经过一轮激烈讨论后，我们从“跟他们一杠到底”转到了“算了，不值得，还有很多更重要的事情需要我们的精力和时间”。之后我们连夜重新起名、买新域名、改代码。我至今还会经常口误提起那个不再属于我们的名字。 所以，如果再来一次的话，我也一定会像这个startup这样一开始就把域名和商标盘下来。倒也不一定要花25万美金这么多，但最起码省去很多后顾之忧。",
+      "url": "https://nitter.net/Jenny_the_Bunny/status/2083663347925569933#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 21:17:09 GMT",
+      "summary": "<p>这种血的教训真的是得自己踩过坑之后才会发现有多痛。<br>\n<br>\n我们团队也是3个月前买.io域名，但是没买.ai因为要美金五位数。当时的逻辑是先开始stealth开发，验证产品，把价值做到位再说。<br>\n<br>\n但是2周前，我在停车场等队友来开门时刷手机突然刷到另一个团队的launch video。没错，撞名了，而且是竞品。人家买了.ai的域名并且上个月开始申请注册商标了。晴天霹雳。<br>\n<br>\n经过一轮激烈讨论后，我们从“跟他们一杠到底”转到了“算了，不值得，还有很多更重要的事情需要我们的精力和时间”。之后我们连夜重新起名、买新域名、改代码。我至今还会经常口误提起那个不",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 我从没有说 code review 要坚持古法，我说的是至少先看到下面的程度。得到的回应是，就是不看 code，宁可去看其它东西（比如最喜爱的 test case）来问问题，就是故意不看生成的 code。这就是为了不看而不看。为了 ego 而不看。",
+      "url": "https://nitter.net/middlefeng/status/2083647550775767231#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 20:14:23 GMT",
+      "summary": "<p>我从没有说 code review 要坚持古法，我说的是至少先看到下面的程度。得到的回应是，就是不看 code，宁可去看其它东西（比如最喜爱的 test case）来问问题，就是故意不看生成的 code。这就是为了不看而不看。为了 ego 而不看。</p>\n<hr/>\n<blockquote>\n<b>FENG DONG (@middlefeng)</b>\n<p>\n<p>至少你要看到能问问题的程度吧？</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/middlefeng/status/2080688693476790559#m\"",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 应聘 AI Agent 工程师，面试官问了一个这样的问题，我刚好做过，如图。 问：在 LLM 流式输出模式下，如何最大限度的保证 UI 渲染的性能？ 核心是别让 UI 做蠢事： 1. 不要每次 token 到来都从头渲染整段内容 应该增量追加节点，或按节流窗口批量刷新。否则输出越长，每次重绘成本越高。 2. 不要塞重型 UI 组件。比如现成的代码高亮渲染、重型表格等，可以自己封装轻量渲染组件。 3. 流式渲染要节流 LLM token 来得很碎，UI 不需要跟每个 token 同频刷新。比如 100-300ms 合并一次，观感仍然实时，性能稳定很多。也可以结合字符串长度节流。 5. 交互能力和渲染能力分离 对输出内容的二次加工、审批动作等做分离。 一句话：LLM 流式 UI 的性能优化，不是更快地重绘，而是少重绘、轻节点、按需交互。 大家继续补充...",
+      "url": "https://nitter.net/xiongchun007/status/2083560171243274256#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 14:27:10 GMT",
+      "summary": "<p>应聘 AI Agent 工程师，面试官问了一个这样的问题，我刚好做过，如图。<br>\n<br>\n问：在 LLM 流式输出模式下，如何最大限度的保证 UI 渲染的性能？<br>\n<br>\n核心是别让 UI 做蠢事：<br>\n<br>\n1. 不要每次 token 到来都从头渲染整段内容<br>\n应该增量追加节点，或按节流窗口批量刷新。否则输出越长，每次重绘成本越高。<br>\n<br>\n2. 不要塞重型 UI 组件。比如现成的代码高亮渲染、重型表格等，可以自己封装轻量渲染组件。<br>\n<br>\n3. 流式渲染要节流<br>\nLLM token 来得很碎，UI 不需要跟每个 token 同频刷",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "为了节约上下文 handoff 新开 Session，这在半年一年前是很好的实践，现在没太有必要，因为 codex 自己上下文压缩做的很好了，或者 /compact 一下继续就足够了。 当然如果关系不大的任务，还是新开 Session 更好。 当然除此之外 handoff 还是适用于跨 Agent session 的，比如 Claude Code 里面没完成的 session 让 Codex 继续。 不过我更习惯于 Claude Code 里面用 Fable 5 写技术方案文档，然后反复 Review、修改后把文档交给 Codex，配合 /goal 让它按照文档执行推进。 当然设置好严格的验收标准也很有必要，否则它会偷懒。 之前一个迁移任务没有设置验收标准，它就给我交付了一个差强人意的，离我要求的还有比较大差距。（参考图1） 重新加上了验收标准：UI 界面像素要和原版完全一致，那么它每一步都会截图对比像素差异，直到完全一致（或者可以忽略的差异）",
+      "url": "https://nitter.net/dotey/status/2083620270959480931#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 18:25:59 GMT",
+      "summary": "<p>为了节约上下文 handoff 新开 Session，这在半年一年前是很好的实践，现在没太有必要，因为 codex 自己上下文压缩做的很好了，或者 /compact 一下继续就足够了。<br>\n<br>\n当然如果关系不大的任务，还是新开 Session 更好。<br>\n<br>\n当然除此之外 handoff 还是适用于跨 Agent session 的，比如 Claude Code 里面没完成的 session 让 Codex 继续。<br>\n<br>\n不过我更习惯于 Claude Code 里面用 Fable 5 写技术方案文档，然后反复 Review、修改后把文档交给 Codex，配",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 频繁到 80% 并不是什么大问题，compact 并不会频繁执行，因为执行太多一方面影响正在执行任务上下文准确性（也许压缩后，需要重新补充上下文），一方面也不能充分利用 Prompt Caching。https://x.com/Tz_2022/status/2083627052721131721?s=20 并不用太担心上下文 80% 影响性能的问题，因为现在模型处理长上下文能力已经很强，Harness 层也会补充一些提示信息，最新要做的事都在 prompt 最后的位置，能保证模型执行当前任务的注意力，所以对任务执行影响不大。 Handoff 并不能解决这种问题，只能适当缓解，因为新开session 也会很快因为补充上下文又会满。你不可能一直盯着它也没必要。 最佳方式就是相信它能自己处理好，设置好如何验证让它少走弯路少人工干预才是最佳使用方式。",
+      "url": "https://nitter.net/dotey/status/2083639136250916926#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 19:40:56 GMT",
+      "summary": "<p>频繁到 80% 并不是什么大问题，compact 并不会频繁执行，因为执行太多一方面影响正在执行任务上下文准确性（也许压缩后，需要重新补充上下文），一方面也不能充分利用 Prompt Caching。<a href=\"https://nitter.net/Tz_2022/status/2083627052721131721?s=20\">nitter.net/Tz_2022/status/2083627…</a><br>\n<br>\n并不用太担心上下文 80% 影响性能的问题，因为现在模型处理长上下文能力已经很强，Harness 层也会补充一些提示信息，最新要做的事都在 prompt 最后的",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我一直觉得这种测试只能测试 SVG 画图能力，并不太能体现智能水平，或者有什么理由通过这个测试能反映智能水平？",
+      "url": "https://nitter.net/dotey/status/2083628609298645065#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 18:59:07 GMT",
+      "summary": "<p>我一直觉得这种测试只能测试 SVG 画图能力，并不太能体现智能水平，或者有什么理由通过这个测试能反映智能水平？</p>\n<hr/>\n<blockquote>\n<b>Simon Willison (@simonw)</b>\n<p>\n<p>Got a disappointing pelican from DeepSeek-V4-Flash-0731 at default reasoning mode - on the left - but then I bumped reasoning up to high (via OpenRouter) and got the much better o",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "为了节约上下文 handoff 新开 Session，这在半年一年前是很好的实践，现在没太有必要，因为 codex 自己上下文压缩做的很好了，或者 /compact 一下继续就足够了。 当然如果关系不大的任务，还是新开 Session 更好。 当然除此之外 handoff 还是适用于跨 Agent session 的，比如 Claude Code 里面没完成的 session 让 Codex 继续。 不过我更习惯于 Claude Code 里面用 Fable 5 写技术方案文档，然后反复 Review、修改后把文档交给 Codex，配合 /goal 让它按照文档执行推进。 当然设置好严格的验收标准也很有必要，否则它会偷懒。 之前一个迁移任务没有设置验收标准，它就给我交付了一个差强人意的，离我要求的还有比较大差距。（参考图1） 重新加上了验收标准：UI 界面像素要和原版完全一致，那么它每一步都会截图对比像素差异，直到完全一致（或者可以忽略的差异）",
+      "url": "https://nitter.net/dotey/status/2083620982338486614#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 18:28:48 GMT",
+      "summary": "<p>为了节约上下文 handoff 新开 Session，这在半年一年前是很好的实践，现在没太有必要，因为 codex 自己上下文压缩做的很好了，或者 /compact 一下继续就足够了。<br>\n<br>\n当然如果关系不大的任务，还是新开 Session 更好。<br>\n<br>\n当然除此之外 handoff 还是适用于跨 Agent session 的，比如 Claude Code 里面没完成的 session 让 Codex 继续。<br>\n<br>\n不过我更习惯于 Claude Code 里面用 Fable 5 写技术方案文档，然后反复 Review、修改后把文档交给 Codex，配",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "帮转招人信息",
+      "url": "https://nitter.net/dotey/status/2083572191845585036#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 15:14:56 GMT",
+      "summary": "<p>帮转招人信息</p>\n<hr/>\n<blockquote>\n<b>monday | 和你走到 Sunday (@monday_chen)</b>\n<p>\n<p>啊，所以有没有人有兴趣来跟我工作？美国英国都可以 <a href=\"https://jobs.ashbyhq.com/NormalComputing/6228a7ca-2a62-47ce-99dd-08bed646db94\">jobs.ashbyhq.com/NormalCompu…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://jobs.ashbyhq.com/NormalComp",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 如果你是 Agent Harness 相关开源项目的开发者，希望参加 DeepSeek Harness 的内测，可以回复或私信联系我。请附上 GitHub id 以及开源代表作。",
+      "url": "https://nitter.net/tianyi/status/2083519855203078320#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 11:46:58 GMT",
+      "summary": "<p>如果你是 Agent Harness 相关开源项目的开发者，希望参加 DeepSeek Harness 的内测，可以回复或私信联系我。请附上 GitHub id 以及开源代表作。</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 这句话是对的，没多模态，你的模型只能是可选模型之一，无法成为主力模型。",
+      "url": "https://nitter.net/mranti/status/2083377398213689611#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 02:20:53 GMT",
+      "summary": "<p>这句话是对的，没多模态，你的模型只能是可选模型之一，无法成为主力模型。</p>\n<hr/>\n<blockquote>\n<b>Karl e/acc (@immortal_00994)</b>\n<p>\n<p>牢粱可能犯了路线错误，多模态能力很重要。。。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/immortal_00994/status/2083211266382843920#m\">https://nitter.net/immortal_00994/status/2083211266382843920#m</a>\n</foo",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Just got home from an amazing trip with the team to @nvidia HQ for the last couple days! Jensen even signed one of our team members' new Spark. Thanks @JensenHuang for having us!",
+      "url": "https://nitter.net/Teknium/status/2083405298933637615#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 01 Aug 2026 04:11:45 GMT",
+      "summary": "<p>Just got home from an amazing trip with the team to <a href=\"https://nitter.net/nvidia\" title=\"NVIDIA\">@nvidia</a> HQ for the last couple days!<br>\n<br>\nJensen even signed one of our team members' new Spark. Thanks <a href=\"https://nitter.net/JensenHuang\" title=\"Jensen Huang\">@JensenHuang</a> for",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google kills Earth AI generator after one day (59pts)",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T13:02:44Z",
+      "summary": "HN热度: 59分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "On the non-use of AI in my writing process (123pts)",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T12:56:54Z",
+      "summary": "HN热度: 123分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2 (72pts)",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T08:26:55Z",
+      "summary": "HN热度: 72分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI doesn't generate working products, that's still your job (249pts)",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T07:52:10Z",
+      "summary": "HN热度: 249分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Flint: A Visualization Language for the AI Era (245pts)",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T02:45:09Z",
+      "summary": "HN热度: 245分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "YC founder asks desperate job seekers to tattoo themselves for an interview (86pts)",
+      "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T21:02:07Z",
+      "summary": "HN热度: 86分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576 (102pts)",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T18:32:20Z",
+      "summary": "HN热度: 102分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tell HN: I hate your fuzzy search (85pts)",
+      "url": "https://news.ycombinator.com/item?id=49136990",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T18:25:00Z",
+      "summary": "HN热度: 85分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pgtestdb's template cloning approach to testing is fast (58pts)",
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T16:01:22Z",
+      "summary": "HN热度: 58分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub has alternatives, but no replacement (83pts)",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T15:39:31Z",
+      "summary": "HN热度: 83分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    }
+  ]
+}
