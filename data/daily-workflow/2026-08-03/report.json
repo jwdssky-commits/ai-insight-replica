@@ -1,0 +1,157 @@
+{
+  "title": "Kimi K3与AMD MI355X实现高性价比推理，B站加码AI视频生成",
+  "date": "2026-08-03",
+  "summary": "今日AI领域两大核心动态：一是Moonshot AI的Kimi K3模型在AMD MI355X平台上实现优于NVIDIA B300的性价比表现，标志着国产大模型与AMD芯片的深度适配取得突破；二是B站引入前字节跳动AI视频生成负责人曾爱玲，直接向CEO陈睿汇报，加速布局AI视频生成赛道。此外，滴普科技AI业务收入同比增长209%验证企业级AI应用渗透加速。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "企业AI转型",
+    "产品发布",
+    "芯片"
+  ],
+  "highlight": {
+    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+    "body": "Moonshot AI的Kimi K3模型在AMD最新MI355X加速器上实现部署，单位美元性能超越NVIDIA B300。这一进展具有双重意义：一方面打破NVIDIA在AI推理市场的垄断格局，为国产大模型提供更具成本效益的算力选择；另一方面也反映AMD在AI芯片生态建设上的快速追赶，以及Moonshot AI在模型推理优化方面的技术积累。",
+    "source_url": "https://www.wafer.ai/blog/kimi-k3-mi355x"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Kimi K3在AMD MI355X实现超越B300的性价比",
+          "body": "Moonshot AI的Kimi K3模型成功部署于AMD最新MI355X加速器，实现单位美元性能超越NVIDIA B300。这一技术突破具有重要产业意义：对国产大模型而言，意味着获得除NVIDIA外的优质算力选择，显著降低推理成本；对AMD而言，标志着其AI芯片生态获得头部大模型厂商认可；对行业格局而言，将推动AI芯片市场竞争多元化。Moonshot AI创始人杨植麟长期聚焦长上下文与消费级AI，此次与AMD的深度合作进一步巩固其技术领先性。",
+          "source_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source_name": "wafer.ai",
+          "importance": "high",
+          "related_entities": [
+            "杨植麟",
+            "Moonshot AI",
+            "AMD",
+            "NVIDIA"
+          ]
+        },
+        {
+          "headline": "Andrej Karpathy提出3D渲染作为LLM新评测基准",
+          "body": "Andrej Karpathy在Twitter上提出，传统LLM评测如\"鹈鹕骑自行车\"SVG已不足以测试模型能力，转向更复杂的3D渲染任务作为评测标准。这一观点反映LLM能力边界快速扩展，简单图形生成已无法区分顶尖模型差异。Karpathy作为前OpenAI/Tesla核心研究员，其评测取向对行业具有风向标意义，预示2026年LLM评测体系将向更复杂的多模态、空间推理任务演进。",
+          "source_url": "https://nitter.net/dotey/status/2083783368475361697#m",
+          "source_name": "Twitter/Nitter",
+          "importance": "medium",
+          "related_entities": [
+            "Andrej Karpathy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Sprocket发布：面向硬件与软件开发的AI Agent",
+          "body": "Sprocket作为一款实验性AI Agent在Hacker News获得117点热度，定位硬件与软件开发场景。该产品反映AI Coding工具正从纯软件代码生成向硬件设计、嵌入式开发等更复杂场景延伸，标志着AI辅助工程的全栈化趋势。",
+          "source_url": "https://sprocket-demo.spikonado.com",
+          "source_name": "Hacker News",
+          "importance": "medium",
+          "related_entities": [
+            "Sprocket"
+          ]
+        },
+        {
+          "headline": "Simon Willison梳理AI发展公开信争议",
+          "body": "知名开发者Simon Willison在其月度通讯中系统梳理近期关于AI发展的多封公开信争议，涵盖技术发展节奏、安全与开源等核心议题。作为Django创始人及AI工具深度用户，Willison的观察为理解当前AI社区的价值分歧提供重要视角。",
+          "source_url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+          "source_name": "Simon Willison Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "B站引入前字节跳动高管负责AI视频生成业务",
+          "body": "36氪独家报道，曾爱玲入职B站担任AI视频生成业务负责人，直接向CEO陈睿汇报。曾爱玲此前在字节跳动负责AI视频生成相关技术，其加入表明B站正加速布局AIGC视频领域。B站作为PUGC平台，AI视频生成技术将直接作用于内容创作生态，降低视频制作门槛、提升内容供给效率。该业务线直接向CEO汇报，显示B站对AI战略级重视。",
+          "source_url": "https://36kr.com/p/3910776673064073?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "曾爱玲",
+            "陈睿",
+            "B站",
+            "字节跳动"
+          ]
+        },
+        {
+          "headline": "AI音乐版权争议持续：付费能否解决艺术家顾虑",
+          "body": "The Verge报道，生成式AI公司与艺术家之间的版权矛盾仍在激化。尽管部分平台尝试通过 royalty 机制补偿艺术家，但核心争议——未经授权使用作品训练模型——仍未解决。Fender CEO此前将乐队成员类比为\"模拟AI\"的言论也引发行业批评，反映传统音乐产业对AI技术的深层焦虑。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Fender"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "滴普科技AI业务收入增长209%，二季度实现盈利",
+          "body": "滴普科技发布上市后首份半年报，2026上半年营收2.84亿元同比增长115%，其中AI应用相关收入2.26亿元激增209%，占比提升至79.6%，更关键的是二季度已实现盈利。这一业绩验证企业级AI应用从概念验证进入规模化变现阶段，\"DeepexiOS AI级企业操作系统平台\"成为核心增长引擎。滴普科技的盈利拐点对行业具有示范意义，表明企业级AI应用商业模式已跑通。",
+          "source_url": "https://36kr.com/p/3919137999957382?f=rss",
+          "source_name": "36氪",
+          "importance": "high",
+          "related_entities": [
+            "滴普科技"
+          ]
+        },
+        {
+          "headline": "丘脑智能获数千万融资，押注多模态长记忆与主动智能",
+          "body": "丘脑智能完成数千万融资，定位为国内唯一做多模态长记忆的公司，推出原生多模态记忆基座。其\"主动智能\"理念强调AI在足够了解用户基础上主动交互，Memory被视为实现该愿景的关键门槛。这一方向与当前大模型从通用向个性化、从被动响应向主动服务演进趋势高度契合。",
+          "source_url": "https://36kr.com/p/3919386961177985?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "丘脑智能"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "武汉建成全国首个超大城市全域低空遥感监测网络",
+          "body": "武汉市测绘研究院联合大疆行业应用建成146座无人值守无人机机场，实现除禁飞区外全市5分钟无人机响应，成为全国首个超大城市全域覆盖的低空遥感监测网络。该系统集成AI算法库，支持智能调度、航线自动生成、障碍物规避等能力。此案例展示AI与城市治理深度融合的典型路径，低空经济正从飞行器制造向城市治理场景延伸。",
+          "source_url": "https://36kr.com/p/3919271016263303?f=rss",
+          "source_name": "36氪",
+          "importance": "medium",
+          "related_entities": [
+            "大疆",
+            "武汉市测绘研究院"
+          ]
+        },
+        {
+          "headline": "Sam Altman呼吁行业\"放缓AI发展节奏\"引发争议",
+          "body": "TechCrunch报道，Sam Altman近期公开呼吁行业\"pace the rate of AI development\"（放缓AI发展节奏），与其此前加速派形象形成反差。这一表态被解读为OpenAI面对竞争压力、监管收紧及技术瓶颈时的策略调整，也反映AI行业关于发展速度与安全的深层辩论仍在持续。",
+          "source_url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Sam Altman",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}

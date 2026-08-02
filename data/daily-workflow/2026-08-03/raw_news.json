@@ -1,0 +1,472 @@
+{
+  "date": "2026-08-03",
+  "collected_at": "2026-08-02T23:16:31.156670+00:00",
+  "item_count": 38,
+  "items": [
+    {
+      "title": "Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-02T04:16:52+00:00",
+      "summary": "<h4>Open letters about AI development</h4>\n<p><em>I wrote this summary of the past few weeks of open letters as a section of <a href=\"https://simonwillison.net/2026/Aug/2/july-newsletter/\">my sponsors-only newsletter</a> but I've decided to share it here as well.</em></p>\n<p><strong><a href=\"https:/",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "July 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-02T04:12:41+00:00",
+      "summary": "<p>The June edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-07-july.md\">access it here</a>.</p>\n<p>This month:</",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 02 Aug 2026 20:54:22 +0000",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-02T15:36:08-04:00",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-02T09:00:00-04:00",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway now supports team and project spend budgets",
+      "url": "https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T17:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Flash now runs updated weights on AI Gateway",
+      "url": "https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel MCP now supports the 2026-07-28 MCP specification",
+      "url": "https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Expanded search for workflow runs in Vercel Observability",
+      "url": "https://vercel.com/changelog/expanded-search-for-workflow-runs-in-vercel-observability",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "10x more capacity for Laguna S 2.1 on AI Gateway",
+      "url": "https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Passport is now generally available",
+      "url": "https://vercel.com/changelog/vercel-passport-generally-available",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Gateway adds unified fast mode support",
+      "url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+      "url": "https://36kr.com/p/3919386961177985?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 23:23:43  +0800",
+      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p>国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。</p>\n  <p>主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。</p>\n  <h3><strong>融资情况</strong></h3>\n  <p>近日，丘脑智",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+      "url": "https://36kr.com/p/3910776673064073?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 18:27:38  +0800",
+      "summary": "<p>文｜王毓婵 兰杰</p>\n  <p>编辑｜乔芊</p>\n  <p>36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。</p>\n  <p>36氪就此事向B站方面求证，对方暂无回应。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1404,1250\" src=\"https://img.36krcdn.com/hsossms/20260725/v2_450bbe65a3064be2abe1e6b2b881612c@10269314_oswg1594051oswg1404oswg125",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+      "url": "https://36kr.com/p/3919378312670857?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 18:01:34  +0800",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>途牛：8月中上旬或将迎新一轮客流高峰</strong></p>\n  <p>36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。</p>\n  <p><strong>Prada集团上半年营收增长16%，Miu Miu增速显著放缓</strong></p>\n  <p>2026年上半年，Prada集团营收按固定汇率计同比增长16%",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "开云的转折：在中国，做一个AI乐观派",
+      "url": "https://36kr.com/p/3919225763540611?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:58:59  +0800",
+      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子 黄绎达</p>\n  <p><strong>编辑 |</strong>&nbsp;张帆</p>\n  <p>开云的转型初见成效。</p>\n  <p>7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。</p>\n  <p>更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。</p>\n  <p>其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+      "url": "https://36kr.com/p/3919301778288261?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:40:43  +0800",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。</p>\n  <p>前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。</p>\n  <p>Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+      "url": "https://36kr.com/p/3919112515956355?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:24:28  +0800",
+      "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1829,860\" src=\"https://img.36krcdn.com/hsossms/20260731/v2_3341a3e3062d4d1394a493013ca06c87@5284654_oswg1558403oswg1829oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">你的创业想法，值得被看见</p>\n  <p>有人在寻找新的增长机",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+      "url": "https://36kr.com/p/3919271016263303?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 16:12:09  +0800",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>低空经济正从飞行器制造走向城市治理。</p>\n  <p>7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。</p>\n  <p>据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成，依托高精度低空空域时空信息格网，可实现机场智能调度、航线自动生成、障碍物智能规避等能力，支持“一键直飞”“接力续飞”“临时转飞”等自动化飞行模",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+      "url": "https://36kr.com/p/3919137999957382?f=rss",
+      "source": "36氪 AI (RSS)",
+      "published": "2026-07-31 14:00:25  +0800",
+      "summary": "<p>AI在企业端的快速渗透正在被持续验证。</p>\n  <p>7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。</p>\n  <p>分业务来看，<strong>与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎</strong>。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 科普一下“多模态”的具体含义。 首先，我们虽然不认为盲人有“智力”上的缺陷，但不会因此让盲人靠听收音机去驾驶汽车。因为有些模态比如视觉，不是其他模态（文字或者语音）能够简单取代的。这里面有一个人择原理：即使最终在 AI 内大家都是 token, 但人类选择了用红灯而非多普勒雷达构建了整个交通系统，也选择了用 2D 屏幕而非字节流表达计算机操作，因此 AI 为了在现实世界和数字世界中完成任务，必须接受人类已经接受的模态和输入。 多模态是个被滥用了的词。模型多模态输入有利于内部更好的表示这个人择的世界，特别是视觉信号，可以帮助模型 grounding ，比如“红灯”它到底是一个什么样的信号， 在语义上毫无问题，但在开车场景里要接近人择的感知和推理，才能更加准确的表征人择世界的模型——这个世界上不存在客观的世界模型，都是人择的。 即是是纯粹追求虚幻的 AGI 目标，就以长程任务为标尺， DeepSeek 要做的长程任务，持续学习，最终也都绕不过多模态，特别是人择世界的视觉信号。一个很明显的例子就是盲人不能够仅靠语言，不依赖计算机屏幕，来操作针对视觉无碍者设计的计算机，很好完成长程计算机操作任务。 AI 也会在这种选择压力下，迫使 tokenize 人择的数字视觉信号。 DeepSeek 不愿意在 AGI 的路上做多模态的输出，和 Anthropic 的方向是一样的。因为多模态输出更多是一个工程问题，牵涉到如何构建扩散或者 flow match 模型，如何让输出的分布不塌陷到平均期望上，如何保障多步输出的一致性——在通往 AGI 路上这些都是垂直的任务，可以被通用的 AI 模型一句话调用，因此可以从通用智能里外化掉。 DeepSeek 放出一个只支持 text 输入的模型不代表 DeepSeek 就死死抱住 text-only 不放。实际上 DeepSeek 的非 API , 非开放权重版本是可以处理视觉信号的，而且许多我知道的企业应用里，都有人在试图给 DeepSeek 嫁接一个 ViT.",
+      "url": "https://nitter.net/xleaps/status/2083915353185296650#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 02 Aug 2026 13:58:32 GMT",
+      "summary": "<p>科普一下“多模态”的具体含义。<br>\n<br>\n首先，我们虽然不认为盲人有“智力”上的缺陷，但不会因此让盲人靠听收音机去驾驶汽车。因为有些模态比如视觉，不是其他模态（文字或者语音）能够简单取代的。这里面有一个人择原理：即使最终在 AI 内大家都是 token, 但人类选择了用红灯而非多普勒雷达构建了整个交通系统，也选择了用 2D 屏幕而非字节流表达计算机操作，因此 AI 为了在现实世界和数字世界中完成任务，必须接受人类已经接受的模态和输入。<br>\n<br>\n多模态是个被滥用了的词。模型多模态输入有利于内部更好的表示这个人择的世界，特别是视觉信号，可以帮助模型 grounding ，比",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AJ 这 3D 渲染测试确实比鹈鹕骑自行车靠谱多了👍",
+      "url": "https://nitter.net/dotey/status/2083783368475361697#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 02 Aug 2026 05:14:04 GMT",
+      "summary": "<p>AJ 这 3D 渲染测试确实比鹈鹕骑自行车靠谱多了👍</p>\n<hr/>\n<blockquote>\n<b>Andrej Karpathy (@karpathy)</b>\n<p>\n<p>We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first par",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 可不只有我一个人说 Opus 4.6 写作是最好的😅",
+      "url": "https://nitter.net/dotey/status/2083781651776119065#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 02 Aug 2026 05:07:15 GMT",
+      "summary": "<p>可不只有我一个人说 Opus 4.6 写作是最好的😅</p>\n<hr/>\n<blockquote>\n<b>Peter Yang (@petergyang)</b>\n<p>\n<p>I'm feeling spicy tonight so let me just say it:<br>\n<br>\nI think Opus 4.6 was the Opus model with the best personality and writing style.<br>\n<br>\nSomething's off with Opus 5 - it tends to give me overly lon",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: fork 和 btw/sidechat 都是很好用的",
+      "url": "https://nitter.net/dotey/status/2083693756365095203#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 01 Aug 2026 23:17:59 GMT",
+      "summary": "<p>fork 和 btw/sidechat 都是很好用的</p>\n<hr/>\n<blockquote>\n<b>RF北灰 (@ruofeng_x)</b>\n<p>\n<p>交接Handoff 确实是很有必要的，特别是你切换不同的AI 做同一个东西，我一般也会这么做，我还在想要不要一直维护这样一个东西？另外还有一个我觉得也很好用就是绘画分支，当想继续目前的回话做一些其他的方向，又怕污染当前的回话时，很好用。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/ruofeng_x/status/2083689498727383497#m\">h",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Every project starts with a commit",
+      "url": "https://nitter.net/Teknium/status/2084024363234541892#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 02 Aug 2026 21:11:42 GMT",
+      "summary": "<p>Every project starts with a commit</p>\n<img src=\"https://nitter.net/pic/media%2FHOvxGpjaYAAvrJZ.png\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731 is now 90% off on Nous Portal for the next 7 days, in partnership with @novita_labs. At this discounted price, it is over 1000x cheaper than Fable 5 on comparable tasks while still beating it on Terminal-Bench 2.1. Try it today at http://portal.nousresearch.com",
+      "url": "https://nitter.net/NousResearch/status/2083953441571742191#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 02 Aug 2026 16:29:53 GMT",
+      "summary": "<p>DeepSeek V4 Flash 0731 is now 90% off on Nous Portal for the next 7 days, in partnership with <a href=\"https://nitter.net/novita_labs\" title=\"Novita AI\">@novita_labs</a>.<br>\n<br>\nAt this discounted price, it is over 1000x cheaper than Fable 5 on comparable tasks while still beating it on Termina",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: All other models on the Portal remain 20% discounted, aside from GPT-5.6 Terra and Luna which are 50% off.",
+      "url": "https://nitter.net/NousResearch/status/2083953443400527876#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 02 Aug 2026 16:29:53 GMT",
+      "summary": "<p>All other models on the Portal remain 20% discounted, aside from GPT-5.6 Terra and Luna which are 50% off.</p>\n<hr/>\n<blockquote>\n<b>Nous Research (@NousResearch)</b>\n<p>\n<p>All models are now 20% off for a limited time at Nous Portal, the best way to power your Hermes Agent.<br>\n<br>\nYes, even t",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: “We believe in intelligence as a public good before everything else.” Here’s my new episode with @karan4d, who co-founded @NousResearch and helped build Hermes, the #1 personal agent and AI app on OpenRouter. Karan is the most down-to-earth AI founder I've interviewed. We had a great chat about: → Why open-source AI must win → How Hermes improves itself without slop → How to mod your favorite games with AI Some quotes from Karan: “We need to keep giving this level of intelligence to everyone so that we're all on an even and equal playing field.” “Anytime [the model] says ‘you’re absolutely right,’ you’re being reward hacked. You are fuel for its reward function.” “Memory, skills, and the self-improvement loop are where context is stored. That’s where the actual personality you want lives. You can put that on any model.” 📌 Watch now: https://youtu.be/UWjh5Z4s8jY Thanks to our sponsors: @RiversidedotFM: All-in-one AI studio for podcasts and video https://creators.riverside.com/PeterYang @linear: The AI agent platform for modern teams https://linear.app/behind-the-craft",
+      "url": "https://nitter.net/petergyang/status/2083917722765947284#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 02 Aug 2026 14:07:57 GMT",
+      "summary": "<p>“We believe in intelligence as a public good before everything else.”<br>\n<br>\nHere’s my new episode with <a href=\"https://nitter.net/karan4d\" title=\"mephisto\">@karan4d</a>, who co-founded <a href=\"https://nitter.net/NousResearch\" title=\"Nous Research\">@NousResearch</a> and helped build Hermes, t",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\" (76pts)",
+      "url": "https://frogs.vaguespac.es/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T19:42:08Z",
+      "summary": "HN热度: 76分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development (117pts)",
+      "url": "https://sprocket-demo.spikonado.com",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T16:26:19Z",
+      "summary": "HN热度: 117分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300 (202pts)",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T04:21:14Z",
+      "summary": "HN热度: 202分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video] (54pts)",
+      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T22:50:30Z",
+      "summary": "HN热度: 54分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions (332pts)",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "Hacker News (API)",
+      "published": "2026-08-01T22:25:12Z",
+      "summary": "HN热度: 332分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Fuse – statically typed functional programming language (100pts)",
+      "url": "https://fuselang.org",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T11:23:56Z",
+      "summary": "HN热度: 100分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark (81pts)",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T17:05:54Z",
+      "summary": "HN热度: 81分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM (152pts)",
+      "url": "https://github.com/wie-project/kakehashi",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T16:26:40Z",
+      "summary": "HN热度: 152分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N (74pts)",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-02T16:19:17Z",
+      "summary": "HN热度: 74分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "机器之心文章库要来了?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhaToJG-Lf7D7o_auDas2pzehD43LDFz1qXa8Fplpd9G7sqcgvZ0oiGsNM1guvteChQY9T4t4Hxt9L4cZ1JQd_DpjQW-sWTIKKAT3_LerA4xIW0R81Ya110a683QmwBMIDoZqo5plc1dKlb_i_nWuDzFyzviYIaY8ohyQZxKItPdFgmjRgjThP2rEmTJbri8SzHi8TKIOABAQG_MyPGTxdhlgeRt7bSzA..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83&amp;token=EA1A217B0993A2A30E085616921A901F0F7390B06A6FCFC5",
+      "source": "机器之心 (微信)",
+      "published": "2026-08-02T03:49:32+00:00",
+      "summary": "来源: 机器之心公众号",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    }
+  ]
+}
