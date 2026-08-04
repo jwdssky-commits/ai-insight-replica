@@ -1,0 +1,118 @@
+{
+  "title": "OpenAI与Apple诉讼交锋升级，Anthropic签署百亿美元云合作协议",
+  "date": "2026-08-05",
+  "summary": "今日AI领域焦点集中在OpenAI与Apple的法律纠纷公开化，OpenAI发布博客文章直接回应Apple诉讼并公开内部沟通记录。同时，Anthropic宣布与AI云初创公司Volta达成100亿美元合作协议，继续扩展其云计算版图。此外，MiniMax发布MiniMax-H3通用多模态生成系统，国内Kimi K3与DeepSeek V4的原生多模态竞争也成为行业关注话题。",
+  "tags": [
+    "大模型",
+    "AI行业",
+    "企业AI转型",
+    "开源",
+    "Agent"
+  ],
+  "highlight": {
+    "title": "OpenAI drags Apple's lawsuit into the court of public opinion",
+    "body": "OpenAI在博客文章《Apple is getting this wrong》中直接回应Apple的诉讼指控，称其为\"careless\"，并公开了内部沟通记录以反驳Apple关于窃取商业机密的说法。这标志着两家科技巨头之间的法律战已从法庭蔓延至公众舆论场，OpenAI选择以透明化策略应对Apple的法律攻势。",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "OpenAI公开回应Apple诉讼并披露内部沟通记录",
+          "body": "OpenAI发布题为《Apple is getting this wrong》的博客文章，直接回应Apple关于窃取商业机密的诉讼指控。OpenAI称该诉讼为\"careless\"，并公开了与Apple前员相关的内部消息记录，试图证明其行为的正当性。这一举动标志着双方法律纠纷从法庭程序转向公众舆论战场，OpenAI采取了更加主动的透明化策略来应对Apple的法律挑战。",
+          "source_url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source_name": "OpenAI Blog (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "OpenAI",
+            "Apple",
+            "Sam Altman"
+          ]
+        },
+        {
+          "headline": "MiniMax发布H3通用多模态生成系统",
+          "body": "MiniMax正式发布MiniMax-H3，定位为\"通用多模态生成系统\"（general-purpose, omni-modal generative system）。该模型已在Hugging Face平台上线，并提供了基于MLX框架的实现版本。这标志着MiniMax在多模态大模型领域的重要进展，进一步加剧了国内大模型厂商在原生多模态能力方面的竞争。",
+          "source_url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+          "source_name": "Simon Willison (RSS)",
+          "importance": "medium",
+          "related_entities": [
+            "MiniMax",
+            "Hugging Face"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Liquid AI发布LFM2.5-2.6B支持本地Agent部署",
+          "body": "Liquid AI推出LFM2.5-2.6B模型，主打\"随处部署本地Agent\"（Deploy local agents everywhere）。该模型针对边缘设备和本地部署场景优化，体现了AI Coding领域向端侧和本地化Agent发展的趋势，为开发者在隐私敏感场景下构建AI应用提供了新的技术选择。",
+          "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "source_name": "Hugging Face Blog (RSS)",
+          "importance": "medium",
+          "related_entities": [
+            "Liquid AI",
+            "Hugging Face"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": false,
+      "items": []
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Anthropic与Volta签署100亿美元AI云合作协议",
+          "body": "Anthropic reportedly签署100亿美元合作协议，与AI云初创公司Volta建立深度合作关系。这是Anthropic近期云计算合作扩张战略的又一重大举措，此前Anthropic已与多家云服务商建立合作。该协议将进一步巩固Anthropic在AI基础设施领域的布局，为其Claude系列模型的规模化部署提供算力保障，也反映了AI实验室与云服务商绑定加深的行业趋势。",
+          "source_url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "source_name": "TechCrunch AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic",
+            "Dario Amodei",
+            "Volta"
+          ]
+        },
+        {
+          "headline": "Open-weight模型能力逼近前沿但安全差距引担忧",
+          "body": "SaferAI最新报告显示，Z.ai开源的GLM-5.2模型在能力上已接近前沿AI水平，但关键安全缓解措施明显不足。这一发现重新引发了对开源模型治理和安全保障的广泛讨论，凸显了开源AI发展中的核心张力：如何在促进技术民主化的同时确保足够的安全防护。",
+          "source_url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "source_name": "TechCrunch AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Z.ai",
+            "SaferAI",
+            "GLM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "国内原生多模态竞争：Kimi K3与DeepSeek V4的技术路线分化",
+          "body": "36氪分析指出，Kimi K3与DeepSeek V4之间的竞争核心在于原生多模态能力的时间差。随着Agent接管更多长链任务，视觉反馈成为更准确的误差修正机制。Coding与Agent能力已成为改写大模型排名的关键因素，也是AI最快兑现商业价值的场景之一，国内头部厂商正加速补齐原生多模态短板。",
+          "source_url": "https://36kr.com/p/3924826666301831?f=rss",
+          "source_name": "36氪 AI (RSS)",
+          "importance": "medium",
+          "related_entities": [
+            "Kimi",
+            "DeepSeek",
+            "Moonshot AI"
+          ]
+        }
+      ]
+    }
+  ]
+}
