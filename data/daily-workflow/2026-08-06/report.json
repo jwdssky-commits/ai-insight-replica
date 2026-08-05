@@ -1,0 +1,152 @@
+{
+  "title": "Jeff Dean离职Google创业震动行业，Meta发布Muse Code代码Agent",
+  "date": "2026-08-06",
+  "summary": "Google首席科学家Jeff Dean与多位顶尖研究员离职创办AI科学发现公司，引发行业地震。Meta发布Muse Code代码Agent，专攻大型代码库复杂编程场景。Anthropic组建芯片设计团队推进垂直整合，Sand.ai开源全球首个千亿MoE视频生成模型，微软则开始严控内部AI预算。",
+  "tags": [
+    "AI行业",
+    "芯片",
+    "Agent",
+    "开源",
+    "大模型",
+    "AI Coding",
+    "热点"
+  ],
+  "highlight": {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "body": "Google首席科学家Jeff Dean联合多位高管离职创办AI公司，旨在利用AI加速科学发现。作为Google最传奇的技术领袖，Dean出走标志顶级AI人才从巨头向创业迁移加速，将深刻影响Google及全行业格局。",
+    "source_url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Sand.ai开源全球首个千亿参数MoE视频生成模型",
+          "body": "Sand.ai开源114B参数、6B激活的MoE视频生成模型，为全球首个千亿级MoE架构视频模型。该模型可生成10秒1080P视频，单次成本约0.5元，在大幅降低推理开销的同时保持高质量输出，开源策略将加速视频生成技术的民主化与生态建设。",
+          "source_url": "https://www.qbitai.com/2026/08/466847.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "Sand.ai"
+          ]
+        },
+        {
+          "headline": "Position论文质疑LLM能力边界：LLMs Can't Jump",
+          "body": "OpenReview论文《Position: LLMs Can't Jump》获HN 230分热议。研究尖锐质疑大语言模型能力边界，探讨其在推理与规划任务上的根本性局限，为Scaling Law是否遇顶的业界争论提供了新的学术视角。",
+          "source_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+          "source_name": "OpenReview / Hacker News",
+          "importance": "medium",
+          "related_entities": []
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Meta发布Muse Code，专攻大型代码库的AI Agent",
+          "body": "Meta推出Muse Code编程Agent，承诺处理大型代码库的复杂任务，同步发布Muse Spark 1.2。该产品瞄准企业级代码场景，与Cursor、Devin直接竞争，显示Meta在AI Coding赛道的战略加码及重构开发者工作流的野心。",
+          "source_url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Meta"
+          ]
+        },
+        {
+          "headline": "Simon Willison利用Claude Fable 5一次性开发完整游戏",
+          "body": "开发者Simon Willison使用Claude Fable 5一次性完成Raccoon Heist游戏开发，展示最新模型在创意编程中的端到端能力。相比2024年GPT-3仅能生成概念，如今模型可直接产出可运行游戏，标志AI辅助游戏开发成熟度大幅提升。",
+          "source_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+          "source_name": "Simon Willison",
+          "importance": "medium",
+          "related_entities": [
+            "Claude",
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google Assistant将于9月下线，Gemini全面接管移动端",
+          "body": "Google宣布自9月4日起移除Android手机、平板及配套设备上的Google Assistant访问权限，由Gemini全面接管。这一更替标志着Google核心消费AI产品彻底转向生成式AI架构，也反映出传统语音助手在大模型时代被替代的行业趋势。",
+          "source_url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+          "source_name": "The Verge",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "兔展智能发布RabbitVis，支持图层编辑的AI图像工具",
+          "body": "兔展智能推出RabbitVis，主打可图层编辑的AI图像生成，解决传统AI生图难以分图层修改的痛点。该产品试图让AI真正走完设计全流程，而非停留在概念出图阶段，对设计师工作流具有潜在颠覆性。",
+          "source_url": "https://www.qbitai.com/2026/08/467034.html",
+          "source_name": "量子位",
+          "importance": "medium",
+          "related_entities": [
+            "兔展智能"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Jeff Dean携多位Google顶尖研究员离职创业",
+          "body": "Google首席科学家Jeff Dean与多位高管离职创办AI公司，旨在利用AI推进科学发现。作为Google最传奇技术领袖，Dean出走标志顶级AI人才从巨头向创业迁移的趋势加速，将深刻影响Google DeepMind及全行业竞争格局。",
+          "source_url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Jeff Dean",
+            "Google"
+          ]
+        },
+        {
+          "headline": "Anthropic组建AI芯片设计团队推进垂直整合",
+          "body": "Anthropic正招募芯片设计团队，计划联合设计专用硬件与模型，以提升Claude运行速度与效率。此举跟随OpenAI、Meta等巨头的自研芯片步伐，反映顶级AI实验室通过垂直整合降低推理成本、保障供应链安全的战略共识。",
+          "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+          "source_name": "TechCrunch",
+          "importance": "high",
+          "related_entities": [
+            "Anthropic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "微软叫停内部Tokenmaxxing，严控AI预算并默认采用GPT-5.6",
+          "body": "微软内部叫停Tokenmaxxing，严格限制AI预算且超限自负，并默认采用GPT-5.6。这反映大型企业从AI实验期进入成本管控期，对规模化部署中的Token消耗与ROI精细化治理需求日益迫切。",
+          "source_url": "https://www.qbitai.com/2026/08/466739.html",
+          "source_name": "量子位",
+          "importance": "high",
+          "related_entities": [
+            "Microsoft"
+          ]
+        },
+        {
+          "headline": "Shopify称AI搜索为商家带来三倍流量增长，未蚕食传统搜索",
+          "body": "Shopify披露数据显示，第二季度AI驱动的流量和订单同比增长三倍，且未像出版商那样被AI搜索蚕食流量。该案例证明企业级AI搜索应用可有效创造增量价值，为电商行业AI转型提供了积极的商业验证。",
+          "source_url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Shopify"
+          ]
+        }
+      ]
+    }
+  ]
+}
