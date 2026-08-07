@@ -1,0 +1,853 @@
+{
+  "date": "2026-08-08",
+  "collected_at": "2026-08-07T22:59:08.395697+00:00",
+  "item_count": 72,
+  "items": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-07T19:18:09+00:00",
+      "summary": "<p><strong><a href=\"https://simonw.github.io/raccoon-heist-codex/\">Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</a></strong></p>\nOn Wednesday I wrote about <a href=\"https://simonwillison.net/2026/Aug/5/raccoon-heist/\">One-shotting a Raccoon Heist game using Claude Fable 5</a>,",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-07T16:18:51+00:00",
+      "summary": "<p><strong><a href=\"https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/\">The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI</a></strong></p>\nThere's a fun anecdote from Accenture (apparently via leaked meeting a",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 07 Aug 2026 14:22:49 +0000",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "summary": "Meta's total fine has racked up to $942 million in this case.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-07T16:01:51-04:00",
+      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI de",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-07T14:59:46-04:00",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-07T14:40:34-04:00",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have al",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-07T12:45:14-04:00",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel Container Registry repositories can now be made public",
+      "url": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-07T17:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Audit Log Drains now support Datadog, Splunk, and Panther",
+      "url": "https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-07T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Skill packs are now available on skills.sh",
+      "url": "https://vercel.com/changelog/skill-packs-are-now-available",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-07T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Free domain now included with new Pro subscriptions",
+      "url": "https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-07T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Give every agent in Herdr its own Vercel Sandbox",
+      "url": "https://vercel.com/changelog/give-every-agent-in-herdr-its-own-vercel-sandbox",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-06T23:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Seedance 2.5 now available on Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-06T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 07 Aug 2026 14:20:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.32: Earnings and Learnings",
+      "url": "https://stratechery.com/2026/earnings-and-learnings/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 07 Aug 2026 17:29:02 +0000",
+      "summary": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 07:43:06 +0000",
+      "summary": "AI语音“听、说、创”一站式满足",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 06:21:05 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 06:18:51 +0000",
+      "summary": "从「能用」走向「规模化落地」",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "url": "https://www.qbitai.com/2026/08/467878.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 05:30:08 +0000",
+      "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 03:23:54 +0000",
+      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 03:23:01 +0000",
+      "summary": "Chat优化版",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 03:08:51 +0000",
+      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 02:56:46 +0000",
+      "summary": "算力、网络、内存与存储开始围绕每个Token协同",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 01:39:16 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "智元下架了首席科学家罗剑岚",
+      "url": "https://www.qbitai.com/2026/08/467730.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 07 Aug 2026 01:25:40 +0000",
+      "summary": "智元机器人高管生变！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Fri, 07 Aug 2026 17:53:32 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+      "url": "https://arxiv.org/abs/2608.05159",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05159v1 Announce Type: new \nAbstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources i",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+      "url": "https://arxiv.org/abs/2608.05160",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05160v1 Announce Type: new \nAbstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+      "url": "https://arxiv.org/abs/2608.05168",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05168v1 Announce Type: new \nAbstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence. We show that these bu",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+      "url": "https://arxiv.org/abs/2608.05203",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05203v1 Announce Type: new \nAbstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user st",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+      "url": "https://arxiv.org/abs/2608.05204",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05204v1 Announce Type: new \nAbstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, auditing their reuse is no",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Abstract Event Causal Rules: Induction and Application",
+      "url": "https://arxiv.org/abs/2608.05205",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05205v1 Announce Type: new \nAbstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-making support and narrative comprehension. Nevertheless, existing instance-level causal pairs suffer severe generalization",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+      "url": "https://arxiv.org/abs/2608.05206",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05206v1 Announce Type: new \nAbstract: Otter is a 15.3M-parameter human chess AI that predicts human move selection by modeling play as a time-aware, sequential process rather than treating each position in isolation. It combines two conditioning signals: (1) a move history encoder that co",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+      "url": "https://arxiv.org/abs/2608.05212",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05212v1 Announce Type: new \nAbstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate through long, noisy trajectories into fluent but incorrect answers. Diagnosing such",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+      "url": "https://arxiv.org/abs/2608.05218",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05218v1 Announce Type: new \nAbstract: 3D Gaussian Splatting (3DGS) enables fast, photorealistic talking-head rendering, yet accurate lip articulation remains elusive: mouth motion is often over-smoothed and may violate hard articulatory constraints such as bilabial closures, producing the",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+      "url": "https://arxiv.org/abs/2608.05219",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05219v1 Announce Type: new \nAbstract: Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only references, such as successful trajectories. In interac",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support",
+      "url": "https://arxiv.org/abs/2608.05151",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05151v1 Announce Type: new \nAbstract: Wastewater operators need answers grounded in how their plant's variables interact and how fast effects propagate, not in generic pretraining text, when asking causal questions such as \"why is N2O rising?\" or \"what happens if I cut aeration by 20%?\". ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.05152",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05152v1 Announce Type: new \nAbstract: Large language models (LLMs) with chain-of-thought reasoning have been widely applied in recent years, and theoretical explanations of their behavior may help deepen our understanding and guide model optimization. In this study, we introduce a framewo",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis of RAG for Multi-Hop Traceability",
+      "url": "https://arxiv.org/abs/2608.05153",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05153v1 Announce Type: new \nAbstract: GraphRAG underperforms vector RAG on citation precision in many reports, but where and why have remained corpus-bound. We present a triple-robustness analysis that holds the retrieval architecture fixed and varies three orthogonal axes embedder (local",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RIG-RoPE: Relation- and Instance-Gated Rotary Positional Encoding with Duration-Aware Temporal Coordinates",
+      "url": "https://arxiv.org/abs/2608.05154",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05154v1 Announce Type: new \nAbstract: Rotary positional encoding (RoPE) is a core component of modern language models and has been extended to multimodal LLMs through multidimensional variants such as multimodal RoPE (M-RoPE), which split positional channels into temporal, height, and wid",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Beyond Sentiment: Comparing Traditional NLP and LLM-Based Multi-Dimensional Analysis for Political News Evaluation",
+      "url": "https://arxiv.org/abs/2608.05155",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05155v1 Announce Type: new \nAbstract: Traditional sentiment analysis (SA) models, while effective for polarity classification, provide limited insight into the rhetorical, ideological, and framing dimensions of political discourse -- dimensions that are central to research in the social s",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Scaffold-Mediated Post-Training: Co-Evolving Model Parameters and Procedural Scaffold Graphs",
+      "url": "https://arxiv.org/abs/2608.05156",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05156v1 Announce Type: new \nAbstract: Post-training of large language models optimizes only parameters, while inference-time procedural scaffolds are typically designed independently of parameter training. This disconnect makes it difficult to automatically acquire and internalize complex",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Large Language Models Threaten Double-blind Review",
+      "url": "https://arxiv.org/abs/2608.05157",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05157v1 Announce Type: new \nAbstract: Double blind peer review serves as the scientific community primary defense against status and affiliation bias. Its effectiveness rests on the assumption that anonymized manuscripts convey scientific merit without revealing their authors. While autho",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Safe Evolution with Circuit Anchors",
+      "url": "https://arxiv.org/abs/2608.05158",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05158v1 Announce Type: new \nAbstract: In biological evolution, unconstrained mutation can lead to catastrophic outcomes: organisms may evolve enhanced capabilities while losing essential functions for survival. Nature's solution is \\textit{developmental constraints}, where core regulatory",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SemiAdapt-Instruct: Extensible Instruction Tuning via Latent Domain-Specialised Adapters",
+      "url": "https://arxiv.org/abs/2608.05161",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05161v1 Announce Type: new \nAbstract: Instruction-tuned LLMs are deployed into environments where domains evolve, yet extending a fine-tuned model's capabilities without full retraining remains an unsolved practical challenge. We present SemiAdapt-Instruct, a modular framework that discov",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PoolBench: A Benchmark for Pooling Strategies in Concept Representation Evaluation for Decoder-Only LLMs",
+      "url": "https://arxiv.org/abs/2608.05162",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.05162v1 Announce Type: new \nAbstract: Pooling is a consequential but under-examined design choice in decoder-only concept representation work: practitioners must collapse token-level hidden states into a passage-level vector, yet no shared protocol exists for comparing this choice across ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Higgsfield AI 制作的 95 分钟 AI 电影《Hell Grind》，提示词和素材都开源了，成本 50 万美元制作。 翻译了下字幕。 提示词的开源地址（需要注册）：https://higgsfield.ai/@higgsfield.studio/projects/hell-grind",
+      "url": "https://nitter.net/dotey/status/2085577012215759339#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 07 Aug 2026 04:01:22 GMT",
+      "summary": "<p>Higgsfield AI 制作的 95 分钟 AI 电影《Hell Grind》，提示词和素材都开源了，成本 50 万美元制作。<br>\n<br>\n翻译了下字幕。<br>\n<br>\n提示词的开源地址（需要注册）：<a href=\"https://higgsfield.ai/@higgsfield.studio/projects/hell-grind\">higgsfield.ai/@higgsfield.st…</a></p>\n<a href=\"https://nitter.net/dotey/status/2085577012215759339#m\">\n<br>Video<br>\n  ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: The backgrounds were generated with MiniMax M3. Everything else, including the full game design, was done with DeepSeek Flash. Most importantly, all of this was done inside Hermes Agent.",
+      "url": "https://nitter.net/Da7_Tech/status/2085763279696122149#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 07 Aug 2026 16:21:32 GMT",
+      "summary": "<p>The backgrounds were generated with MiniMax M3. Everything else, including the full game design, was done with DeepSeek Flash. Most importantly, all of this was done inside Hermes Agent.</p>\n<hr/>\n<blockquote>\n<b>Da7em (@Da7_Tech)</b>\n<p>\n<p>You won't believe the model that created this beauty.</",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Integrated the work of book-to-skill repo into our /learn command, and now Hermes Agent can ingest full books to create comprehensive detailed technical skills! Just /learn and point it to any pdf or book you have!",
+      "url": "https://nitter.net/Teknium/status/2085761587550519420#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 07 Aug 2026 16:14:48 GMT",
+      "summary": "<p>Integrated the work of book-to-skill repo into our /learn command, and now Hermes Agent can ingest full books to create comprehensive detailed technical skills!<br>\n<br>\nJust /learn and point it to any pdf or book you have!</p>\n<img src=\"https://nitter.net/pic/media%2FHPIc4fwbsAA5ADJ.jpg\" style=\"",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: this is what they mean when they say own your weights",
+      "url": "https://nitter.net/yeahfortommy/status/2085742826730471428#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 07 Aug 2026 15:00:15 GMT",
+      "summary": "<p>this is what they mean when they say own your weights</p>\n<img src=\"https://nitter.net/pic/media%2FHPIMC9WXAAAACN7.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Databricks drove down AI coding spend 70% (142pts)",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T18:25:17Z",
+      "summary": "HN热度: 142分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK (337pts)",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T17:36:30Z",
+      "summary": "HN热度: 337分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI psychosis is the new leadership blind spot (157pts)",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T13:27:30Z",
+      "summary": "HN热度: 157分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic CEO reportedly worried new hires only care about money (63pts)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T05:15:27Z",
+      "summary": "HN热度: 63分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware (53pts)",
+      "url": "https://socket.dev/blog/ai-agent-open-source-malware",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T04:04:07Z",
+      "summary": "HN热度: 53分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas (67pts)",
+      "url": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T10:33:00Z",
+      "summary": "HN热度: 67分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I won't read LLM authored fiction (70pts)",
+      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T07:45:56Z",
+      "summary": "HN热度: 70分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025) (139pts)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "source": "Hacker News (API)",
+      "published": "2026-08-06T21:30:21Z",
+      "summary": "HN热度: 139分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Assembly Hall of Shame (202pts)",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T18:01:30Z",
+      "summary": "HN热度: 202分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language (164pts)",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "source": "Hacker News (API)",
+      "published": "2026-08-07T12:28:55Z",
+      "summary": "HN热度: 164分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openai==1.4.2",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.4.2",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-07T13:58:15Z",
+      "summary": "Changes since langchain-openai==1.4.1\n\nrelease(openai): 1.4.2 (#39322)\nfix(openai): handle `ContextWindowExceededError` (#39300)\nchore: bump the minor-and-patch group across 3 directories with 7 updates (#39187)\nfix(openai): filter langchain-generated content block IDs (#39209)\nfix(openai): preserve",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[anthropics/anthropic-sdk-python] v0.121.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.121.0",
+      "source": "GitHub (anthropics/anthropic-sdk-python)",
+      "published": "2026-08-07T17:10:51Z",
+      "summary": "## 0.121.0 (2026-08-07)\n\nFull Changelog: [v0.120.2...v0.121.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.120.2...v0.121.0)\n\n### Features\n\n* **api:** add `mid-conversation-tool-changes-2026-07-01` beta ([c7d1531](https://github.com/anthropics/anthropic-sdk-python/commit/c7d1531d9d",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[All-Hands-AI/OpenHands] v1.12.0",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.12.0",
+      "source": "GitHub (All-Hands-AI/OpenHands)",
+      "published": "2026-08-07T19:33:40Z",
+      "summary": "## 1.12.0 (2026-08-07)\n\n<!-- Release notes generated using configuration in .github/release.yml at main -->\n\n## What's Changed\n### Features\n* feat: clarify free OpenHands model endpoints by @juanmichelini in https://github.com/OpenHands/OpenHands/pull/16281\n\n\n**Full Changelog**: https://github.com/O",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[All-Hands-AI/OpenHands] v1.11.0",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.11.0",
+      "source": "GitHub (All-Hands-AI/OpenHands)",
+      "published": "2026-08-07T18:01:46Z",
+      "summary": "## 1.11.0 (2026-08-07)\n\n<!-- Release notes generated using configuration in .github/release.yml at main -->\n\n## What's Changed\n### Features\n* feat: show per-run LLM cost in the Activity Log and exports by @hieptl in https://github.com/OpenHands/OpenHands/pull/16351\n* feat: reorder Customize navigati",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
