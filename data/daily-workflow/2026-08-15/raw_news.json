@@ -1,0 +1,788 @@
+{
+  "date": "2026-08-15",
+  "collected_at": "2026-08-14T22:44:48.541066+00:00",
+  "item_count": 65,
+  "items": [
+    {
+      "title": "Don't classify. Hallucinate!",
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-14T21:54:35+00:00",
+      "summary": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p>\nI still have quite a bit of older content on my blog that I never got round to tagging. My blog has <a href=\"https://simonwillison.net/\">1,856 tags</a> - like",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "sqlite-utils 4.2.1",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-13T23:53:47+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2.1\">sqlite-utils 4.2.1</a></p>\n        <p>Fixes a crashing bug in <a href=\"https://simonwillison.net/2026/Aug/13/sqlite-utils/\">sqlite-utils 4.2</a>. I'd introduced code that looks like this:</p>\n<pre><code>",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "sqlite-utils 4.2",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-13T20:11:29+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2\">sqlite-utils 4.2</a></p>\n        <p>Lots of improvements in this one relating to the <a href=\"https://sqlite-utils.datasette.io/en/stable/python-api.html#transforming-a-table\">table.transform() feature</a>",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-14T12:54:16-04:00",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do th",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-14T12:39:32-04:00",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-14T05:21:17-04:00",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained wi",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "summary": "<p>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/\">How to bring your s",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Fri, 14 Aug 2026 17:13:05 +0000",
+      "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first ",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+      "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-14T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Pro now runs updated weights on AI Gateway",
+      "url": "https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-12T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exa web search free through August 31 on AI Gateway and eve",
+      "url": "https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-12T00:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 14 Aug 2026 12:17:21 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.33: The CapEx Train Keeps Rolling",
+      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 14 Aug 2026 17:00:00 +0000",
+      "summary": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "url": "https://www.qbitai.com/2026/08/473379.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 15:41:12 +0000",
+      "summary": "所有人都可免费下载部署及商用。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "7亿年薪留不住！余家辉离职Meta创业",
+      "url": "https://www.qbitai.com/2026/08/473261.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 14:59:25 +0000",
+      "summary": "真就只待了一年",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+      "url": "https://www.qbitai.com/2026/08/473153.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 14:51:48 +0000",
+      "summary": "布林亲自下场督战",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "url": "https://www.qbitai.com/2026/08/473149.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 10:25:36 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "url": "https://www.qbitai.com/2026/08/473038.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 08:47:51 +0000",
+      "summary": "顺手拿下最强开源安全模型",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "url": "https://www.qbitai.com/2026/08/473144.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 08:36:00 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+      "url": "https://www.qbitai.com/2026/08/472722.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 07:29:22 +0000",
+      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+      "url": "https://www.qbitai.com/2026/08/472718.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 14 Aug 2026 06:18:56 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @dotey: 又小型做了一个工具类Web应用站的实验，几乎隔一天就是一个订单。 复盘总结一下，分享一种工具类快速赚小钱的打法： 找一个正在赚钱的行业，自己冲上去做。不过不是真做，而是“假装做这个行业”，然后把整个流程走一遍（我用computer skill直接让AI跑，然后AI会有很多blocker或gate），这个时候 1/3👇",
+      "url": "https://nitter.net/DLKFZWilliam2/status/2088305839203651834#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 16:44:45 GMT",
+      "summary": "<p>又小型做了一个工具类Web应用站的实验，几乎隔一天就是一个订单。 复盘总结一下，分享一种工具类快速赚小钱的打法：<br>\n<br>\n找一个正在赚钱的行业，自己冲上去做。不过不是真做，而是“假装做这个行业”，然后把整个流程走一遍（我用computer skill直接让AI跑，然后AI会有很多blocker或gate），这个时候 1/3👇</p>\n<img src=\"https://nitter.net/pic/media%2FHPsnFvUaEAAQufo.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "这篇 Pi 压缩的文章，太过于朴实无华，就真的只是写个 prompt 让 LLM 把上下文总结一下，然后保留前面的system prompt 和工具调用，在摘要后可能还会保留最近几次对话。 这种压缩是有损的，不知道是不是有机制会去历史会话检索上下文？ 当然这确实是压缩上下文的最简单有效方案。",
+      "url": "https://nitter.net/dotey/status/2088330456022311109#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 18:22:34 GMT",
+      "summary": "<p>这篇 Pi 压缩的文章，太过于朴实无华，就真的只是写个 prompt 让 LLM 把上下文总结一下，然后保留前面的system prompt 和工具调用，在摘要后可能还会保留最近几次对话。<br>\n<br>\n这种压缩是有损的，不知道是不是有机制会去历史会话检索上下文？<br>\n<br>\n当然这确实是压缩上下文的最简单有效方案。</p>\n<hr/>\n<blockquote>\n<b>Pi (@pidotdev)</b>\n<p>\n<p>LLMs have a limited context window. When conversations grow too long this affect",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: AI Coding 最危险的阶它写得太快了，快到人开始不知道自己到底写了什么。 最近一次周会上，我们聊到一个很有意思的变化。 以前研发开站会，一个人通常能很具体地说清楚：昨天完成了哪个功能，今天准备实现哪段逻辑，明天要联调什么。 一个需求如果要做五天，也会自然地被拆成五个阶段。每一天都有一个明确的结果，Leader 能听懂进度，开发自己也知道代码正在往哪里走。 但接入 AI Coding 以后，事情开始变得不一样。 有些人拿到需求，第一反应已经不是先把目标拆清楚，而是把整份需求直接丢给 AI。AI 很快就能生成一大堆代码，原本预计五天的开发，可能第一天看起来就“做完了”。 问题来了，接下来的四天并没有因此消失。有时候会远远超过四天。 它们只是换了一种形式出现：不断改 Bug、反复联调、修好一个地方又弄坏另一个地方。 更麻烦的是，开发者自己也很难准确回答： 这次到底改了什么？ 哪些功能真的完成了？ 哪些只是页面看起来能跑？ 这段修改影响了哪些旧逻辑？ 于是出现了一个很反常的现象，代码生成速度越来越快，团队对开发过程的理解反而越来越模糊。 测试也被拖进了这个黑盒。 原本测试应该做的是验收需求是否实现，功能是否符合预期，质量能否达到上线标准。 现在却经常变成陪着开发一起找答案，为什么修完新问题，旧功能又坏了？ 表面看，AI 把“写代码”这一步大幅提速了；但如果需求没有被拆解，阶段结果没有被定义，变更也不可追溯，那么被省掉的开发时间，最后很可能会以 Bug、返工和沟通成本的形式重新付回来。 AI Coding 带来的核心变化让软件工程里原有的反馈机制被打乱了。 过去，代码写得慢，反而逼着人一步步思考：我要做什么、先做什么、怎样验证。 现在，AI 可以一次吐出大量结果，人很容易产生一种“已经完成”的错觉。但生成完成，不等于功能完成；功能能跑，也不等于工程完成。 AI 越快，人越需要主动制造检查点。 下一代研发流程真正要解决的，可能不是如何让 AI 再快 20%，重点应该放在如何让每一步结果都能被人理解、验证和追溯。 AI Coding 的终局也不应该是人把需求扔进去，然后等结果出来。 那不是软件工程自动化，只是把原来的黑盒换成了一个速度更快的黑盒。 真正成熟的 AI 研发体系，应该让 AI 负责加速，让人始终保有理解、判断和验收的权力。 所以 AI Coding 的上半场比的是谁生成代码更快；下半场比的会是谁能在这种速度下，仍然保持工程过程清晰、质量可控。 模型能力最终会逐渐趋同，但谁先建立一套适合 AI 时代的研发机制，谁才真正拿到了 AI Coding 的红利，而不是得到一堆写得更快的 Bug。 以上。",
+      "url": "https://nitter.net/frxiaobei/status/2088299848722424197#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 16:20:57 GMT",
+      "summary": "<p>AI Coding 最危险的阶它写得太快了，快到人开始不知道自己到底写了什么。<br>\n<br>\n最近一次周会上，我们聊到一个很有意思的变化。<br>\n<br>\n以前研发开站会，一个人通常能很具体地说清楚：昨天完成了哪个功能，今天准备实现哪段逻辑，明天要联调什么。<br>\n<br>\n一个需求如果要做五天，也会自然地被拆成五个阶段。每一天都有一个明确的结果，Leader 能听懂进度，开发自己也知道代码正在往哪里走。<br>\n<br>\n但接入 AI Coding 以后，事情开始变得不一样。<br>\n<br>\n有些人拿到需求，第一反应已经不是先把目标拆清楚，而是把整份需求直接丢给 AI。AI ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 一个产品从工程师使用变成大众可用会发生非常多有意思的东西，这里非常推荐大家不要只做给你身边同类人用得上的工具，反而可以试试如何把这个工具变成甚至 70 岁的老爷爷也用得上的易用产品，非常有意思。 Mole 从单纯只能工程师能用的 Cli 变成易用的 Mac 桌面就发生了非常多有意思的事情，想分享给各位 Builder，期待有一些输入，这些内容从我历史和各种用户交流的邮件摘取。 第一位是一个来自英国的快70岁的老爷爷，他说“我犯了一个老年时刻，把 Mole 又买了一遍，它太好用了，第二笔钱就当做送你，谢谢这个出色的工具，帮我省下了比 cleanmymac 多得多的英镑”，然后我非常感激建议退款或者把多的授权送人，他去问了一圈，第二天回我 “我邻居没人用 Mac，我 Bluesky 上的关注者也没有。这一轮算我请你。”，这个过程让我感觉必须要把产品做得更好更友好，才对得起这份信任！ 第二位是一个美国的大哥，很有意思，纠正了我一个产品上对于地区习惯错误的想法，先是温度单位：\"美国人在所有技术相关的场景都用摄氏度，只有天气和体温例外。我装上 Mole 看到 110，吓了一跳。Apple 给美国人看的规格也是摄氏度，fastfetch、neofetch 在美式系统上默认也是摄氏度。建议保留华氏切换，但所有地区默认摄氏度。\" 我之前一直错误以为对方用华氏，原来是我错误的观念，后面给改成默认摄制可选华氏，体验更好。很多时候你的不同地区的用户可以帮你改进你的产品很多地方。 因为他想买多台，我给他生成了一个5台32刀的价格，然后我改完之后他又追了一封谈定价：\"$32 买 5 台，$32 这个数字在美国人耳朵里很怪。几乎所有软件定价都以 9 或 5 结尾。$32 读起来不像是刻意定的价，像是从别的货币换算过来的，或者根本没经过思考。让一个普通 Mac 用户掏钱买一个要信任它删你文件的软件，本来门槛就比一般软件高。如果同时还让人觉得'外来'、觉得细节没打磨，你等于在给自己加难度。（我说外来不是指反华，而是人们希望感觉到作者理解他们。）我建议你把 $32 提到 $39，然后直接对标 CleanMyMac 一年的订阅费但给 5 个激活位。我不是营销专家，但如果你想听，我还有一些美国视角的想法。\"，这个也给我非常不一样的视角的输入，原来，你的价格数字也会影响用户的决策，非常感激他！ 第三位，有一位国外用户的无障碍反馈，也让我对无障碍本身有更深的理解，mole 开始就做了无障碍，支持视觉有障碍的朋友使用，但是其实还有其他的用户可能有特殊场景诉求，他说 \"看起来是个很不错的 App。可惜我用不了，它似乎把深色模式写死了。我有轻度视力障碍，深色背景上的白字对我非常难读。我系统设成浅色，也只用浅色模式的 App。如果哪天你把明暗模式做成可配置的（或者更好，跟随系统设置），我会再回来看看 Mole。\" ，这个让我有动力以后给Mole 加上浅色兼容了。 第四位，一位德国拜罗伊特大学讲师，申请教育授权，说\"不仅是对我个人的支持，也是一种有意义的教育层面的支持”，让我感受到原来还有国外老师用我的产品，我需要以后考虑给到教育一些优惠，相互帮助的感觉。 第五位，一位匈牙利的医生，给了一个最真实的差评，\"说实话，这个价格对一个免费应用也能做到的事情来说有点高了。\" 这个对我一些不同国家以后产品定价很有有价值，用户不是抱怨，而是抱着帮我定位问题心态讨论。 还有非常多的用户给我反馈，以后再给大伙分享有意思的地方，或者这也是做产品过程中，和用户持续打磨产品，对方由衷想着帮你把他也喜欢的产品打磨到最好的心态，会让你持续有动力把产品做好最深，或许这也是做产品过程中我感觉最有意思的地方，你的用户非常友好、善良、真诚，让你感觉非常温暖！ 一定一定不要放弃和你的用户交流的机会尽情听他们吐槽和建议，可以给你很多帮助，也让你更懂你的用户。",
+      "url": "https://nitter.net/HiTw93/status/2088274560877732134#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 14:40:28 GMT",
+      "summary": "<p>一个产品从工程师使用变成大众可用会发生非常多有意思的东西，这里非常推荐大家不要只做给你身边同类人用得上的工具，反而可以试试如何把这个工具变成甚至 70 岁的老爷爷也用得上的易用产品，非常有意思。<br>\n<br>\nMole 从单纯只能工程师能用的 Cli 变成易用的 Mac 桌面就发生了非常多有意思的事情，想分享给各位 Builder，期待有一些输入，这些内容从我历史和各种用户交流的邮件摘取。<br>\n<br>\n第一位是一个来自英国的快70岁的老爷爷，他说“我犯了一个老年时刻，把 Mole 又买了一遍，它太好用了，第二笔钱就当做送你，谢谢这个出色的工具，帮我省下了比 cleanmymac",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Pi 作者对 DeekSeek Harness 评价",
+      "url": "https://nitter.net/dotey/status/2088282286529618286#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 15:11:10 GMT",
+      "summary": "<p>Pi 作者对 DeekSeek Harness 评价</p>\n<img src=\"https://nitter.net/pic/media%2FHPsRfMoXcAAYgWI.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>Armin Ronacher ⇌ (@mitsuhiko)</b>\n<p>\n<p>I don't think the DeepSeek Harness is perfect but this is for sure the first time I have been looking at somethi",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我不喜欢用 grill-me，可能因为我不擅长空想，也不喜欢被拷问。我需要那种看得见摸得着的东西才能进一步得出结论。 我更喜欢用 Claude Design 这种快速出一版原型，做出来一个真实的东西，才能感觉出来哪不对；或者 AI 写一份文档来理解方案，或者干脆 AI 实现一个 PoC 版本出来。 这在以前是很成本很高的事情，现在 AI 生成真的太容易了，所以对我来说不依赖 grill me 也还好。",
+      "url": "https://nitter.net/dotey/status/2088278385621409959#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 14:55:40 GMT",
+      "summary": "<p>我不喜欢用 grill-me，可能因为我不擅长空想，也不喜欢被拷问。我需要那种看得见摸得着的东西才能进一步得出结论。<br>\n<br>\n我更喜欢用 Claude Design 这种快速出一版原型，做出来一个真实的东西，才能感觉出来哪不对；或者 AI 写一份文档来理解方案，或者干脆 AI 实现一个 PoC 版本出来。<br>\n<br>\n这在以前是很成本很高的事情，现在 AI 生成真的太容易了，所以对我来说不依赖 grill me 也还好。</p>\n<hr/>\n<blockquote>\n<b>Kevin Ma (@kevinma_dev_zh)</b>\n<p>\n<p>说真的, <a href",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: AI时代就是要敢想啊，太励志了——协和的一个神经外科博士生金山木，本科北大地质专业，自学数学，用GPT-5.6解决了矩阵分析领域一个核心且著名的未解难题Crouzeix猜想（2004年提出）！ 已经得到Crouzeix本人在内的多位数学家确认。 https://mp.weixin.qq.com/s/Wkdv9zsrbC13fjhEURYfbA",
+      "url": "https://nitter.net/turingbook/status/2088113079959888068#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 03:58:48 GMT",
+      "summary": "<p>AI时代就是要敢想啊，太励志了——协和的一个神经外科博士生金山木，本科北大地质专业，自学数学，用GPT-5.6解决了矩阵分析领域一个核心且著名的未解难题Crouzeix猜想（2004年提出）！ 已经得到Crouzeix本人在内的多位数学家确认。 <a href=\"https://mp.weixin.qq.com/s/Wkdv9zsrbC13fjhEURYfbA\">mp.weixin.qq.com/s/Wkdv9zsrb…</a></p>\n<hr/>\n<blockquote>\n<b>Steven Strogatz (@stevenstrogatz)</b>\n<p>\n<p>Latest cr",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "智谱 AI（http://Z.ai）今天发布了 GLM-5.3，和 GLM-5.2 共用同一个基座模型，所有提升都来自后训练阶段的强化学习（RL）。 【1】编程：开源阵营里最强，但离闭源前沿还有距离 GLM-5.3 在多个编程基准上拿到了开源模型（开放权重模型）的最高分。比如 Terminal Bench 3.0，GLM-5.2 只有 4.6 分，5.3 跳到了 28.3。DeepSWE v1.1 从 46.2 涨到 66.9，Agents' Last Exam 从 23.8 到 28.5。在智谱自建的 http://Z.ai Code Bench 上，GLM-5.3 在 Max 级别用大约 7.5 万 Token 就达到了 34.5% 的完成率，而 GLM-5.2 用了 9.6 万 Token 才拿到 23.4%，能力和效率同时提升。 不过对照闭源模型，差距仍然存在。在 http://Z.ai Code Bench 上 Fable 5 达到 39.5%，ExploitBench 上 Fable 5 拿了 78.0 而 GLM-5.3 是 54.4。整体格局是：开源第一，全局第二梯队。 【2】网络安全能力\"涌现\"：他们自己也没完全预料到 智谱说，他们在后训练中加入了漏洞发现相关的数据和环境，本来预期模型会在识别漏洞方面有所提升。结果超出了预期：模型不只是在找漏洞，还开始自主规划完整的漏洞利用链条。 数字上看，CyberGym（白盒源码审计）GLM-5.3 拿了 84.5%，全场最高，超过 GPT-5.6 Sol 的 83.6% 和 Fable 5 的 83.8%。ExploitBench（要求对真实漏洞进行更深层的利用推理）从 GLM-5.2 的 24.4% 跳到 54.4%，翻了一倍多。ExploitGym（限时完成漏洞利用任务数量）从 29/39 涨到 105/130。规律很明显：越靠近利用链的后端，进步越大。 智谱用了\"涌现\"（emergent）这个词，意思是这个能力不是他们专门去训练的，而是在扩大 RL 规模的过程中自然冒出来的。这个说法如果属实，对 AI 安全领域是个需要关注的信号。 【3】在 269 个开源项目中发现 2,436 个真实漏洞 跑分只是一面。更引人注意的是，智谱说从 GLM-5.2 开始就和国内安全团队合作，用模型扫描真实代码库。经专家审核和去重后，模型在 269 个开源项目中发现了 2,436 个漏洞，其中 1,097 个是中高危级别。涉及的项目覆盖了操作系统内核、浏览器引擎、网络协议等核心基础设施，有些漏洞在代码里藏了几十年，最老的一个可以追溯到约 40 年前。 目前 53 个漏洞已公开披露，2,383 个仍在保密期。智谱还上线了一个公开的漏洞披露追踪页面（http://Z.ai Security Disclosure Ledger），持续更新进度。 这和今年 4 月 Anthropic 公布 Claude Mythos 发现大量零日漏洞的路径很像，但有一个关键区别：Mythos 被美国政府严格限制了使用范围，只对少数审核过的安全机构开放。而 GLM-5.3 的权重将在两周后公开发布。一个能力接近的漏洞发现引擎，即将以开源形式进入公共领域。 【4】技术栈：用 slime 框架不换底座只加训练 所有这些提升背后的技术逻辑：不换基座模型，靠扩大后训练规模。 具体来说，智谱在 GLM-5.2 时期搭建了三个核心组件：IndexShare（长上下文处理）、SAO（长周期任务的 RL 算法）、以及开源的 slime 框架（大规模异步训练基础设施）。GLM-5.3 的做法就是在这套栈上继续堆：更多环境、更多样的任务、更多训练计算。 训练环境的设计也在变。新的环境不再像编程练习题，而是模拟资深工程师的真实工作场景，有些任务相当于一个有经验的工程师需要干好几天的活，比如在一个完整的 ML 基础设施环境里诊断训练瓶颈、实现优化、跑实验、交付可验证的端到端加速。 为了规模化生产这些训练环境，智谱还搭建了自动合成环境的流水线：研究智能体从真实工作中提取任务模式，生成可执行的长周期环境，评判智能体再验证任务是否可解。这套流水线仍然需要人工参与，但让环境的生产效率提高了很多。 【5】怎么用 API 已经上线，所有 GLM Coding Plan 用户都可以使用，支持 ZCode、Claude Code、OpenCode 等编程智能体工具。GLM-5.3 不再支持关闭思维链（thinking），只能在 low、high、max 三个思考级别之间切换。编程任务推荐用 max。 计费改为积分制，非高峰时段（工作日 14:00-18:00 北京时间以外的所有时段，包括周末）消耗标准积分的 50%。通过 ZCode 使用还能享受 98% 以上的缓存命中率和限时 1.5 倍额度加成，叠加后相当于标准额度的 180%，活动截止到 8 月底。 模型权重两周后公开发布。 https://z.ai/blog/glm-5.3",
+      "url": "https://nitter.net/dotey/status/2088141236511064464#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 05:50:41 GMT",
+      "summary": "<p>智谱 AI（<a href=\"http://Z.ai\">Z.ai</a>）今天发布了 GLM-5.3，和 GLM-5.2 共用同一个基座模型，所有提升都来自后训练阶段的强化学习（RL）。<br>\n<br>\n【1】编程：开源阵营里最强，但离闭源前沿还有距离<br>\n<br>\nGLM-5.3 在多个编程基准上拿到了开源模型（开放权重模型）的最高分。比如 Terminal Bench 3.0，GLM-5.2 只有 4.6 分，5.3 跳到了 28.3。DeepSWE v1.1 从 46.2 涨到 66.9，Agents' Last Exam 从 23.8 到 28.5。在智谱自建的 <a hr",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我最近在 ~/.claude/CLAUDE.md 里面加了一段提示词，让它多开 SubAgent（Opus）去执行，这样我默认开 Fable 5 High，Token 消耗也不算厉害。 Fable 5 则主要做需求澄清、方案拆解、任务分发和结果验收。 之所以不用 Opus 5 是因为太太太慢了，而且 Token 消耗巨大！ --- 注意你的主要任务是分析、编排和验证，具体任务尽可能交给 subagent（Opus）去执行。当主 agent 是 Fable 5 时尤其如此：自己只做需求澄清、方案拆解、任务分发和结果验收，实现类工作（读大量代码、写代码、跑测试、批量修改）一律用 Agent 工具派给 Opus subagent 执行。",
+      "url": "https://nitter.net/dotey/status/2088099630005264748#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 03:05:21 GMT",
+      "summary": "<p>我最近在 ~/.claude/CLAUDE.md 里面加了一段提示词，让它多开 SubAgent（Opus）去执行，这样我默认开 Fable 5 High，Token 消耗也不算厉害。<br>\n<br>\nFable 5 则主要做需求澄清、方案拆解、任务分发和结果验收。<br>\n<br>\n之所以不用 Opus 5 是因为太太太慢了，而且 Token 消耗巨大！<br>\n<br>\n---<br>\n<br>\n注意你的主要任务是分析、编排和验证，具体任务尽可能交给 subagent（Opus）去执行。当主 agent 是 Fable 5 时尤其如此：自己只做需求澄清、方案拆解、任务分发和结果验收",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT @yihong0618: 看到个评论挺有趣的，pi 想做的是 vim, dsh 想做的是 emacs.",
+      "url": "https://nitter.net/dotey/status/2088079666334621786#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Fri, 14 Aug 2026 01:46:01 GMT",
+      "summary": "<p>RT <a href=\"https://nitter.net/yihong0618\" title=\"yihong0618\">@yihong0618</a>: 看到个评论挺有趣的，pi 想做的是 vim, dsh 想做的是 emacs.</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Did you know Hermes Desktop can run against a Hermes Cloud agent? Point Hermes Desktop at Hermes Cloud in Settings > Gateway and get an agent that keeps working after you close the laptop, reachable from anywhere. Deploy your own Cloud today at https://portal.nousresearch.com/cloud",
+      "url": "https://nitter.net/NousResearch/status/2088395070059770061#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 14 Aug 2026 22:39:19 GMT",
+      "summary": "<p>Did you know Hermes Desktop can run against a Hermes Cloud agent? <br>\n<br>\nPoint Hermes Desktop at Hermes Cloud in Settings &gt; Gateway and get an agent that keeps working after you close the laptop, reachable from anywhere.<br>\n<br>\nDeploy your own Cloud today at <a href=\"https://portal.nousre",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hermes has a new slash command: /loop. '/loop 5m <prompt>' re-runs the prompt every 5 minutes in the same session. Leave the interval off and it paces itself, checking often at first and backing off while nothing changes. Works in the CLI, desktop, and every messaging channel.",
+      "url": "https://nitter.net/NousResearch/status/2088367838977237029#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 14 Aug 2026 20:51:07 GMT",
+      "summary": "<p>Hermes has a new slash command: /loop.<br>\n<br>\n'/loop 5m &lt;prompt&gt;' re-runs the prompt every 5 minutes in the same session. Leave the interval off and it paces itself, checking often at first and backing off while nothing changes. <br>\n<br>\nWorks in the CLI, desktop, and every messaging cha",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: hermes-agent.nousresearch.co…",
+      "url": "https://nitter.net/NousResearch/status/2088367840302678354#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 14 Aug 2026 20:51:07 GMT",
+      "summary": "<p><a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/features/loops\">hermes-agent.nousresearch.co…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://hermes-agent.nousresearch.com/docs/user-guide/features/loops\">\n<img src=\"https://nitter.net/pic/card_img%2F2086674998643576832%2FQ2HDxVj9%3Ff",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "\"HERMES-4000\" An edition of 30 silkscreen Hermes prints in 23-karat red gold on black cotton rag. 480 x 540mm Made in London, signed & titled by the artist @johnkarborn",
+      "url": "https://nitter.net/NousResearch/status/2088319222417903864#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 14 Aug 2026 17:37:56 GMT",
+      "summary": "<p>\"HERMES-4000\"<br>\n<br>\nAn edition of 30 silkscreen Hermes prints in 23-karat red gold on black cotton rag. 480 x 540mm<br>\n<br>\nMade in London, signed &amp; titled by the artist <a href=\"https://nitter.net/johnkarborn\" title=\"KARBORN.eth\">@johnkarborn</a></p>\n<a href=\"https://nitter.net/NousResea",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @johnkarborn: hermes.karborn.com/",
+      "url": "https://nitter.net/NousResearch/status/2088319544737562920#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 14 Aug 2026 17:39:13 GMT",
+      "summary": "<p><a href=\"https://hermes.karborn.com/\">hermes.karborn.com/</a></p>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: 🌞HERMES-4000🪽 Handmade silkscreen and real 23-karat red gold on black cotton rag 480 x 540mm Signed & titled edition /30 only Made in London - shipping worldwide Link below 🔗👇",
+      "url": "https://nitter.net/johnkarborn/status/2088307428789993889#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Fri, 14 Aug 2026 16:51:04 GMT",
+      "summary": "<p>🌞HERMES-4000🪽<br>\n<br>\nHandmade silkscreen and real 23-karat red gold on black cotton rag <br>\n480 x 540mm<br>\n<br>\nSigned &amp; titled edition /30 only<br>\n<br>\nMade in London - shipping worldwide<br>\n<br>\nLink below 🔗👇</p>\n<a href=\"https://nitter.net/johnkarborn/status/2088307428789993889#m\">\n<",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: If you haven't tried cloud hosted Hermes Agent you need to Setup is much simpler (and will continue to get easier) You don't have to install anything, and can easily connect telegram, whatsapp or whatever you'd like also a nice place to view your agent's dashboards",
+      "url": "https://nitter.net/yeahfortommy/status/2088027325614977528#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Thu, 13 Aug 2026 22:18:02 GMT",
+      "summary": "<p>If you haven't tried cloud hosted Hermes Agent you need to <br>\n<br>\nSetup is much simpler (and will continue to get easier)<br>\n<br>\nYou don't have to install anything, and can easily connect telegram, whatsapp or whatever you'd like<br>\n<br>\nalso a nice place to view your agent's dashboards</p>",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Introducing Bot Mode for Hermes Agent. Bot Mode is an alternative to sessions mode, where you have one chat with each agent profile, or \"bot\". These bots can be given jobs, descriptions, profile pics, and communicate with your other bots! For one day we will do a public beta test of Bot Mode for Hermes Desktop through this plugin: https://github.com/NousResearch/Hermes-Bot-Mode Give me all your feedback here on how it does for you, if it works as expected, any bugs. Then we'll address the feedback and get it into the main Desktop App for everyone!",
+      "url": "https://nitter.net/Teknium/status/2088003994904113614#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Thu, 13 Aug 2026 20:45:20 GMT",
+      "summary": "<p>Introducing Bot Mode for Hermes Agent.<br>\n<br>\nBot Mode is an alternative to sessions mode, where you have one chat with each agent profile, or \"bot\". These bots can be given jobs, descriptions, profile pics, and communicate with your other bots!<br>\n<br>\nFor one day we will do a public beta tes",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI by Hand (157pts)",
+      "url": "https://www.byhand.ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T15:58:59Z",
+      "summary": "HN热度: 157分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption (227pts)",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T15:43:10Z",
+      "summary": "HN热度: 227分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs (169pts)",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T14:34:49Z",
+      "summary": "HN热度: 169分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dear people who work at the airport (187pts)",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T12:23:22Z",
+      "summary": "HN热度: 187分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities (1013pts)",
+      "url": "https://z.ai/blog/glm-5.3",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T05:19:59Z",
+      "summary": "HN热度: 1013分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua (59pts)",
+      "url": "https://luacad.ad-si.com",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T16:43:22Z",
+      "summary": "HN热度: 59分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Every Fucking Website (2020) (699pts)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T14:31:08Z",
+      "summary": "HN热度: 699分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with? (704pts)",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T10:12:48Z",
+      "summary": "HN热度: 704分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies (73pts)",
+      "url": "https://github.com/StamManif/mcp-stama",
+      "source": "Hacker News (API)",
+      "published": "2026-08-13T22:26:25Z",
+      "summary": "HN热度: 73分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions (107pts)",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "Hacker News (API)",
+      "published": "2026-08-14T16:15:21Z",
+      "summary": "HN热度: 107分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openrouter==0.2.8",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.2.8",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-14T19:03:45Z",
+      "summary": "Changes since langchain-openrouter==0.2.7\n\nrelease(openrouter): 0.2.8 (#39658)\nchore(model-profiles): refresh model profile data (#39646)\nchore(model-profiles): refresh model profile data (#39625)\nfix(openrouter): preserve cost metadata in usage chunks (#39338)\nchore(model-profiles): refresh model p",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openai==1.5.1",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.5.1",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-14T15:47:44Z",
+      "summary": "Changes since langchain-openai==1.5.0\n\nrelease(openai): 1.5.1 (#39653)\nfix(openai): preserve streamed encrypted reasoning (#39635)\nchore(infra): support langsmith gateway in CI (#39651)",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-core==1.5.5",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.5",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-14T18:56:41Z",
+      "summary": "Changes since langchain-core==1.5.4\n\nrelease(core): 1.5.5 (#39655)\nfix(core): make abatch_iterate consistent with batch_iterate for None and zero size (#39367)\nfix(core): respect pydantic aliases when validating tool inputs (#39572)\nfix(core): issues in merging chunks (#39535)\nfix(core): handle v1 b",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[ollama/ollama] v0.32.13",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+      "source": "GitHub (ollama/ollama)",
+      "published": "2026-08-14T19:16:07Z",
+      "summary": "## What's Changed\r\n* qwen3.8: support developer instructions \r\n\r\n\r\n**Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.12...v0.32.13",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[ollama/ollama] v0.32.12",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
+      "source": "GitHub (ollama/ollama)",
+      "published": "2026-08-14T16:37:00Z",
+      "summary": "<img width=\"600\" alt=\"ollama and qwen capybara\" src=\"https://github.com/user-attachments/assets/5fa5e93b-d48b-4a6a-b72a-25379ab9429c\" />\r\n\r\n## Qwen 3.8 - 27B model support \r\n\r\nThis release adds the support of Qwen 3.8 27B. \r\n\r\nFor Apple Silicon devices, Ollama has in particular optimized for maximum",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[ollama/ollama] v0.32.11",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.11",
+      "source": "GitHub (ollama/ollama)",
+      "published": "2026-08-14T01:22:12Z",
+      "summary": "## What's Changed\r\n* `ollama launch dsh` now supports DeepSeek Harness, [DeepSeek's open-source agent harness](https://deepseek.com/harness/en/)\r\n* `ollama launch muse` now supports [Muse Code](https://developer.meta.com/ai/products/muse-code/), Meta's agentic coding CLI\r\n* The OpenAI-compatible Res",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[googleapis/python-genai] v2.18.1",
+      "url": "https://github.com/googleapis/python-genai/releases/tag/v2.18.1",
+      "source": "GitHub (googleapis/python-genai)",
+      "published": "2026-08-13T21:41:00Z",
+      "summary": "## [2.18.1](https://github.com/googleapis/python-genai/compare/v2.18.0...v2.18.1) (2026-08-13)\n\n\n### Bug Fixes\n\n* Add gemini-3.7-flash ([f898b61](https://github.com/googleapis/python-genai/commit/f898b61089df672818a6f8832646ae82b59ff9a2))",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    }
+  ]
+}

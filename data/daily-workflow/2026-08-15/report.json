@@ -1,0 +1,141 @@
+{
+  "title": "智谱GLM-5.3发布：开源编程最强模型涌现网络安全能力",
+  "date": "2026-08-15",
+  "summary": "智谱AI发布GLM-5.3，在开源模型中编程能力最强，并在网络安全领域展现\"涌现\"能力，发现40年陈年老bug。同时Google推出AI水印可关闭功能，Meta发布开源模型Glimmer，开源与闭源模型竞争加剧。",
+  "tags": [
+    "大模型",
+    "AI Coding",
+    "AI应用",
+    "AI行业",
+    "开源",
+    "安全"
+  ],
+  "highlight": {
+    "title": "智谱GLM-5.3发布：开源编程最强模型，涌现网络安全能力发现40年陈年老bug",
+    "body": "智谱AI发布GLM-5.3，与GLM-5.2共用基座模型，提升全部来自后训练RL。模型在Terminal Bench 3.0从4.6分跃升至28.3分，DeepSWE v1.1达66.9分。更关键的是网络安全能力\"涌现\"：CyberGym白盒审计84.5%全场最高，在269个开源项目中发现2436个真实漏洞，最老漏洞潜伏约40年。权重两周后开源发布。",
+    "source_url": "https://nitter.net/dotey/status/2088141236511064464#m"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "智谱GLM-5.3发布：不换底座纯靠RL，开源编程最强并涌现网络安全能力",
+          "body": "智谱AI发布GLM-5.3，与GLM-5.2共用基座模型，所有提升来自后训练阶段强化学习。编程基准上，Terminal Bench 3.0从4.6分跃升至28.3分，DeepSWE v1.1从46.2%涨至66.9%，为开源模型最高分。更引人注目的是网络安全能力的\"涌现\"：CyberGym白盒源码审计达84.5%，超过GPT-5.6 Sol和Fable 5；在269个开源项目中发现2436个漏洞，其中1097个中高危，最老漏洞潜伏约40年。模型权重两周后公开发布，API已上线。",
+          "source_url": "https://nitter.net/dotey/status/2088141236511064464#m",
+          "source_name": "宝玉 (@dotey)",
+          "importance": "high",
+          "related_entities": [
+            "智谱AI",
+            "Z.ai",
+            "GLM-5.3",
+            "梁文锋"
+          ]
+        },
+        {
+          "headline": "Hugging Face发布《2026年夏季开源模型观察》",
+          "body": "Hugging Face发布夏季开源模型状态报告，梳理当前开源模型生态发展。虽然具体内容未在摘要中披露，但作为开源社区核心平台，该报告对理解开源模型与闭源模型的竞争格局、技术趋势具有重要参考价值。",
+          "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Hugging Face"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "GLM-5.3成开源编程最强模型，支持ZCode、Claude Code等智能体工具",
+          "body": "GLM-5.3在编程能力上实现开源阵营领先，在智谱自建的Z.ai Code Bench Max级别以约7.5万Token达到34.5%完成率，而GLM-5.2需9.6万Token才达23.4%。API已上线，支持ZCode、Claude Code、OpenCode等编程智能体工具。模型不再支持关闭思维链，仅可在low、high、max三档切换。计费改为积分制，非高峰时段消耗50%，通过ZCode使用可享98%以上缓存命中率和限时1.5倍额度加成。",
+          "source_url": "https://z.ai/blog/glm-5.3",
+          "source_name": "Z.ai Blog",
+          "importance": "high",
+          "related_entities": [
+            "智谱AI",
+            "ZCode",
+            "Claude Code"
+          ]
+        },
+        {
+          "headline": "Ollama v0.32.11更新：支持DeepSeek Harness和Muse Code",
+          "body": "Ollama发布v0.32.11版本，新增对DeepSeek Harness（DeepSeek开源智能体框架）和Muse Code（Meta智能体编码CLI）的支持，同时扩展OpenAI兼容响应功能。这一更新反映了AI Coding工具链的快速整合趋势，开源基础设施正在加速拥抱多模型生态。",
+          "source_url": "https://github.com/ollama/ollama/releases/tag/v0.32.11",
+          "source_name": "GitHub (ollama/ollama)",
+          "importance": "medium",
+          "related_entities": [
+            "Ollama",
+            "DeepSeek",
+            "Meta",
+            "Muse Code"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google允许用户关闭Gemini AI生成内容的可见水印",
+          "body": "Google更新政策，允许用户在Gemini设置中关闭\"Media watermark\"选项，移除AI生成图像、视频和音乐上的\"sparkle\"可见水印。但关闭可见水印不会影响用于识别AI生成文件的隐形标记。此举引发关于AI内容溯源与用户体验平衡的讨论。",
+          "source_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source_name": "The Verge",
+          "importance": "medium",
+          "related_entities": [
+            "Google",
+            "Gemini"
+          ]
+        },
+        {
+          "headline": "Meta发布开源模型Glimmer，与闭源Muse Spark形成双轨策略",
+          "body": "Meta本周发布Glimmer，一个可下载并在本地硬件运行的开源权重AI模型，与其更强大的闭源API模型Muse Spark形成对比。Zuckerberg同期发布公开信阐述AI民主化愿景，但TechCrunch质疑其\"开放\"承诺的深度，指出Meta可能因2500万美元交易失误而调整策略。",
+          "source_url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Meta",
+            "Mark Zuckerberg",
+            "Glimmer",
+            "Muse Spark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google推进同态加密技术，让私有AI更实用",
+          "body": "Google发布技术博客，介绍如何通过同态加密（Homomorphic Encryption）使AI能够在加密数据上直接计算，无需解密即可处理敏感信息。这是解决AI隐私保护关键瓶颈的重要进展，对金融、医疗等隐私敏感行业的AI部署具有深远意义。",
+          "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+          "source_name": "Google Security Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Google"
+          ]
+        },
+        {
+          "headline": "法国初创Kog优化GPU推理效率，挑战Agent工作流不适合GPU的观点",
+          "body": "法国初创公司Kog提出新技术路线，认为GPU不适合Agent工作流的观点可能是误解，正深入优化以从GPU中榨取更多推理性能。若其技术路线成立，将改变当前AI基础设施的投资逻辑，影响Agentic AI的硬件选型。",
+          "source_url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "source_name": "TechCrunch",
+          "importance": "medium",
+          "related_entities": [
+            "Kog"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}
