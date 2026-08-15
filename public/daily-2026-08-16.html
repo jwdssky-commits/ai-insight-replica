@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · SpaceX收购Cursor落定；Qwen3.8端侧推理反超Claude</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-08-16</div>
+        <h1 class="report-title">SpaceX收购Cursor落定；Qwen3.8端侧推理反超Claude</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>SpaceX officially closes its Cursor acquisition</strong></p>
+            <p>SpaceX正式完成对AI编程初创公司Cursor的收购，这是AI Coding领域近期最重磅的并购事件。作为非传统科技巨头进入开发者工具市场的标志性动作，此举可能深刻改变AI辅助编程行业的竞争格局与产品演进方向。</p>
+            <a href="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/08/473669.html" target="_blank" class="news-title-link">Qwen3.8-27B端侧实现Opus级Agent能力，多项榜单反超Claude</a></h3>
+            <div class="report-section-body"><p>阿里通义千问团队发布Qwen3.8-27B，在多项评测榜单上反超Claude，且可在单张消费级显卡上运行Opus级Agent。这标志着高端推理能力正向本地端侧快速普及，显著降低开发者与企业部署门槛。</p></div>
+            <div class="entity-tags"><span class="entity-tag">阿里巴巴</span> <span class="entity-tag">通义千问</span> <span class="entity-tag">Claude</span></div>
+            <a href="https://www.qbitai.com/2026/08/473669.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/08/473876.html" target="_blank" class="news-title-link">至知研究院提出大模型可解释性新路线，拆权重数据成本不到1%</a></h3>
+            <div class="report-section-body"><p>至知研究院提出大模型可解释性新路线，通过直接拆解权重而非训练替代网络来理解模型行为，数据成本不到传统方法1%。该技术为模型安全审计与对齐研究提供了更高效的底层分析工具。</p></div>
+            <div class="entity-tags"><span class="entity-tag">至知研究院</span></div>
+            <a href="https://www.qbitai.com/2026/08/473876.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://chenxiachan.github.io/thoughtdag/" target="_blank" class="news-title-link">ThoughtDAG推出可编辑上下文图工具，革新LLM对话交互范式</a></h3>
+            <div class="report-section-body"><p>开发者推出ThoughtDAG工具，提供可编辑的上下文图来管理LLM对话流，支持可视化和手动调整AI对话逻辑分支。这为复杂Agent编程与长篇代码生成的交互方式提供了新范式。</p></div>
+            
+            <a href="https://chenxiachan.github.io/thoughtdag/" target="_blank" class="source-link">📎 Hacker News (API)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://github.com/openai/openai-python/releases/tag/v3.1.0" target="_blank" class="news-title-link">OpenAI Python SDK v3.1.0发布，新增WebSocket stream IDs支持</a></h3>
+            <div class="report-section-body"><p>OpenAI发布Python SDK v3.1.0，新增WebSocket stream IDs支持，优化实时API数据流管理。该更新对构建低延迟AI编程助手和实时Agent应用的开发者具有直接工程价值。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span></div>
+            <a href="https://github.com/openai/openai-python/releases/tag/v3.1.0" target="_blank" class="source-link">📎 GitHub (openai/openai-python)</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/" target="_blank" class="news-title-link">Anthropic披露Claude新水印技术细节，影响代码与应用场景</a></h3>
+            <div class="report-section-body"><p>Anthropic披露Claude新水印技术细节，探讨其抵抗编辑的能力和代码生成场景下的适用性。这一内容溯源机制可能在AI辅助编程与文档写作领域引发广泛讨论。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Anthropic</span> <span class="entity-tag">Claude</span></div>
+            <a href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.qbitai.com/2026/08/473866.html" target="_blank" class="news-title-link">国产音乐模型升级挑战Suno，限时开放API根治AI音乐通病</a></h3>
+            <div class="report-section-body"><p>国内音乐生成模型发布新版本，针对AI音乐常见结构混乱与音色失真问题进行优化，正面挑战Suno等行业标杆，并通过限时免费开放API吸引开发者与创作者接入试用。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Suno</span></div>
+            <a href="https://www.qbitai.com/2026/08/473866.html" target="_blank" class="source-link">📎 量子位</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/" target="_blank" class="news-title-link">SpaceX正式完成Cursor收购，非传统巨头切入AI开发者工具市场</a></h3>
+            <div class="report-section-body"><p>SpaceX正式完成对AI编程初创公司Cursor的收购。作为AI Coding领域的标志性事件，此举显示非传统科技巨头正加速进入开发者工具市场，可能重塑行业竞争格局与产品走向。</p></div>
+            <div class="entity-tags"><span class="entity-tag">SpaceX</span> <span class="entity-tag">Cursor</span></div>
+            <a href="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html" target="_blank" class="news-title-link">Debian社区启动AI/LLM贡献未来政策投票</a></h3>
+            <div class="report-section-body"><p>Debian社区已启动针对AI与LLM生成贡献未来政策的正式投票，涉及开源生态中如何接纳由大模型生成的代码与文档。其结果可能为全球其他开源项目制定AI治理规则提供重要参考。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Debian</span></div>
+            <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html" target="_blank" class="source-link">📎 Hacker News (API)</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>

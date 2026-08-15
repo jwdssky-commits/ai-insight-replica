@@ -1,0 +1,546 @@
+{
+  "date": "2026-08-16",
+  "collected_at": "2026-08-15T22:42:40.619826+00:00",
+  "item_count": 45,
+  "items": [
+    {
+      "title": "Northern Gannet",
+      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-15T03:22:00+00:00",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p>\n<p>Morris is a local celebrity: the only known Northern Gannet (<em>Morus bassanus</em>) in the entire Pacific Ocean.</p>\n<p>",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-15T16:45:00-04:00",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside the Vercel intern experience",
+      "url": "https://vercel.com/blog/inside-the-vercel-intern-experience",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway",
+      "url": "https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
+      "url": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "One-click upgrade for deprecated Node.js versions",
+      "url": "https://vercel.com/changelog/one-click-upgrade-for-deprecated-node-js-versions",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Grok Build is now available in the AI SDK harness layer",
+      "url": "https://vercel.com/changelog/grok-build-harness-adapter",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Use ACP-compatible harnesses with the AI SDK harness layer",
+      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exa joins the Vercel Agent Marketplace",
+      "url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "url": "https://www.qbitai.com/2026/08/473876.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 15 Aug 2026 06:42:23 +0000",
+      "summary": "理解大模型，无需再训练一个替代网络",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 15 Aug 2026 06:36:05 +0000",
+      "summary": "音潮API限时免费开放",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 15 Aug 2026 06:05:31 +0000",
+      "summary": "推理能力还能自定义",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+      "url": "https://www.qbitai.com/2026/08/473597.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 15 Aug 2026 05:53:01 +0000",
+      "summary": "大家已经给DeepSeek装上了啥",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+      "url": "https://www.qbitai.com/2026/08/473407.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 15 Aug 2026 04:21:09 +0000",
+      "summary": "1.9万字全文实录",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+      "url": "https://www.qbitai.com/2026/08/473395.html",
+      "source": "量子位 (RSS)",
+      "published": "Sat, 15 Aug 2026 04:03:37 +0000",
+      "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "url": "https://arxiv.org/abs/2608.12372",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "url": "https://arxiv.org/abs/2608.12373",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's dec",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "url": "https://arxiv.org/abs/2608.12385",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12385v1 Announce Type: new \nAbstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "url": "https://arxiv.org/abs/2608.12389",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12389v1 Announce Type: new \nAbstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under spars",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+      "url": "https://arxiv.org/abs/2608.12395",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12395v1 Announce Type: new \nAbstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface that brings together ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @dotey: > 我觉得每个人都应该在 AI 时代想想是不是能做新的事情、做回自己本来擅长的事情。 非常同意，我对 Fable 时代编程的中二理解就像 op 里这段魔法使的群像。再也不是一群人用同一个 harness 拼熟练度，更像是每个人过去的人生、训练、兴趣和性格，最终都凝结成一种只有他会自然想到的魔法。 AI 并没有让所有人的创造力趋同，反而可能第一次把人与人之间原本隐藏的差异放大出来。 过去的经历不再只是决定你擅长什么工作，而开始决定你能够施展什么魔法。",
+      "url": "https://nitter.net/ewind_dev/status/2088575977639289220#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 15 Aug 2026 10:38:11 GMT",
+      "summary": "<p>&gt; 我觉得每个人都应该在 AI 时代想想是不是能做新的事情、做回自己本来擅长的事情。<br>\n<br>\n非常同意，我对 Fable 时代编程的中二理解就像 op 里这段魔法使的群像。再也不是一群人用同一个 harness 拼熟练度，更像是每个人过去的人生、训练、兴趣和性格，最终都凝结成一种只有他会自然想到的魔法。<br>\n<br>\nAI 并没有让所有人的创造力趋同，反而可能第一次把人与人之间原本隐藏的差异放大出来。<br>\n<br>\n过去的经历不再只是决定你擅长什么工作，而开始决定你能够施展什么魔法。</p>\n<a href=\"https://nitter.net/ewind_de",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: deepseek harness 文章已更新（https://blog.antinomie.org） dsh 内部的心智模型其实没那么简单，我在写这篇文章的时候也挣扎了很久；不过，对于写一个插件的人来说，却没有那么复杂。 文章有对此阐述，「复杂度不是消失了，而是转移进了系统内部」，相信读完这篇文章，你能够对 dsh 内部的架构有一个比较好的认知 repo: https://github.com/antinomie-lab/dsh-explore 此页面仍在持续更新（",
+      "url": "https://nitter.net/QuantumTransf/status/2088499422619750433#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 15 Aug 2026 05:33:59 GMT",
+      "summary": "<p>deepseek harness 文章已更新（<a href=\"https://blog.antinomie.org\">blog.antinomie.org</a>） <br>\ndsh 内部的心智模型其实没那么简单，我在写这篇文章的时候也挣扎了很久；不过，对于写一个插件的人来说，却没有那么复杂。 文章有对此阐述，「复杂度不是消失了，而是转移进了系统内部」，相信读完这篇文章，你能够对 dsh 内部的架构有一个比较好的认知<br>\nrepo: <a href=\"https://github.com/antinomie-lab/dsh-explore\">github.com/antinomie",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 我可以讲清楚这种启发具体是什么。 所谓 “一切皆插件” 至少有三四种不同的架构含义，很多人会将其误解为类似 Webpack 和 Pi 中的 hook 模式，或 VSCode 中在主创团队决策下开放给第三方的插件场景。 然而我对 DSH 插件架构要解决的问题的理解，其实还是来源于当年的 AFFiNE。 那时，虽然 AFFiNE 在产品功能上相当于 OpenNotion，但我们非常希望架构要完全可定制，理想中任意需求最好都能不 fork 我们主干就能由第三方实现（请就这句话联想一下 harness 场景）。因为在我们的融资叙事里，AFFiNE 的长期愿景是成为一个通用的应用开发底座。AFFiNE 内部我负责的 BlockSuite 编辑引擎也遇到同样的问题。满足短期需求的产品功能快速侵入通用引擎，会让技术团队对通用性愿景逐渐失去信心。 因此，当时 @EEEEYHN 设计实现了 Affine Framework，而 @mirone_saul 在 BlockSuite 中也做了类似的工作。其基本思路是将 DI 和 rxjs 结合来管理业务对象的生命周期，从而只要基于这套架构的逻辑，都是原理上能运行时动态替换的——很高兴看到今天 DeepSeek 甚至就此给出了数学证明！ 重复一遍，这种插件模式的重点在于运行时任意扩展的理论可能性。其精髓不同于 VSCode 那样人工决定“什么能被第三方扩展”，而是任意逻辑都默认能被第三方扩展。 这项工作不存在于 AFFiNE 的公开文档中，因为项目后期我们已经无暇顾及开发者业务的叙事。且这种架构也会让代码显著地更为晦涩，在古法编程时代会拖慢开发效率。有兴趣的朋友欢迎用 codex 去考古。 并且，我也不觉得我有资格声称“DSH 的理念早已被我们掌握”，因为 DSH 是第一个做到在 day one 就将我们未竟的理念贯彻为项目中一等公民的产品。这种技术方向上的产品化可能性，就是对我最大的启发。 在离开 AFFiNE 加入 Lovart 后，我注意到了 Prisma 作者 Johannes 对 @EffectTS_ 的称赞。如果你将手搓 DSH 插件架构的思路做到极致，那么基本上你就会重新得到 Effect。只要把它的 layer 理解成 provider， 把 tag 理解成 service key 就够了。 充分 Effect 化的代码里没有 setTimeout，能用 TestClock 做确定性模拟测试，从而将 E2E 墙钟时间压缩到单测时间。我认为这对提高软件可验证性有极大价值，甚至单独约过会向 Melvin 老板和 CTO 介绍过这项技术，然而也确实感觉没人能听懂我在说什么…… 现在回头看，我觉得 AFFiNE 有点像是个 General Magic 式的组织，它确实尝试过在一个宏大理想的 umbrella 下汇聚很多领域内最优秀的人各自的小理想。 在 AFFiNE，我有幸光明正大地烧投资人的钱，专门去研究通用编辑引擎如何从第一性原理出发设计架构。这些 know how 并不是局外人“那样肯定搞不成”可以一笔带过的。 GM 最后没有跑出来，但安卓、iPod、iPhone、Flash，其实都是技术条件成熟后 GM 团队当年理想的开枝散叶。AFFiNE 团队的核心成员去了 Manus、VoidZero 等地方，我也感觉是在追寻自己多年前的影子。像 PocketJS 能不能成为新一代的 Flash 呢？ 现在像是来到了十年前前端框架大乱斗风起云涌的年代，在这个技术奇点加速开蹬吧！",
+      "url": "https://nitter.net/ewind_dev/status/2088539283049365580#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sat, 15 Aug 2026 08:12:22 GMT",
+      "summary": "<p>我可以讲清楚这种启发具体是什么。<br>\n<br>\n所谓 “一切皆插件” 至少有三四种不同的架构含义，很多人会将其误解为类似 Webpack 和 Pi 中的 hook 模式，或 VSCode 中在主创团队决策下开放给第三方的插件场景。<br>\n<br>\n然而我对 DSH 插件架构要解决的问题的理解，其实还是来源于当年的 AFFiNE。<br>\n<br>\n那时，虽然 AFFiNE 在产品功能上相当于 OpenNotion，但我们非常希望架构要完全可定制，理想中任意需求最好都能不 fork 我们主干就能由第三方实现（请就这句话联想一下 harness 场景）。因为在我们的融资叙事里，AFFi",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: this needn't be hypothetical, you just need to know where to look free tokens flow through Nous Portal",
+      "url": "https://nitter.net/yeahfortommy/status/2088446718907994515#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sat, 15 Aug 2026 02:04:33 GMT",
+      "summary": "<p>this needn't be hypothetical, you just need to know where to look<br>\n<br>\nfree tokens flow through Nous Portal</p>\n<img src=\"https://nitter.net/pic/media%2FHPunLOnWkAAutl3.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>Wes Bos (@wesbos)</b>\n<p>\n<p>If tokens were free what would you do?<",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @LingYang_PU: Really proud to have been part of this! Working with researchers from Fudan, Stanford, Berkeley, Oxford, Princeton and others on this 68-page report about AI for Productivity in the Age of Agentic AI has been genuinely rewarding. Really excited about how agentic systems can truly reshape work and production!",
+      "url": "https://nitter.net/Charles_Y_Wu/status/2088569280770297951#m",
+      "source": "LingYang (@LingYang_PU, OpenClaw) (RSS)",
+      "published": "Sat, 15 Aug 2026 10:11:34 GMT",
+      "summary": "<p>Really proud to have been part of this!<br>\n<br>\nWorking with researchers from Fudan, Stanford, Berkeley, Oxford, Princeton and others on this 68-page report about AI for Productivity in the Age of Agentic AI has been genuinely rewarding.<br>\n<br>\nReally excited about how agentic systems can trul",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward (54pts)",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T19:12:53Z",
+      "summary": "HN热度: 54分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI has access to a vastly larger working memory than the human brain (340pts)",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T18:13:02Z",
+      "summary": "HN热度: 340分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Can Now Design Functional Viruses. Should We Worry? (59pts)",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T15:32:25Z",
+      "summary": "HN热度: 59分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI? (63pts)",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T14:08:55Z",
+      "summary": "HN热度: 63分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cloudflare's AI Psychosis (105pts)",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T14:08:40Z",
+      "summary": "HN热度: 105分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis (189pts)",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T14:04:49Z",
+      "summary": "HN热度: 189分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Debian has begun voting on the future of AI/LLM contributions (65pts)",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T09:20:07Z",
+      "summary": "HN热度: 65分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations (106pts)",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T04:42:07Z",
+      "summary": "HN热度: 106分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Printytron – Describe a part, get a printable STL (55pts)",
+      "url": "https://printytron.com",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T14:22:20Z",
+      "summary": "HN热度: 55分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Could a computer scientist build a brain? (79pts)",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T13:26:28Z",
+      "summary": "HN热度: 79分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[ollama/ollama] v0.32.14",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.14-rc0",
+      "source": "GitHub (ollama/ollama)",
+      "published": "2026-08-15T19:41:23Z",
+      "summary": "## What's Changed\r\n* llm: transcode WebP images for llama-server \r\n* renderers/qwen: tolerate non-leading system messages\r\n\r\n**Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.13...v0.32.14-rc0",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[openai/openai-python] v3.1.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.1.0",
+      "source": "GitHub (openai/openai-python)",
+      "published": "2026-08-14T23:48:55Z",
+      "summary": "## [3.1.0](https://github.com/openai/openai-python/compare/v3.0.0...v3.1.0) (2026-08-14)\n\n\n### Features\n\n* **api:** add WebSocket stream IDs ([#3612](https://github.com/openai/openai-python/issues/3612)) ([d9029e3](https://github.com/openai/openai-python/commit/d9029e3ada3c008b4631d78a42574344573089",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
