@@ -1,0 +1,496 @@
+{
+  "date": "2026-08-17",
+  "collected_at": "2026-08-16T22:41:35.916724+00:00",
+  "item_count": 40,
+  "items": [
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-16T22:00:39+00:00",
+      "summary": "<p>Friday's big release was <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen 3.8 27B</a>, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Dario Amodei",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-16T15:05:36+00:00",
+      "summary": "<blockquote cite=\"https://twitter.com/darioamodei/status/2088758819304443967\"><p>I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks.  I think it is fundamentally a crisi",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-16T17:32:56-04:00",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) ",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-16T10:56:40-04:00",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you ma",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-16T08:00:00-04:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+      "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-14T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Pro now runs updated weights on AI Gateway",
+      "url": "https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-12T07:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exa web search free through August 31 on AI Gateway and eve",
+      "url": "https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-12T00:01:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "杭州95后小伙，5亿买走硅谷城堡",
+      "url": "https://www.qbitai.com/2026/08/474245.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 16 Aug 2026 11:51:08 +0000",
+      "summary": "辞别马斯克xAI半年之后…",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "url": "https://www.qbitai.com/2026/08/474140.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 16 Aug 2026 10:45:47 +0000",
+      "summary": "AI不是替代者，而是个人能力的放大镜",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "url": "https://www.qbitai.com/2026/08/474064.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 16 Aug 2026 10:36:47 +0000",
+      "summary": "“错过种一棵树最好的时间”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "url": "https://www.qbitai.com/2026/08/473972.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 16 Aug 2026 05:37:39 +0000",
+      "summary": "背后是四项关键能力",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "url": "https://www.qbitai.com/2026/08/473947.html",
+      "source": "量子位 (RSS)",
+      "published": "Sun, 16 Aug 2026 05:28:42 +0000",
+      "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Tibo 分享了 Codex 开启 1M 上下文的方法。不过我不是很有动力去修改，感觉当前还挺流畅的，我相信他们已经针对这个上下文调优过，只要压缩得当，上下文短一些性能会更好也更便宜。 具体方法很简单，只要在 ~/.codex/config.toml 中设置： ``` model = \"gpt-5.6-sol\" model_context_window = 1000000 model_auto_compact_token_limit = 900000 ```",
+      "url": "https://nitter.net/dotey/status/2089094793078952339#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 20:59:46 GMT",
+      "summary": "<p>Tibo 分享了 Codex 开启 1M 上下文的方法。不过我不是很有动力去修改，感觉当前还挺流畅的，我相信他们已经针对这个上下文调优过，只要压缩得当，上下文短一些性能会更好也更便宜。<br>\n<br>\n具体方法很简单，只要在 ~/.codex/config.toml 中设置：<br>\n<br>\n```<br>\nmodel = \"gpt-5.6-sol\"<br>\nmodel_context_window = 1000000<br>\nmodel_auto_compact_token_limit = 900000<br>\n```</p>\n<hr/>\n<blockquote>\n<b>Tibo ",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "已经有移除文本水印的开源项目了 https://github.com/guillaumemeyer/watermarks-remover",
+      "url": "https://nitter.net/dotey/status/2089090706023346452#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 20:43:32 GMT",
+      "summary": "<p>已经有移除文本水印的开源项目了<br>\n<a href=\"https://github.com/guillaumemeyer/watermarks-remover\">github.com/guillaumemeyer/wa…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://github.com/guillaumemeyer/watermarks-remover\">\n<img src=\"https://nitter.net/pic/card_img%2F2087469573159149568%2F8TtNbp-S%3Fformat%3Djpg%",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "可能是太久没用 ChatGPT 了，才发现从 ChatGPT 就能直接让它修改代码提交 PR。（我是用的 ChatGPT Pro） 起因是我在做一个 Deep Research 调研，完了后就想让它基于我的代码库做一个方案，但是整个代码库都打包上传太麻烦了，我就把 GitHub 地址发给它了，没想到它自己就 clone 到本地开始分析代码了，最后给了一份很详细的结合当前代码库现状的方案。 一看方案写挺好，想着干脆帮我实现吧，让它自己去提交个 PR，结果它真的就基于方案帮我实现并提交 PR 了，中间确认了一次 GitHub 操作权限。 需要先在 ChatGPT 的设置的 Plugins 里面连上 GitHub 才能访问你的 GitHub Repo，以及以你的名义提交 PR。",
+      "url": "https://nitter.net/dotey/status/2089072890104725788#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 19:32:44 GMT",
+      "summary": "<p>可能是太久没用 ChatGPT 了，才发现从 ChatGPT 就能直接让它修改代码提交 PR。（我是用的 ChatGPT Pro）<br>\n<br>\n起因是我在做一个 Deep Research 调研，完了后就想让它基于我的代码库做一个方案，但是整个代码库都打包上传太麻烦了，我就把 GitHub 地址发给它了，没想到它自己就 clone 到本地开始分析代码了，最后给了一份很详细的结合当前代码库现状的方案。<br>\n<br>\n一看方案写挺好，想着干脆帮我实现吧，让它自己去提交个 PR，结果它真的就基于方案帮我实现并提交 PR 了，中间确认了一次 GitHub 操作权限。<br>\n<br>\n",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Mole 是真心好用，自从用了 Rust，每次编译要几十G，这时候就经常需要借助 Mole 帮我清理，挺好用。 除了清理，另一个我喜欢的功能是分析磁盘占用，可以很容易找出那些隐藏的占用空间的，解决后一劳永逸",
+      "url": "https://nitter.net/dotey/status/2089006280530702447#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 15:08:03 GMT",
+      "summary": "<p>Mole 是真心好用，自从用了 Rust，每次编译要几十G，这时候就经常需要借助 Mole 帮我清理，挺好用。<br>\n<br>\n除了清理，另一个我喜欢的功能是分析磁盘占用，可以很容易找出那些隐藏的占用空间的，解决后一劳永逸</p>\n<hr/>\n<blockquote>\n<b>Tw93 (@HiTw93)</b>\n<p>\n<hr/>\n<b>Article</b><br>\n<a href=\"https://nitter.net/i/article/2088967155484418081\">\n<img src=\"https://nitter.net/pic/media%2FHP1-0q0aw",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 事实有据，权限有度。 DeepSeek Harness，把边界写成契约。",
+      "url": "https://nitter.net/dongxi_nlp/status/2088868591881871856#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 06:00:56 GMT",
+      "summary": "<p>事实有据，权限有度。<br>\n<br>\nDeepSeek Harness，把边界写成契约。</p>\n<hr/>\n<blockquote>\n<b>Dongxi 东锡 NLP (@dongxi_nlp)</b>\n<p>\n<hr/>\n<b>Article</b><br>\n<a href=\"https://nitter.net/i/article/2088868084194889814\">\n<img src=\"https://nitter.net/pic/media%2FHP0dQh7W0AA6mU7.jpg\" style=\"max-width:250px;\" />\n<br>\n<b>DeepSe",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Code （Claude Desktop）这个功能很好用，就是你5小时限制到了，可以自动继续，不只是主 Agent 到时间继续，子 Agent 到时间也会继续。不需要手工输入 return，也不需要重新开 subagent，可以重用之前的 subagent",
+      "url": "https://nitter.net/dotey/status/2088877534859473370#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 06:36:28 GMT",
+      "summary": "<p>Claude Code （Claude Desktop）这个功能很好用，就是你5小时限制到了，可以自动继续，不只是主 Agent 到时间继续，子 Agent 到时间也会继续。不需要手工输入 return，也不需要重新开 subagent，可以重用之前的 subagent</p>\n<img src=\"https://nitter.net/pic/media%2FHP0uf5fWkAA0fWv.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>ClaudeDevs (@ClaudeDevs)</b>\n<p>\n<p>Hit your",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "我最近就发现，即使聪明如 Fable 5，如果你只是给它一个目标让它优化，它可能也就是在既定的框架下想办法帮你优化到极致，但是它很难跳出既定框架，发现一条完全不同的路线。 比如说最近有用户反映使用 BaoCut 转录速度慢，我就反复的用 Codex 去转录视频，然后让 Codex 或者 Fable 去分析瓶颈在哪里，该怎么优化，然后每次它们都能给我一堆理由和看起来靠谱的优化方案。 比如它会建议多开启 workers（subagent），对 workers 预热之类。让它按照方案优化后，似乎有效果但是又不明显。 最后还是自己去分析数据包，发现耗时长还是输出的 JSON 格式太长了，导致生成、校验时间较长。 如果不用 JSON 格式，比如纯文本，或者简单的 html 格式，会更节约 token，只不过这样程序解析会很复杂，比如对字幕润色分段，输出是纯文本的话，就要做 diff 比较润色后更改的内容，还要把变更后的部分，重新对应到原始字幕的单词上。 简单来说，就是以前为了让程序简单就让模型输出复杂更费 token；如果要节约 token，就可以让模型的输出简单，但是程序解析会很复杂。 按照这个思路改进后，效果很明显（对比图2图3），调用次数从 33 次降低到 12 次；时间从 31 分钟降低到 18 分钟。测试张小珺那期将近 7 小时的访谈，完整润色也只需要 42 分钟。 如果不走 Agent 走 Cloud 模型的话，一个小时的视频，完整的翻译校对成双语字幕，用 DeepSeek v4 Flash，成本大于是 ¥0.4元。 有兴趣可以试试看效果，Mac 有专门的 App，Windows 支持 cli 或者 skill。 BaoCut ：https://baocut.app/",
+      "url": "https://nitter.net/dotey/status/2088838461511839844#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 04:01:12 GMT",
+      "summary": "<p>我最近就发现，即使聪明如 Fable 5，如果你只是给它一个目标让它优化，它可能也就是在既定的框架下想办法帮你优化到极致，但是它很难跳出既定框架，发现一条完全不同的路线。<br>\n<br>\n比如说最近有用户反映使用 BaoCut 转录速度慢，我就反复的用 Codex 去转录视频，然后让 Codex 或者 Fable 去分析瓶颈在哪里，该怎么优化，然后每次它们都能给我一堆理由和看起来靠谱的优化方案。<br>\n<br>\n比如它会建议多开启 workers（subagent），对 workers 预热之类。让它按照方案优化后，似乎有效果但是又不明显。<br>\n<br>\n最后还是自己去分析数据包",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: @zhang_benita 下次您要配字幕可以试试",
+      "url": "https://nitter.net/dotey/status/2088865099767308483#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 05:47:03 GMT",
+      "summary": "<p><a href=\"https://nitter.net/zhang_benita\" title=\"张小珺 Xiaojun Zhang\">@zhang_benita</a> 下次您要配字幕可以试试</p>",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: DeepSeek Harness 能拯救这次 V4-Pro 的发布吗? 给大家带来 DeepSeek-V4-Pro-0813 实测! 本期视频我们只验证4件事: deepseek-v4-pro-0813 拉了吗? v4-pro 推理强度 max 甚至不如 high 吗? 甚至打不过 v4-flash 吗? 以及 v4-pro + deepseek harness 效果会更好吗? 视频告诉你答案! #deepseek #deepseekv4pro #deepseekv4pro0813",
+      "url": "https://nitter.net/karminski3/status/2088856655534624783#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 05:13:30 GMT",
+      "summary": "<p>DeepSeek Harness 能拯救这次 V4-Pro 的发布吗?<br>\n<br>\n给大家带来 DeepSeek-V4-Pro-0813 实测! <br>\n<br>\n本期视频我们只验证4件事:<br>\n<br>\ndeepseek-v4-pro-0813 拉了吗? <br>\n<br>\nv4-pro 推理强度 max 甚至不如 high 吗? 甚至打不过 v4-flash 吗? <br>\n<br>\n以及 v4-pro + deepseek harness 效果会更好吗?<br>\n<br>\n视频告诉你答案!<br>\n<br>\n<a href=\"https://nitter.net/sea",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 的篇官方技术说明，解释 Claude 文本水印的具体工作方式。https://x.com/trq212/status/2088721023223132213/video/1 Claude 用的是 Google DeepMind 2024 年发表在《Nature》上的 SynthID-Text 方案，往上追溯可以到 Scott Aaronson 2022 年的提案。这一脉方案的共同特征是在模型选词时，用密钥改变随机数的来源，从而在输出中留下统计痕迹。 Anthropic 举了个例子帮助理解。假设模型写到“今天天气很冷，而且……”，下一个词可能是“阴沉”，也可能是“灰蒙蒙的”，对读者来说意思差不多。正常情况下，模型用一个随机数在这些候选词里选一个。加了水印之后，选词过程还是随机的，但随机数的来源变了，变成由密钥和前面的词共同决定。文本读起来完全一样，但事后拿着密钥去核对选词序列，就能算出这段话是 Claude 写的概率。 Anthropic 在文中特别强调了一点：水印不会让模型选它本来不会选的词。模型不会因为水印而突然用一个生僻词（文中举的例子是 nubilous，一个几乎没人用的“阴天”的同义词）。水印只在模型本就犹豫的那些选择上起作用。 然后是大家最关心的：会不会降低输出质量？ Anthropic 说他们内部测试没有观察到水印对内容质量、创意水平或可读性的影响。他们援引了 Google DeepMind 的数据作为佐证：Google 在 Gemini 的实际流量中给一部分用户提供了带水印的模型，对比用户的点赞点踩反馈，两组没有统计显著差异。同时在受控实验中，人类评估者把带水印和不带水印的回答放在一起对比，也看不出区别。 打个比方：想象你在玩大富翁，本来每回合掷骰子决定走几步。现在改成查圆周率的小数位来决定，从某一位开始，依次读下去。对玩家来说，每一步还是随机的，游戏体验没有变化。但如果有人事后看走步的完整序列，再对照圆周率，就能判断这盘游戏用的是圆周率而不是骰子。 关于代码，Anthropic 的解释是：水印只在选哪个词都行的地方起作用。代码大量地方必须精确，“2+2=”后面只能跟 4，水印无从施加。所以代码的水印密度天然就比自然语言低。不过在代码注释、变量命名这些有选择余地的地方，水印仍然可以嵌入。 还有一个之前没怎么讨论的重要信息：水印不携带任何用户身份信息。不能追溯到具体的用户、组织或对话。水印只回答一个问题，“这段文字是否可能经过 Claude 处理”，仅此而已。 文章中也提到了水印的局限。短文本检测不了，信号太弱。纯事实性内容（比如“牛顿最著名的著作叫《自然哲学的数学原理》……”）水印也没什么发挥空间，因为下一个词几乎没有选择余地。你让 Claude 校对一篇文章只改语法标点，大部分词还是你的，水印可能根本不够形成可检测的信号。 轻度编辑大概率不会完全去掉水印。但如果把每个词都换一遍，水印就没了，当然到这个程度，这段文字算不算 AI 生成的本身也值得商榷了。 至于为什么全球统一加水印而不只在欧盟范围内执行，Anthropic 给出的理由是他们目前没有一个可靠的方式按地区区分是否施加水印。所以干脆全球统一上线，后续再评估是否调整。 检测端还没有完全就位。Anthropic 表示很快会推出水印检测 API，但具体时间和使用方式还在敲定中。这也呼应了 Alex Cui 之前提到的一个关键问题：检测器是公开还是内部使用，会直接影响水印的实际安全性。 顺便说一下，签署这份欧盟透明度行为准则的不止 Anthropic 一家，总共有大约 190 个签署方。水印不是 Claude 独有的事情，其他大模型厂商也会陆续跟上各自的方案。",
+      "url": "https://nitter.net/dotey/status/2088803072084504812#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 01:40:35 GMT",
+      "summary": "<p>Anthropic 的篇官方技术说明，解释 Claude 文本水印的具体工作方式。<a href=\"https://nitter.net/trq212/status/2088721023223132213/video/1\">nitter.net/trq212/status/20887210…</a><br>\n<br>\nClaude 用的是 Google DeepMind 2024 年发表在《Nature》上的 SynthID-Text 方案，往上追溯可以到 Scott Aaronson 2022 年的提案。这一脉方案的共同特征是在模型选词时，用密钥改变随机数的来源，从而在输出中留下统计痕",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Desktop sessions load 19x faster now",
+      "url": "https://nitter.net/NousResearch/status/2089055111125307813#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 16 Aug 2026 18:22:05 GMT",
+      "summary": "<p>Desktop sessions load 19x faster now</p>\n<hr/>\n<blockquote>\n<b>Teknium 🪽 (@Teknium)</b>\n<p>\n<p>Sessions should load a lot faster in Hermes Agent Desktop now</p>\n<img src=\"https://nitter.net/pic/media%2FHP2_5aCacAAmLvP.jpg\" style=\"max-width:250px;\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitte",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: The capabilities tab in Hermes Agent Desktop got a big upgrade. Now you can: - Scope the entire set of skills, tools, and MCPs to a profile/bot - Install skills through the skills browser directly. Enjoy!",
+      "url": "https://nitter.net/Teknium/status/2088874095345856541#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 16 Aug 2026 06:22:48 GMT",
+      "summary": "<p>The capabilities tab in Hermes Agent Desktop got a big upgrade. <br>\n<br>\nNow you can:<br>\n- Scope the entire set of skills, tools, and MCPs to a profile/bot<br>\n- Install skills through the skills browser directly.<br>\n<br>\nEnjoy!</p>\n<img src=\"https://nitter.net/pic/media%2FHP0r5IMaMAAV_RK.jpg\"",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bots are coming to Hermes Desktop 🤖",
+      "url": "https://nitter.net/NousResearch/status/2088802450727637022#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Sun, 16 Aug 2026 01:38:06 GMT",
+      "summary": "<p>Bots are coming to Hermes Desktop 🤖</p>\n<hr/>\n<blockquote>\n<b>Teknium 🪽 (@Teknium)</b>\n<p>\n<p>Introducing Bot Mode for Hermes Agent.<br>\n<br>\nBot Mode is an alternative to sessions mode, where you have one chat with each agent profile, or \"bot\". These bots can be given jobs, descriptions, profile",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter (78pts)",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T20:31:16Z",
+      "summary": "HN热度: 78分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The AI Credit Resale Economy (198pts)",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T14:44:55Z",
+      "summary": "HN热度: 198分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: A public AI whose memory is shared across all users (68pts)",
+      "url": "https://wildstatic.com/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T13:21:45Z",
+      "summary": "HN热度: 68分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Coding Without the Vibes (72pts)",
+      "url": "https://peterbloem.nl/blog/craft-coding",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T10:31:36Z",
+      "summary": "HN热度: 72分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ask HN: Do you know of any company that went back to hand-written code? (90pts)",
+      "url": "https://news.ycombinator.com/item?id=49318906",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T11:05:47Z",
+      "summary": "HN热度: 90分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What happens when an LLM never sees material beyond fifth grade? (233pts)",
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T07:37:53Z",
+      "summary": "HN热度: 233分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The quirky personal homepages of programming language creators (63pts)",
+      "url": "https://breck.lol/plMakers.html",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T04:24:00Z",
+      "summary": "HN热度: 63分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Credit card debt rises to $1.26T, nearing all-time record (63pts)",
+      "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T23:22:59Z",
+      "summary": "HN热度: 63分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Abdominal fat predicts heart disease risk better than BMI (318pts)",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "source": "Hacker News (API)",
+      "published": "2026-08-15T21:14:34Z",
+      "summary": "HN热度: 318分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later (55pts)",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T20:38:58Z",
+      "summary": "HN热度: 55分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[browser-use/browser-use] 0.13.8",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.8",
+      "source": "GitHub (browser-use/browser-use)",
+      "published": "2026-08-16T18:48:54Z",
+      "summary": "## What's Changed\n* Update Cerebras model IDs and default by @ryanl-cerebras in https://github.com/browser-use/browser-use/pull/5323\n* Recover Anthropic tool arguments when the model serializes its call as text by @ElayGelbart in https://github.com/browser-use/browser-use/pull/5330\n* docs: replace b",
+      "board_hints": [
+        "AI应用"
+      ],
+      "lang": "en"
+    }
+  ]
+}
