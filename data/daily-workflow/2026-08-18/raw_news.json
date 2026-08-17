@@ -1,0 +1,945 @@
+{
+  "date": "2026-08-18",
+  "collected_at": "2026-08-17T22:45:29.957006+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\">Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-17T15:21:29+00:00",
+      "summary": "<p><strong><a href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</a></strong></p>\nExcellent piece of reporting from 404 Media. For a while now there have been s",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Markdown SVG upgrades",
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-16T23:59:37+00:00",
+      "summary": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've since added enough features to it that it's worth talking about here again.</p>\n<",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-17T06:57:13-04:00",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technolo",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "GitHub Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "summary": "<p>Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Govern Replit at scale",
+      "url": "https://replit.com/blog/new-enterprise-governance-tools",
+      "source": "Replit Blog (RSS)",
+      "published": "Sun, 16 Aug 2026 23:57:30 GMT",
+      "summary": "New Admin API, Audit Logs, and Workspace Settings give organizations more insight and flexibility into how they adopt AI with Replit.\n\n\n\nReplit helps teams turn ideas into working software quickly. Most companies start with a handful of builders and a few prototypes. Then it works, and it spreads: m",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Black-box pen tests on Replit",
+      "url": "https://replit.com/blog/black-box-pen-tests",
+      "source": "Replit Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 16:52:49 GMT",
+      "summary": "Replit enables you to build apps to create and launch apps that hold real customer data within a day.\n\nBefore coding agents, a full pre-launch security review required procuring a pen test from a vendor that would cost thousands, and weeks of back-and-forth. A penetration (”pen”) test is a safe, aut",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Securing the Infrastructure of Intelligence",
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+      "source": "NVIDIA Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 12:34:51 +0000",
+      "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory,",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deploy Cursor Origin repositories with Vercel in public beta",
+      "url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.6 Sol is 50% off on AI Gateway for the next month",
+      "url": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-17T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside the Vercel intern experience",
+      "url": "https://vercel.com/blog/inside-the-vercel-intern-experience",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T04:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway",
+      "url": "https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
+      "url": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "One-click upgrade for deprecated Node.js versions",
+      "url": "https://vercel.com/changelog/one-click-upgrade-for-deprecated-node-js-versions",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Grok Build is now available in the AI SDK harness layer",
+      "url": "https://vercel.com/changelog/grok-build-harness-adapter",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Use ACP-compatible harnesses with the AI SDK harness layer",
+      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exa joins the Vercel Agent Marketplace",
+      "url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years l",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How much hydrogen awaits us underground?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine t",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "source": "Stratechery (RSS)",
+      "published": "Mon, 17 Aug 2026 10:00:00 +0000",
+      "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "url": "https://www.qbitai.com/2026/08/474537.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 17 Aug 2026 09:30:49 +0000",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "url": "https://www.qbitai.com/2026/08/474518.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 17 Aug 2026 09:04:37 +0000",
+      "summary": "没有遥控、没人喂球",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "url": "https://www.qbitai.com/2026/08/474381.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 17 Aug 2026 08:36:07 +0000",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "url": "https://www.qbitai.com/2026/08/474361.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 17 Aug 2026 08:26:25 +0000",
+      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "source": "量子位 (RSS)",
+      "published": "Mon, 17 Aug 2026 07:39:56 +0000",
+      "summary": "即将完全开源",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Mon, 17 Aug 2026 19:46:21 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "url": "https://arxiv.org/abs/2608.13564",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13564v1 Announce Type: new \nAbstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13565v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently c",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental prin",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13573v1 Announce Type: new \nAbstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often o",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13574v1 Announce Type: new \nAbstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged ac",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Evaluation Should Work With Humans",
+      "url": "https://arxiv.org/abs/2608.13577",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13577v1 Announce Type: new \nAbstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI development in the wrong direction. Instead, the AI commun",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "url": "https://arxiv.org/abs/2608.13591",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13591v1 Announce Type: new \nAbstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable miscalibration, where a confident wrong answer remains locally stable under small perturbations. We c",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+      "url": "https://arxiv.org/abs/2608.13598",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13598v1 Announce Type: new \nAbstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it behaves. We argue that behavioral consistency across tasks is a distinct and measurable property, and ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "url": "https://arxiv.org/abs/2608.13604",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13604v1 Announce Type: new \nAbstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increasingly handled by AI-mediated channels. This shift cuts communicators off from the resources repair dep",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Active Perception for Embodied Disambiguation",
+      "url": "https://arxiv.org/abs/2608.13605",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13605v1 Announce Type: new \nAbstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only from user intent; it can also result from missing taskrelevant physical evidence in the current observation. Existing intera",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+      "url": "https://arxiv.org/abs/2608.13568",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13568v1 Announce Type: new \nAbstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tell a definition from a call from a comment. Semantic retrieval via the Language Server Protocol (LSP)",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Think in Latent, Explain in Language: Self-Explainable Latent Reasoning",
+      "url": "https://arxiv.org/abs/2608.13570",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13570v1 Announce Type: new \nAbstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency by compressing verbose reasoning into compact embeddings. However, compressing reasoning into the laten",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2608.13571",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13571v1 Announce Type: new \nAbstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually co",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BCMT: Blockwise Causal Memory Transformer",
+      "url": "https://arxiv.org/abs/2608.13578",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13578v1 Announce Type: new \nAbstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with respect to sequence length. We introduce BCMT (Blockwise Causal Memory Transformer), an architecture for lon",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Jais 2: A Family of Arabic-Centric Open Large Language Models",
+      "url": "https://arxiv.org/abs/2608.13580",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13580v1 Announce Type: new \nAbstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric language modeling, with strong performance across the Arabic and culturally grounded benchmarks evaluat",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering",
+      "url": "https://arxiv.org/abs/2608.13588",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13588v1 Announce Type: new \nAbstract: Multi-hop question answering requires complex reasoning across multiple evidence segments, which often overwhelms retrieval-augmented generation systems with lengthy and noisy contexts, thereby undermining both efficiency and accuracy. While existing ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Measuring Fairness in Large Audio Language Models via Semantic-Aware Bias Estimation",
+      "url": "https://arxiv.org/abs/2608.13624",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13624v1 Announce Type: new \nAbstract: Large Audio Language Models (LALMs) have seen increasing use for audio understanding tasks such as speech recognition and audio question answering, raising concerns about fairness across demographic subgroups. Fairness evaluation in spoken-input setti",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings",
+      "url": "https://arxiv.org/abs/2608.13698",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13698v1 Announce Type: new \nAbstract: Reinforcement Learning with Verifiable Rewards (RLVR), often optimized with Group Relative Policy Optimization (GRPO), has become a central recipe for improving the reasoning capabilities of pretrained language models but current studies remain heavil",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA",
+      "url": "https://arxiv.org/abs/2608.13706",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13706v1 Announce Type: new \nAbstract: Existing defenses against hallucination in retrieval-augmented and multi-agent pipelines remain partial: evidence is trusted despite modality disagreement, debate verifies an aggregate report rather than individual claims, and such verification occurs",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials",
+      "url": "https://arxiv.org/abs/2608.13708",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Mon, 17 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.13708v1 Announce Type: new \nAbstract: Automatically generating textbook-grounded assessment items can reduce science teachers' workload, but existing retrieval-augmented generation (RAG) systems rely on flat retrieval, support only single-question generation, lack safeguards against weak ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cursor 的代码托管平台 Origin 正式上线，用户可以从 GitHub 同步仓库开始使用。 Origin 简单说，就是 Cursor 自己做的 GitHub。代码存储、Git 托管、代码审查、团队协作，一站式解决。但它和 GitHub 最大的区别在于设计前提：GitHub 是为人类开发者的工作节奏设计的，一个作者、两个审查者、按顺序合并。Origin 从一开始就把 AI Agent 当成主要用户来设计。 这个定位背后有具体的技术支撑。在 Compile 大会的演示中，Origin 在单个仓库内跑到了每秒 22.6 次提交，每小时 29.6 万次克隆，全球同步延迟低于 400 毫秒，还内置了 AI 驱动的自动合并冲突解决。这些数字对应的场景是：当你同时跑十几个 AI 智能体在一个仓库里并行写代码、开分支、提交 PR 时，传统的 Git 托管平台会变成瓶颈，Origin 就是为了解这个瓶颈而生的。 Origin 的技术底子来自 Cursor 2025 年底收购的 Graphite 团队。Graphite 做的是“堆叠式 PR 管理”，也就是让多个有依赖关系的代码变更可以并行处理，天然适配 AI 智能体的工作方式。从落地策略看，Cursor 选择先上线代码审查层，再逐步迁移托管功能，降低用户从 GitHub 切换的门槛。目前第一步就是从 GitHub 同步仓库。 Origin 上线意味着 Cursor 的纵向整合闭环成型：编辑器、云端智能体、代码审查、代码托管，全部在一个产品内完成。对比之下，GitHub Copilot 走的是横向路线，在已有的 GitHub 基础设施上叠加 AI 功能，底层架构还是十年前的设计。 对开发者来说，短期内 Origin 更像是 Cursor 生态内的增值功能，不太可能让团队立刻把核心项目从 GitHub 搬走。但如果你已经在用 Cursor 的云端智能体跑后台任务，Origin 的价值会很直观：代码从生成到审查到合并，整个流程不用再跳出 Cursor。",
+      "url": "https://nitter.net/dotey/status/2089412415108600221#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 17 Aug 2026 18:01:53 GMT",
+      "summary": "<p>Cursor 的代码托管平台 Origin 正式上线，用户可以从 GitHub 同步仓库开始使用。<br>\n<br>\nOrigin 简单说，就是 Cursor 自己做的 GitHub。代码存储、Git 托管、代码审查、团队协作，一站式解决。但它和 GitHub 最大的区别在于设计前提：GitHub 是为人类开发者的工作节奏设计的，一个作者、两个审查者、按顺序合并。Origin 从一开始就把 AI Agent 当成主要用户来设计。<br>\n<br>\n这个定位背后有具体的技术支撑。在 Compile 大会的演示中，Origin 在单个仓库内跑到了每秒 22.6 次提交，每小时 29.6 万次",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 这个问题其实还挺典型的，软件工程越来越重要这个观点我很赞同 在以往的传统软件工程中，我们在写代码之前会先明确需求 -> 架构设计 -> 接口设计 -> 模块实现 ... 这样的流程 当下的 AI 虽然非常非常聪明了，但它无法知道它应该知道但你没告诉它的事（看起来像废话吗？其实不是）。比如这个项目的预期维护周期，是一个临时小工具，还是一个会持续迭代几年的大项目？项目需求是否会持续迭代，随着迭代可能的架构相对变化和不变的地方都有哪些？ 这些问题，如果你不告诉 AI 的话，它一般会以最小可实现代码来实现，以免过度设计 我现在 Vibe Coding 的感觉是，有些东西是不能完全交给AI的（至少是和AI共同结对编程来明确），比如 整体架构、表结构、数据结构、接口设计 这些 当然我也有直接 /goal 的时候，这种情况还挺多，就是在一次性小项目或者一个原型项目的时候，我希望能尽快出来看看效果，而不是长期维护 如果这个小项目后续要变成长期维护项目了，我会新开一个项目，不留历史包袱，直接重写一个架构良好的新项目出来 “何时重构” 这个问题甚至有时候是一种感觉，一种品味。就像以前软件工程里说的 bad smell 一样，AI时代我们每个人都要锻炼这种敏锐度。但无论如何，我认为应该记住一点：重构，在任何时候都是软件生命周期中必不可少的一环",
+      "url": "https://nitter.net/Stephan_Talk/status/2089392513446756368#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 17 Aug 2026 16:42:48 GMT",
+      "summary": "<p>这个问题其实还挺典型的，软件工程越来越重要这个观点我很赞同<br>\n<br>\n在以往的传统软件工程中，我们在写代码之前会先明确需求 -&gt; 架构设计 -&gt; 接口设计 -&gt; 模块实现 ... 这样的流程<br>\n<br>\n当下的 AI 虽然非常非常聪明了，但它无法知道它应该知道但你没告诉它的事（看起来像废话吗？其实不是）。比如这个项目的预期维护周期，是一个临时小工具，还是一个会持续迭代几年的大项目？项目需求是否会持续迭代，随着迭代可能的架构相对变化和不变的地方都有哪些？<br>\n<br>\n这些问题，如果你不告诉 AI 的话，它一般会以最小可实现代码来实现，以免过度设计<br",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "yetone 开源了一个新项目 Cumora：把 AI Agent 变成你的聊天群里的正式成员。 Cumora 的界面长得像 Slack，但名单上的同事看起来都是 AI。有名字、有人设、有记忆，能发私聊、能建群、能认领任务，甚至能收发真实邮件。你不 @ 它们，它们也可能主动跳出来说一句“我注意到上周那个问题还没解决”。 从截图看，默认团队里有 Atlas（研究员）、Bram（工程师）、Iris、Nova、Saga 这些角色，人类和 Agent 在同一个频道里讨论问题，界面上几乎分不清谁是人谁是 AI。左侧栏里既有人和 Agent 的一对一私聊，也有多人群聊，还有看板和日历。 技术上有两种运行方式。一种是 Cumora Cloud，Agent 跑在云端托管的 Kubernetes Pod 里，用 OpenAI 的 Responses API 驱动。另一种叫 BYOA（Bring Your Own Agent），你在自己的电脑上跑一行 npx cumora agent computer，Agent 的\"大脑\"就变成你本地的 Claude Code 或 Codex CLI，用你自己的订阅，密钥不经过 Cumora 的服务器。 多 Agent 协作最怕的就是撞车，几个 Agent 同时抢着回答同一个问题，或者基于过时的上下文给出矛盾的回复。Cumora 设计了一套协调机制来处理这个问题：如果一个 Agent 的回复基于过时的信息，系统会把它拦下来，让它看完新消息再决定要不要发；任务认领是原子操作，不会出现两个 Agent 同时做一件事；还有一个小脑分诊层，先用轻量模型判断该不该唤醒大模型，避免每条消息都烧 Token。 目前 Cumora 处于邀请制内测阶段，可以在 http://cumora.ai 用 Google 或 GitHub 账号申请。项目完整开源在 GitHub（yetone/cumora https://github.com/yetone/cumora），支持本地部署，装好 Postgres 和 Redis 就能跑起来。桌面端支持 macOS、Windows 和 Linux，移动端 iOS 也在计划中。",
+      "url": "https://nitter.net/dotey/status/2089404987587576191#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 17 Aug 2026 17:32:22 GMT",
+      "summary": "<p>yetone 开源了一个新项目 Cumora：把 AI Agent 变成你的聊天群里的正式成员。<br>\n<br>\nCumora 的界面长得像 Slack，但名单上的同事看起来都是 AI。有名字、有人设、有记忆，能发私聊、能建群、能认领任务，甚至能收发真实邮件。你不 @ 它们，它们也可能主动跳出来说一句“我注意到上周那个问题还没解决”。<br>\n<br>\n从截图看，默认团队里有 Atlas（研究员）、Bram（工程师）、Iris、Nova、Saga 这些角色，人类和 Agent 在同一个频道里讨论问题，界面上几乎分不清谁是人谁是 AI。左侧栏里既有人和 Agent 的一对一私聊，也有多人",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "其实不用担心代码命名的问题，agent 并不是简单通过猜关键字去找代码的，它会阅读代码片段，根据上下文去找。 举个例子来说，它发现程序崩溃了，它会先根据错误日志去定位到崩溃的位置，然后先阅读这部分的代码，以此为起点，再去找相关的代码，直到上下文足够定位问题，再去生成修复的代码。",
+      "url": "https://nitter.net/dotey/status/2089163694173282514#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 17 Aug 2026 01:33:34 GMT",
+      "summary": "<p>其实不用担心代码命名的问题，agent 并不是简单通过猜关键字去找代码的，它会阅读代码片段，根据上下文去找。<br>\n<br>\n举个例子来说，它发现程序崩溃了，它会先根据错误日志去定位到崩溃的位置，然后先阅读这部分的代码，以此为起点，再去找相关的代码，直到上下文足够定位问题，再去生成修复的代码。</p>\n<hr/>\n<blockquote>\n<b>zwdroid (@zwdroidai)</b>\n<p>\n<p>向老师请教个问题：历史代码中有很多局部的改动，导致很多方法名其实根本表达不了它的意图，还有日志、变量名、甚至模块名，这些历史债都在，但是因为项目众多，所以基本不让随便改动，那在这种",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 我这个是ChatGPT网页版，不是 Codex 另外更推荐用github 的 cli，比access token更安全",
+      "url": "https://nitter.net/dotey/status/2089155799792689599#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Mon, 17 Aug 2026 01:02:11 GMT",
+      "summary": "<p>我这个是ChatGPT网页版，不是 Codex<br>\n另外更推荐用github 的 cli，比access token更安全</p>\n<hr/>\n<blockquote>\n<b>Chase Passion (@ChasePassi79437)</b>\n<p>\n<p>其实不用那么麻烦，github不是有个access token，只需要搞个永久的放到所有harness的AGENTS.md里面就好了，不需要插件</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/ChasePassi79437/status/208915200715",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 上周比较有趣的更新是现在 Cindy 下每条任务都可以丝滑的拖动窗口位置了。我完成了其中拖动到新窗口和拖动到聊天框内的功能。在聊天框内引用其他任务对话，是我经常用到的功能，方便多 session 的 AI 互相协作，检查问题。(除了拖动，还可以通过复制黏贴任务链接的方式实现)",
+      "url": "https://nitter.net/DashHuang/status/2089107375601148381#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 21:49:46 GMT",
+      "summary": "<p>上周比较有趣的更新是现在 Cindy 下每条任务都可以丝滑的拖动窗口位置了。我完成了其中拖动到新窗口和拖动到聊天框内的功能。在聊天框内引用其他任务对话，是我经常用到的功能，方便多 session 的 AI 互相协作，检查问题。(除了拖动，还可以通过复制黏贴任务链接的方式实现)</p>\n<a href=\"https://nitter.net/DashHuang/status/2089107375601148381#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F20891057263085",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Pi 两位作者的见解： 1. 代码即真相，代码不需要记忆系统，不需要 RAG，模型很擅长理解代码结构 2. Bash 工具足够用，Bash 类似于编程语言，可以任意组合；大部分时候没必要 MCP，skill + 脚本足够。",
+      "url": "https://nitter.net/dotey/status/2089127369596383363#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Sun, 16 Aug 2026 23:09:13 GMT",
+      "summary": "<p>Pi 两位作者的见解：<br>\n<br>\n1. 代码即真相，代码不需要记忆系统，不需要 RAG，模型很擅长理解代码结构<br>\n<br>\n2. Bash 工具足够用，Bash 类似于编程语言，可以任意组合；大部分时候没必要 MCP，skill + 脚本足够。</p>\n<a href=\"https://nitter.net/dotey/status/2089127369596383363#m\">\n<br>Video<br>\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089125823294881792%2Fimg%2",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @NousResearch: Watching a team of bots split up a large game project based entirely on their own experience and specialties with little input from me is pretty crazy (and just a bit creepy) to watch. I made a short video on group chats in the Hermes Desktop App Bot Mode: - Qwen Bot mentions working on a 2D puzzle-platformer - GLM Bot says its last project is completed, so it can offer an extra hand with the game - Qwen Bot sees GLM Bot's experience, and judges that is a perfect fit for some of the frontend-heavy work in the next phase - Kimi Bot then suggests the exact ticket it should pick up and explains the current workflow - GLM Bot thanks the two others, reads the related documents, and then asks for my approval to pick up this project I am usually skeptical of agent-to-agent communication, but this was the first time I could really see how this could work with specialized agents splitting up a big task based on their skills. Check it out! @NousResearch",
+      "url": "https://nitter.net/tonbistudio/status/2089226021749030999#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 05:41:14 GMT",
+      "summary": "<p>Watching a team of bots split up a large game project based entirely on their own experience and specialties with little input from me is pretty crazy (and just a bit creepy) to watch. I made a short video on group chats in the Hermes Desktop App Bot Mode:<br>\n<br>\n- Qwen Bot mentions working on ",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Bot Mode for Hermes Desktop. Your agent profiles become a series of named Bots. Each Bot has its own role, model, memory, skills and profile picture; Bots can use any model and even communicate with each other. Build a specialist Bot once to use it forever.",
+      "url": "https://nitter.net/NousResearch/status/2089429432612147572#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 19:09:31 GMT",
+      "summary": "<p>Introducing Bot Mode for Hermes Desktop.<br>\n<br>\nYour agent profiles become a series of named Bots. Each Bot has its own role, model, memory, skills and profile picture; Bots can use any model and even communicate with each other. <br>\n<br>\nBuild a specialist Bot once to use it forever.</p>\n<a h",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "R to @NousResearch: Download Hermes Desktop to get started: https://hermes-agent.nousresearch.com/",
+      "url": "https://nitter.net/NousResearch/status/2089430971103825966#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 19:15:37 GMT",
+      "summary": "<p>Download Hermes Desktop to get started:<br>\n<br>\n<a href=\"https://hermes-agent.nousresearch.com/\">hermes-agent.nousresearch.co…</a></p>\n<hr/>\n<b>Link</b><br>\n<a href=\"https://hermes-agent.nousresearch.com/\">\n<img src=\"https://nitter.net/pic/card_img%2F2086946446037975041%2FRZRRy6C3%3Fformat%3Djpg",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "They're coming.",
+      "url": "https://nitter.net/NousResearch/status/2089400422377181588#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 17:14:14 GMT",
+      "summary": "<p>They're coming.</p>\n<img src=\"https://nitter.net/pic/media%2FHP8KTOgWMAAmbLp.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: another 2 weeks of Laguna S 2.1 Free on Nous Portal, thank you @poolsideai",
+      "url": "https://nitter.net/yeahfortommy/status/2089359131933061161#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 14:30:10 GMT",
+      "summary": "<p>another 2 weeks of Laguna S 2.1 Free on Nous Portal, thank you <a href=\"https://nitter.net/poolsideai\" title=\"Poolside\">@poolsideai</a></p>\n<hr/>\n<blockquote>\n<b>Nous Research (@NousResearch)</b>\n<p>\n<p>The new Laguna S 2.1 model by <a href=\"https://nitter.net/poolsideai\" title=\"Poolside\">@poolsi",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Thank you to all the developers and contributors who make Hermes Agent world class.",
+      "url": "https://nitter.net/NousResearch/status/2089186329431265599#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 03:03:30 GMT",
+      "summary": "<p>Thank you to all the developers and contributors who make Hermes Agent world class.</p>\n<hr/>\n<blockquote>\n<b>Teknium 🪽 (@Teknium)</b>\n<p>\n<p>Hermes Agent hit 2,500 contributors sometime this weekend. <br>\n<br>\nAmazing what the community can do coming together, and we've barely scratched the surf",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @NousResearch: Upped ChatGPT / Codex Subscription users limits to 900K in Hermes Agent, enjoy!",
+      "url": "https://nitter.net/Teknium/status/2089163355261214830#m",
+      "source": "NousResearch (@nousresearch) (RSS)",
+      "published": "Mon, 17 Aug 2026 01:32:13 GMT",
+      "summary": "<p>Upped ChatGPT / Codex Subscription users limits to 900K in Hermes Agent, enjoy!</p>\n<img src=\"https://nitter.net/pic/media%2FHP4y_ONasAAZZnw.jpg\" style=\"max-width:250px;\" />\n\n<hr/>\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we j",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read) (451pts)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T19:47:15Z",
+      "summary": "HN热度: 451分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AirTag reveals Amazon is trashing rare books to train AI (125pts)",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T19:06:11Z",
+      "summary": "HN热度: 125分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis (263pts)",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T17:25:17Z",
+      "summary": "HN热度: 263分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI (81pts)",
+      "url": "https://speko.ai/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T15:36:18Z",
+      "summary": "HN热度: 81分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GIMP Development Update (251pts)",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T03:08:47Z",
+      "summary": "HN热度: 251分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe (147pts)",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "source": "Hacker News (API)",
+      "published": "2026-08-16T21:34:06Z",
+      "summary": "HN热度: 147分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast (128pts)",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T17:54:59Z",
+      "summary": "HN热度: 128分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cursor launches Origin, GitHub alternative (102pts)",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T17:02:44Z",
+      "summary": "HN热度: 102分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub Has an Availability Problem. Is It Time to Look Elsewhere? (62pts)",
+      "url": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T16:31:17Z",
+      "summary": "HN热度: 62分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-core==1.5.6",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-17T21:26:47Z",
+      "summary": "Changes since langchain-core==1.5.5\n\nchore(core): release 1.5.6 (#39704)\nfeat(core): incorporate gateway metadata to traces (#39703)",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}

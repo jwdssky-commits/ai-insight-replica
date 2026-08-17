@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · Cursor推出代码托管平台Origin，AI Coding生态再扩张</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-08-18</div>
+        <h1 class="report-title">Cursor推出代码托管平台Origin，AI Coding生态再扩张</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>Cursor launches Origin, GitHub alternative</strong></p>
+            <p>Cursor推出代码托管平台Origin，直接挑战GitHub。这是AI Coding工具从IDE向完整开发平台演进的关键一步，Michael Truell领导的Cursor正构建覆盖编码、协作、部署的闭环生态，对GitHub Copilot形成正面竞争。</p>
+            <a href="https://cursor.com/changelog/origin-code-hosting" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://openai.com/index/the-defenders-window" target="_blank" class="news-title-link">OpenAI发布网络安全防御框架&quot;Defender&#x27;s Window&quot;</a></h3>
+            <div class="report-section-body"><p>OpenAI发布《The Defender&#x27;s Window》，阐述AI如何同时重塑网络攻击与防御格局。文章指出AI降低了攻击门槛，但也为防御方提供了新工具。OpenAI分享了其内部防御体系升级方案，包括威胁检测、红队演练和安全文化构建。这是OpenAI在安全领域的重要发声，呼应了近期全球对AI安全风险的监管关切。</p></div>
+            <div class="entity-tags"><span class="entity-tag">OpenAI</span></div>
+            <a href="https://openai.com/index/the-defenders-window" target="_blank" class="source-link">📎 OpenAI Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://artificialanalysis.ai/models/qwen3-8-27b" target="_blank" class="news-title-link">Qwen3.8 27B模型评测得分达52分</a></h3>
+            <div class="report-section-body"><p>阿里通义千问Qwen3.8 27B模型在Artificial Analysis评测中获得52分，引发Hacker News社区热议。该成绩在中等规模开源模型中表现突出，显示中国开源大模型在性价比和推理效率上的持续进步。梁文锋领导的DeepSeek与阿里Qwen系列正在国际开源社区形成双雄格局。</p></div>
+            <div class="entity-tags"><span class="entity-tag">阿里巴巴</span> <span class="entity-tag">梁文锋</span></div>
+            <a href="https://artificialanalysis.ai/models/qwen3-8-27b" target="_blank" class="source-link">📎 Artificial Analysis / Hacker News</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://cursor.com/changelog/origin-code-hosting" target="_blank" class="news-title-link">Cursor推出Origin代码托管平台，正面对标GitHub</a></h3>
+            <div class="report-section-body"><p>Cursor正式发布Origin，定位为GitHub替代方案。这是Cursor从AI代码编辑器向完整开发平台扩张的关键举措，整合代码托管、协作与AI辅助编程。Michael Truell和Aman Sanger领导的Cursor正挑战微软GitHub Copilot生态，AI Coding竞争从工具层上升至平台层。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Cursor</span> <span class="entity-tag">Michael Truell</span> <span class="entity-tag">Aman Sanger</span> <span class="entity-tag">GitHub</span> <span class="entity-tag">微软</span></div>
+            <a href="https://cursor.com/changelog/origin-code-hosting" target="_blank" class="source-link">📎 Cursor / Hacker News</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6" target="_blank" class="news-title-link">LangChain发布core 1.5.6版本，增强网关元数据追踪</a></h3>
+            <div class="report-section-body"><p>LangChain发布langchain-core 1.5.6版本，核心更新为将网关元数据整合至追踪系统。Harrison Chase领导的LangChain持续优化Agent工程的底层基础设施，此次更新提升了多模型路由场景的可观测性，对企业级AI应用部署具有重要意义。</p></div>
+            <div class="entity-tags"><span class="entity-tag">LangChain</span> <span class="entity-tag">Harrison Chase</span></div>
+            <a href="https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.6" target="_blank" class="source-link">📎 GitHub (langchain-ai/langchain)</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/" target="_blank" class="news-title-link">Wispr获2.8亿美元融资，估值达20亿美元</a></h3>
+            <div class="report-section-body"><p>语音AI初创公司Wispr完成2.8亿美元融资，估值跃升至20亿美元。公司从语音输入工具扩展至会议记录等场景，新推出的note-taker工具标志着其产品矩阵扩张。这反映了语音交互作为AI原生界面的商业价值获资本高度认可。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Wispr</span></div>
+            <a href="https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system" target="_blank" class="news-title-link">Anthropic详细解释Claude文本隐形水印技术</a></h3>
+            <div class="report-section-body"><p>Anthropic向The Verge披露其Claude文本水印系统细节，确认采用SynthID-Text开源方案变体。该技术旨在满足欧盟AI透明度法规要求，通过统计信号嵌入实现生成文本的可检测性。Amanda Askell领导的团队在安全与合规间寻求平衡，此举为行业AI内容溯源提供了参考范式。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Anthropic</span> <span class="entity-tag">Amanda Askell</span> <span class="entity-tag">Claude</span></div>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system" target="_blank" class="source-link">📎 The Verge</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/" target="_blank" class="news-title-link">Groq获3.5亿美元融资，战略转型neocloud服务商</a></h3>
+            <div class="report-section-body"><p>Groq以35亿美元估值完成3.5亿美元融资，正式从AI芯片设计公司转型为neocloud服务商。公司大幅扩张Nvidia GPU数据中心部署，标志着其自研LPU芯片战略的调整。Jonathan Ross领导的Groq面临AI基础设施领域的激烈竞争，需与CoreWeave等云服务商直接竞争。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Groq</span> <span class="entity-tag">Jonathan Ross</span> <span class="entity-tag">Nvidia</span></div>
+            <a href="https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/" target="_blank" class="source-link">📎 TechCrunch</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/" target="_blank" class="news-title-link">Amazon被曝销毁珍本图书训练AI，数据伦理引争议</a></h3>
+            <div class="report-section-body"><p>404 Media调查报道揭露Amazon通过第三方收购珍本图书后销毁实体，仅保留数字副本用于AI模型训练。记者通过AirTag追踪证实书籍流向Amazon AI训练设施。该事件引发关于AI数据获取伦理的广泛讨论，Simon Willison等开发者呼吁关注文化遗产保护。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Amazon</span> <span class="entity-tag">Simon Willison</span></div>
+            <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/" target="_blank" class="source-link">📎 Ars Technica / Hacker News</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>
