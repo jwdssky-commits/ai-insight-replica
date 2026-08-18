@@ -1,0 +1,954 @@
+{
+  "date": "2026-08-19",
+  "collected_at": "2026-08-18T22:45:26.255053+00:00",
+  "item_count": 80,
+  "items": [
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "source": "OpenAI Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mojo🔥 is now open source",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-18T21:39:20+00:00",
+      "summary": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p>\nMojo🔥 is now open source</p>\n<p>The Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/2023/May/4/mojo/\">since May 2023</a>. Last week they",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-17T23:58:14+00:00",
+      "summary": "<p><strong><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a></strong></p>\nThat's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is <a href=\"https",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 16:19:10 +0000",
+      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 14:00:00 +0000",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Tue, 18 Aug 2026 13:45:40 +0000",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T15:48:26-04:00",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trust",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T15:28:30-04:00",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T09:00:00-04:00",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you sear",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T08:01:29-04:00",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T07:00:00-04:00",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the W",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T07:00:00-04:00",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protect",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-18T05:00:01-04:00",
+      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence c",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
+      "url": "https://www.together.ai/blog/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+      "source": "Together AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "summary": "We ran 904 DeepSWE rollouts on DeepSeek V4 Pro 0813 and GPT-5.6 Sol. Sol leads pass@1 by 10 points at 35x the cost; Pro wins pass@4, and a Pro-first cascade hits 83.0%.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chat SDK adds Instagram adapter",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-19T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel for Platforms can now deploy from your users' GitHub repositories",
+      "url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-18T17:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "$1 million hacker challenge for Vercel Sandbox",
+      "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-18T13:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cline is now available in the AI SDK harness layer",
+      "url": "https://vercel.com/changelog/cline-harness-adapter",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-18T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM 5.3 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-18T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sign JWTs from your Functions without managing private keys",
+      "url": "https://vercel.com/changelog/sign-jwts-from-your-functions-without-managing-private-keys",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-18T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+      "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-14T16:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 18 Aug 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their prod",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "source": "Stratechery (RSS)",
+      "published": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "summary": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+      "url": "https://www.qbitai.com/2026/08/474907.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 11:07:02 +0000",
+      "summary": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+      "url": "https://www.qbitai.com/2026/08/474868.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 10:40:23 +0000",
+      "summary": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+      "url": "https://www.qbitai.com/2026/08/474857.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 10:04:14 +0000",
+      "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
+      "url": "https://www.qbitai.com/2026/08/474838.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 09:57:40 +0000",
+      "summary": "给机器人造一个更接近真实的“第二世界”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+      "url": "https://www.qbitai.com/2026/08/474840.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 09:38:21 +0000",
+      "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "url": "https://www.qbitai.com/2026/08/474806.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 07:33:00 +0000",
+      "summary": "代码能跑≠游戏能玩",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "今日起，阿里“千问办公”接入企业微信",
+      "url": "https://www.qbitai.com/2026/08/474803.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 07:17:42 +0000",
+      "summary": "国内三大办公平台全面支持",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "吉利汽车业绩高点，李书福激流勇退",
+      "url": "https://www.qbitai.com/2026/08/474736.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 06:46:46 +0000",
+      "summary": "“吉利不再研发传统燃油车”",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
+      "url": "https://www.qbitai.com/2026/08/474673.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 05:58:57 +0000",
+      "summary": "回头看，A社就这样完成了反超",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+      "url": "https://www.qbitai.com/2026/08/474647.html",
+      "source": "量子位 (RSS)",
+      "published": "Tue, 18 Aug 2026 04:40:03 +0000",
+      "summary": "MyContext补上Agent的数据加工层",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 18:09:38 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+      "url": "https://arxiv.org/abs/2608.14550",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14550v1 Announce Type: new \nAbstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach for assessing computatio",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "url": "https://arxiv.org/abs/2608.14552",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14552v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysics-inspired clinical",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "url": "https://arxiv.org/abs/2608.14558",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14558v1 Announce Type: new \nAbstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative processes, remains a",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "url": "https://arxiv.org/abs/2608.14559",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14559v1 Announce Type: new \nAbstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "url": "https://arxiv.org/abs/2608.14562",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14562v1 Announce Type: new \nAbstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that m",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "url": "https://arxiv.org/abs/2608.14565",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14565v1 Announce Type: new \nAbstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of generative AI's societal impacts (including unemployment risk and labor market disruption). However, an e",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+      "url": "https://arxiv.org/abs/2608.14566",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14566v1 Announce Type: new \nAbstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whether model outputs align with human moral values. In contrast, the moral norm problem, i.e., whether",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+      "url": "https://arxiv.org/abs/2608.14567",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14567v1 Announce Type: new \nAbstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief change implementation. Seeded by Doyle and London's foundational 1980 taxonomy, we trace the evolution of belief revision ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+      "url": "https://arxiv.org/abs/2608.14568",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14568v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust governance frameworks has intensified. However, current approaches, led by jurisdiction-specific laws, policies, and voluntary",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+      "url": "https://arxiv.org/abs/2608.14569",
+      "source": "ArXiv CS.AI (RSS)",
+      "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.14569v1 Announce Type: new \nAbstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fundamental limitation persistent constraint violations occur under distribution shifts even when the model reports high conf",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "RT by @dotey: 我把 Claude Code 2.1.234 的包拆开了 昨天我想弄清楚一件小事。两个 Claude Code 窗口互相传话，底下走的是什么。 结果有两种传递方式： 本机session之间传消息用的是 Unix Domain Socket（UDS） 跨机器走云端 可以把它想成每个Claude Code窗口在本机开一个只属于当前系统用户的收件箱。另一个窗口往这个 socket 里丢一行纯文本。/status 里那行 Peer address 前面的 uds:，就是这个东西。",
+      "url": "https://nitter.net/mylifcc/status/2089718205329920442#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 14:16:59 GMT",
+      "summary": "<p>我把 Claude Code 2.1.234 的包拆开了<br>\n<br>\n昨天我想弄清楚一件小事。两个 Claude Code 窗口互相传话，底下走的是什么。<br>\n<br>\n结果有两种传递方式：<br>\n本机session之间传消息用的是 Unix Domain Socket（UDS）<br>\n跨机器走云端<br>\n<br>\n可以把它想成每个Claude Code窗口在本机开一个只属于当前系统用户的收件箱。另一个窗口往这个 socket 里丢一行纯文本。/status 里那行 Peer address 前面的 uds:，就是这个东西。</p>\n<img src=\"https://n",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Anthropic 感觉就总是给人很纠结很不爽利的那种感觉！这提升 50% 额度明明挺好的事，停了又怕你不满意，彻底放开又舍不得，就一次又一次的延期，还不如索性一直提升 50% 得了。 就跟当年 Fable 5 一样，一会说只有 2 周，一会又延期，最终还是放开了，但这个过程就给人感觉挺不好！",
+      "url": "https://nitter.net/dotey/status/2089805360773128335#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 20:03:19 GMT",
+      "summary": "<p>Anthropic 感觉就总是给人很纠结很不爽利的那种感觉！这提升 50% 额度明明挺好的事，停了又怕你不满意，彻底放开又舍不得，就一次又一次的延期，还不如索性一直提升 50% 得了。<br>\n<br>\n就跟当年 Fable 5 一样，一会说只有 2 周，一会又延期，最终还是放开了，但这个过程就给人感觉挺不好！</p>\n<hr/>\n<blockquote>\n<b>ClaudeDevs (@ClaudeDevs)</b>\n<p>\n<p>We’re extending the 50% increase to weekly Claude Code limits through August 3",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 这是上一次延期的公告😂",
+      "url": "https://nitter.net/dotey/status/2089805661865422949#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 20:04:31 GMT",
+      "summary": "<p>这是上一次延期的公告😂</p>\n<hr/>\n<blockquote>\n<b>宝玉 (@dotey)</b>\n<p>\n<p>Claude 前一段时间把每周限额临时提升了 50%，客观说效果还是挺好的，要是用 Opus 4.8 的话比 GPT 5.6 还耐用，不过架不住 Codex 一天天重置。<br>\n<br>\n这个活动本来要到期了，现在延期一个月了，感觉一个月后可能要变成常态了。</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/dotey/status/2078542101340442638#m\">https://nitter",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Deepseek Harness 如果是 SDK 为主也能达到数据入口的效果吗？ > 像 ZCode 这样的 Coding 产品，不只是变现工具，也可能成为数据入口：用户完成真实的软件工程任务，产生长周期执行轨迹，再反哺下一轮 Post-training，形成“产品使用 → 数据 → 模型升级 → 更多使用”的飞轮。",
+      "url": "https://nitter.net/dotey/status/2089725104162762782#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 14:44:24 GMT",
+      "summary": "<p>Deepseek Harness 如果是 SDK 为主也能达到数据入口的效果吗？<br>\n<br>\n&gt; 像 ZCode 这样的 Coding 产品，不只是变现工具，也可能成为数据入口：用户完成真实的软件工程任务，产生长周期执行轨迹，再反哺下一轮 Post-training，形成“产品使用 → 数据 → 模型升级 → 更多使用”的飞轮。</p>\n<hr/>\n<blockquote>\n<b>Anita AGI/acc (@Anitahityou)</b>\n<p>\n<p>高盛的这篇智谱 GLM-5.3 的报告值得一看。<br>\n<br>\n大模型竞争逻辑正在发生变化👉Scaling 正从一",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "一直有一种观点，就是小模型加 Harness，就能达到大模型的智能效果： > 只需要一个 10 亿参数的小模型作为“认知核心”，其余能力靠联网搜索、执行代码等工具补齐就够了。 Jason Wei （思维链提示技术的核心作者之一）的新推文，反驳了“小模型+工具”路线，认为光靠工具，撑不起顶级智能，把知识“内化在大脑”和“现查现用”是两回事。 小模型+工具就能行的观点之所以流行，因为理论上确实说得通：模型不知道的冷门知识，可以上网查；不会算的题，可以调用代码。小模型加工具，似乎没有做不到的事。而小模型意味着更低的算力成本，对整个行业都很有吸引力。 他用自己学羽毛球打了个比方。教练教的每个动作他都能做出来，但要在实战中流畅串联，跟练了上万次形成肌肉记忆的人完全不是一个级别。语言模型也一样，内化了知识的大模型和靠工具临时检索的小模型，体验差距很明显。 具体来说有三点。第一是速度，直接给出答案远比调用工具搜一圈再回答快得多。第二是理解的深度，比如你问一个音乐节的口碑如何，大模型能基于海量数据给出综合判断，而小模型只能搬运搜索结果里排在前面的几条评论。第三是可靠性，每次都要重新查资料、重新推导，出错的概率更高，在复杂的长任务中错误还会层层累积。 回顾“苦涩的教训”（Bitter Lesson）里面的观点：历史反复证明，靠扩大规模获得的能力提升，总是胜过精巧的工程设计。工具让小模型能做更多事，但追求最高质量的用户，始终会需要更大的模型。",
+      "url": "https://nitter.net/dotey/status/2089717198327583193#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 14:12:59 GMT",
+      "summary": "<p>一直有一种观点，就是小模型加 Harness，就能达到大模型的智能效果：<br>\n&gt; 只需要一个 10 亿参数的小模型作为“认知核心”，其余能力靠联网搜索、执行代码等工具补齐就够了。<br>\n<br>\nJason Wei （思维链提示技术的核心作者之一）的新推文，反驳了“小模型+工具”路线，认为光靠工具，撑不起顶级智能，把知识“内化在大脑”和“现查现用”是两回事。<br>\n<br>\n小模型+工具就能行的观点之所以流行，因为理论上确实说得通：模型不知道的冷门知识，可以上网查；不会算的题，可以调用代码。小模型加工具，似乎没有做不到的事。而小模型意味着更低的算力成本，对整个行业都很有吸引",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "这个有意思，先装弱智跟 AI 胡乱下，把 AI 跟着一起弱智下，最后再赢它。 想起那句名言： “你永远不要试图战胜一个纯傻逼，因为他会把你的智商拖到和他一个水平，然后再用他丰富的经验打败你！” 但据说是23年的视频，现在估计不行了吧？",
+      "url": "https://nitter.net/dotey/status/2089708520404828524#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 13:38:30 GMT",
+      "summary": "<p>这个有意思，先装弱智跟 AI 胡乱下，把 AI 跟着一起弱智下，最后再赢它。<br>\n<br>\n想起那句名言：<br>\n“你永远不要试图战胜一个纯傻逼，因为他会把你的智商拖到和他一个水平，然后再用他丰富的经验打败你！”<br>\n<br>\n但据说是23年的视频，现在估计不行了吧？</p>\n<hr/>\n<blockquote>\n<b>iGeekbb (@igeekbb)</b>\n<p>\n<p>柯洁已经找到破解 AI 的办法了，说现在随便下 AI 包赢的，还可以让它 9 个子。如果当时和 AlphaGo 下的时候也知道这个 bug，他是能赢的。<br>\n<br>\n看了一下就是前期装弱智嘛，傻逼",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "豆包越来越像 Codex 了，这是我最近用下来最直观的感受。Codex 一直是我心里 Agent App 体验的标杆，而豆包这波更新，从 GUI 电脑操作到手机远程操控，很多设计思路都能看到 Codex 的影子，有些地方甚至做了本土化的超越。 最近我老婆回国，在国内用不了 ChatGPT 和 Claude 这些，日常就用豆包帮她查资料、做攻略。这两天她需要在自己电脑里找个文档，人在国内，电脑在美国——直接用手机上的豆包指挥美国这边的电脑，帮她把文档找出来发到飞书，手机上就能访问了，非常方便。 注意使用的时候要在手机和电脑上登录相同的账号，并且电脑上要允许手机连接才行。然后从手机打开“工作任务”，就可以在底部看到你连接的电脑端。 （参考图3图4） 手机指挥 Agent 现在是我日常用得很多的功能。在外面的时候可以随时从手机看 Agent 任务的执行进度，或者临时想到什么事情，通过手机就能指挥家里/公司电脑上的 Agent 去执行，回家直接看结果，通勤路上也不耽误。 之所以要通过手机指挥电脑，是因为电脑上的资源通常是最全的：硬盘上有所有文档、代码库，有各种配置好的技能，而电脑又不可能一直随身带着。想想看，快下班的时候还有个任务没跑完，又不想干等着，那就先让 Agent 跑着，用手机连上电脑随时看进度，有问题还能中途插话调整。动口不动手，重复活儿全甩给它。 豆包在 Windows 版本上的 GUI 电脑操作功能体验下来相当的好用，它巧妙的通过豆包虚拟桌面让人和 AI 同时操作电脑，互不干扰，这点优势还蛮明显的，有点我第一次用 Codex 在 Mac 上的 Computer Use 感觉一样，就是它帮你操作电脑 App，但是完全不影响你当前正在执行的任务。不像 Claude Code 一旦使用 Computer Use，你就得等它操作完才能继续干活。 （参考图1图2） Computer Use 让 Agent 直接帮你操作图形界面的软件：点按钮、填表格、下载文件，理论上即使没有提供 CLI 的软件都能控制。日常能用的场景很多： - 办公类：新建和排版 Word/Excel/PPT，处理函数、生成图表，或者让它开着浏览器做调研然后直接产出 PPT - 桌面类：批量归类整理文件、改系统设置、管理启动项这类琐碎活儿 - 长尾类：PS 批量改图导出、证件照排版打印，甚至通过微信桌面版帮你发消息 - 发散玩法：游戏帧率优化设置、自动化信息收集整理…… 基本上你觉得「这活儿也能甩给 AI？」的重复劳动，都值得试试 我自己使用 Agent 有个技巧，就是尽可能让 Agent 能自己检查自己、拿到反馈。比如写程序，要让它自己写测试，或者用 Computer Use 去验证 App 的运行操作，自己去模拟用户操作；即使是让 AI 生成 PPT，也会让它自己截图验证下看看效果。这样可以减少人工干预，最大化利用好 Agent 的能力。 入口在豆包 PC 端的「工作任务」模式里，Windows 用户记得升级到最新版；Mac 目前还只支持内置浏览器的 GUI 操作。",
+      "url": "https://nitter.net/dotey/status/2089590302910587116#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 05:48:45 GMT",
+      "summary": "<p>豆包越来越像 Codex 了，这是我最近用下来最直观的感受。Codex 一直是我心里 Agent App 体验的标杆，而豆包这波更新，从 GUI 电脑操作到手机远程操控，很多设计思路都能看到 Codex 的影子，有些地方甚至做了本土化的超越。<br>\n<br>\n最近我老婆回国，在国内用不了 ChatGPT 和 Claude 这些，日常就用豆包帮她查资料、做攻略。这两天她需要在自己电脑里找个文档，人在国内，电脑在美国——直接用手机上的豆包指挥美国这边的电脑，帮她把文档找出来发到飞书，手机上就能访问了，非常方便。<br>\n<br>\n注意使用的时候要在手机和电脑上登录相同的账号，并且电脑上要允",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "RT by @dotey: 我支持内部尽可能开放，外部有意识地限制。平台应该有自己的判断，而不是把所有可能性原样交给插件作者和用户。 “一切皆插件”作为内部架构原则，我非常认同。通用引擎最怕的就是不断被具体产品的需求侵蚀：今天加一个特例，明天再补一层判断，最后虽然还叫通用引擎，实际上已经只能服务当前这个产品。其他人想做不同的东西，只能 fork，然后各自维护一套。 所以 DSH 希望把 Agent Loop、Session、Tool Runtime、LLM、Persistence、Sandbox 甚至 UI 都变成可以重新组合的部分，这个方向是有价值的。Harness 还处在快速变化期，现在也没有哪套实现已经被证明是最终答案。底层如果太早写死，后面想换一种上下文组织方式、Session 模型或者 Agent Loop，都会很难。 但我不认为，由此就能推出“所有内部逻辑都应该成为第三方扩展点”。 把 Pi、VS Code 和 DSH 放在一起看，区别其实不在于谁有插件冲突。Pi Extension 一样可以注册同名 Tool、修改 Prompt、拦截同一个事件；VS Code 里也一直有格式化器、快捷键和语言服务互相影响的问题。只要多个扩展可以同时运行，命名、顺序、优先级和兼容性就一定会出现。 真正的区别，是插件可以改到哪一层，以及平台有没有提前规定这些变化怎么组合。 VS Code 的做法是，核心仍然由平台控制，第三方主要通过 Contribution Points 和稳定接口增加能力。某个扩展点允许多个 Provider 时，宿主决定结果怎么合并；某个能力只能有一个实现时，就让用户选择；名字必须唯一的地方，就在注册时处理。它当然不能消灭冲突，但它尽量把冲突限制在已经定义好的范围里。 Pi 更开放一些。Extension 可以注册 Tool 和 Command、修改上下文、监听或拦截 Agent 的运行过程，甚至通过同名注册覆盖内置 Tool。但它仍然有一个相对固定的 coding-agent core。Agent Loop、Session Runtime 等部分主要由宿主持有，所以 Extension 大多还是围绕同一个内核运行。 DSH 再往下走了一层。它不是在固定内核周围增加能力，而是让插件共同组装内核本身。Session、Agent Loop、Tool Runtime、Persistence、Sandbox 都可能来自不同插件。 这种设计的自由度确实更高，但需要处理的问题也不再只是“两个 Tool 重名”。 DSH 实际上同时存在几套身份：npm/module instance、Cordis service 或 Symbol、loader entry、Tool/Command/Route/Prompt 的名字，以及 host/preset/agent/session 的 Scope。同一个插件在配置里看起来只装了一次，不代表运行时一定只有一个 module instance；module instance 相同，也不代表 registry、loader 和 Scope 对它的理解一致。再加上 reload 和 generation 切换，问题还会沿着时间继续展开。 这不是纯理论问题。至少在 rc.6 的社区运行时报告里，已经出现过双实例导致 Symbol 分裂、重复 loader entry、process-global registry 冲突、late provider 工具重名，以及旧 generation 没有完全 dispose 等情况。这里需要强调，这些是社区报告，不等于维护者已经确认了同一个根因；但它们足以说明，DSH 要处理的是一整套运行时身份和生命周期问题，不只是普通的插件重名。 Cordis 能很好地处理 activation、依赖等待、effect disposal 和 Scope visibility，但这些机制本身并不会决定：重复注册应该 reject、replace、merge 还是 shadow；谁拥有一个名字；两个实现谁优先；安装失败以后怎么回滚；旧 generation 什么时候才算真正退出。 这些选择最后还是要由平台来做。 Effect 也是一样。它能把依赖和副作用表达得更清楚，让资源释放、重试、并发和 TestClock 变得更容易测试。这是很大的价值，我完全认同。 但能够静态知道一段代码访问了文件、网络或者数据库，并不等于系统已经知道两个插件发生冲突时应该听谁的。知道“发生了什么”和决定“应该怎么办”，是两件事情。 外部操作尤其明显。消息已经发送、文件已经被读取、支付已经完成、货已经发出，这些事情不会因为插件 dispose 就自动消失。框架可以让它们更容易追踪，也可以强迫开发者把补偿逻辑写出来，但具体是重试、补偿、对账还是人工处理，仍然是产品选择。 所以“不 fork 主干”当然是个很好的目标，但它不会让不同需求之间的分歧消失。以前这些分歧存在于代码分支里，插件化以后，它们会存在于 Profile、Bundle、Scope、插件版本和加载顺序的不同组合里。 这通常仍然比长期维护多个 fork 更好，但维护成本只是换了位置。以前处理 merge 和升级，现在处理依赖、身份、生命周期、状态兼容和组合测试。 AI Coding 可以降低写 Adapter、迁移接口和补兼容层的成本，却不会自动决定两个插件冲突时哪一种行为才符合产品意图。代码越来越容易生成以后，平台自己的判断反而会变得更重要。 这也是我为什么更支持“内部开放，外部限制”。 平台不应该只是一个中性的插件容器。它首先应该知道自己要做成什么产品，然后决定哪些变化可以交给第三方，哪些行为必须保持一致。开放一个稳定接口，不只是让别人能够调用它，也意味着平台准备长期维护它的语义、升级方式和失败处理。 如果平台对什么都不做判断，默认所有逻辑都能被第三方改写，那么冲突出现以后，用户只能自己判断应该装哪个插件、谁覆盖谁、哪个版本能一起工作。这个结果不是更开放，而是平台把集成工作转交给了用户。 我的选择会很明确： 内部实现可以尽量模块化，Agent Loop、Session、Persistence、Sandbox 都应该有替换空间。这样核心团队自己做实验、切换实现或者服务不同产品时，不需要不断侵入底层代码。 但面向普通第三方时，应该只开放平台已经想清楚的部分。Tool、模型 Provider、Command、Prompt、上下文来源和 UI Contribution，可以较早形成稳定接口；Agent Loop、Session、Sandbox、Persistence 仍然可以允许替换，但先放在 experimental 或 proposed 层，不急着承诺跨版本兼容。 真正需要完全控制 Runtime 的团队，可以进入更底层的 distribution 层，自己固定插件版本，并测试 install、boot、reload、dispose 和 resume。到了这一层，他做的已经不只是写一个插件，而是在维护自己的发行版，自然也应该承担对应的集成责任。 所以我不反对“一切皆插件”。我反对的是把内部可替换性直接等同于外部无限扩展。 内部越开放，平台越有空间继续演化；外部越克制，第三方越容易知道哪些东西真的可以依赖。这两件事并不矛盾。 一个好的平台不只是提供可能性，也要敢于做选择。什么应该允许扩展，什么应该保持统一，什么现在还没想清楚、只能作为实验接口存在——这些判断本身，就是平台应该提供的价值。",
+      "url": "https://nitter.net/desenmeng/status/2089543210943287489#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 02:41:37 GMT",
+      "summary": "<p>我支持内部尽可能开放，外部有意识地限制。平台应该有自己的判断，而不是把所有可能性原样交给插件作者和用户。<br>\n<br>\n“一切皆插件”作为内部架构原则，我非常认同。通用引擎最怕的就是不断被具体产品的需求侵蚀：今天加一个特例，明天再补一层判断，最后虽然还叫通用引擎，实际上已经只能服务当前这个产品。其他人想做不同的东西，只能 fork，然后各自维护一套。<br>\n<br>\n所以 DSH 希望把 Agent Loop、Session、Tool Runtime、LLM、Persistence、Sandbox 甚至 UI 都变成可以重新组合的部分，这个方向是有价值的。Harness 还处在快速",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Claude Code 最新版本上线了一个特别讨厌的功能，频繁的给其他正在运行的 session 发消息！还老是搞错，除了浪费 token 并没有太大价值…… 默认打开我都没找到哪里关掉！",
+      "url": "https://nitter.net/dotey/status/2089550603731054617#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 03:11:00 GMT",
+      "summary": "<p>Claude Code 最新版本上线了一个特别讨厌的功能，频繁的给其他正在运行的 session 发消息！还老是搞错，除了浪费 token 并没有太大价值……<br>\n<br>\n默认打开我都没找到哪里关掉！</p>\n<img src=\"https://nitter.net/pic/media%2FHP-St7MXEAEYt0a.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP-S6yfWQAAXplY.jpg\" style=\"max-width:250px;\" />\n\n<img sr",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "R to @dotey: 应该是这个选项",
+      "url": "https://nitter.net/dotey/status/2089553857973993837#m",
+      "source": "宝玉 (@dotey) (RSS)",
+      "published": "Tue, 18 Aug 2026 03:23:56 GMT",
+      "summary": "<p>应该是这个选项</p>\n<img src=\"https://nitter.net/pic/media%2FHP-WJrzWQAARC-l.jpg\" style=\"max-width:250px;\" />",
+      "board_hints": [
+        "大模型",
+        "AI应用"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful (60pts)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T16:54:42Z",
+      "summary": "HN热度: 60分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google has acquired the data of failed US airline Spirit (553pts)",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T10:13:28Z",
+      "summary": "HN热度: 553分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ask HN: Does anyone else feel like nothing matters anymore? (247pts)",
+      "url": "https://news.ycombinator.com/item?id=49340013",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T01:28:48Z",
+      "summary": "HN热度: 247分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents (92pts)",
+      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T00:29:15Z",
+      "summary": "HN热度: 92分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "My friends all hate AI; I just joined an AI startup (56pts)",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T21:47:30Z",
+      "summary": "HN热度: 56分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claude Code May–August 2026 weekly limits promotion (244pts)",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T17:02:15Z",
+      "summary": "HN热度: 244分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust (182pts)",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T18:07:21Z",
+      "summary": "HN热度: 182分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo (50pts)",
+      "url": "https://github.com/therepanic/openleetcode",
+      "source": "Hacker News (API)",
+      "published": "2026-08-18T15:30:40Z",
+      "summary": "HN热度: 50分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter (613pts)",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T21:03:18Z",
+      "summary": "HN热度: 613分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub degradation affects Cursor Origin, its new Git platform (66pts)",
+      "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+      "source": "Hacker News (API)",
+      "published": "2026-08-17T20:13:27Z",
+      "summary": "HN热度: 66分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openai==1.5.2a1",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.5.2a1",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-18T01:51:38Z",
+      "summary": "Initial release\n\nrelease(openai): 1.5.2a1 (#39709)\nfeat(openai): extract gateway metadata from response headers when available (#39706)\nchore(openai): update snapshots (#39657)\nfix(openai): support o-series models in `get_num_tokens_from_messages` (#38710)\nrelease(openai): 1.5.1 (#39653)\nfix(openai)",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-openai==1.5.2",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.5.2",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-18T17:38:11Z",
+      "summary": "Changes since langchain-openai==1.5.1\n\nrelease(openai): 1.5.2 (#39719)\nfix(openai): preserve reasoning item boundaries (#39278)\nrelease(openai): 1.5.2a1 (#39709)\nfeat(openai): extract gateway metadata from response headers when available (#39706)\nchore(openai): update snapshots (#39657)\nfix(openai):",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[openai/openai-python] v3.3.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.3.0",
+      "source": "GitHub (openai/openai-python)",
+      "published": "2026-08-18T21:17:03Z",
+      "summary": "## [3.3.0](https://github.com/openai/openai-python/compare/v3.2.0...v3.3.0) (2026-08-18)\n\n\n### Features\n\n* support named data-residency endpoints ([#3646](https://github.com/openai/openai-python/issues/3646)) ([11ee914](https://github.com/openai/openai-python/commit/11ee91475694d9cd77813763707fbadf6",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    }
+  ]
+}
