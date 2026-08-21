@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI手札 · NVIDIA研究揭示AI Agent关键在&quot; harness&quot;而非模型本身，DeepMind庆祝游戏AI研究15周年</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Patrick Hand', 'Noto Sans SC', cursive; color: #2d2d2d; background-color: #fdfbf7;
+  background-image: radial-gradient(#e5e0d8 1px, transparent 1px); background-size: 24px 24px;
+  line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.report-header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 3px dashed #e5e0d8; }
+.report-date { font-family: 'Kalam', cursive; color: #ff4d4d; font-size: 0.9rem; }
+.report-title { font-family: 'Kalam', cursive; font-size: clamp(1.5rem, 4vw, 2.2rem); font-weight: 700; margin: 8px 0; }
+.report-section { background: #fff; border: 2px solid #2d2d2d; border-radius: 12px 185px 12px 185px / 185px 12px 185px 12px;
+  padding: 24px; margin-bottom: 20px; box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); }
+.report-section-badge { font-size: 0.8rem; display: inline-block; padding: 2px 10px;
+  border: 2px solid #2d2d2d; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; margin-bottom: 8px; }
+.report-section-title { font-family: 'Kalam', cursive; font-size: 1.2rem; font-weight: 700; margin-bottom: 12px; }
+.report-section-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.92rem; line-height: 1.8; }
+.report-section-body p { margin-bottom: 8px; }
+.postit-box { padding: 16px 24px; border: 2px solid #2d2d2d; border-radius: 30px 4px 28px 4px / 4px 28px 4px 30px;
+  box-shadow: 3px 3px 0 0 rgba(45,45,45,0.12); margin: 20px 0; }
+.postit-box.green { background: #e8f5e9; }
+.postit-box.blue { background: #e3f2fd; }
+.postit-box.pink { background: #fce4ec; }
+.postit-box.yellow { background: #fff9c4; }
+.postit-box.orange { background: #fff3e0; }
+.postit-title { font-family: 'Kalam', cursive; font-weight: 700; margin-bottom: 8px; }
+.postit-body { font-family: 'Noto Sans SC', sans-serif; font-size: 0.88rem; line-height: 1.7; }
+.postit-body p { margin-bottom: 4px; }
+.source-link { font-family: 'Patrick Hand', cursive; font-size: 0.82rem; color: #2d5da1;
+  border-bottom: 2px dashed #2d5da1; text-decoration: none; display: inline-block; margin-top: 8px; }
+.source-link:hover { text-decoration: line-through; }
+.news-title-link { color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.news-title-link:hover { text-decoration: line-through; }
+.entity-tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.entity-tag { font-family: 'Noto Sans SC', sans-serif; font-size: 0.75rem; padding: 2px 8px;
+  border: 1px solid #e5e0d8; border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px; color: #666; background: #fdfbf7; }
+.back-link { display: inline-block; margin-top: 24px; font-family: 'Patrick Hand', cursive;
+  color: #2d5da1; text-decoration: none; border-bottom: 2px dashed #2d5da1; }
+.back-link:hover { text-decoration: line-through; }
+</style>
+</head>
+<body>
+    <div class="report-header">
+        <div class="report-date">✎ 2026-08-22</div>
+        <h1 class="report-title">NVIDIA研究揭示AI Agent关键在&quot; harness&quot;而非模型本身，DeepMind庆祝游戏AI研究15周年</h1>
+    </div>
+    
+    <div class="postit-box pink">
+        <div class="postit-title">🔥 今日头条</div>
+        <div class="postit-body">
+            <p><strong>Nvidia just showed that the harness, not the AI model, is now the real hero</strong></p>
+            <p>NVIDIA研究揭示，AI Agent的成功关键在于harness工程化设计而非模型本身。通过精细化微调，即使基础模型能力一般的Agent也能稳定执行任务且避免失控。这一发现对当前AI开发范式具有颠覆性意义，意味着企业可将资源从追求更大模型转向优化Agent架构，降低部署门槛。</p>
+            <a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/" target="_blank" class="source-link">📎 查看原文</a>
+        </div>
+    </div>
+    
+    <div class="postit-box green" style="background: #e8f5e9;">
+        <div class="postit-title">🧠 大模型</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/" target="_blank" class="news-title-link">DeepMind回顾15年游戏AI研究：从Atari到EVE Online的范式演进</a></h3>
+            <div class="report-section-body"><p>Google DeepMind发布长文回顾其15年游戏AI研究历程，从2013年Atari突破到与EVE Online合作开发复杂多智能体系统。文章强调游戏环境作为AI安全试验场的独特价值，为强化学习和多智能体协作提供了可扩展的测试平台。这一回顾既是对RL历史的总结，也暗示DeepMind正将游戏AI经验迁移至更广泛的通用智能研究。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Jeff Dean</span> <span class="entity-tag">DeepMind</span> <span class="entity-tag">Google</span></div>
+            <a href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/" target="_blank" class="source-link">📎 DeepMind Blog</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://huggingface.co/blog/asr-benchmark-optimization" target="_blank" class="news-title-link">Hugging Face发布语音识别基准优化评测方法</a></h3>
+            <div class="report-section-body"><p>Hugging Face博客推出针对自动语音识别（ASR）系统的基准优化测量框架，帮助开发者识别模型在特定测试集上的过度优化问题。该工具对提升ASR模型在实际场景中的泛化能力具有重要价值，特别是在AI语音交互快速普及的背景下，为行业提供了更严谨的评测标准。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Hugging Face</span></div>
+            <a href="https://huggingface.co/blog/asr-benchmark-optimization" target="_blank" class="source-link">📎 Hugging Face Blog</a>
+        </div>
+    <div class="postit-box blue" style="background: #e3f2fd;">
+        <div class="postit-title">💻 AI Coding</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/Aug/21/llm/" target="_blank" class="news-title-link">Simon Willison发布llm 0.32.1修复OpenAI库兼容性危机</a></h3>
+            <div class="report-section-body"><p>开源工具llm紧急发布0.32.1版本，修复因OpenAI Python库移除httpx依赖导致的全新安装故障。同时llm-openrouter插件更新至0.7版本，增强对推理LLM的支持。这一事件凸显了AI工具链对底层库变更的高度敏感性，也反映了开源社区快速响应生态变化的能力。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Simon Willison</span> <span class="entity-tag">OpenAI</span></div>
+            <a href="https://simonwillison.net/2026/Aug/21/llm/" target="_blank" class="source-link">📎 Simon Willison (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">📰 新闻</div>
+            <h3 class="report-section-title"><a href="https://simonwillison.net/2026/Aug/21/stop-making-tuis/" target="_blank" class="news-title-link">Thomas Ptacek倡导停止制作TUI：AI编码Agent降低GUI开发成本</a></h3>
+            <div class="report-section-body"><p>安全专家Thomas Ptacek在Simon Willison转发的文章中主张，即使最小型的个人工具也应构建原生GUI而非TUI（文本用户界面）。核心论点是AI编码Agent已大幅降低GUI开发成本，使得为小型工具投入界面开发变得经济可行，这一趋势将重塑开发者工具的设计哲学。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Simon Willison</span></div>
+            <a href="https://simonwillison.net/2026/Aug/21/stop-making-tuis/" target="_blank" class="source-link">📎 Simon Willison (RSS)</a>
+        </div>
+    <div class="postit-box pink" style="background: #fce4ec;">
+        <div class="postit-title">🚀 AI应用</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed" target="_blank" class="news-title-link">Google Discover引入AI聊天机器人式个性化信息流</a></h3>
+            <div class="report-section-body"><p>Google宣布为Discover信息流新增AI驱动的个性化定制功能，用户可通过自然语言描述偏好，系统将自动调整内容推荐并记忆设置。这是Google将生成式AI深度整合至核心产品的最新举措，标志着信息获取从被动算法推荐向主动对话式交互的范式转变，可能对SEO和数字营销产生深远影响。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Google</span> <span class="entity-tag">Sundar Pichai</span></div>
+            <a href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed" target="_blank" class="source-link">📎 The Verge AI (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message" target="_blank" class="news-title-link">LinkedIn&quot;AI垃圾内容&quot;标记功能获超百万用户响应</a></h3>
+            <div class="report-section-body"><p>LinkedIn首席产品官Hari Srinivasan披露，自7月30日上线&quot;Seems like AI slop&quot;标记按钮以来，已有超过100万用户点击使用。该功能允许用户标记疑似AI生成的低质量内容，反映出职场社交平台用户对AI生成内容泛滥的集体焦虑，也预示着平台内容治理机制正从算法过滤转向众包审核的新模式。</p></div>
+            <div class="entity-tags"><span class="entity-tag">LinkedIn</span> <span class="entity-tag">Microsoft</span></div>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message" target="_blank" class="source-link">📎 The Verge AI (RSS)</a>
+        </div>
+    <div class="postit-box yellow" style="background: #fff9c4;">
+        <div class="postit-title">📊 AI行业</div>
+        <div class="postit-body"><p>2 条新闻</p></div>
+    </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/" target="_blank" class="news-title-link">AI数据标注公司Micro1年化收入达5亿美元，训练数据需求爆发</a></h3>
+            <div class="report-section-body"><p>AI数据初创公司Micro1宣布其年化总收入运行率已达5亿美元，反映AI训练数据市场的爆发式增长。随着基础模型竞争转向数据质量与多样性，数据标注和合成数据领域正成为AI产业链的关键瓶颈环节。Micro1的快速增长也暗示着AI训练成本持续攀升，数据基础设施投资回报率超出预期。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Andrew Ng</span></div>
+            <a href="https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/" target="_blank" class="source-link">📎 TechCrunch AI (RSS)</a>
+        </div>
+        <div class="report-section">
+            <div class="report-section-badge">🔥 重要</div>
+            <h3 class="report-section-title"><a href="https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/" target="_blank" class="news-title-link">Starcloud融资2.5亿美元建设轨道数据中心，太空算力竞赛升温</a></h3>
+            <div class="report-section-body"><p>太空数据中心开发商Starcloud完成2.5亿美元融资，计划部署轨道数据中心以解决地面AI算力瓶颈。随着发射资源日趋紧张，太空算力基础设施正成为AI竞赛的新战场。该项目若成功，将彻底改变AI训练的能源约束和散热限制，但也面临轨道碎片、国际法规等多重挑战。</p></div>
+            <div class="entity-tags"><span class="entity-tag">Jensen Huang</span> <span class="entity-tag">NVIDIA</span></div>
+            <a href="https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/" target="_blank" class="source-link">📎 TechCrunch AI (RSS)</a>
+        </div>
+    <a href="index.html" class="back-link">← 返回 AI手札 首页</a>
+</body>
+</html>

@@ -1,0 +1,136 @@
+{
+  "title": "NVIDIA研究揭示AI Agent关键在\" harness\"而非模型本身，DeepMind庆祝游戏AI研究15周年",
+  "date": "2026-08-22",
+  "summary": "今日AI领域聚焦两大核心动态：NVIDIA最新研究表明，通过精细的harness设计和微调，即使基础模型能力一般，AI Agent也能稳定执行任务，标志着AI工程化进入新阶段；Google DeepMind回顾15年游戏AI研究历程，从Atari到EVE Online持续推动AI与游戏深度融合。此外，AI数据标注公司Micro1年化收入达5亿美元，LinkedIn AI内容标记功能获百万用户响应，反映AI基础设施与内容治理同步加速。",
+  "tags": [
+    "大模型",
+    "AI应用",
+    "AI行业",
+    "Agent",
+    "产品发布",
+    "融资",
+    "开源"
+  ],
+  "highlight": {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "body": "NVIDIA研究揭示，AI Agent的成功关键在于harness工程化设计而非模型本身。通过精细化微调，即使基础模型能力一般的Agent也能稳定执行任务且避免失控。这一发现对当前AI开发范式具有颠覆性意义，意味着企业可将资源从追求更大模型转向优化Agent架构，降低部署门槛。",
+    "source_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+  },
+  "boards": [
+    {
+      "id": "大模型",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "DeepMind回顾15年游戏AI研究：从Atari到EVE Online的范式演进",
+          "body": "Google DeepMind发布长文回顾其15年游戏AI研究历程，从2013年Atari突破到与EVE Online合作开发复杂多智能体系统。文章强调游戏环境作为AI安全试验场的独特价值，为强化学习和多智能体协作提供了可扩展的测试平台。这一回顾既是对RL历史的总结，也暗示DeepMind正将游戏AI经验迁移至更广泛的通用智能研究。",
+          "source_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "source_name": "DeepMind Blog",
+          "importance": "high",
+          "related_entities": [
+            "Jeff Dean",
+            "DeepMind",
+            "Google"
+          ]
+        },
+        {
+          "headline": "Hugging Face发布语音识别基准优化评测方法",
+          "body": "Hugging Face博客推出针对自动语音识别（ASR）系统的基准优化测量框架，帮助开发者识别模型在特定测试集上的过度优化问题。该工具对提升ASR模型在实际场景中的泛化能力具有重要价值，特别是在AI语音交互快速普及的背景下，为行业提供了更严谨的评测标准。",
+          "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "source_name": "Hugging Face Blog",
+          "importance": "medium",
+          "related_entities": [
+            "Hugging Face"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI Coding",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Simon Willison发布llm 0.32.1修复OpenAI库兼容性危机",
+          "body": "开源工具llm紧急发布0.32.1版本，修复因OpenAI Python库移除httpx依赖导致的全新安装故障。同时llm-openrouter插件更新至0.7版本，增强对推理LLM的支持。这一事件凸显了AI工具链对底层库变更的高度敏感性，也反映了开源社区快速响应生态变化的能力。",
+          "source_url": "https://simonwillison.net/2026/Aug/21/llm/",
+          "source_name": "Simon Willison (RSS)",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison",
+            "OpenAI"
+          ]
+        },
+        {
+          "headline": "Thomas Ptacek倡导停止制作TUI：AI编码Agent降低GUI开发成本",
+          "body": "安全专家Thomas Ptacek在Simon Willison转发的文章中主张，即使最小型的个人工具也应构建原生GUI而非TUI（文本用户界面）。核心论点是AI编码Agent已大幅降低GUI开发成本，使得为小型工具投入界面开发变得经济可行，这一趋势将重塑开发者工具的设计哲学。",
+          "source_url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+          "source_name": "Simon Willison (RSS)",
+          "importance": "medium",
+          "related_entities": [
+            "Simon Willison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI应用",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "Google Discover引入AI聊天机器人式个性化信息流",
+          "body": "Google宣布为Discover信息流新增AI驱动的个性化定制功能，用户可通过自然语言描述偏好，系统将自动调整内容推荐并记忆设置。这是Google将生成式AI深度整合至核心产品的最新举措，标志着信息获取从被动算法推荐向主动对话式交互的范式转变，可能对SEO和数字营销产生深远影响。",
+          "source_url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "source_name": "The Verge AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Google",
+            "Sundar Pichai"
+          ]
+        },
+        {
+          "headline": "LinkedIn\"AI垃圾内容\"标记功能获超百万用户响应",
+          "body": "LinkedIn首席产品官Hari Srinivasan披露，自7月30日上线\"Seems like AI slop\"标记按钮以来，已有超过100万用户点击使用。该功能允许用户标记疑似AI生成的低质量内容，反映出职场社交平台用户对AI生成内容泛滥的集体焦虑，也预示着平台内容治理机制正从算法过滤转向众包审核的新模式。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source_name": "The Verge AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "LinkedIn",
+            "Microsoft"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AI行业",
+      "has_news": true,
+      "items": [
+        {
+          "headline": "AI数据标注公司Micro1年化收入达5亿美元，训练数据需求爆发",
+          "body": "AI数据初创公司Micro1宣布其年化总收入运行率已达5亿美元，反映AI训练数据市场的爆发式增长。随着基础模型竞争转向数据质量与多样性，数据标注和合成数据领域正成为AI产业链的关键瓶颈环节。Micro1的快速增长也暗示着AI训练成本持续攀升，数据基础设施投资回报率超出预期。",
+          "source_url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "source_name": "TechCrunch AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Andrew Ng"
+          ]
+        },
+        {
+          "headline": "Starcloud融资2.5亿美元建设轨道数据中心，太空算力竞赛升温",
+          "body": "太空数据中心开发商Starcloud完成2.5亿美元融资，计划部署轨道数据中心以解决地面AI算力瓶颈。随着发射资源日趋紧张，太空算力基础设施正成为AI竞赛的新战场。该项目若成功，将彻底改变AI训练的能源约束和散热限制，但也面临轨道碎片、国际法规等多重挑战。",
+          "source_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "source_name": "TechCrunch AI (RSS)",
+          "importance": "high",
+          "related_entities": [
+            "Jensen Huang",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "企业AI转型",
+      "has_news": false,
+      "items": []
+    }
+  ]
+}

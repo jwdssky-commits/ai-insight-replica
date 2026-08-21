@@ -1,0 +1,719 @@
+{
+  "date": "2026-08-22",
+  "collected_at": "2026-08-21T22:46:23.092024+00:00",
+  "item_count": 60,
+  "items": [
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "DeepMind Blog (RSS)",
+      "published": "Fri, 21 Aug 2026 11:59:48 +0000",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-21T17:16:13+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32.1\">llm 0.32.1</a></p>\n        <p>Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of <code>httpx</code>, and it turned out LLM depended on that library but onl",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "llm-openrouter 0.7",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-21T16:58:19+00:00",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7\">llm-openrouter 0.7</a></p>\n        <p>Now that this plugin is compatible with <a href=\"https://simonwillison.net/2026/Aug/4/new-release-of-llm/\">LLM 0.32</a> it works much better with reasoning LLMs avai",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-21T16:07:32+00:00",
+      "summary": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">Stop Making TUIs</a></strong></p>\nThomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and ",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Quoting Matt Webb",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-21T15:06:26+00:00",
+      "summary": "<blockquote cite=\"https://interconnected.org/home/2026/08/21/galactic\"><p>After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to fi",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "source": "Simon Willison (RSS)",
+      "published": "2026-08-20T23:57:32+00:00",
+      "summary": "<p><strong><a href=\"https://promptwatch.com/data/chatgpt-site-operator-fanouts\">ChatGPT search now uses the site:operator at scale</a></strong></p>\nPromptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consul",
+      "board_hints": [
+        "AI Coding",
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investiga",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "source": "TechCrunch AI (RSS)",
+      "published": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-21T17:25:50-04:00",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-21T09:37:52-04:00",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch th",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge AI (RSS)",
+      "published": "2026-08-20T17:50:22-04:00",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-",
+      "board_hints": [
+        "AI行业",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Ora benchmarks every major AI agent on Vercel",
+      "url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T21:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deployment Storage keeps your deployments rollback-ready",
+      "url": "https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T05:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vercel CLI expands support for DNS, domains, and project commands",
+      "url": "https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GPT-5.6 Sol is now 50% off a lower price",
+      "url": "https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek V4 Flash Vision Experimental now available on AI Gateway",
+      "url": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Connect v0 apps to Slack, Google, and 100+ other services",
+      "url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Always-on tracing for production and preview traffic",
+      "url": "https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic",
+      "source": "Vercel Blog (RSS)",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary": "",
+      "board_hints": [
+        "AI Coding",
+        "AI应用"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Tech Review (RSS)",
+      "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-",
+      "board_hints": [
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2026.34: App Snore",
+      "url": "https://stratechery.com/2026/app-snore/",
+      "source": "Stratechery (RSS)",
+      "published": "Fri, 21 Aug 2026 17:00:00 +0000",
+      "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
+      "board_hints": [
+        "AI行业",
+        "企业AI转型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "url": "https://www.qbitai.com/2026/08/476778.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 11:47:27 +0000",
+      "summary": "载重4.2吨、容积19.32m³",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 09:44:33 +0000",
+      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 09:00:06 +0000",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 07:17:58 +0000",
+      "summary": "机器人看3秒演示就能学会",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 06:40:34 +0000",
+      "summary": "让科学家的时间回到科学创造",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+      "url": "https://www.qbitai.com/2026/08/476532.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 05:38:12 +0000",
+      "summary": "一点新鲜变化都没有吗？",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/476525.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 05:09:33 +0000",
+      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 04:05:11 +0000",
+      "summary": "离开谷歌的原因之一：小团队可以极致聚焦！",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+      "url": "https://www.qbitai.com/2026/08/476413.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 03:14:40 +0000",
+      "summary": "墨奇，开始加速了",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+      "url": "https://www.qbitai.com/2026/08/476409.html",
+      "source": "量子位 (RSS)",
+      "published": "Fri, 21 Aug 2026 02:31:10 +0000",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI行业"
+      ],
+      "lang": "zh"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face Blog (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "summary": "",
+      "board_hints": [
+        "大模型",
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Virtual Member of a Community of Practice for the Society of Petroleum Engineers: From Prototype to Deployment",
+      "url": "https://arxiv.org/abs/2608.19199",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19199v1 Announce Type: new \nAbstract: We describe the evolution of a virtual assistant, called ATHENA, designed to support the capture, retrieval, and dissemination of knowledge for members of a Community of Practice (CoP) related to the Oil and Gas sector. An evaluation of a first protot",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Transformer Models for Text Summarization: A Comparative Study of BART, BERT, and RoBERTa",
+      "url": "https://arxiv.org/abs/2608.19200",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19200v1 Announce Type: new \nAbstract: Text summarization refers to the task of condensing a document into a shorter version while preserving its key information. Automatic text summarization (ATS), driven by advancements in natural language processing (NLP), has developed rapidly in recen",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Automatic bioinformatic software named entity recognition from literature",
+      "url": "https://arxiv.org/abs/2608.19201",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19201v1 Announce Type: new \nAbstract: Bioinformatics software and databases are essential components of modern life science research, yet their mentions in the scientific literature are often inconsistent and difficult to systematically identify at scale. The lack of a comprehensive and u",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Asymmetric Attention Heads: Structured Head-Wise Context Allocation for Transformer Attention",
+      "url": "https://arxiv.org/abs/2608.19203",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19203v1 Announce Type: new \nAbstract: Standard multi-head attention (MHA) gives every head the same full causal context span, although heads can serve different contextual roles. Some heads may rely mainly on nearby lexical or syntactic context, while others may depend on longer-range rel",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses",
+      "url": "https://arxiv.org/abs/2608.19206",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19206v1 Announce Type: new \nAbstract: Contemporary Large Language Models (LLMs) are increasingly aligned to suppress hallucinations, prioritizing factual retrieval over combinatorial creativity. While crucial for mitigating misinformation, this alignment may also restrict speculative Rese",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Compliance, Capability, and Conflict: Benchmarking Multimodal LLMs under System Messages",
+      "url": "https://arxiv.org/abs/2608.19207",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19207v1 Announce Type: new \nAbstract: Production deployments of Multimodal Large Language Models (MLLMs) increasingly rely on system messages to govern model behavior. Yet existing benchmarks either evaluate constraints in text only or embed them into the user turn, leaving system-message",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "When Irrelevant Text Matters: Affine Margin Shifts in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2608.19208",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19208v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) are frequently exposed to auxiliary textual context, the impact of which on visually grounded tasks remains underexplored. In this paper, we investigate the influence of task-irrelevant context by formulating i",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Represented but Ignored: A Causal Account of Prosodic Underuse in Audio-Language Models",
+      "url": "https://arxiv.org/abs/2608.19211",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19211v1 Announce Type: new \nAbstract: Human speech is richly expressive, with prosody carrying linguistic and emotional information beyond the lexical content. A capable large audio-language model (audio-LLM) should therefore support expressive speech understanding, not only transcribing ",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "NepOOC-M: Bilingual Nepali-English Benchmark and Comparative Analysis of Multimodal Architectures for OOC Detection",
+      "url": "https://arxiv.org/abs/2608.19212",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19212v1 Announce Type: new \nAbstract: Out-of-context (OOC) misinformation pairs authentic images with misleading captions to construct false narratives without image manipulation, making detection a problem of multimodal alignment rather than image forensics. Despite the prevalence and co",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Time-Series Retrieval for Grounding Multimodal Language Models in Remaining Useful Life",
+      "url": "https://arxiv.org/abs/2608.19218",
+      "source": "ArXiv CS.CL (RSS)",
+      "published": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.19218v1 Announce Type: new \nAbstract: Large language models (LLMs) and agentic AI systems are increasingly being explored for domain-specific maintenance and prognostics tasks, raising the question of whether they can effectively support prognostics and health management (PHM). In this pa",
+      "board_hints": [
+        "大模型"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "What happens when a GPU reads memory (85pts)",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T16:16:42Z",
+      "summary": "HN热度: 85分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: Study (165pts)",
+      "url": "https://canews24.online/?p=71",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T15:25:42Z",
+      "summary": "HN热度: 165分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "I'm becoming AI-blind (212pts)",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T11:48:05Z",
+      "summary": "HN热度: 212分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late (698pts)",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T10:05:46Z",
+      "summary": "HN热度: 698分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Micron announces $10B research hub in Boise (115pts)",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T03:51:58Z",
+      "summary": "HN热度: 115分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory (67pts)",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T16:27:52Z",
+      "summary": "HN热度: 67分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Kobo can run apps now (351pts)",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T16:25:25Z",
+      "summary": "HN热度: 351分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article (161pts)",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T14:31:52Z",
+      "summary": "HN热度: 161分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Kino: A high-performance Ractor web server for Ruby 4.0 (68pts)",
+      "url": "https://github.com/yaroslav/kino",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T11:06:25Z",
+      "summary": "HN热度: 68分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Emacs 31.1 will release on 8/24 (63pts)",
+      "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+      "source": "Hacker News (API)",
+      "published": "2026-08-21T08:19:48Z",
+      "summary": "HN热度: 63分",
+      "board_hints": [
+        "大模型",
+        "AI Coding",
+        "AI行业"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[langchain-ai/langchain] langchain-perplexity==1.4.1",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-perplexity%3D%3D1.4.1",
+      "source": "GitHub (langchain-ai/langchain)",
+      "published": "2026-08-21T14:08:45Z",
+      "summary": "Changes since langchain-perplexity==1.4.0\n\nrelease(perplexity): 1.4.1 (#39826)\nfix(perplexity): include type=\"message\" on Responses input items (#39774)\nfix(perplexity): preserve caller `extra_body` (#39203)\nchore: bump pillow from 12.2.0 to 12.3.0 in /libs/partners/perplexity (#38991)\nchore(deps): ",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[All-Hands-AI/OpenHands] v1.15.0",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.15.0",
+      "source": "GitHub (All-Hands-AI/OpenHands)",
+      "published": "2026-08-21T14:01:34Z",
+      "summary": "## 1.15.0 (2026-08-21)\n\n<!-- Release notes generated using configuration in .github/release.yml at main -->\n\n## What's Changed\n### Features\n* feat(sidebar): add getting started checklist with settings toggle by @FraterCCCLXIII in https://github.com/OpenHands/OpenHands/pull/16182\n* feat: show workspa",
+      "board_hints": [
+        "AI Coding"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "[Significant-Gravitas/AutoGPT] 🚀 Release `autogpt-platform-beta-v0.7.2`",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.7.2",
+      "source": "GitHub (Significant-Gravitas/AutoGPT)",
+      "published": "2026-08-21T04:54:17Z",
+      "summary": "## 🔥 What's New?\r\n\r\n### New Features\r\n\r\n- **#14021** - AI-voice narrative in morning briefing (by @Abhi1992002)\r\n- **#14022** - Per-expert spend tracking on home team cards (by @Abhi1992002)\r\n- **#14030** - Launch roster with real workflow bundles (by @Abhi1992002)\r\n- **#14027** - Writing-style capt",
+      "board_hints": [
+        "AI应用"
+      ],
+      "lang": "en"
+    }
+  ]
+}
